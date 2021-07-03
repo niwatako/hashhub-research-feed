@@ -9,7 +9,7 @@
 			<title>{{ article.title }}</title>
 			<link>https://hashhub-research.com/articles/{{article.slug}}</link>
 			<description>{% for content in article.table_of_contents %}{{ content.text }}&lt;br /&gt;{% endfor %}</description>
-			<pubDate>{{pubDate}}</pubDate>
+			<pubDate>{{article.pubDate}}</pubDate>
 		</item>
 		{% endfor -%}
     </channel>
