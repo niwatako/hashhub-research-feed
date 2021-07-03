@@ -11,7 +11,7 @@ articles = []
 for article in json.get("articles"):
     articles.append({
         "title": article.get("title"),
-        "url": "https://hashhub-research.com/articles/" + article.get("slug"),
+        "slug": article.get("slug"),
         "table_of_contents": article.get("table_of_contents"),
         "pubDate": datetime.strptime(article.get("created_at"), '%Y-%m-%dT%H:%M:%S.%f%z').strftime('%a, %d %b %Y %H:%M:%S %z')
     })

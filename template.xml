@@ -7,7 +7,8 @@
 		{% for article in articles -%}
 		<item>
 			<title>{{ article.title }}</title>
-			<link>{{article.url}}</link>
+			<link>https://hashhub-research.com/articles/{{article.slug}}</link>
+			<guid isPermaLink="false">{{article.slug}}</guid>
 			<description>{% for content in article.table_of_contents %}{{ content.text }}&lt;br /&gt;{% endfor %}</description>
 			<pubDate>{{article.pubDate}}</pubDate>
 		</item>
