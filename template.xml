@@ -11,7 +11,10 @@
 			<guid isPermaLink="false">{{article.slug}}</guid>
 			<description>{% for content in article.table_of_contents %}{{ content.text }}&lt;br /&gt;{% endfor %}</description>
 			<pubDate>{{article.pubDate}}</pubDate>
-			<enclosure url="{{article.thumbnail}}" type="image/jpeg" />
+			{# When an enclosure's size cannot be determined, a publisher SHOULD use a length of 0. -#}
+			{# https://validator.w3.org/feed/docs/error/UseZeroForUnknown.html -#}
+			{# https://www.rssboard.org/rss-profile#element-channel-item-enclosure -#}
+			<enclosure url="{{article.thumbnail}}" length="0" type="image/jpeg" />
 		</item>
 		{% endfor -%}
     </channel>
