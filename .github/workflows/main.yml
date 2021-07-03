@@ -40,7 +40,7 @@ jobs:
       - name: Install dependencies # Pythonの依存環境のインストール
         run: | #このような書き方で複数行を一気に実行することができる。
           python -m pip install --upgrade pip
-          pip -r install requirements.txt
+          pip install -r requirements.txt
 
       - name: Run main.py # Pythonファイルの実行
         run: |
