@@ -13,7 +13,8 @@ for article in json.get("articles"):
         "title": article.get("title"),
         "slug": article.get("slug"),
         "table_of_contents": article.get("table_of_contents"),
-        "pubDate": datetime.strptime(article.get("created_at"), '%Y-%m-%dT%H:%M:%S.%f%z').strftime('%a, %d %b %Y %H:%M:%S %z')
+        "pubDate": datetime.strptime(article.get("created_at"), '%Y-%m-%dT%H:%M:%S.%f%z').strftime('%a, %d %b %Y %H:%M:%S %z'),
+        "thumbnail": article.get("thumbnail"),
     })
 
 xml = tmpl.render({"articles": articles})
