@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>世界の暗号資産取引所ビジネスの定点観測レポート【21年7月版】</title>
+			<link>https://hashhub-research.com/articles/2021-07-06-crypto-asset-exchange-report</link>
+			<guid isPermaLink="false">2021-07-06-crypto-asset-exchange-report</guid>
+			<description>前提&lt;br /&gt;現物市場の取引データおよび各社の主要なアップデート&lt;br /&gt;デリバティブ市場の取引データおよび各社の主要なアップデート&lt;br /&gt;取引所トークンと関連する各種データ&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Tue, 06 Jul 2021 09:17:47 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/zvk7g50t4a49lkcavvln7ompnaik/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>LPトークンの直感的な時価計算が誘発した資金流出事故の概要</title>
 			<link>https://hashhub-research.com/articles/2021-07-04-overview-of-the-lp-token-induced-money-drain</link>
 			<guid isPermaLink="false">2021-07-04-overview-of-the-lp-token-induced-money-drain</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;BitcoinやEthereumなどのETFはなぜ期待されているのか&lt;br /&gt;ゴールドのETFの歴史&lt;br /&gt;アメリカでの暗号資産ETF可能性&lt;br /&gt;ETFが承認された場合の業界やマーケットへの影響&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Sun, 13 Jun 2021 09:10:38 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/qbsa3ggr6b272qpuzc0ejibl3nlb/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>エルサルバドルでBitcoinが法定通貨に｜新興国で暗号資産が法定通貨化される動きについての影響の考察</title>
-			<link>https://hashhub-research.com/articles/2021-06-12-el-salvador-makes-bitcoin-legal-tender</link>
-			<guid isPermaLink="false">2021-06-12-el-salvador-makes-bitcoin-legal-tender</guid>
-			<description>前提&lt;br /&gt;エルサルバドルでBitcoinが法定通貨に&lt;br /&gt;社会への影響の考察&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Sat, 12 Jun 2021 09:14:45 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ql8xf97xb2nbreg9pdstg8ccd412/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
