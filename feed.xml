@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>再エネ用ミニグリッドを対象としたDeFiクラウドファンディングプラットフォーム｜ENGIE Energy Access社のビジネスモデル考察</title>
+			<link>https://hashhub-research.com/articles/2021-07-08-about-engie-energy-access</link>
+			<guid isPermaLink="false">2021-07-08-about-engie-energy-access</guid>
+			<description>前提&lt;br /&gt;ENGIE Energy Accessのビジネスモデル&lt;br /&gt;Energy web ChainベースのDeFiクラウドファンディングプラットフォームの導入と予想されるビジネスモデル&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Thu, 08 Jul 2021 09:38:01 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/nz5wbxjy0p4hyuex3b4v8gnshtc8/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>NFT（Non-Fungible-Token）の動向 21年7月</title>
 			<link>https://hashhub-research.com/articles/2021-07-07-nft-market-report</link>
 			<guid isPermaLink="false">2021-07-07-nft-market-report</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Velocity Network概要&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Thu, 17 Jun 2021 09:14:24 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/18pgfae3glmn27lmxdjjhvjfm3xj/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>論考・非中央集権は必ずしも重要ではない ブロックチェーンプロジェクトの便益について考える</title>
-			<link>https://hashhub-research.com/articles/2021-06-16-decentralization-is-not-necessarily-important</link>
-			<guid isPermaLink="false">2021-06-16-decentralization-is-not-necessarily-important</guid>
-			<description>前提&lt;br /&gt;Haseeb氏によるWhy Decentralization Isn&#39;t as Important as You Think（非中央集権は皆が思うほど重要ではない）&lt;br /&gt;非中央集権以外のブロックチェーンプロジェクトの便益について&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Wed, 16 Jun 2021 09:59:32 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/vlt2xz6yo1jmz6llsp1408cmpqvf/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
