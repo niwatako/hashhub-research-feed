@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>KuCoinが関連する独自チェーンのKCCの概要</title>
+			<link>https://hashhub-research.com/articles/2021-07-10-kcc</link>
+			<guid isPermaLink="false">2021-07-10-kcc</guid>
+			<description>前提&lt;br /&gt;KuCoin取引所の概要&lt;br /&gt;KCCの背景&lt;br /&gt;KCCの技術面&lt;br /&gt;KCCの参加方法&lt;br /&gt;主要プロジェクト&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Fri, 09 Jul 2021 23:48:51 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ydl6m434lii02em3acxuk3xaqm2t/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>7/9〜7/22期間限定公開レポート「NFTバブルは本当にはじけたのか」特集のご案内</title>
 			<link>https://hashhub-research.com/articles/2021-07-09-free-report-for-limited-time</link>
 			<guid isPermaLink="false">2021-07-09-free-report-for-limited-time</guid>
@@ -187,14 +195,6 @@
 			<description></description>
 			<pubDate>Sat, 19 Jun 2021 08:53:25 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/we9a8wdhusfzpfza8xe2untap328/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>AladdinDAOの概要  DeFiに精通した人が推薦したプールに一般の人が流動性提供できるアグリゲーター</title>
-			<link>https://hashhub-research.com/articles/2021-06-18-about-aladdin-dao</link>
-			<guid isPermaLink="false">2021-06-18-about-aladdin-dao</guid>
-			<description>前提&lt;br /&gt;AladdinDAOの概要&lt;br /&gt;ALDトークンの概要&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Fri, 18 Jun 2021 09:24:32 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/d5yonhtole74xs3m57mlj8j4xc2o/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
