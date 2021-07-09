@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>暗号資産マーケットレポート 注目のトークンの投資分析【21年7月版】</title>
+			<link>https://hashhub-research.com/articles/2021-07-08-market-report</link>
+			<guid isPermaLink="false">2021-07-08-market-report</guid>
+			<description>前提&lt;br /&gt;6月マーケットの概観&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Thu, 08 Jul 2021 15:28:56 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/63vaktc2kzkpba5rr5hqoq1uerg6/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>再エネ用ミニグリッドを対象としたDeFiクラウドファンディングプラットフォーム｜ENGIE Energy Access社のビジネスモデル考察</title>
 			<link>https://hashhub-research.com/articles/2021-07-08-about-engie-energy-access</link>
 			<guid isPermaLink="false">2021-07-08-about-engie-energy-access</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Curveファーミングの概要&lt;br /&gt;ConvexなしのCurveファーミングの様相&lt;br /&gt;Convexの概要と存在意義&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Thu, 17 Jun 2021 09:37:04 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/h10xnb1a89b88mu0igllw4zb0sg4/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Velocity Networkの概要｜労働市場における検証可能データシェアリングエコノミー</title>
-			<link>https://hashhub-research.com/articles/2021-06-17-about-velocity-network</link>
-			<guid isPermaLink="false">2021-06-17-about-velocity-network</guid>
-			<description>前提&lt;br /&gt;Velocity Network概要&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Thu, 17 Jun 2021 09:14:24 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/18pgfae3glmn27lmxdjjhvjfm3xj/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
