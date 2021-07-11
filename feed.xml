@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Ruler Protocolの概要 借り手が担保の清算を気にせず使用できるレンディングプロトコル</title>
+			<link>https://hashhub-research.com/articles/2021-07-11-about-ruler-protocol</link>
+			<guid isPermaLink="false">2021-07-11-about-ruler-protocol</guid>
+			<description>前提&lt;br /&gt;Ruler Protocolの概要&lt;br /&gt;独自トークンRULERの概要&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Sun, 11 Jul 2021 09:03:45 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/fkytwk43r46oisqd6lc66omy2802/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>KuCoinが関連する独自チェーンのKCCの概要</title>
 			<link>https://hashhub-research.com/articles/2021-07-10-kcc</link>
 			<guid isPermaLink="false">2021-07-10-kcc</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Yearnのプロダクトや略歴&lt;br /&gt;Yearnの2021Q1の財務レポート&lt;br /&gt;Yearnの主要なストラテジー及びパートナーシップが可能にしているストラテジー&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Sun, 20 Jun 2021 12:39:02 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/l68mosyc4ij317me1eyll72vj18a/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Formation.Fi DeFiでのリスクパリティ戦略を可能とするプロジェクト</title>
-			<link>https://hashhub-research.com/articles/2021-06-19-about-formation-fi</link>
-			<guid isPermaLink="false">2021-06-19-about-formation-fi</guid>
-			<description></description>
-			<pubDate>Sat, 19 Jun 2021 08:53:25 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/we9a8wdhusfzpfza8xe2untap328/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
