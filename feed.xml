@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>カーボンクレジット市場の現状とブロックチェーンベース取引の利点｜シンガポールAirCarbonの事例</title>
+			<link>https://hashhub-research.com/articles/2021-07-15-about-aircarbon</link>
+			<guid isPermaLink="false">2021-07-15-about-aircarbon</guid>
+			<description>前提&lt;br /&gt;カーボンクレジットとは&lt;br /&gt;AirCarbon Pte.Ltd.の概要と取り組み内容&lt;br /&gt;AirCarbonは自主的炭素市場にどのような価値提供をしているのか&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Thu, 15 Jul 2021 09:21:25 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/amlq4s68v9pdmhlglzo77b3n8v8c/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>DeFiマーケットレポート【21年7月版】</title>
 			<link>https://hashhub-research.com/articles/2021-7-14-defi-market</link>
 			<guid isPermaLink="false">2021-7-14-defi-market</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;TrueFiの概要&lt;br /&gt;TRUトークンの概要&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Thu, 24 Jun 2021 09:32:09 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/9dj4dr166sqzuyx95n5ighdm6sru/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>【論考】DeFi領域における最適化機能の重要性増加とその構造的限界</title>
-			<link>https://hashhub-research.com/articles/2021-06-23-importance-of-optimization-functions-in-defi-and-their-structual-limitations</link>
-			<guid isPermaLink="false">2021-06-23-importance-of-optimization-functions-in-defi-and-their-structual-limitations</guid>
-			<description>前提&lt;br /&gt;DeFi運用が誰にとっても難しい理由&lt;br /&gt;年内の起こりそうな構造の変化&lt;br /&gt;レイヤーのカニバリズムは起こるか&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Wed, 23 Jun 2021 08:43:34 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/e54k2agnn5xkj1j86qzv1b40qkz2/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
