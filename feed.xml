@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>はじめてのDAO【後編】｜DAOの類型とつくり方</title>
+			<link>https://hashhub-research.com/articles/2021-07-17-about-dao</link>
+			<guid isPermaLink="false">2021-07-17-about-dao</guid>
+			<description>前提&lt;br /&gt;3.DAOプロジェクトの類型&lt;br /&gt;4.DAOの作り方&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Tue, 13 Jul 2021 21:32:51 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ct2zauco0sfdbs3ftrdapmg29twz/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>中国による暗号資産規制がマイニング業界に与えた影響</title>
 			<link>https://hashhub-research.com/articles/2021-07-16-the-impact-of-china-crypto-asset-regulation-on-the-mining</link>
 			<guid isPermaLink="false">2021-07-16-the-impact-of-china-crypto-asset-regulation-on-the-mining</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Uniswap v3の課題&lt;br /&gt;G-UNIの概要&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Fri, 25 Jun 2021 08:09:52 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/phz7zsvk1mvdp0az7paxy2m4ohv8/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>中立性と透明性向上を目的とした保有暗号資産の財務情報の開示</title>
-			<link>https://hashhub-research.com/articles/portfolio-disclosure</link>
-			<guid isPermaLink="false">portfolio-disclosure</guid>
-			<description></description>
-			<pubDate>Fri, 25 Dec 2020 11:18:57 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/akdevoawbe0aflk5qa74kfgmqrd7/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
