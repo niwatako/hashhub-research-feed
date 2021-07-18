@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Element Financeの概要 将来の金利をトークン化できるDeFiプロトコル</title>
+			<link>https://hashhub-research.com/articles/2021-07-18-element-finance-overview</link>
+			<guid isPermaLink="false">2021-07-18-element-finance-overview</guid>
+			<description>前提 &lt;br /&gt;Element Financeの概要 &lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Thu, 15 Jul 2021 18:50:24 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ayosa9ojqkr4hkgsmr4unq94bn2k/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>はじめてのDAO【後編】｜DAOの類型とつくり方</title>
 			<link>https://hashhub-research.com/articles/2021-07-17-about-dao</link>
 			<guid isPermaLink="false">2021-07-17-about-dao</guid>
@@ -187,14 +195,6 @@
 			<description>より多くの人に暗号資産・ブロックチェーンの知見を届けるために&lt;br /&gt;「Polkadot」特集｜6月25日～7月8日の期間限定レポート一覧&lt;br /&gt;</description>
 			<pubDate>Fri, 25 Jun 2021 12:59:31 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/moczsmfd6x7x9dkrqdlwcqjccey8/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>G-UNIの概要  Uniswap v3の課題を解決して誰でも高い効率性で流動性提供できるようにするプロジェクト</title>
-			<link>https://hashhub-research.com/articles/2021-06-25-about-g-uni</link>
-			<guid isPermaLink="false">2021-06-25-about-g-uni</guid>
-			<description>前提&lt;br /&gt;Uniswap v3の課題&lt;br /&gt;G-UNIの概要&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Fri, 25 Jun 2021 08:09:52 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/phz7zsvk1mvdp0az7paxy2m4ohv8/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
