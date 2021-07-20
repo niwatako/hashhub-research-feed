@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Bankless DAOのビジネスモデル考察｜中央集権型メディアがDAOを並走させる利点とは何か</title>
+			<link>https://hashhub-research.com/articles/2021-07-20-about-bankless-dao</link>
+			<guid isPermaLink="false">2021-07-20-about-bankless-dao</guid>
+			<description>前提&lt;br /&gt;Bankless LLCの概要と既存ビジネスモデル&lt;br /&gt;Bankless DAOの概要&lt;br /&gt;中央集権モデルのメディアがDAOを並走させる利点｜ビジネスモデルの考察&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Fri, 16 Jul 2021 14:41:11 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/fikezf00jvhd1glyj1n89kb7m5bd/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Element Financeの概要 将来の金利をトークン化できるDeFiプロトコル</title>
 			<link>https://hashhub-research.com/articles/2021-07-18-element-finance-overview</link>
 			<guid isPermaLink="false">2021-07-18-element-finance-overview</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;ICPとEthereumの違い&lt;br /&gt;ICPとEthereumの相互補完や相互運用性&lt;br /&gt;筆者が期待するICPの初期・中期のユースケース&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Sat, 26 Jun 2021 09:52:31 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/oyzb72ibdl7y5ovlgu2ki78pq72i/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title> 6/25〜7/8期間限定公開レポート「Polkadot」特集のご案内</title>
-			<link>https://hashhub-research.com/articles/2021-06-25-free-report-for-limited-time</link>
-			<guid isPermaLink="false">2021-06-25-free-report-for-limited-time</guid>
-			<description>より多くの人に暗号資産・ブロックチェーンの知見を届けるために&lt;br /&gt;「Polkadot」特集｜6月25日～7月8日の期間限定レポート一覧&lt;br /&gt;</description>
-			<pubDate>Fri, 25 Jun 2021 12:59:31 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/moczsmfd6x7x9dkrqdlwcqjccey8/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
