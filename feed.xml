@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Maple Financeの概要　借り手の信用によって借り入れ条件が可変するコーポレートクレジットプロトコル</title>
+			<link>https://hashhub-research.com/articles/2021-07-21-maple-finance-overview</link>
+			<guid isPermaLink="false">2021-07-21-maple-finance-overview</guid>
+			<description>前提&lt;br /&gt;Maple Financeの概要&lt;br /&gt;MPLトークンの概要&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Sun, 18 Jul 2021 11:36:09 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/gvgr0alo7v2eve6y3fl8uq5kkp6m/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Bankless DAOのビジネスモデル考察｜中央集権型メディアがDAOを並走させる利点とは何か</title>
 			<link>https://hashhub-research.com/articles/2021-07-20-about-bankless-dao</link>
 			<guid isPermaLink="false">2021-07-20-about-bankless-dao</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Curve v2の概要&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Sun, 27 Jun 2021 09:06:14 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8o2xcfgmdqxrwv5pf2sgbyq6f8ob/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ICP（Dfinity）とEthereumの違いや相互運用性 ICPの初期のユースケース</title>
-			<link>https://hashhub-research.com/articles/2021-06-16-differences-and-interoperability-between-dfinity-and-ethereum</link>
-			<guid isPermaLink="false">2021-06-16-differences-and-interoperability-between-dfinity-and-ethereum</guid>
-			<description>前提&lt;br /&gt;ICPとEthereumの違い&lt;br /&gt;ICPとEthereumの相互補完や相互運用性&lt;br /&gt;筆者が期待するICPの初期・中期のユースケース&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Sat, 26 Jun 2021 09:52:31 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/oyzb72ibdl7y5ovlgu2ki78pq72i/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
