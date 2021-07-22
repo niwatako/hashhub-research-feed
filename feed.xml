@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>オラクルの基本、仕組み、リスクを理解する</title>
+			<link>https://hashhub-research.com/articles/2021-07-22-oracle-basic</link>
+			<guid isPermaLink="false">2021-07-22-oracle-basic</guid>
+			<description>前提&lt;br /&gt;オラクルのたとえ話&lt;br /&gt;オラクルの種類と用途&lt;br /&gt;どうやってより正確なデータを入手するか&lt;br /&gt;正確なデータが提供されないとどうなるか&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Mon, 19 Jul 2021 16:36:58 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/hrz29dzh6gtji1fjgzlg74vgqvw2/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Maple Financeの概要　借り手の信用によって借り入れ条件が可変するコーポレートクレジットプロトコル</title>
 			<link>https://hashhub-research.com/articles/2021-07-21-maple-finance-overview</link>
 			<guid isPermaLink="false">2021-07-21-maple-finance-overview</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;1．国内市場全体の状況&lt;br /&gt;2．取引所全体の決算状況&lt;br /&gt;3．各取引所の決算状況&lt;br /&gt;4．ステーキング、積立、スプレッドの比較&lt;br /&gt;5．総論&lt;br /&gt;</description>
 			<pubDate>Tue, 29 Jun 2021 09:56:36 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/gwshsmrjedvizp5eydpjfl6r3l15/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Curve v2 ETH-WBTC-USDTプールの概要</title>
-			<link>https://hashhub-research.com/articles/2021-06-27-about-eth-wbtc-usdt-pool-in-curve</link>
-			<guid isPermaLink="false">2021-06-27-about-eth-wbtc-usdt-pool-in-curve</guid>
-			<description>前提&lt;br /&gt;Curve v2の概要&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Sun, 27 Jun 2021 09:06:14 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8o2xcfgmdqxrwv5pf2sgbyq6f8ob/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
