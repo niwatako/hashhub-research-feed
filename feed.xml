@@ -5,6 +5,22 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title> 7/23〜8/12期間限定公開レポート「鳴かず飛ばずながらもソーシャルグッドなDeFi群」特集のご案内</title>
+			<link>https://hashhub-research.com/articles/2021-07-23-free-report-for-limited-time</link>
+			<guid isPermaLink="false">2021-07-23-free-report-for-limited-time</guid>
+			<description>より多くの人に暗号資産・ブロックチェーンの知見を届けるために&lt;br /&gt;「鳴かず飛ばずながらもソーシャルグッドなDeFi群」特集｜7月23日～8月12日の期間限定レポート一覧&lt;br /&gt;</description>
+			<pubDate>Thu, 22 Jul 2021 21:54:50 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0meric7omxckjsedqim1nn5wn2al/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
+			<title>ARCxの概要 Ethereumのウォレットの履歴をクレジットスコアにするプロトコル</title>
+			<link>https://hashhub-research.com/articles/2021-07-23-arcx-overview</link>
+			<guid isPermaLink="false">2021-07-23-arcx-overview</guid>
+			<description>前提&lt;br /&gt;ARCxの概要&lt;br /&gt;ARCXトークンの概要&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Tue, 20 Jul 2021 09:30:51 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/of9oo706syw7cva0qf8bau70su37/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>オラクルの基本、仕組み、リスクを理解する</title>
 			<link>https://hashhub-research.com/articles/2021-07-22-oracle-basic</link>
 			<guid isPermaLink="false">2021-07-22-oracle-basic</guid>
@@ -179,22 +195,6 @@
 			<description>前提&lt;br /&gt;SSIビジネスモデルと既存IDビジネスの5つの相違点&lt;br /&gt;既存オンラインビジネスの基本的なしくみとその限界&lt;br /&gt;広告販売に依存しないビジネスモデル&lt;br /&gt;摩擦の少ないゆるやかな囲い込みモデル&lt;br /&gt;SSI固有のビジネスモデル整理&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Thu, 01 Jul 2021 09:12:34 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/eg9ojawtk0k4etulq5x339r4ocfh/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Blockstream Mining Note マイニングのハッシュレートを裏付けとしたセキュリティートークン</title>
-			<link>https://hashhub-research.com/articles/2021-06-30-about-blockstream-mining-note</link>
-			<guid isPermaLink="false">2021-06-30-about-blockstream-mining-note</guid>
-			<description></description>
-			<pubDate>Wed, 30 Jun 2021 09:59:30 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/7kkk2xzzalgxxshgbgo9rvyvi4lk/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>国内取引所の決算と、ステーキングや積立サービスを分析する （2020年度12月期、2021年度3月期）</title>
-			<link>https://hashhub-research.com/articles/2021-06-29-domestic-crypto-asset-exchange-report</link>
-			<guid isPermaLink="false">2021-06-29-domestic-crypto-asset-exchange-report</guid>
-			<description>前提&lt;br /&gt;1．国内市場全体の状況&lt;br /&gt;2．取引所全体の決算状況&lt;br /&gt;3．各取引所の決算状況&lt;br /&gt;4．ステーキング、積立、スプレッドの比較&lt;br /&gt;5．総論&lt;br /&gt;</description>
-			<pubDate>Tue, 29 Jun 2021 09:56:36 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/gwshsmrjedvizp5eydpjfl6r3l15/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
