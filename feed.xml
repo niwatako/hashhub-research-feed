@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Bitcoinトランザクションの構造を理解して最新アップグレードTaprootの概要を掴む</title>
+			<link>https://hashhub-research.com/articles/2021-07-24-bitcoin-transaction</link>
+			<guid isPermaLink="false">2021-07-24-bitcoin-transaction</guid>
+			<description>前提&lt;br /&gt;SegWitとは&lt;br /&gt;Bitcoinのトランザクション&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Tue, 20 Jul 2021 20:06:22 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ywf99n7o5nzp79rxj9ct3plfaoxy/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title> 7/23〜8/12期間限定公開レポート「鳴かず飛ばずながらもソーシャルグッドなDeFi群」特集のご案内</title>
 			<link>https://hashhub-research.com/articles/2021-07-23-free-report-for-limited-time</link>
 			<guid isPermaLink="false">2021-07-23-free-report-for-limited-time</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Binanceに関わる懸念&lt;br /&gt;Tetherに関わる懸念&lt;br /&gt;影響の予測&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Thu, 01 Jul 2021 13:14:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/lt5ebz63u78s6gya9tj27ffxsxlb/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>SSI（自己主権型アイデンティティ）ビジネスモデルの考察｜摩擦の少ないネットワークで粘着質なサービスをいかに生むか</title>
-			<link>https://hashhub-research.com/articles/2021-07-01-about-ssi-business-model</link>
-			<guid isPermaLink="false">2021-07-01-about-ssi-business-model</guid>
-			<description>前提&lt;br /&gt;SSIビジネスモデルと既存IDビジネスの5つの相違点&lt;br /&gt;既存オンラインビジネスの基本的なしくみとその限界&lt;br /&gt;広告販売に依存しないビジネスモデル&lt;br /&gt;摩擦の少ないゆるやかな囲い込みモデル&lt;br /&gt;SSI固有のビジネスモデル整理&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Thu, 01 Jul 2021 09:12:34 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/eg9ojawtk0k4etulq5x339r4ocfh/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
