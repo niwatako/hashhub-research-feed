@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>BitDAOの概要 ByBitが主導する資金総量で最大のDAO</title>
+			<link>https://hashhub-research.com/articles/2021-07-25-bitdao-overview</link>
+			<guid isPermaLink="false">2021-07-25-bitdao-overview</guid>
+			<description>前提&lt;br /&gt;BitDAOの概要&lt;br /&gt;トークンアロケーション&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Sat, 24 Jul 2021 11:55:48 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/kbfi4ijk5q4qksqvwcanap9a7scs/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Bitcoinトランザクションの構造を理解して最新アップグレードTaprootの概要を掴む</title>
 			<link>https://hashhub-research.com/articles/2021-07-24-bitcoin-transaction</link>
 			<guid isPermaLink="false">2021-07-24-bitcoin-transaction</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;主要な数値データ&lt;br /&gt;トレンド1：資本効率性の高いAMM型分散型取引所の模索&lt;br /&gt;トレンド2：マルチチェーン展開がデファクトスタンダードになる&lt;br /&gt;トレンド3：レイヤー2の実用の開始&lt;br /&gt;トレンド4：資本効率性の高い様々な種類のプロダクトの登場&lt;br /&gt;トレンド5：IDO（Initial Dex Offering）の継続&lt;br /&gt;トレンド6：DAOの規模の拡大&lt;br /&gt;トレンド7：流出事件は今後も増加し、それに伴い規制当局のDeFiの関心が高まる&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Fri, 02 Jul 2021 08:51:08 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/4lz2ig9jq3crthoc9b5u53p4ximz/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>暗号資産市場にブラックスワンがあるとすれば、 それは何でどのような影響があるか</title>
-			<link>https://hashhub-research.com/articles/2021-07-01-the-black-swan-of-crypto-asset-market</link>
-			<guid isPermaLink="false">2021-07-01-the-black-swan-of-crypto-asset-market</guid>
-			<description>前提&lt;br /&gt;Binanceに関わる懸念&lt;br /&gt;Tetherに関わる懸念&lt;br /&gt;影響の予測&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Thu, 01 Jul 2021 13:14:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/lt5ebz63u78s6gya9tj27ffxsxlb/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
