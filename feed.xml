@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>OpenLaw TributeDAOフレームワークの概要と考察【前編】｜モジュール化の推進と高度なDAO統治</title>
+			<link>https://hashhub-research.com/articles/2021-07-27-about-tribute-dao-1</link>
+			<guid isPermaLink="false">2021-07-27-about-tribute-dao-1</guid>
+			<description>前提&lt;br /&gt;Tribute DAOの概要&lt;br /&gt;TributeDAOの構造｜DAOが形成するヒエラルキー型組織&lt;br /&gt;【考察】「単一トークン統治」と「発展途上DAO」の懸念｜DAOが生み出すヒエラルキー型（またはティール型）組織の必要性&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Sun, 25 Jul 2021 14:28:13 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/vkgczw4ztazsmc3mtmcubf60xamb/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>BitDAOの概要 ByBitが主導する資金総量で最大のDAO</title>
 			<link>https://hashhub-research.com/articles/2021-07-25-bitdao-overview</link>
 			<guid isPermaLink="false">2021-07-25-bitdao-overview</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Efinityの概要&lt;br /&gt;独自トークンEFIとENJの概要&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Sat, 03 Jul 2021 08:53:49 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/bni2zlddyn097aj2j8a3xh3gy5rc/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>DeFi（分散型金融）の重要な７つのトレンド  2021年7月版</title>
-			<link>https://hashhub-research.com/articles/2021-07-02-7-key-trends-for-defi</link>
-			<guid isPermaLink="false">2021-07-02-7-key-trends-for-defi</guid>
-			<description>前提&lt;br /&gt;主要な数値データ&lt;br /&gt;トレンド1：資本効率性の高いAMM型分散型取引所の模索&lt;br /&gt;トレンド2：マルチチェーン展開がデファクトスタンダードになる&lt;br /&gt;トレンド3：レイヤー2の実用の開始&lt;br /&gt;トレンド4：資本効率性の高い様々な種類のプロダクトの登場&lt;br /&gt;トレンド5：IDO（Initial Dex Offering）の継続&lt;br /&gt;トレンド6：DAOの規模の拡大&lt;br /&gt;トレンド7：流出事件は今後も増加し、それに伴い規制当局のDeFiの関心が高まる&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Fri, 02 Jul 2021 08:51:08 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/4lz2ig9jq3crthoc9b5u53p4ximz/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
