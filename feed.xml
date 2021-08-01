@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>世界の暗号資産取引所ビジネスの定点観測レポート【21年月8版】 </title>
+			<link>https://hashhub-research.com/articles/2021-08-01-crypto-asset-exchange-report</link>
+			<guid isPermaLink="false">2021-08-01-crypto-asset-exchange-report</guid>
+			<description>前提&lt;br /&gt;現物市場の取引データおよび各社の主要なアップデート&lt;br /&gt;デリバティブ市場の取引データおよび各社の主要なアップデート&lt;br /&gt;取引所トークンと関連する各種データ&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Fri, 30 Jul 2021 17:18:36 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/lhg5xm3dcynvz8iwjlgkcx2lbugl/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>O3Swapの概要 クロスチェーンスワップのアグリゲートプロトコル</title>
 			<link>https://hashhub-research.com/articles/2021-07-31-o3swap-overview</link>
 			<guid isPermaLink="false">2021-07-31-o3swap-overview</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;6月マーケットの概観&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Thu, 08 Jul 2021 15:28:56 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/63vaktc2kzkpba5rr5hqoq1uerg6/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>再エネ用ミニグリッドを対象としたDeFiクラウドファンディングプラットフォーム｜ENGIE Energy Access社のビジネスモデル考察</title>
-			<link>https://hashhub-research.com/articles/2021-07-08-about-engie-energy-access</link>
-			<guid isPermaLink="false">2021-07-08-about-engie-energy-access</guid>
-			<description>前提&lt;br /&gt;ENGIE Energy Accessのビジネスモデル&lt;br /&gt;Energy web ChainベースのDeFiクラウドファンディングプラットフォームの導入と予想されるビジネスモデル&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Thu, 08 Jul 2021 09:38:01 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/nz5wbxjy0p4hyuex3b4v8gnshtc8/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
