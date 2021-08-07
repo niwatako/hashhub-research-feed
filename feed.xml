@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>dAMMの概要 レイヤー2のAMMに提供する流動性を統合するレイヤー1のコントラクトデザイン</title>
+			<link>https://hashhub-research.com/articles/2021-08-07-overview-damm</link>
+			<guid isPermaLink="false">2021-08-07-overview-damm</guid>
+			<description>前提&lt;br /&gt;レイヤー2の取引流動性の課題&lt;br /&gt;レイヤー2のAMMに提供する流動性を統合するdAMMのデザイン&lt;br /&gt;懸念される課題&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Mon, 02 Aug 2021 09:59:37 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/twrrew1v6jgidfkesklw29eq3khw/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>NFT（Non-Fungible-Token）動向レポート【8月版】</title>
 			<link>https://hashhub-research.com/articles/2021-08-06-nft-market-report</link>
 			<guid isPermaLink="false">2021-08-06-nft-market-report</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;6月のDeFiマーケット概観&lt;br /&gt;各プロダクトの近況&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Tue, 13 Jul 2021 19:37:05 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/5yejcyvddi5bkpqdxtx54ntnnyya/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>DeFi機能のミドルウェアを提供するInstadappの概要</title>
-			<link>https://hashhub-research.com/articles/2021-07-13-about-instadapp</link>
-			<guid isPermaLink="false">2021-07-13-about-instadapp</guid>
-			<description>前提&lt;br /&gt;概要&lt;br /&gt;トークン設計&lt;br /&gt;DSL（DeFi Smart Laler）の詳細&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Tue, 13 Jul 2021 08:42:04 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/e3j7h22oaatdqrv09hmjywampvlp/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
