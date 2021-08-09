@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>NFTの普遍性と個別性【中編】｜オリジナルの複製と再構築から生まれる合成NFTプロジェクト「AlchemyNFT」</title>
+			<link>https://hashhub-research.com/articles/2021-08-09-about-alchemy-nft</link>
+			<guid isPermaLink="false">2021-08-09-about-alchemy-nft</guid>
+			<description>前提&lt;br /&gt;AlchemyNFTの概要&lt;br /&gt;総論｜「普遍への志向」と「個別への固執」という対極的な2つの意志&lt;br /&gt;</description>
+			<pubDate>Sun, 08 Aug 2021 17:18:28 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/jfuazgiawxic2lfgajuoth13rqbt/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>NFTの普遍性と個別性【前編】｜ジェネラティブ・アートの概念を取り込んだNFTプロジェクト「Art Blocks」</title>
 			<link>https://hashhub-research.com/articles/2021-08-08-about-art-blocks</link>
 			<guid isPermaLink="false">2021-08-08-about-art-blocks</guid>
@@ -187,14 +195,6 @@
 			<description></description>
 			<pubDate>Fri, 16 Jul 2021 09:18:03 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ngp8ekvf4ytq736ptl7f0xbk99tl/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>カーボンクレジット市場の現状とブロックチェーンベース取引の利点｜シンガポールAirCarbonの事例</title>
-			<link>https://hashhub-research.com/articles/2021-07-15-about-aircarbon</link>
-			<guid isPermaLink="false">2021-07-15-about-aircarbon</guid>
-			<description>前提&lt;br /&gt;カーボンクレジットとは&lt;br /&gt;AirCarbon Pte.Ltd.の概要と取り組み内容&lt;br /&gt;AirCarbonは自主的炭素市場にどのような価値提供をしているのか&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Thu, 15 Jul 2021 09:21:25 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/amlq4s68v9pdmhlglzo77b3n8v8c/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
