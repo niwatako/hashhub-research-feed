@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>DeFiマーケットレポート【21年8月版】</title>
+			<link>https://hashhub-research.com/articles/2021-8-11-defi-market</link>
+			<guid isPermaLink="false">2021-8-11-defi-market</guid>
+			<description>前提&lt;br /&gt;7月のDeFiマーケット概観&lt;br /&gt;各プロダクトの近況&lt;br /&gt;</description>
+			<pubDate>Wed, 11 Aug 2021 19:46:59 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/uervyvl86msxpcddqapor75agieb/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>NFTの普遍性と個別性【中編】｜オリジナルの複製と再構築から生まれる合成NFTプロジェクト「AlchemyNFT」</title>
 			<link>https://hashhub-research.com/articles/2021-08-09-about-alchemy-nft</link>
 			<guid isPermaLink="false">2021-08-09-about-alchemy-nft</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;3.DAOプロジェクトの類型&lt;br /&gt;4.DAOの作り方&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Tue, 13 Jul 2021 21:32:51 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ct2zauco0sfdbs3ftrdapmg29twz/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>中国による暗号資産規制がマイニング業界に与えた影響</title>
-			<link>https://hashhub-research.com/articles/2021-07-16-the-impact-of-china-crypto-asset-regulation-on-the-mining</link>
-			<guid isPermaLink="false">2021-07-16-the-impact-of-china-crypto-asset-regulation-on-the-mining</guid>
-			<description></description>
-			<pubDate>Fri, 16 Jul 2021 09:18:03 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ngp8ekvf4ytq736ptl7f0xbk99tl/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
