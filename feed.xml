@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Transmuteの概要｜グローバルサプライチェーンでのDID/VC活用</title>
+			<link>https://hashhub-research.com/articles/2021-08-14-about-transmute</link>
+			<guid isPermaLink="false">2021-08-14-about-transmute</guid>
+			<description>前提&lt;br /&gt;Transmute概要&lt;br /&gt;Transmuteの主なサービス&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Sat, 14 Aug 2021 08:32:55 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/3y12mfuusjbwo36hloewt87bk55l/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title> 8/13〜8/26期間限定公開レポート「EIP-1559を理解する」特集のご案内</title>
 			<link>https://hashhub-research.com/articles/2021-08-13-free-report-for-limited-time</link>
 			<guid isPermaLink="false">2021-08-13-free-report-for-limited-time</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Maple Financeの概要&lt;br /&gt;MPLトークンの概要&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Sun, 18 Jul 2021 11:36:09 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/gvgr0alo7v2eve6y3fl8uq5kkp6m/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Bankless DAOのビジネスモデル考察｜中央集権型メディアがDAOを並走させる利点とは何か</title>
-			<link>https://hashhub-research.com/articles/2021-07-20-about-bankless-dao</link>
-			<guid isPermaLink="false">2021-07-20-about-bankless-dao</guid>
-			<description>前提&lt;br /&gt;Bankless LLCの概要と既存ビジネスモデル&lt;br /&gt;Bankless DAOの概要&lt;br /&gt;中央集権モデルのメディアがDAOを並走させる利点｜ビジネスモデルの考察&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Fri, 16 Jul 2021 14:41:11 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/fikezf00jvhd1glyj1n89kb7m5bd/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
