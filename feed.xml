@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>TRONの概要と最新の状況｜独自のDPoSとエコシステムを分析する</title>
+			<link>https://hashhub-research.com/articles/2021-08-17-tron-overvew-whatsnew</link>
+			<guid isPermaLink="false">2021-08-17-tron-overvew-whatsnew</guid>
+			<description>前提&lt;br /&gt;TRONの概要&lt;br /&gt;周辺プロジェクト&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Sun, 15 Aug 2021 23:00:41 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/y7mm5ej332j3l0my95gb08yowuti/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Polygonの成長戦略の考察 トークンの統合まで完了させた初の買収となるHermezの買収など</title>
 			<link>https://hashhub-research.com/articles/2021-08-15-blockchain-usecase</link>
 			<guid isPermaLink="false">2021-08-15-blockchain-usecase</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;ARCxの概要&lt;br /&gt;ARCXトークンの概要&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Tue, 20 Jul 2021 09:30:51 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/of9oo706syw7cva0qf8bau70su37/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>オラクルの基本、仕組み、リスクを理解する</title>
-			<link>https://hashhub-research.com/articles/2021-07-22-oracle-basic</link>
-			<guid isPermaLink="false">2021-07-22-oracle-basic</guid>
-			<description>前提&lt;br /&gt;オラクルのたとえ話&lt;br /&gt;オラクルの種類と用途&lt;br /&gt;どうやってより正確なデータを入手するか&lt;br /&gt;正確なデータが提供されないとどうなるか&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Mon, 19 Jul 2021 16:36:58 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/hrz29dzh6gtji1fjgzlg74vgqvw2/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
