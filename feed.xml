@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>NFTの普遍性と個別性【後編】｜メタ部族社会（またはDAO）とプログラマブルNFT</title>
+			<link>https://hashhub-research.com/articles/2021-08-18-about-meta-social-network</link>
+			<guid isPermaLink="false">2021-08-18-about-meta-social-network</guid>
+			<description>前提&lt;br /&gt;【NFT表現としての普遍性と個別性まとめ】「恣意性を排除した自然の再現と文明」と「複製技術から生じる遊びと文化」&lt;br /&gt;【DAOとNFT/FT】アイデンティティ/コミュニティ管理の役割とNFT/FTによる応用&lt;br /&gt;「開ける/閉じる」力が働く「メタ部族社会」という新たなソーシャルネットワークの形&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Wed, 18 Aug 2021 09:46:04 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8499gwicl2kalg4owkqp285ccxxn/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>TRONの概要と最新の状況｜独自のDPoSとエコシステムを分析する</title>
 			<link>https://hashhub-research.com/articles/2021-08-17-tron-overvew-whatsnew</link>
 			<guid isPermaLink="false">2021-08-17-tron-overvew-whatsnew</guid>
@@ -187,14 +195,6 @@
 			<description>より多くの人に暗号資産・ブロックチェーンの知見を届けるために&lt;br /&gt;「鳴かず飛ばずながらもソーシャルグッドなDeFi群」特集｜7月23日～8月12日の期間限定レポート一覧&lt;br /&gt;</description>
 			<pubDate>Thu, 22 Jul 2021 21:54:50 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0meric7omxckjsedqim1nn5wn2al/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ARCxの概要 Ethereumのウォレットの履歴をクレジットスコアにするプロトコル</title>
-			<link>https://hashhub-research.com/articles/2021-07-23-arcx-overview</link>
-			<guid isPermaLink="false">2021-07-23-arcx-overview</guid>
-			<description>前提&lt;br /&gt;ARCxの概要&lt;br /&gt;ARCXトークンの概要&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Tue, 20 Jul 2021 09:30:51 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/of9oo706syw7cva0qf8bau70su37/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
