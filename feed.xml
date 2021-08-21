@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Collab.Landの概要と使用方法｜暗号資産によるコミュニティ管理ツール</title>
+			<link>https://hashhub-research.com/articles/2021-08-21-about-collab-land</link>
+			<guid isPermaLink="false">2021-08-21-about-collab-land</guid>
+			<description>前提&lt;br /&gt;Collab.Landの概要&lt;br /&gt;Collab.landの設定方法【Discord編】&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Thu, 19 Aug 2021 18:53:05 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/i7p3onwxhy22o4x31sfkuz2x6w2e/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>プロトコルのガバナンス・トークン投票による問題点と解決策について</title>
 			<link>https://hashhub-research.com/articles/2021-08-20-about-governance-model</link>
 			<guid isPermaLink="false">2021-08-20-about-governance-model</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Tribute DAOの概要&lt;br /&gt;TributeDAOの構造｜DAOが形成するヒエラルキー型組織&lt;br /&gt;【考察】「単一トークン統治」と「発展途上DAO」の懸念｜DAOが生み出すヒエラルキー型（またはティール型）組織の必要性&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Sun, 25 Jul 2021 14:28:13 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/vkgczw4ztazsmc3mtmcubf60xamb/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>BitDAOの概要 ByBitが主導する資金総量で最大のDAO</title>
-			<link>https://hashhub-research.com/articles/2021-07-25-bitdao-overview</link>
-			<guid isPermaLink="false">2021-07-25-bitdao-overview</guid>
-			<description>前提&lt;br /&gt;BitDAOの概要&lt;br /&gt;トークンアロケーション&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Sat, 24 Jul 2021 11:55:48 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/kbfi4ijk5q4qksqvwcanap9a7scs/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
