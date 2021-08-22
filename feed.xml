@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>主要プロダクトのファーミング構造と根本的課題</title>
+			<link>https://hashhub-research.com/articles/2021-08-22-defi-farming</link>
+			<guid isPermaLink="false">2021-08-22-defi-farming</guid>
+			<description>前提&lt;br /&gt;ファーミング構造の概要&lt;br /&gt;各プラットフォームの構造&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Sat, 21 Aug 2021 11:43:01 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/9iinpjhpdykcdvscrymftb975obo/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Collab.Landの概要と使用方法｜暗号資産によるコミュニティ管理ツール</title>
 			<link>https://hashhub-research.com/articles/2021-08-21-about-collab-land</link>
 			<guid isPermaLink="false">2021-08-21-about-collab-land</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;1.DAOは「自律分散型組織」なのか「インターネットスケールの部族社会」なのか&lt;br /&gt;2.なぜDAO統治の高度化にデジタルIDは必要なのか&lt;br /&gt;3.なぜ自律的な意思決定の仕組みを導入するべきなのか&lt;br /&gt;【コラム】DAO構築時の覚書｜「意思決定はみんなの合意を得てなされるべきだ」という認識はどこから生じているのか&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Mon, 26 Jul 2021 18:32:32 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/5wnyx9sb8o0jdol0vkg78n0rc60r/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>OpenLaw TributeDAOフレームワークの概要と考察【前編】｜モジュール化の推進と高度なDAO統治</title>
-			<link>https://hashhub-research.com/articles/2021-07-27-about-tribute-dao-1</link>
-			<guid isPermaLink="false">2021-07-27-about-tribute-dao-1</guid>
-			<description>前提&lt;br /&gt;Tribute DAOの概要&lt;br /&gt;TributeDAOの構造｜DAOが形成するヒエラルキー型組織&lt;br /&gt;【考察】「単一トークン統治」と「発展途上DAO」の懸念｜DAOが生み出すヒエラルキー型（またはティール型）組織の必要性&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Sun, 25 Jul 2021 14:28:13 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/vkgczw4ztazsmc3mtmcubf60xamb/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
