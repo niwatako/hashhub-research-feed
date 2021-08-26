@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>NFTの権利、保存先、生成方法　その比較と分析</title>
+			<link>https://hashhub-research.com/articles/2021-08-26-nft-authority-storage-mint</link>
+			<guid isPermaLink="false">2021-08-26-nft-authority-storage-mint</guid>
+			<description>前提&lt;br /&gt;概要&lt;br /&gt;著作権、IDの課題&lt;br /&gt;NFTの生成方法&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Tue, 24 Aug 2021 19:22:40 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/u9zl5uj2jfc9rwnyrjuwjhupk1oi/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>MATTRの概要｜分散型IDプラットフォームMATTRⅦ及び収益モデルについて</title>
 			<link>https://hashhub-research.com/articles/2021-08-25-about-mattr</link>
 			<guid isPermaLink="false">2021-08-25-about-mattr</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;効率性：POS+と4層のネットワークによる効率的なブロック生成&lt;br /&gt;セキュリティ：マルチシグやアカウントごとのセキュリティ設定でヒューマンエラーや攻撃を回避&lt;br /&gt;適合性：豊富なSDKやプライベートブロックチェーン&lt;br /&gt;組織&lt;br /&gt;総論&lt;br /&gt;参考資料&lt;br /&gt;</description>
 			<pubDate>Thu, 29 Jul 2021 23:23:34 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/6uvkg6bj8mtph335r5ycqib3f825/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>中立性と透明性向上を目的とした保有暗号資産の財務情報の開示</title>
-			<link>https://hashhub-research.com/articles/portfolio-disclosure</link>
-			<guid isPermaLink="false">portfolio-disclosure</guid>
-			<description></description>
-			<pubDate>Fri, 25 Dec 2020 11:18:57 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/akdevoawbe0aflk5qa74kfgmqrd7/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
