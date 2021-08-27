@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title> 8/27〜9/9期間限定公開レポート「NFTの夏、これまでとこれから」特集</title>
+			<link>https://hashhub-research.com/articles/2021-08-27-free-report-for-limited-time</link>
+			<guid isPermaLink="false">2021-08-27-free-report-for-limited-time</guid>
+			<description>より多くの人に暗号資産・ブロックチェーンの知見を届けるために&lt;br /&gt;「NFTの夏、これまでとこれから」特集｜8月27日～9月9日の期間限定レポート一覧&lt;br /&gt;</description>
+			<pubDate>Thu, 26 Aug 2021 20:58:38 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/lz8t5snglucruydlkhuitu9bjgp5/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>NFTの権利、保存先、生成方法　その比較と分析</title>
 			<link>https://hashhub-research.com/articles/2021-08-26-nft-authority-storage-mint</link>
 			<guid isPermaLink="false">2021-08-26-nft-authority-storage-mint</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;O3Swapの概要&lt;br /&gt;O3トークンの概要&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Fri, 30 Jul 2021 11:43:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2b71oydp1hviqgz8duxgp0254aav/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Symbolの概要 セキュリティやシステムへの適合に特化したチェーン</title>
-			<link>https://hashhub-research.com/articles/2021-7-30-symbol-overview</link>
-			<guid isPermaLink="false">2021-7-30-symbol-overview</guid>
-			<description>前提&lt;br /&gt;効率性：POS+と4層のネットワークによる効率的なブロック生成&lt;br /&gt;セキュリティ：マルチシグやアカウントごとのセキュリティ設定でヒューマンエラーや攻撃を回避&lt;br /&gt;適合性：豊富なSDKやプライベートブロックチェーン&lt;br /&gt;組織&lt;br /&gt;総論&lt;br /&gt;参考資料&lt;br /&gt;</description>
-			<pubDate>Thu, 29 Jul 2021 23:23:34 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/6uvkg6bj8mtph335r5ycqib3f825/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
