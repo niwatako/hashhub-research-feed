@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>PolygonでNFTを発行してみよう【前編】</title>
+			<link>https://hashhub-research.com/articles/2021-08-29-try-mint-nft-on-polygon-opensea</link>
+			<guid isPermaLink="false">2021-08-29-try-mint-nft-on-polygon-opensea</guid>
+			<description></description>
+			<pubDate>Thu, 26 Aug 2021 14:50:30 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/jqsv1aii83x8ohwg6wrmptnqo5t2/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>高級品や嗜好品としてのNFTの現在地と次の段階</title>
 			<link>https://hashhub-research.com/articles/2021-08-28-nft-as-luxury-items</link>
 			<guid isPermaLink="false">2021-08-28-nft-as-luxury-items</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;7月マーケットの概観&lt;br /&gt;BTC&lt;br /&gt;</description>
 			<pubDate>Tue, 03 Aug 2021 20:30:42 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/vdkpvkksi7cwqksxbozr45b6rgqw/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Archer DAO（現Eden Network） MEVを民主化するプロジェクト</title>
-			<link>https://hashhub-research.com/articles/2021-08-03-about-archer-dao</link>
-			<guid isPermaLink="false">2021-08-03-about-archer-dao</guid>
-			<description></description>
-			<pubDate>Tue, 03 Aug 2021 07:52:09 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ir8cplmnbrzta62k95t5fr0fz5vq/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
