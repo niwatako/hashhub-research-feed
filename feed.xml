@@ -5,6 +5,22 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>NFT価値の源泉を問う【前編】｜「個性的な」と「没個性的な」の狭間に生じたNFT市場</title>
+			<link>https://hashhub-research.com/articles/2021-09-03-the-source-of-nft-value-1</link>
+			<guid isPermaLink="false">2021-09-03-the-source-of-nft-value-1</guid>
+			<description>前提&lt;br /&gt;ノンファンジブルな商品が辿った一つの歴史｜「贈答品の」物質文明、市場経済、資本経済&lt;br /&gt;「個性的な」と「没個性的な」の狭間に生じたNFT市場【前編】&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Thu, 02 Sep 2021 17:36:31 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2x1sat01hjbja4w38fabzjctnyil/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
+			<title>インターネットのネイティブアセットとしての暗号資産 オンライン地産地消型のマネーの特性</title>
+			<link>https://hashhub-research.com/articles/2021-09-02-native-internet-assets</link>
+			<guid isPermaLink="false">2021-09-02-native-internet-assets</guid>
+			<description>前提&lt;br /&gt;インターネット上の地産地消型アセットとしてのBitcoin&lt;br /&gt;法定通貨の場合&lt;br /&gt;総論&lt;br /&gt;参考&lt;br /&gt;</description>
+			<pubDate>Mon, 30 Aug 2021 19:09:26 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/jqevw01y7dq92sl3jq5qawii6nuu/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>上場マイニング運用会社の時価総額についての考察</title>
 			<link>https://hashhub-research.com/articles/2021-09-01-marketcap-of-mining-companies</link>
 			<guid isPermaLink="false">2021-09-01-marketcap-of-mining-companies</guid>
@@ -179,22 +195,6 @@
 			<description>前提&lt;br /&gt;Generative Artとは何か&lt;br /&gt;Art Blocksの概要&lt;br /&gt;ジェネラティブ・アートとブロックチェーンによる「普遍性」の追求&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Sun, 08 Aug 2021 08:28:19 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/hbtsld5yymvyo9pdgwzfspb16mc6/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>dAMMの概要 レイヤー2のAMMに提供する流動性を統合するレイヤー1のコントラクトデザイン</title>
-			<link>https://hashhub-research.com/articles/2021-08-07-overview-damm</link>
-			<guid isPermaLink="false">2021-08-07-overview-damm</guid>
-			<description>前提&lt;br /&gt;レイヤー2の取引流動性の課題&lt;br /&gt;レイヤー2のAMMに提供する流動性を統合するdAMMのデザイン&lt;br /&gt;懸念される課題&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Mon, 02 Aug 2021 09:59:37 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/twrrew1v6jgidfkesklw29eq3khw/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>NFT（Non-Fungible-Token）動向レポート【8月版】</title>
-			<link>https://hashhub-research.com/articles/2021-08-06-nft-market-report</link>
-			<guid isPermaLink="false">2021-08-06-nft-market-report</guid>
-			<description>前提&lt;br /&gt;NFT販売の傾向&lt;br /&gt;企業のNFT活用の活発化&lt;br /&gt;NFT企業への投資が継続&lt;br /&gt;2021年前半のNFT解析レポート&lt;br /&gt;国内動向のまとめ&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Thu, 05 Aug 2021 15:53:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/zf2a60eknhwjugl1f2lfh9h1576i/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
