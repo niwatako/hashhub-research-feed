@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>NFT（Non-Fungible-Token）動向レポート【9月版】</title>
+			<link>https://hashhub-research.com/articles/2021-09-07-nft-market-report</link>
+			<guid isPermaLink="false">2021-09-07-nft-market-report</guid>
+			<description>前提&lt;br /&gt;コレクタブルの夏&lt;br /&gt;NFTアートの復活&lt;br /&gt;国内動向のまとめ&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Mon, 06 Sep 2021 15:08:41 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ic4cobu19562vtyzafd4oyimsyec/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>暗号資産マーケットレポート 注目のトークンの投資分析【21年9月版】</title>
 			<link>https://hashhub-research.com/articles/2021-09-05-market-report</link>
 			<guid isPermaLink="false">2021-09-05-market-report</guid>
@@ -187,14 +195,6 @@
 			<description></description>
 			<pubDate>Thu, 12 Aug 2021 10:09:20 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/q1nzyd0tvrnlkmwpo4iu43k6oi6z/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>DeFiマーケットレポート【21年8月版】</title>
-			<link>https://hashhub-research.com/articles/2021-8-11-defi-market</link>
-			<guid isPermaLink="false">2021-8-11-defi-market</guid>
-			<description>前提&lt;br /&gt;7月のDeFiマーケット概観&lt;br /&gt;各プロダクトの近況&lt;br /&gt;</description>
-			<pubDate>Wed, 11 Aug 2021 19:46:59 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/uervyvl86msxpcddqapor75agieb/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
