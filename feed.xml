@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title> 9/10〜9/23期間限定公開レポート「トークンエアドロップ」特集</title>
+			<link>https://hashhub-research.com/articles/2021-09-10-free-report-for-limited-time</link>
+			<guid isPermaLink="false">2021-09-10-free-report-for-limited-time</guid>
+			<description>より多くの人に暗号資産・ブロックチェーンの知見を届けるために&lt;br /&gt;「トークンエアドロップ」特集｜9月10日～9月23日の期間限定レポート一覧&lt;br /&gt;</description>
+			<pubDate>Fri, 10 Sep 2021 09:30:47 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/3kb3qv9l8lxd4oyewy3ykf11ct52/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>NFTはなぜ高騰したのか　2021年のNFTのイベントと種類を振り返る</title>
 			<link>https://hashhub-research.com/articles/2021-09-09-nft-event-variety</link>
 			<guid isPermaLink="false">2021-09-09-nft-event-variety</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;トークンの統合まで完了させた初の買収となるHermezの買収&lt;br /&gt;Polygonのプロダクト群&lt;br /&gt;Polygonの成長戦略の考察 &lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Sat, 14 Aug 2021 21:03:10 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/g21ywi3q57mnfmt1897km6uu8ft5/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Transmuteの概要｜グローバルサプライチェーンでのDID/VC活用</title>
-			<link>https://hashhub-research.com/articles/2021-08-14-about-transmute</link>
-			<guid isPermaLink="false">2021-08-14-about-transmute</guid>
-			<description>前提&lt;br /&gt;Transmute概要&lt;br /&gt;Transmuteの主なサービス&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Sat, 14 Aug 2021 08:32:55 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/3y12mfuusjbwo36hloewt87bk55l/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
