@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>世界の暗号資産取引所ビジネスの定点観測レポート【21年9月版】</title>
+			<link>https://hashhub-research.com/articles/2021-09-11-crypto-asset-exchange-report</link>
+			<guid isPermaLink="false">2021-09-11-crypto-asset-exchange-report</guid>
+			<description>前提&lt;br /&gt;現物市場の取引データおよび各社の主要なアップデート&lt;br /&gt;デリバティブ市場の取引データおよび各社の主要なアップデート&lt;br /&gt;取引所トークンと関連する各種データ&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Fri, 10 Sep 2021 18:23:53 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/c3sag0j3mg9f4wrndjsfpzg5144u/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title> 9/10〜9/23期間限定公開レポート「トークンエアドロップ」特集</title>
 			<link>https://hashhub-research.com/articles/2021-09-10-free-report-for-limited-time</link>
 			<guid isPermaLink="false">2021-09-10-free-report-for-limited-time</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;TRONの概要&lt;br /&gt;周辺プロジェクト&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Sun, 15 Aug 2021 23:00:41 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/y7mm5ej332j3l0my95gb08yowuti/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Polygonの成長戦略の考察 トークンの統合まで完了させた初の買収となるHermezの買収など</title>
-			<link>https://hashhub-research.com/articles/2021-08-15-blockchain-usecase</link>
-			<guid isPermaLink="false">2021-08-15-blockchain-usecase</guid>
-			<description>前提&lt;br /&gt;トークンの統合まで完了させた初の買収となるHermezの買収&lt;br /&gt;Polygonのプロダクト群&lt;br /&gt;Polygonの成長戦略の考察 &lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Sat, 14 Aug 2021 21:03:10 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/g21ywi3q57mnfmt1897km6uu8ft5/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
