@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Loot (for Adventurers) NFTマニアを騒がせたテキストベースのコレクティブルアイテム</title>
+			<link>https://hashhub-research.com/articles/2021-09-12-loot-overview</link>
+			<guid isPermaLink="false">2021-09-12-loot-overview</guid>
+			<description>前提&lt;br /&gt;Loot (for Adventurers) の概要&lt;br /&gt;筆者考察&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Tue, 07 Sep 2021 08:59:55 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/a7hia9sjcjz3b8azt77xrrn1gn9j/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>世界の暗号資産取引所ビジネスの定点観測レポート【21年9月版】</title>
 			<link>https://hashhub-research.com/articles/2021-09-11-crypto-asset-exchange-report</link>
 			<guid isPermaLink="false">2021-09-11-crypto-asset-exchange-report</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;【NFT表現としての普遍性と個別性まとめ】「恣意性を排除した自然の再現と文明」と「複製技術から生じる遊びと文化」&lt;br /&gt;【DAOとNFT/FT】アイデンティティ/コミュニティ管理の役割とNFT/FTによる応用&lt;br /&gt;「開ける/閉じる」力が働く「メタ部族社会」という新たなソーシャルネットワークの形&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Wed, 18 Aug 2021 09:46:04 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8499gwicl2kalg4owkqp285ccxxn/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>TRONの概要と最新の状況｜独自のDPoSとエコシステムを分析する</title>
-			<link>https://hashhub-research.com/articles/2021-08-17-tron-overvew-whatsnew</link>
-			<guid isPermaLink="false">2021-08-17-tron-overvew-whatsnew</guid>
-			<description>前提&lt;br /&gt;TRONの概要&lt;br /&gt;周辺プロジェクト&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Sun, 15 Aug 2021 23:00:41 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/y7mm5ej332j3l0my95gb08yowuti/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
