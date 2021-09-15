@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>The Sandboxの概要　ブロックチェーンを利用したメタバース</title>
+			<link>https://hashhub-research.com/articles/2020-09-15-the-sandbox-overview</link>
+			<guid isPermaLink="false">2020-09-15-the-sandbox-overview</guid>
+			<description>前提&lt;br /&gt;The Sandboxの概要&lt;br /&gt;SANDトークンの概要&lt;br /&gt;ユースケース&lt;br /&gt;トークンディストリビューション&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Wed, 08 Sep 2021 09:44:13 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/49hud5mauj6jydpm26fillwog7k9/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>PolygonでNFTを発行してみよう【後編】</title>
 			<link>https://hashhub-research.com/articles/2021-09-14-try-mint-nft-by-yourself</link>
 			<guid isPermaLink="false">2021-09-14-try-mint-nft-by-yourself</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;プロトコルのガバナンス・トークン投票による問題点&lt;br /&gt;解決策の提案&lt;br /&gt;筆者考察&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Thu, 19 Aug 2021 12:25:39 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/mbq3v1kzj7pl69d0f56zcryux5mr/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Tranchess トランシェによるアセットマネジメントが可能なプラットフォーム</title>
-			<link>https://hashhub-research.com/articles/2021-08-19-about-tranchess</link>
-			<guid isPermaLink="false">2021-08-19-about-tranchess</guid>
-			<description></description>
-			<pubDate>Wed, 18 Aug 2021 13:57:36 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ebmaqmgeqg2uhrib6qwljxhpz2fl/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
