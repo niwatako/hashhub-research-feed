@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Secret Network (SCRT)の概要　プライバシースマートコントラクトプラットフォーム</title>
+			<link>https://hashhub-research.com/articles/2021-09-17-secret-network-overview</link>
+			<guid isPermaLink="false">2021-09-17-secret-network-overview</guid>
+			<description>前提&lt;br /&gt;Secret Network (SCRT)の概要&lt;br /&gt;ネイティブトークン・SCRTの概要&lt;br /&gt;エコシステム&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Fri, 10 Sep 2021 08:52:55 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/s44z5eqz3jbqpimy7t0moxq81jlc/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Azure AD Verifiable Credentialsの概要</title>
 			<link>https://hashhub-research.com/articles/2021-09-16-azure-ad-verifiable-credentials</link>
 			<guid isPermaLink="false">2021-09-16-azure-ad-verifiable-credentials</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;ファーミング構造の概要&lt;br /&gt;各プラットフォームの構造&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Sat, 21 Aug 2021 11:43:01 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/9iinpjhpdykcdvscrymftb975obo/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Collab.Landの概要と使用方法｜暗号資産によるコミュニティ管理ツール</title>
-			<link>https://hashhub-research.com/articles/2021-08-21-about-collab-land</link>
-			<guid isPermaLink="false">2021-08-21-about-collab-land</guid>
-			<description>前提&lt;br /&gt;Collab.Landの概要&lt;br /&gt;Collab.landの設定方法【Discord編】&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Thu, 19 Aug 2021 18:53:05 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/i7p3onwxhy22o4x31sfkuz2x6w2e/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
