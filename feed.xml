@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>DeFiマーケットレポート【21年9月版】 </title>
+			<link>https://hashhub-research.com/articles/2021-9-19-defi-market</link>
+			<guid isPermaLink="false">2021-9-19-defi-market</guid>
+			<description>前提&lt;br /&gt;9月のDeFiマーケット概観&lt;br /&gt;各プロダクトの近況&lt;br /&gt;</description>
+			<pubDate>Fri, 17 Sep 2021 18:53:06 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/xq1ypt27qpv0kc0a5ea6lu4vhqne/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>暗号資産でインカムゲイン（継続的収益）を得る方法まとめ</title>
 			<link>https://hashhub-research.com/articles/2021-09-18-income-gain-via-crypto-asset</link>
 			<guid isPermaLink="false">2021-09-18-income-gain-via-crypto-asset</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Mattrの概要&lt;br /&gt;MATTRⅦ｜主力プロダクトの解説&lt;br /&gt;Mattrの収益モデル&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Tue, 24 Aug 2021 19:31:58 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/c0vpc06mkwhtbm41xs448crkmph7/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Ondo Financeの概要　AMM分散型取引所の流動性提供のリスクを分割するDeFiプロトコル</title>
-			<link>https://hashhub-research.com/articles/2021-08-24-ondo-finance-overview</link>
-			<guid isPermaLink="false">2021-08-24-ondo-finance-overview</guid>
-			<description>前提&lt;br /&gt;Ondo Financeの概要&lt;br /&gt;チーム・資金調達・将来のトークン発行&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Sat, 21 Aug 2021 12:47:06 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/4cvb9tf22m2v1ybs0es2umropn1y/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
