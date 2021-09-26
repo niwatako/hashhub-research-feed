@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>アプリケーションレイヤートークンの投資検討 長期的に価値を持ち真の防御性を備えるプロジェクトの条件とは何か</title>
+			<link>https://hashhub-research.com/articles/2021-09-26-dao-should-manage-risks</link>
+			<guid isPermaLink="false">2021-09-26-dao-should-manage-risks</guid>
+			<description>前提&lt;br /&gt;アプリケーションレイヤーには防御性が重要である&lt;br /&gt;現在のDeFiアプリケーションレイヤーのトークン設計&lt;br /&gt;DAOはトークン設計にリスクマネジメントを組み込むべきである&lt;br /&gt;筆者考察&lt;br /&gt;</description>
+			<pubDate>Sun, 19 Sep 2021 19:57:26 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/06rfskrtse4g8yoxkkhtprbc1cgc/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Olympus DAO DAOによる中央銀行システム</title>
 			<link>https://hashhub-research.com/articles/2021-09-25-olympus-dao</link>
 			<guid isPermaLink="false">2021-09-25-olympus-dao</guid>
@@ -187,14 +195,6 @@
 			<description></description>
 			<pubDate>Wed, 01 Sep 2021 09:44:46 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/58jla679rwnb1907xrt0uulvtxy9/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>中国における富の再分配や脅かされる私有財産権  暗号資産市場への影響</title>
-			<link>https://hashhub-research.com/articles/2021-08-31-wealth-redistribution-in-china</link>
-			<guid isPermaLink="false">2021-08-31-wealth-redistribution-in-china</guid>
-			<description>前提&lt;br /&gt;2.政治や体制に意見をする影響力のある個人の社会的制裁がより活発に&lt;br /&gt;暗号資産市場へ中国からの資金流入を示す指標&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Fri, 27 Aug 2021 18:32:25 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/e7dtflaee803nbrp6pwwtb5hryjm/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
