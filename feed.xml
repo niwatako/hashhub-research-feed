@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>L1&lt;-&gt;L2流動性断絶の課題 Synthetix合成資産の是非</title>
+			<link>https://hashhub-research.com/articles/2021-09-28-l1-l2-composability-synthetix</link>
+			<guid isPermaLink="false">2021-09-28-l1-l2-composability-synthetix</guid>
+			<description>前提&lt;br /&gt;トークンによってL2における摩擦が大きく異なる&lt;br /&gt;sUSDをL2に持って行きづらい理由&lt;br /&gt;SynthetixはComposabilityとは無縁と思われたが&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Fri, 24 Sep 2021 17:23:32 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/lr5x0pt7tgy59ykt7gz7xixyoudd/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>アプリケーションレイヤートークンの投資検討 長期的に価値を持ち真の防御性を備えるプロジェクトの条件とは何か</title>
 			<link>https://hashhub-research.com/articles/2021-09-26-dao-should-manage-risks</link>
 			<guid isPermaLink="false">2021-09-26-dao-should-manage-risks</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;インターネット上の地産地消型アセットとしてのBitcoin&lt;br /&gt;法定通貨の場合&lt;br /&gt;総論&lt;br /&gt;参考&lt;br /&gt;</description>
 			<pubDate>Mon, 30 Aug 2021 19:09:26 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/jqevw01y7dq92sl3jq5qawii6nuu/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>上場マイニング運用会社の時価総額についての考察</title>
-			<link>https://hashhub-research.com/articles/2021-09-01-marketcap-of-mining-companies</link>
-			<guid isPermaLink="false">2021-09-01-marketcap-of-mining-companies</guid>
-			<description></description>
-			<pubDate>Wed, 01 Sep 2021 09:44:46 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/58jla679rwnb1907xrt0uulvtxy9/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
