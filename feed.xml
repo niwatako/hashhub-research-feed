@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>LIDO（LDO）の投資分析　現在の実績や将来可能性からの評価算定</title>
+			<link>https://hashhub-research.com/articles/2021-09-30-lido-valuation</link>
+			<guid isPermaLink="false">2021-09-30-lido-valuation</guid>
+			<description>前提&lt;br /&gt;LIDOの現状&lt;br /&gt;Ethereum 2.0のマージが完了してPoS移行後のLIDOに期待されること&lt;br /&gt;LDOトークンの投資分析&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Mon, 27 Sep 2021 09:49:45 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/wzqmg0voua4edublp3ihvbd83zr3/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>IBM Verify Credentialsの概要</title>
 			<link>https://hashhub-research.com/articles/2021-09-29-ibm-verify-credentials</link>
 			<guid isPermaLink="false">2021-09-29-ibm-verify-credentials</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;8月マーケットの概観&lt;br /&gt;</description>
 			<pubDate>Fri, 03 Sep 2021 20:58:29 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/l3xxxksayv9nkhf133pv2vh4g6kw/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>NFT価値の源泉を問う【後編】｜「没個性的な」がみせるNFTの臨界点</title>
-			<link>https://hashhub-research.com/articles/2021-09-04-the-source-of-nft-value-2</link>
-			<guid isPermaLink="false">2021-09-04-the-source-of-nft-value-2</guid>
-			<description>前提&lt;br /&gt;「個性的な」と「没個性的な」の狭間に生じたNFT市場【後編】&lt;br /&gt;総論｜物質文明、市場経済、資本経済が緩やかにつながるNFTの未来&lt;br /&gt;</description>
-			<pubDate>Thu, 02 Sep 2021 17:46:20 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/wfaiun5w7j8msyu2iw09xn72vpb6/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
