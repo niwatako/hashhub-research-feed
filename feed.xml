@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>中国による過去最高レベルの暗号資産規制の実態把握と影響（2021年10月）</title>
+			<link>https://hashhub-research.com/articles/2021-10-02-china-effects-crypto-asset-market-report</link>
+			<guid isPermaLink="false">2021-10-02-china-effects-crypto-asset-market-report</guid>
+			<description>前提&lt;br /&gt;中国による過去最高レベルの暗号資産規制の実態把握と影響&lt;br /&gt;筆者考察&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Fri, 01 Oct 2021 19:05:13 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/wi4vxlkb6xqmmyg9zs43aj2w9ql1/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>サプライサイドによるレイヤー２エコシステムへの影響についての考察</title>
 			<link>https://hashhub-research.com/articles/2021-10-01-impact-on-the-l2-ecosystem</link>
 			<guid isPermaLink="false">2021-10-01-impact-on-the-l2-ecosystem</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;メタバースとは何か&lt;br /&gt;FacebookやTwitterのビジョン&lt;br /&gt;暗号資産とブロックチェーンはそれにどう交わるか&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Sun, 05 Sep 2021 09:42:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/qxytwnyik518nh6v95lei2thtxx4/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>NFT（Non-Fungible-Token）動向レポート【9月版】</title>
-			<link>https://hashhub-research.com/articles/2021-09-07-nft-market-report</link>
-			<guid isPermaLink="false">2021-09-07-nft-market-report</guid>
-			<description>前提&lt;br /&gt;コレクタブルの夏&lt;br /&gt;NFTアートの復活&lt;br /&gt;国内動向のまとめ&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Mon, 06 Sep 2021 15:08:41 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ic4cobu19562vtyzafd4oyimsyec/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
