@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Internet Computer Protocolの現状（2021年10月時点）と今後のロードマップ</title>
+			<link>https://hashhub-research.com/articles/2021-10-03-internet-computer-protocol-curreunt-status-2021-09-future-roadmap</link>
+			<guid isPermaLink="false">2021-10-03-internet-computer-protocol-curreunt-status-2021-09-future-roadmap</guid>
+			<description>概要&lt;br /&gt;プロジェクトの立ち上がり&lt;br /&gt;Internet Computerの現状について&lt;br /&gt;今後のロードマップについて&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Thu, 30 Sep 2021 00:11:39 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/77u553zm0fketxmmbczca15zli1g/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>中国による過去最高レベルの暗号資産規制の実態把握と影響（2021年10月）</title>
 			<link>https://hashhub-research.com/articles/2021-10-02-china-effects-crypto-asset-market-report</link>
 			<guid isPermaLink="false">2021-10-02-china-effects-crypto-asset-market-report</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt; 2021年のNFTの振り返り&lt;br /&gt;NFTの価値となぜ高騰したかを考える&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Mon, 06 Sep 2021 12:40:05 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/9ns2rr9eou86nejthjsbckw55hse/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>メタバースとは何か 暗号資産とブロックチェーンはなぜ重要か</title>
-			<link>https://hashhub-research.com/articles/2021-09-08-metaverse-and-blockchain</link>
-			<guid isPermaLink="false">2021-09-08-metaverse-and-blockchain</guid>
-			<description>前提&lt;br /&gt;メタバースとは何か&lt;br /&gt;FacebookやTwitterのビジョン&lt;br /&gt;暗号資産とブロックチェーンはそれにどう交わるか&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Sun, 05 Sep 2021 09:42:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/qxytwnyik518nh6v95lei2thtxx4/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
