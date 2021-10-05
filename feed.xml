@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ブロックチェーンブリッジの仕組みや類型の解説 種類ごとのメリットやリスクを学ぶ</title>
+			<link>https://hashhub-research.com/articles/2021-10-05-blockchain-bridge</link>
+			<guid isPermaLink="false">2021-10-05-blockchain-bridge</guid>
+			<description>前提&lt;br /&gt;一般的なブリッジの動作&lt;br /&gt;コンソーシアム・POA・PoS型&lt;br /&gt;ライトクライアント型&lt;br /&gt;MPC型&lt;br /&gt;流動性型ブリッジ&lt;br /&gt;将来的に出来るであろう他の種類のブリッジ&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Fri, 01 Oct 2021 13:10:20 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/4u4rhk4ezpxag7dcb5hs3dnhgfrw/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Internet Computer Protocolの現状（2021年10月時点）と今後のロードマップ</title>
 			<link>https://hashhub-research.com/articles/2021-10-03-internet-computer-protocol-curreunt-status-2021-09-future-roadmap</link>
 			<guid isPermaLink="false">2021-10-03-internet-computer-protocol-curreunt-status-2021-09-future-roadmap</guid>
@@ -187,14 +195,6 @@
 			<description>より多くの人に暗号資産・ブロックチェーンの知見を届けるために&lt;br /&gt;「トークンエアドロップ」特集｜9月10日～9月23日の期間限定レポート一覧&lt;br /&gt;</description>
 			<pubDate>Fri, 10 Sep 2021 09:30:47 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/3kb3qv9l8lxd4oyewy3ykf11ct52/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>NFTはなぜ高騰したのか　2021年のNFTのイベントと種類を振り返る</title>
-			<link>https://hashhub-research.com/articles/2021-09-09-nft-event-variety</link>
-			<guid isPermaLink="false">2021-09-09-nft-event-variety</guid>
-			<description>前提&lt;br /&gt; 2021年のNFTの振り返り&lt;br /&gt;NFTの価値となぜ高騰したかを考える&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Mon, 06 Sep 2021 12:40:05 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/9ns2rr9eou86nejthjsbckw55hse/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
