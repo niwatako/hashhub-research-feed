@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>project EDGEの概要｜DER（分散型エネルギー源）市場の効率的運用の模索</title>
+			<link>https://hashhub-research.com/articles/2021-10-06-project-edge</link>
+			<guid isPermaLink="false">2021-10-06-project-edge</guid>
+			<description>前提&lt;br /&gt;EDGE概要&lt;br /&gt;EDGEによるDER市場の概要&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Thu, 30 Sep 2021 13:05:19 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/265f3ghrq5yew04ytdeec7whm6vs/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ブロックチェーンブリッジの仕組みや類型の解説 種類ごとのメリットやリスクを学ぶ</title>
 			<link>https://hashhub-research.com/articles/2021-10-05-blockchain-bridge</link>
 			<guid isPermaLink="false">2021-10-05-blockchain-bridge</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;現物市場の取引データおよび各社の主要なアップデート&lt;br /&gt;デリバティブ市場の取引データおよび各社の主要なアップデート&lt;br /&gt;取引所トークンと関連する各種データ&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Fri, 10 Sep 2021 18:23:53 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/c3sag0j3mg9f4wrndjsfpzg5144u/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title> 9/10〜9/23期間限定公開レポート「トークンエアドロップ」特集</title>
-			<link>https://hashhub-research.com/articles/2021-09-10-free-report-for-limited-time</link>
-			<guid isPermaLink="false">2021-09-10-free-report-for-limited-time</guid>
-			<description>より多くの人に暗号資産・ブロックチェーンの知見を届けるために&lt;br /&gt;「トークンエアドロップ」特集｜9月10日～9月23日の期間限定レポート一覧&lt;br /&gt;</description>
-			<pubDate>Fri, 10 Sep 2021 09:30:47 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/3kb3qv9l8lxd4oyewy3ykf11ct52/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
