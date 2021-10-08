@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>レイヤー2やクロスチェーンについてDeFiユーザーが認識すべき新しい5つのリスク</title>
+			<link>https://hashhub-research.com/articles/2021-10-08-risks-od-layer2-and-crosschain</link>
+			<guid isPermaLink="false">2021-10-08-risks-od-layer2-and-crosschain</guid>
+			<description>前提&lt;br /&gt;使用するブリッジはどのような信用に依拠しているか&lt;br /&gt;マルチシグによるアップグレーダビリティ&lt;br /&gt;特定の新規ブロックチェーン固有のリスク&lt;br /&gt;特定の新規ブロックチェーンのスマートコントラクト固有のリスク&lt;br /&gt;資金の経路の確認&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Mon, 04 Oct 2021 10:11:04 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/glk6k5lxo94ledk5jl8ojz6p4b9q/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Fixed Forexの概要 柔軟な担保資産の利用</title>
 			<link>https://hashhub-research.com/articles/2021-10-07-fixed-forex</link>
 			<guid isPermaLink="false">2021-10-07-fixed-forex</guid>
@@ -187,14 +195,6 @@
 			<description></description>
 			<pubDate>Thu, 09 Sep 2021 18:31:04 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/f9er4leb44737pcli3g7g6snhh71/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Loot (for Adventurers) NFTマニアを騒がせたテキストベースのコレクティブルアイテム</title>
-			<link>https://hashhub-research.com/articles/2021-09-12-loot-overview</link>
-			<guid isPermaLink="false">2021-09-12-loot-overview</guid>
-			<description>前提&lt;br /&gt;Loot (for Adventurers) の概要&lt;br /&gt;筆者考察&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Tue, 07 Sep 2021 08:59:55 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/a7hia9sjcjz3b8azt77xrrn1gn9j/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
