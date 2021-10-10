@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>マイアミ市で流行するMiamiCoinとCitycoins Protocolの概要</title>
+			<link>https://hashhub-research.com/articles/2020-10-10-miamicoin-overview</link>
+			<guid isPermaLink="false">2020-10-10-miamicoin-overview</guid>
+			<description>前提&lt;br /&gt;マイアミ市で流行するMiamiCoinとCitycoins Protocolの概要&lt;br /&gt;筆者考察&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Wed, 06 Oct 2021 10:32:13 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/lj5wyx08jgwb50ohedae1ozdkexo/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>世界の暗号資産取引所ビジネスの定点観測レポート【21年10月版】</title>
 			<link>https://hashhub-research.com/articles/2021-10-09-crypto-asset-exchange-report</link>
 			<guid isPermaLink="false">2021-10-09-crypto-asset-exchange-report</guid>
@@ -190,14 +198,6 @@ FTX&lt;br /&gt;取引所トークンと関連する各種データ&lt;br /&gt;�
 			<description>Azure AD Verifiable Credentialsの概要&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Wed, 15 Sep 2021 17:19:23 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/l4bs5d5uu7sbwdrd2cdm8vpcasmo/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>The Sandboxの概要　ブロックチェーンを利用したメタバース</title>
-			<link>https://hashhub-research.com/articles/2020-09-15-the-sandbox-overview</link>
-			<guid isPermaLink="false">2020-09-15-the-sandbox-overview</guid>
-			<description>前提&lt;br /&gt;The Sandboxの概要&lt;br /&gt;SANDトークンの概要&lt;br /&gt;ユースケース&lt;br /&gt;トークンディストリビューション&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Wed, 08 Sep 2021 09:44:13 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/49hud5mauj6jydpm26fillwog7k9/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
