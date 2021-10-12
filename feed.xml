@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Beta Financeの概要 DeFiであらゆる銘柄のショートを簡単にするプロダクト</title>
+			<link>https://hashhub-research.com/articles/2021-10-12-overview-beta-finance</link>
+			<guid isPermaLink="false">2021-10-12-overview-beta-finance</guid>
+			<description>前提&lt;br /&gt;Beta Financeの概要&lt;br /&gt;独自トークンBETAの概要&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Thu, 07 Oct 2021 19:58:15 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/63v1oc82ouvla1z2wh4xk5dt8j18/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>マイアミ市で流行するMiamiCoinとCitycoins Protocolの概要</title>
 			<link>https://hashhub-research.com/articles/2020-10-10-miamicoin-overview</link>
 			<guid isPermaLink="false">2020-10-10-miamicoin-overview</guid>
@@ -190,14 +198,6 @@ FTX&lt;br /&gt;取引所トークンと関連する各種データ&lt;br /&gt;�
 			<description>前提&lt;br /&gt;Secret Network (SCRT)の概要&lt;br /&gt;ネイティブトークン・SCRTの概要&lt;br /&gt;エコシステム&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Fri, 10 Sep 2021 08:52:55 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/s44z5eqz3jbqpimy7t0moxq81jlc/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Azure AD Verifiable Credentialsの概要</title>
-			<link>https://hashhub-research.com/articles/2021-09-16-azure-ad-verifiable-credentials</link>
-			<guid isPermaLink="false">2021-09-16-azure-ad-verifiable-credentials</guid>
-			<description>Azure AD Verifiable Credentialsの概要&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Wed, 15 Sep 2021 17:19:23 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/l4bs5d5uu7sbwdrd2cdm8vpcasmo/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
