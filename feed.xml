@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>UXD Protocolの概要</title>
+			<link>https://hashhub-research.com/articles/2021-10-13-uxd-protocol</link>
+			<guid isPermaLink="false">2021-10-13-uxd-protocol</guid>
+			<description>前提&lt;br /&gt;デルタニュートラルとは&lt;br /&gt;UXD Protocolの仕組み&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Mon, 11 Oct 2021 13:53:04 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/atyfg9jjstvaivj84w4jo2qr0qnl/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Beta Financeの概要 DeFiであらゆる銘柄のショートを簡単にするプロダクト</title>
 			<link>https://hashhub-research.com/articles/2021-10-12-overview-beta-finance</link>
 			<guid isPermaLink="false">2021-10-12-overview-beta-finance</guid>
@@ -190,14 +198,6 @@ FTX&lt;br /&gt;取引所トークンと関連する各種データ&lt;br /&gt;�
 			<description>暗号資産でインカムゲイン（継続的収益）を得る&lt;br /&gt;CeFiでのレンディング&lt;br /&gt;DeFi（分散型金融）&lt;br /&gt;PoS銘柄によるステーキング&lt;br /&gt;特殊なジョブのノード運営&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Sun, 12 Sep 2021 17:56:07 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/10xg8f5ah08xh9lq1ak27362thnm/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Secret Network (SCRT)の概要　プライバシースマートコントラクトプラットフォーム</title>
-			<link>https://hashhub-research.com/articles/2021-09-17-secret-network-overview</link>
-			<guid isPermaLink="false">2021-09-17-secret-network-overview</guid>
-			<description>前提&lt;br /&gt;Secret Network (SCRT)の概要&lt;br /&gt;ネイティブトークン・SCRTの概要&lt;br /&gt;エコシステム&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Fri, 10 Sep 2021 08:52:55 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/s44z5eqz3jbqpimy7t0moxq81jlc/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
