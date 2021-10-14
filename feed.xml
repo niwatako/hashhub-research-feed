@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>1/1NFTの解体と再構築【前編】｜フラクショナル・オーナーシップの変遷</title>
+			<link>https://hashhub-research.com/articles/2021-10-14-fractional-nfts</link>
+			<guid isPermaLink="false">2021-10-14-fractional-nfts</guid>
+			<description>前提&lt;br /&gt;NFTにみるフラクショナル・オーナーシップモデル&lt;br /&gt;NFTの共同所有が生む課題&lt;br /&gt;</description>
+			<pubDate>Thu, 14 Oct 2021 08:52:14 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ou5bw6au67fayylnzo7syrmqar7m/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>UXD Protocolの概要</title>
 			<link>https://hashhub-research.com/articles/2021-10-13-uxd-protocol</link>
 			<guid isPermaLink="false">2021-10-13-uxd-protocol</guid>
@@ -190,14 +198,6 @@ FTX&lt;br /&gt;取引所トークンと関連する各種データ&lt;br /&gt;�
 			<description>前提&lt;br /&gt;9月のDeFiマーケット概観&lt;br /&gt;各プロダクトの近況&lt;br /&gt;</description>
 			<pubDate>Fri, 17 Sep 2021 18:53:06 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/xq1ypt27qpv0kc0a5ea6lu4vhqne/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>暗号資産でインカムゲイン（継続的収益）を得る方法まとめ</title>
-			<link>https://hashhub-research.com/articles/2021-09-18-income-gain-via-crypto-asset</link>
-			<guid isPermaLink="false">2021-09-18-income-gain-via-crypto-asset</guid>
-			<description>暗号資産でインカムゲイン（継続的収益）を得る&lt;br /&gt;CeFiでのレンディング&lt;br /&gt;DeFi（分散型金融）&lt;br /&gt;PoS銘柄によるステーキング&lt;br /&gt;特殊なジョブのノード運営&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Sun, 12 Sep 2021 17:56:07 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/10xg8f5ah08xh9lq1ak27362thnm/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
