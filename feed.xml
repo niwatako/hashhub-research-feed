@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title> 10/15〜10/28期間限定公開レポート「DeFi2.0となりつつあるもの」特集</title>
+			<link>https://hashhub-research.com/articles/2021-10-15-free-report-for-limited-time</link>
+			<guid isPermaLink="false">2021-10-15-free-report-for-limited-time</guid>
+			<description>より多くの人に暗号資産・ブロックチェーンの知見を届けるために&lt;br /&gt;「DeFi2.0となりつつあるもの」特集｜10月15日～10月28日の期間限定レポート&lt;br /&gt;</description>
+			<pubDate>Fri, 15 Oct 2021 13:38:04 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/y3au9ak709jiz5crrz936b0er8li/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>1/1NFTの解体と再構築【前編】｜フラクショナル・オーナーシップの変遷</title>
 			<link>https://hashhub-research.com/articles/2021-10-14-fractional-nfts</link>
 			<guid isPermaLink="false">2021-10-14-fractional-nfts</guid>
@@ -147,7 +155,7 @@ FTX&lt;br /&gt;取引所トークンと関連する各種データ&lt;br /&gt;�
 			<title>Olympus DAO DAOによる中央銀行システム</title>
 			<link>https://hashhub-research.com/articles/2021-09-25-olympus-dao</link>
 			<guid isPermaLink="false">2021-09-25-olympus-dao</guid>
-			<description></description>
+			<description>前提&lt;br /&gt;ネイティブトークンOHM&lt;br /&gt;OHMの発行メカニズム（Bond）&lt;br /&gt;トレジャリー（プロトコル）が保有する流動性&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Sat, 25 Sep 2021 09:31:24 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/s5n5jgfe1u0yam1cwdmuuog9gfgp/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
@@ -190,14 +198,6 @@ FTX&lt;br /&gt;取引所トークンと関連する各種データ&lt;br /&gt;�
 			<description>前提&lt;br /&gt;Optimistic Rollupとzk Rollupの特徴の振り返り&lt;br /&gt;Optimistic Rollupの欠点&lt;br /&gt;zk rollupsは何故長期的に有望な技術か&lt;br /&gt;総論 &lt;br /&gt;</description>
 			<pubDate>Sat, 18 Sep 2021 10:48:07 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/jnq2kpw8ngs651ochx26hlmfeiyv/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>DeFiマーケットレポート【21年9月版】 </title>
-			<link>https://hashhub-research.com/articles/2021-9-19-defi-market</link>
-			<guid isPermaLink="false">2021-9-19-defi-market</guid>
-			<description>前提&lt;br /&gt;9月のDeFiマーケット概観&lt;br /&gt;各プロダクトの近況&lt;br /&gt;</description>
-			<pubDate>Fri, 17 Sep 2021 18:53:06 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/xq1ypt27qpv0kc0a5ea6lu4vhqne/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
