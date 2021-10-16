@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>NFT（Non-Fungible-Token）動向レポート【10月版】</title>
+			<link>https://hashhub-research.com/articles/2021-10-16-nft-market</link>
+			<guid isPermaLink="false">2021-10-16-nft-market</guid>
+			<description>前提&lt;br /&gt;NFT販売の傾向&lt;br /&gt;既存企業のNFT活用の活発化&lt;br /&gt;NFT系企業大型投資&lt;br /&gt;ブランドNFTの定着化&lt;br /&gt;国内動向のまとめ&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Wed, 13 Oct 2021 21:34:16 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/j4izwyf0ijdx2oakyvsihu9sbsbv/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title> 10/15〜10/28期間限定公開レポート「DeFi2.0となりつつあるもの」特集</title>
 			<link>https://hashhub-research.com/articles/2021-10-15-free-report-for-limited-time</link>
 			<guid isPermaLink="false">2021-10-15-free-report-for-limited-time</guid>
@@ -190,14 +198,6 @@ FTX&lt;br /&gt;取引所トークンと関連する各種データ&lt;br /&gt;�
 			<description>前提&lt;br /&gt;レイヤー2に関連するインフラストラクチャーへの投資&lt;br /&gt;レイヤー2に相性の良いアプリケーション&lt;br /&gt;遡及的なエアドロップの期待（給付金）&lt;br /&gt;その他&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Sun, 19 Sep 2021 08:37:04 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/30sxwf1smt1405b0rhuasy8o7l9t/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>zk rollupsは何故長期的に有望なレイヤー2技術として考えられるか</title>
-			<link>https://hashhub-research.com/articles/2020-09-20-why-zk-rollups-matter</link>
-			<guid isPermaLink="false">2020-09-20-why-zk-rollups-matter</guid>
-			<description>前提&lt;br /&gt;Optimistic Rollupとzk Rollupの特徴の振り返り&lt;br /&gt;Optimistic Rollupの欠点&lt;br /&gt;zk rollupsは何故長期的に有望な技術か&lt;br /&gt;総論 &lt;br /&gt;</description>
-			<pubDate>Sat, 18 Sep 2021 10:48:07 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/jnq2kpw8ngs651ochx26hlmfeiyv/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
