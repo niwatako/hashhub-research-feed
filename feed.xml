@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>1/1NFTの解体と再構築【後編】｜再構築時の課題とソリューションの変遷</title>
+			<link>https://hashhub-research.com/articles/2021-10-19-fractional-nfts</link>
+			<guid isPermaLink="false">2021-10-19-fractional-nfts</guid>
+			<description>前提&lt;br /&gt;再構築時の課題とソリューションの変遷&lt;br /&gt;「思惑の異なる利害関係者間の合意形成の困難さ」を民主的に解消する&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Mon, 18 Oct 2021 06:42:06 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/yqmqj11hwkrzf03oekaa4xortp7t/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Abracadabra Money  ibTokenを担保に借入が可能なレンディングプラットフォーム</title>
 			<link>https://hashhub-research.com/articles/2021-10-17-about-abracadabra-money</link>
 			<guid isPermaLink="false">2021-10-17-about-abracadabra-money</guid>
@@ -190,14 +198,6 @@ FTX&lt;br /&gt;取引所トークンと関連する各種データ&lt;br /&gt;�
 			<description>前提&lt;br /&gt;利用のしかた、および注意点&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Sun, 19 Sep 2021 11:05:30 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/pxo5hqy5z48pyv5qdm8uuw1zzr6v/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>9月の暗号資産マーケットの重要な論点 中国恒大集団や米SECの動向について理解しておくべきこと</title>
-			<link>https://hashhub-research.com/articles/2021-09-22-market-agenda</link>
-			<guid isPermaLink="false">2021-09-22-market-agenda</guid>
-			<description>前提&lt;br /&gt;中国恒大集団を発端にした中国のリセッション&lt;br /&gt;米SECによる暗号資産市場への規制強化&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Wed, 22 Sep 2021 11:01:33 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/p3v992ctrsbpbk1sjdfa9edm6fa3/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
