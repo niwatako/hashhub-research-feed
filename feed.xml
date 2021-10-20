@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Play to Earn（ブロックチェーンゲーム）とは何か なぜ2021年の今流行しているか</title>
+			<link>https://hashhub-research.com/articles/2021-10-20-play-to-earn-overview</link>
+			<guid isPermaLink="false">2021-10-20-play-to-earn-overview</guid>
+			<description>前提&lt;br /&gt;Play to Earnとは何か、ユーザーはどのように稼げるか&lt;br /&gt;なぜ2021年に一気にPlay to Earnが注目されたか&lt;br /&gt;Play to Earn、あるいはゲームの未来&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Wed, 13 Oct 2021 23:01:01 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/xip47ujelaj8jaqpnbfflnzxi1nz/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>1/1NFTの解体と再構築【後編】｜再構築時の課題とソリューションの変遷</title>
 			<link>https://hashhub-research.com/articles/2021-10-19-fractional-nfts</link>
 			<guid isPermaLink="false">2021-10-19-fractional-nfts</guid>
@@ -190,14 +198,6 @@ FTX&lt;br /&gt;取引所トークンと関連する各種データ&lt;br /&gt;�
 			<description>より多くの人に暗号資産・ブロックチェーンの知見を届けるために&lt;br /&gt;「L2クロスチェーンブリッジ」特集｜9月24日～10月14日の期間限定レポート一覧&lt;br /&gt;</description>
 			<pubDate>Fri, 24 Sep 2021 10:00:26 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/jo2ykd0nbdexhfuzh36s0xfbeac8/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Hop Protocolの概要 レイヤー2間で流動性を形成するブリッジプロジェクト</title>
-			<link>https://hashhub-research.com/articles/2021-09-23-hop-protocol-overview</link>
-			<guid isPermaLink="false">2021-09-23-hop-protocol-overview</guid>
-			<description>前提&lt;br /&gt;利用のしかた、および注意点&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Sun, 19 Sep 2021 11:05:30 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/pxo5hqy5z48pyv5qdm8uuw1zzr6v/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
