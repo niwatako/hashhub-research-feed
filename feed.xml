@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Saddle Financeの概要 ソフトペグトークンの分散型取引所</title>
+			<link>https://hashhub-research.com/articles/2021-10-21-saddle-finance-overview</link>
+			<guid isPermaLink="false">2021-10-21-saddle-finance-overview</guid>
+			<description>前提&lt;br /&gt;Saddle Financeの概要&lt;br /&gt;資金調達やトークン発行&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Tue, 19 Oct 2021 14:59:44 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/q0igqef03xjqu6q94e1nlbt4xvpb/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Play to Earn（ブロックチェーンゲーム）とは何か なぜ2021年の今流行しているか</title>
 			<link>https://hashhub-research.com/articles/2021-10-20-play-to-earn-overview</link>
 			<guid isPermaLink="false">2021-10-20-play-to-earn-overview</guid>
@@ -190,14 +198,6 @@ FTX&lt;br /&gt;取引所トークンと関連する各種データ&lt;br /&gt;�
 			<description>前提&lt;br /&gt;ネイティブトークンOHM&lt;br /&gt;OHMの発行メカニズム（Bond）&lt;br /&gt;トレジャリー（プロトコル）が保有する流動性&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Sat, 25 Sep 2021 09:31:24 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/s5n5jgfe1u0yam1cwdmuuog9gfgp/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title> 9/24〜10/14期間限定公開レポート「L2クロスチェーンブリッジ」特集</title>
-			<link>https://hashhub-research.com/articles/2021-09-24-free-report-for-limited-time</link>
-			<guid isPermaLink="false">2021-09-24-free-report-for-limited-time</guid>
-			<description>より多くの人に暗号資産・ブロックチェーンの知見を届けるために&lt;br /&gt;「L2クロスチェーンブリッジ」特集｜9月24日～10月14日の期間限定レポート一覧&lt;br /&gt;</description>
-			<pubDate>Fri, 24 Sep 2021 10:00:26 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/jo2ykd0nbdexhfuzh36s0xfbeac8/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
