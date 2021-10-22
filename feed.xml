@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Fei Protocol v2の概要 資金効率性を更に高めたステーブルコイン</title>
+			<link>https://hashhub-research.com/articles/2021-10-22-fei-protocol-v2</link>
+			<guid isPermaLink="false">2021-10-22-fei-protocol-v2</guid>
+			<description>前提&lt;br /&gt;1:1の引き出し可に&lt;br /&gt;PCVマネジメント&lt;br /&gt;ガバナンストークンTRIBEの設計変更&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Tue, 19 Oct 2021 17:18:48 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/9zj1nhmrdm1qqel5ezptr1mn7v0z/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Saddle Financeの概要 ソフトペグトークンの分散型取引所</title>
 			<link>https://hashhub-research.com/articles/2021-10-21-saddle-finance-overview</link>
 			<guid isPermaLink="false">2021-10-21-saddle-finance-overview</guid>
@@ -190,14 +198,6 @@ FTX&lt;br /&gt;取引所トークンと関連する各種データ&lt;br /&gt;�
 			<description>前提&lt;br /&gt;アプリケーションレイヤーには防御性が重要である&lt;br /&gt;現在のDeFiアプリケーションレイヤーのトークン設計&lt;br /&gt;DAOはトークン設計にリスクマネジメントを組み込むべきである&lt;br /&gt;筆者考察&lt;br /&gt;</description>
 			<pubDate>Sun, 19 Sep 2021 19:57:26 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/06rfskrtse4g8yoxkkhtprbc1cgc/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Olympus DAO DAOによる中央銀行システム</title>
-			<link>https://hashhub-research.com/articles/2021-09-25-olympus-dao</link>
-			<guid isPermaLink="false">2021-09-25-olympus-dao</guid>
-			<description>前提&lt;br /&gt;ネイティブトークンOHM&lt;br /&gt;OHMの発行メカニズム（Bond）&lt;br /&gt;トレジャリー（プロトコル）が保有する流動性&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Sat, 25 Sep 2021 09:31:24 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/s5n5jgfe1u0yam1cwdmuuog9gfgp/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
