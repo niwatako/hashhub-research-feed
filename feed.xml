@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Fuseの概要 カスタマイズ可能なレンディングプールを誰でもつくれるプロトコル</title>
+			<link>https://hashhub-research.com/articles/2021-10-23-fuse-overview</link>
+			<guid isPermaLink="false">2021-10-23-fuse-overview</guid>
+			<description>前提&lt;br /&gt;Fuseの概要&lt;br /&gt;Fuseの典型的なメリットや利用用途&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Wed, 20 Oct 2021 10:20:47 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/gjs6cvcvclbd6qey9xxhp2hm1xn8/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Fei Protocol v2の概要 資金効率性を更に高めたステーブルコイン</title>
 			<link>https://hashhub-research.com/articles/2021-10-22-fei-protocol-v2</link>
 			<guid isPermaLink="false">2021-10-22-fei-protocol-v2</guid>
@@ -190,14 +198,6 @@ FTX&lt;br /&gt;取引所トークンと関連する各種データ&lt;br /&gt;�
 			<description>前提&lt;br /&gt;トークンによってL2における摩擦が大きく異なる&lt;br /&gt;sUSDをL2に持って行きづらい理由&lt;br /&gt;SynthetixはComposabilityとは無縁と思われたが&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Fri, 24 Sep 2021 17:23:32 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/lr5x0pt7tgy59ykt7gz7xixyoudd/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>アプリケーションレイヤートークンの投資検討 長期的に価値を持ち真の防御性を備えるプロジェクトの条件とは何か</title>
-			<link>https://hashhub-research.com/articles/2021-09-26-dao-should-manage-risks</link>
-			<guid isPermaLink="false">2021-09-26-dao-should-manage-risks</guid>
-			<description>前提&lt;br /&gt;アプリケーションレイヤーには防御性が重要である&lt;br /&gt;現在のDeFiアプリケーションレイヤーのトークン設計&lt;br /&gt;DAOはトークン設計にリスクマネジメントを組み込むべきである&lt;br /&gt;筆者考察&lt;br /&gt;</description>
-			<pubDate>Sun, 19 Sep 2021 19:57:26 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/06rfskrtse4g8yoxkkhtprbc1cgc/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
