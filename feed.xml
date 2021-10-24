@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Solanaの近況 NFTからDeFiまで</title>
+			<link>https://hashhub-research.com/articles/2021-10-24-solana-defi-nft</link>
+			<guid isPermaLink="false">2021-10-24-solana-defi-nft</guid>
+			<description>前提&lt;br /&gt;Solanaの近況&lt;br /&gt;日本におけるSolanaの課題&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Fri, 22 Oct 2021 23:03:11 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/571nu1nciioq199wxt2ey8ochxso/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Fuseの概要 カスタマイズ可能なレンディングプールを誰でもつくれるプロトコル</title>
 			<link>https://hashhub-research.com/articles/2021-10-23-fuse-overview</link>
 			<guid isPermaLink="false">2021-10-23-fuse-overview</guid>
@@ -190,14 +198,6 @@ FTX&lt;br /&gt;取引所トークンと関連する各種データ&lt;br /&gt;�
 			<description></description>
 			<pubDate>Fri, 25 Dec 2020 11:18:57 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/akdevoawbe0aflk5qa74kfgmqrd7/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>L1&lt;-&gt;L2流動性断絶の課題 Synthetix合成資産の是非</title>
-			<link>https://hashhub-research.com/articles/2021-09-28-l1-l2-composability-synthetix</link>
-			<guid isPermaLink="false">2021-09-28-l1-l2-composability-synthetix</guid>
-			<description>前提&lt;br /&gt;トークンによってL2における摩擦が大きく異なる&lt;br /&gt;sUSDをL2に持って行きづらい理由&lt;br /&gt;SynthetixはComposabilityとは無縁と思われたが&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Fri, 24 Sep 2021 17:23:32 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/lr5x0pt7tgy59ykt7gz7xixyoudd/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
