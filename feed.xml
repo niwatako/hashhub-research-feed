@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>分散型グリッドにおけるコミュニティスケール・バッテリーの可能性</title>
+			<link>https://hashhub-research.com/articles/2021-10-28-about-community-scale-batteries</link>
+			<guid isPermaLink="false">2021-10-28-about-community-scale-batteries</guid>
+			<description>前提&lt;br /&gt;コミュニティスケール・バッテリーの概要&lt;br /&gt;</description>
+			<pubDate>Thu, 28 Oct 2021 09:04:36 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/jc0a9yflt6px0ej2sm5nnbsfbcsr/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>暗号資産マーケットレポート 注目のトークンの投資分析【21年10月版】 </title>
 			<link>https://hashhub-research.com/articles/2021-10-27-market-report</link>
 			<guid isPermaLink="false">2021-10-27-market-report</guid>
@@ -190,14 +198,6 @@ FTX&lt;br /&gt;取引所トークンと関連する各種データ&lt;br /&gt;�
 			<description></description>
 			<pubDate>Fri, 01 Oct 2021 09:16:50 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/hsn7fcc6plxg3pkxp65jq8u8tgxw/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>LIDO（LDO）の投資分析　現在の実績や将来可能性からの評価算定</title>
-			<link>https://hashhub-research.com/articles/2021-09-30-lido-valuation</link>
-			<guid isPermaLink="false">2021-09-30-lido-valuation</guid>
-			<description>前提&lt;br /&gt;LIDOの現状&lt;br /&gt;Ethereum 2.0のマージが完了してPoS移行後のLIDOに期待されること&lt;br /&gt;LDOトークンの投資分析&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Mon, 27 Sep 2021 09:49:45 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/wzqmg0voua4edublp3ihvbd83zr3/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
