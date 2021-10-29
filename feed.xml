@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>中立性と透明性向上を目的とした保有暗号資産の財務情報の開示</title>
+			<link>https://hashhub-research.com/articles/portfolio-disclosure</link>
+			<guid isPermaLink="false">portfolio-disclosure</guid>
+			<description></description>
+			<pubDate>Fri, 25 Dec 2020 11:18:57 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/akdevoawbe0aflk5qa74kfgmqrd7/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>分散型グリッドにおけるコミュニティスケール・バッテリーの可能性</title>
 			<link>https://hashhub-research.com/articles/2021-10-28-about-community-scale-batteries</link>
 			<guid isPermaLink="false">2021-10-28-about-community-scale-batteries</guid>
@@ -190,14 +198,6 @@ FTX&lt;br /&gt;取引所トークンと関連する各種データ&lt;br /&gt;�
 			<description>前提&lt;br /&gt;中国による過去最高レベルの暗号資産規制の実態把握と影響&lt;br /&gt;筆者考察&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Fri, 01 Oct 2021 19:05:13 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/wi4vxlkb6xqmmyg9zs43aj2w9ql1/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>サプライサイドによるレイヤー２エコシステムへの影響についての考察</title>
-			<link>https://hashhub-research.com/articles/2021-10-01-impact-on-the-l2-ecosystem</link>
-			<guid isPermaLink="false">2021-10-01-impact-on-the-l2-ecosystem</guid>
-			<description></description>
-			<pubDate>Fri, 01 Oct 2021 09:16:50 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/hsn7fcc6plxg3pkxp65jq8u8tgxw/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
