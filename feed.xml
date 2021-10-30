@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>DeFiマーケットレポート【21年10月版】 </title>
+			<link>https://hashhub-research.com/articles/2021-10-30-defi-market</link>
+			<guid isPermaLink="false">2021-10-30-defi-market</guid>
+			<description>前提&lt;br /&gt;10月のDeFiマーケット概観&lt;br /&gt;各プロダクトの近況&lt;br /&gt;</description>
+			<pubDate>Fri, 29 Oct 2021 17:29:27 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/q0mlkrc5z8tiagmh68x1w8e1uujn/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title> 10/29〜11/11期間限定公開レポート「NFTゲーム経済圏は持続可能か」特集</title>
 			<link>https://hashhub-research.com/articles/2021-10-29-free-report-for-limited-time</link>
 			<guid isPermaLink="false">2021-10-29-free-report-for-limited-time</guid>
@@ -190,14 +198,6 @@ FTX&lt;br /&gt;取引所トークンと関連する各種データ&lt;br /&gt;�
 			<description>前提&lt;br /&gt;一般的なブリッジの動作&lt;br /&gt;コンソーシアム・POA・PoS型&lt;br /&gt;ライトクライアント型&lt;br /&gt;MPC型&lt;br /&gt;流動性型ブリッジ&lt;br /&gt;将来的に出来るであろう他の種類のブリッジ&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Fri, 01 Oct 2021 13:10:20 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/4u4rhk4ezpxag7dcb5hs3dnhgfrw/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Internet Computer Protocolの現状（2021年10月時点）と今後のロードマップ</title>
-			<link>https://hashhub-research.com/articles/2021-10-03-internet-computer-protocol-curreunt-status-2021-09-future-roadmap</link>
-			<guid isPermaLink="false">2021-10-03-internet-computer-protocol-curreunt-status-2021-09-future-roadmap</guid>
-			<description>概要&lt;br /&gt;プロジェクトの立ち上がり&lt;br /&gt;Internet Computerの現状について&lt;br /&gt;今後のロードマップについて&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Thu, 30 Sep 2021 00:11:39 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/77u553zm0fketxmmbczca15zli1g/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
