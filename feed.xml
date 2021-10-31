@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Tokemakの概要　DeFiのエコシステムに持続的な流動性をもたらすプロトコル</title>
+			<link>https://hashhub-research.com/articles/2021-10-31-tokemak-overview</link>
+			<guid isPermaLink="false">2021-10-31-tokemak-overview</guid>
+			<description>前提&lt;br /&gt;Tokemakの概要&lt;br /&gt;独自トークンTOKEの概要&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Tue, 26 Oct 2021 21:40:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/c4elu2qcu7g47426lkjutrbcixm7/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>DeFiマーケットレポート【21年10月版】 </title>
 			<link>https://hashhub-research.com/articles/2021-10-30-defi-market</link>
 			<guid isPermaLink="false">2021-10-30-defi-market</guid>
@@ -190,14 +198,6 @@ FTX&lt;br /&gt;取引所トークンと関連する各種データ&lt;br /&gt;�
 			<description>前提&lt;br /&gt;EDGE概要&lt;br /&gt;EDGEによるDER市場の概要&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Thu, 30 Sep 2021 13:05:19 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/265f3ghrq5yew04ytdeec7whm6vs/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ブロックチェーンブリッジの仕組みや類型の解説 種類ごとのメリットやリスクを学ぶ</title>
-			<link>https://hashhub-research.com/articles/2021-10-05-blockchain-bridge</link>
-			<guid isPermaLink="false">2021-10-05-blockchain-bridge</guid>
-			<description>前提&lt;br /&gt;一般的なブリッジの動作&lt;br /&gt;コンソーシアム・POA・PoS型&lt;br /&gt;ライトクライアント型&lt;br /&gt;MPC型&lt;br /&gt;流動性型ブリッジ&lt;br /&gt;将来的に出来るであろう他の種類のブリッジ&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Fri, 01 Oct 2021 13:10:20 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/4u4rhk4ezpxag7dcb5hs3dnhgfrw/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
