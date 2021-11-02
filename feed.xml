@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>プロトコルが管理する流動性について</title>
+			<link>https://hashhub-research.com/articles/2021-11-02-about-protocol-owned-liquidity</link>
+			<guid isPermaLink="false">2021-11-02-about-protocol-owned-liquidity</guid>
+			<description>前提&lt;br /&gt;流動性の供給方法とリクイディティーマイニングの問題点&lt;br /&gt;プロトコルがコントロールする流動性&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Tue, 02 Nov 2021 09:34:37 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0i1ktgezbc7ivrr2mk3w8ybpdf0l/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Tokemakの概要　DeFiのエコシステムに持続的な流動性をもたらすプロトコル</title>
 			<link>https://hashhub-research.com/articles/2021-10-31-tokemak-overview</link>
 			<guid isPermaLink="false">2021-10-31-tokemak-overview</guid>
@@ -190,14 +198,6 @@ FTX&lt;br /&gt;取引所トークンと関連する各種データ&lt;br /&gt;�
 			<description>前提&lt;br /&gt;Fixed Forexの概要&lt;br /&gt;CurveならびにConvexとの協業&lt;br /&gt;ibFIATとsFIATで可能になること&lt;br /&gt;結論&lt;br /&gt;</description>
 			<pubDate>Tue, 05 Oct 2021 16:21:15 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/behnppvwls95mnriui7or9jdie99/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>project EDGEの概要｜DER（分散型エネルギー源）市場の効率的運用の模索</title>
-			<link>https://hashhub-research.com/articles/2021-10-06-project-edge</link>
-			<guid isPermaLink="false">2021-10-06-project-edge</guid>
-			<description>前提&lt;br /&gt;EDGE概要&lt;br /&gt;EDGEによるDER市場の概要&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Thu, 30 Sep 2021 13:05:19 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/265f3ghrq5yew04ytdeec7whm6vs/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
