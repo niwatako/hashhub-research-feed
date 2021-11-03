@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Hardhatを使ってLayer2でNFTを発行してみよう</title>
+			<link>https://hashhub-research.com/articles/2021-11-03-try-mint-nft-on-layer2-by-yourself</link>
+			<guid isPermaLink="false">2021-11-03-try-mint-nft-on-layer2-by-yourself</guid>
+			<description></description>
+			<pubDate>Sun, 31 Oct 2021 19:12:15 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/xhbjqhhh4jr340yqrbfphf8rzcfs/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>プロトコルが管理する流動性について</title>
 			<link>https://hashhub-research.com/articles/2021-11-02-about-protocol-owned-liquidity</link>
 			<guid isPermaLink="false">2021-11-02-about-protocol-owned-liquidity</guid>
@@ -190,14 +198,6 @@ FTX&lt;br /&gt;取引所トークンと関連する各種データ&lt;br /&gt;�
 			<description>前提&lt;br /&gt;使用するブリッジはどのような信用に依拠しているか&lt;br /&gt;マルチシグによるアップグレーダビリティ&lt;br /&gt;特定の新規ブロックチェーン固有のリスク&lt;br /&gt;特定の新規ブロックチェーンのスマートコントラクト固有のリスク&lt;br /&gt;資金の経路の確認&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Mon, 04 Oct 2021 10:11:04 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/glk6k5lxo94ledk5jl8ojz6p4b9q/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Fixed Forexの概要 柔軟な担保資産の利用</title>
-			<link>https://hashhub-research.com/articles/2021-10-07-fixed-forex</link>
-			<guid isPermaLink="false">2021-10-07-fixed-forex</guid>
-			<description>前提&lt;br /&gt;Fixed Forexの概要&lt;br /&gt;CurveならびにConvexとの協業&lt;br /&gt;ibFIATとsFIATで可能になること&lt;br /&gt;結論&lt;br /&gt;</description>
-			<pubDate>Tue, 05 Oct 2021 16:21:15 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/behnppvwls95mnriui7or9jdie99/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
