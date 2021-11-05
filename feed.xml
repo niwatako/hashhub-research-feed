@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Astar Network・Shiden Networkの概要 Polkadot経済圏で稼働するスマートコントラクトプラットフォーム</title>
+			<link>https://hashhub-research.com/articles/2021-11-05-about-astar-shiden</link>
+			<guid isPermaLink="false">2021-11-05-about-astar-shiden</guid>
+			<description>前提&lt;br /&gt;Astar Networkの概要&lt;br /&gt;Astar Networkの歴史やエコシステム&lt;br /&gt;Astar NetworkのネイティブトークンであるASTRの概要&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Fri, 05 Nov 2021 10:08:17 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/xrpihwmjt7q1ujn5t737gycq4y7u/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Illuvium（ILV）｜ImmutableX上の分散型RPG Illuviumの概要</title>
 			<link>https://hashhub-research.com/articles/2021-11-04-about-illuvium</link>
 			<guid isPermaLink="false">2021-11-04-about-illuvium</guid>
@@ -187,17 +195,6 @@
 			<description>前提&lt;br /&gt;マイアミ市で流行するMiamiCoinとCitycoins Protocolの概要&lt;br /&gt;筆者考察&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Wed, 06 Oct 2021 10:32:13 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/lj5wyx08jgwb50ohedae1ozdkexo/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>世界の暗号資産取引所ビジネスの定点観測レポート【21年10月版】</title>
-			<link>https://hashhub-research.com/articles/2021-10-09-crypto-asset-exchange-report</link>
-			<guid isPermaLink="false">2021-10-09-crypto-asset-exchange-report</guid>
-			<description>前提&lt;br /&gt;現物市場の取引データおよび各社の主要なアップデート&lt;br /&gt;デリバティブ市場の取引データおよび各社の主要なアップデート&lt;br /&gt;
-
-  
-FTX&lt;br /&gt;取引所トークンと関連する各種データ&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Fri, 08 Oct 2021 20:53:38 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/wz3fncorrsyyovx9jz2v5kjg0lrt/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
