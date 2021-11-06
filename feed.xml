@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>【論考】パブリックブロックチェーンを基盤とするメタバース成立には何が必要か</title>
+			<link>https://hashhub-research.com/articles/2021-11-06-blockchain-metaverse</link>
+			<guid isPermaLink="false">2021-11-06-blockchain-metaverse</guid>
+			<description>前提&lt;br /&gt;技術的な永続可能性と人的交流の活発度合い&lt;br /&gt;物理空間との互換性のバランス&lt;br /&gt;草の根空間拡張の難しさ&lt;br /&gt;グラフィックで具現化されたパラメータを操作すること&lt;br /&gt;価値を生成する場所と運用する場所&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Fri, 05 Nov 2021 23:21:01 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/m7v4r0xme43bvkuon0wwhc7moskl/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Astar Network・Shiden Networkの概要 Polkadot経済圏で稼働するスマートコントラクトプラットフォーム</title>
 			<link>https://hashhub-research.com/articles/2021-11-05-about-astar-shiden</link>
 			<guid isPermaLink="false">2021-11-05-about-astar-shiden</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Beta Financeの概要&lt;br /&gt;独自トークンBETAの概要&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Thu, 07 Oct 2021 19:58:15 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/63v1oc82ouvla1z2wh4xk5dt8j18/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>マイアミ市で流行するMiamiCoinとCitycoins Protocolの概要</title>
-			<link>https://hashhub-research.com/articles/2020-10-10-miamicoin-overview</link>
-			<guid isPermaLink="false">2020-10-10-miamicoin-overview</guid>
-			<description>前提&lt;br /&gt;マイアミ市で流行するMiamiCoinとCitycoins Protocolの概要&lt;br /&gt;筆者考察&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Wed, 06 Oct 2021 10:32:13 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/lj5wyx08jgwb50ohedae1ozdkexo/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
