@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>KlimaDAOの概要 カーボンクレジット市場の課題を解決するDeFi 2.0の注目プロジェクト</title>
+			<link>https://hashhub-research.com/articles/2021-11-07-klima-dao-overview</link>
+			<guid isPermaLink="false">2021-11-07-klima-dao-overview</guid>
+			<description>前提&lt;br /&gt;KlimaDAOの概要 &lt;br /&gt;カーボンクレジットのトークン化プロセス&lt;br /&gt;Olympus DAOと類似したKlima DAOのライフサイクル&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Fri, 05 Nov 2021 17:11:08 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/okvm2g98ny04956r8yjuwhjp8ius/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>【論考】パブリックブロックチェーンを基盤とするメタバース成立には何が必要か</title>
 			<link>https://hashhub-research.com/articles/2021-11-06-blockchain-metaverse</link>
 			<guid isPermaLink="false">2021-11-06-blockchain-metaverse</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;デルタニュートラルとは&lt;br /&gt;UXD Protocolの仕組み&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Mon, 11 Oct 2021 13:53:04 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/atyfg9jjstvaivj84w4jo2qr0qnl/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Beta Financeの概要 DeFiであらゆる銘柄のショートを簡単にするプロダクト</title>
-			<link>https://hashhub-research.com/articles/2021-10-12-overview-beta-finance</link>
-			<guid isPermaLink="false">2021-10-12-overview-beta-finance</guid>
-			<description>前提&lt;br /&gt;Beta Financeの概要&lt;br /&gt;独自トークンBETAの概要&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Thu, 07 Oct 2021 19:58:15 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/63v1oc82ouvla1z2wh4xk5dt8j18/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
