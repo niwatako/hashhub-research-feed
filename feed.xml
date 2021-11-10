@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>NFT（Non-Fungible-Token）動向レポート【11月版】</title>
+			<link>https://hashhub-research.com/articles/2021-11-10-nft-market</link>
+			<guid isPermaLink="false">2021-11-10-nft-market</guid>
+			<description>NFT販売の傾向&lt;br /&gt;既存企業のNFT活用の活発化&lt;br /&gt;メタバースの流行とNFT&lt;br /&gt;国内動向のまとめ&lt;br /&gt;まとめ&lt;br /&gt;</description>
+			<pubDate>Tue, 09 Nov 2021 20:20:33 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/7ujolyckt07on1ceujoe92nw65z3/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Aave v3の概要 最も使われているDeFiレンディングプロトコルの最新バージョン</title>
 			<link>https://hashhub-research.com/articles/2021-11-09-aave-v3-overview</link>
 			<guid isPermaLink="false">2021-11-09-aave-v3-overview</guid>
@@ -187,14 +195,6 @@
 			<description>より多くの人に暗号資産・ブロックチェーンの知見を届けるために&lt;br /&gt;「DeFi2.0となりつつあるもの」特集｜10月15日～10月28日の期間限定レポート&lt;br /&gt;</description>
 			<pubDate>Fri, 15 Oct 2021 13:38:04 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/y3au9ak709jiz5crrz936b0er8li/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>1/1NFTの解体と再構築【前編】｜フラクショナル・オーナーシップの変遷</title>
-			<link>https://hashhub-research.com/articles/2021-10-14-fractional-nfts</link>
-			<guid isPermaLink="false">2021-10-14-fractional-nfts</guid>
-			<description>前提&lt;br /&gt;NFTにみるフラクショナル・オーナーシップモデル&lt;br /&gt;NFTの共同所有が生む課題&lt;br /&gt;</description>
-			<pubDate>Thu, 14 Oct 2021 08:52:14 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ou5bw6au67fayylnzo7syrmqar7m/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
