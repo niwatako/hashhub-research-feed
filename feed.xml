@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>世界の暗号資産取引所ビジネスの定点観測レポート【21年11月版】</title>
+			<link>https://hashhub-research.com/articles/2021-11-13-crypto-asset-exchange-report</link>
+			<guid isPermaLink="false">2021-11-13-crypto-asset-exchange-report</guid>
+			<description>前提&lt;br /&gt;現物市場の取引データおよび各社の主要なアップデート&lt;br /&gt;デリバティブ市場の取引データおよび各社の主要なアップデート&lt;br /&gt;取引所トークンと関連する各種データ&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Fri, 12 Nov 2021 23:50:54 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/9z1nhah7jyymo6n7ztecxmwbb1zj/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>11/12〜11/25期間限定公開レポート「Polkadot Parachain スロットオークション」特集</title>
 			<link>https://hashhub-research.com/articles/2021-11-12-free-report-for-limited-time</link>
 			<guid isPermaLink="false">2021-11-12-free-report-for-limited-time</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;再構築時の課題とソリューションの変遷&lt;br /&gt;「思惑の異なる利害関係者間の合意形成の困難さ」を民主的に解消する&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Mon, 18 Oct 2021 06:42:06 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/yqmqj11hwkrzf03oekaa4xortp7t/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Abracadabra Money  ibTokenを担保に借入が可能なレンディングプラットフォーム</title>
-			<link>https://hashhub-research.com/articles/2021-10-17-about-abracadabra-money</link>
-			<guid isPermaLink="false">2021-10-17-about-abracadabra-money</guid>
-			<description>前提&lt;br /&gt;インセンティブトークン：Spell&lt;br /&gt;ステーブルコイン：MIM&lt;br /&gt;Looping/Folding（多段階借入・返済）&lt;br /&gt;</description>
-			<pubDate>Sun, 17 Oct 2021 09:26:12 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/u1v2pq44aoa0fx8u9skahpf70s6p/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
