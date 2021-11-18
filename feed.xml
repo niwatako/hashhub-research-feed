@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Toniq.labエコシステム（2020年11月時点）｜Entrepot・Identity・Exponent・WTC Token</title>
+			<link>https://hashhub-research.com/articles/2021-11-18-about-toniq-lab</link>
+			<guid isPermaLink="false">2021-11-18-about-toniq-lab</guid>
+			<description>前提&lt;br /&gt;Toniq Labsエコシステム（2020年11月時点）&lt;br /&gt;Entrepot｜NFTマーケットプレイス&lt;br /&gt;Stoic Identity&lt;br /&gt;Exponentプラットフォーム&lt;br /&gt;WTC token&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Thu, 18 Nov 2021 10:56:20 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/j1vzv7m43ylzb3cknlh3q8m205g9/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Nuance｜Internet Computer上で開発が進む分散型ブログプラットフォーム</title>
 			<link>https://hashhub-research.com/articles/2021-11-17-about-nuance</link>
 			<guid isPermaLink="false">2021-11-17-about-nuance</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Fuseの概要&lt;br /&gt;Fuseの代表的なメリットや利用用途&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Wed, 20 Oct 2021 10:20:47 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/gjs6cvcvclbd6qey9xxhp2hm1xn8/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Fei Protocol v2の概要 資金効率性を更に高めたステーブルコイン</title>
-			<link>https://hashhub-research.com/articles/2021-10-22-fei-protocol-v2</link>
-			<guid isPermaLink="false">2021-10-22-fei-protocol-v2</guid>
-			<description>前提&lt;br /&gt;1:1の引き出し可に&lt;br /&gt;PCVマネジメント&lt;br /&gt;ガバナンストークンTRIBEの設計変更&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Tue, 19 Oct 2021 17:18:48 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/zq7z3cyu3u7f1n78epien0ybtvm7/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
