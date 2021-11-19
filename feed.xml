@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>暗号資産マーケットレポート 注目のトークンの投資分析【21年11月版】 </title>
+			<link>https://hashhub-research.com/articles/2021-11-19-market-report</link>
+			<guid isPermaLink="false">2021-11-19-market-report</guid>
+			<description>前提&lt;br /&gt;10月マーケットの概観&lt;br /&gt;</description>
+			<pubDate>Thu, 18 Nov 2021 19:39:09 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/n1ku8qkwesc5m2bptpug5jufeem9/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Toniq.labエコシステム（2020年11月時点）｜Entrepot・Identity・Exponent・WTC Token</title>
 			<link>https://hashhub-research.com/articles/2021-11-18-about-toniq-lab</link>
 			<guid isPermaLink="false">2021-11-18-about-toniq-lab</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Solanaの近況&lt;br /&gt;日本におけるSolanaの課題&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Fri, 22 Oct 2021 23:03:11 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/571nu1nciioq199wxt2ey8ochxso/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Fuseの概要 カスタマイズ可能なレンディングプールを誰でもつくれるプロトコル</title>
-			<link>https://hashhub-research.com/articles/2021-10-23-fuse-overview</link>
-			<guid isPermaLink="false">2021-10-23-fuse-overview</guid>
-			<description>前提&lt;br /&gt;Fuseの概要&lt;br /&gt;Fuseの代表的なメリットや利用用途&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Wed, 20 Oct 2021 10:20:47 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/gjs6cvcvclbd6qey9xxhp2hm1xn8/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
