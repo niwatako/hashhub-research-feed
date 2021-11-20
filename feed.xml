@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>FIAT DAO  固定イールドトークンの担保活用が可能なレンディングプロトコル</title>
+			<link>https://hashhub-research.com/articles/2021-11-20-about-fiat-dao</link>
+			<guid isPermaLink="false">2021-11-20-about-fiat-dao</guid>
+			<description></description>
+			<pubDate>Fri, 19 Nov 2021 17:38:20 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/i558mgsfd7q1vbf7v1rl1wf8vavr/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>暗号資産マーケットレポート 注目のトークンの投資分析【21年11月版】 </title>
 			<link>https://hashhub-research.com/articles/2021-11-19-market-report</link>
 			<guid isPermaLink="false">2021-11-19-market-report</guid>
@@ -187,14 +195,6 @@
 			<description></description>
 			<pubDate>Tue, 26 Oct 2021 08:46:39 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/u18x9twqsf05k434mrxb37wwhuia/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Solanaの近況 NFTからDeFiまで</title>
-			<link>https://hashhub-research.com/articles/2021-10-24-solana-defi-nft</link>
-			<guid isPermaLink="false">2021-10-24-solana-defi-nft</guid>
-			<description>前提&lt;br /&gt;Solanaの近況&lt;br /&gt;日本におけるSolanaの課題&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Fri, 22 Oct 2021 23:03:11 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/571nu1nciioq199wxt2ey8ochxso/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
