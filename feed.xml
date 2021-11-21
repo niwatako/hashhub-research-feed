@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>NFTマーケットプレイス・アグリゲーターGenieの概要</title>
+			<link>https://hashhub-research.com/articles/2021-11-21-about-genie</link>
+			<guid isPermaLink="false">2021-11-21-about-genie</guid>
+			<description>前提&lt;br /&gt;Genieの概要&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Fri, 19 Nov 2021 17:24:54 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/4ck3c3or98tb3d1z8t1tjcfhc2al/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>FIAT DAO  固定イールドトークンの担保活用が可能なレンディングプロトコル</title>
 			<link>https://hashhub-research.com/articles/2021-11-20-about-fiat-dao</link>
 			<guid isPermaLink="false">2021-11-20-about-fiat-dao</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;9月マーケットの概観&lt;br /&gt;</description>
 			<pubDate>Tue, 26 Oct 2021 15:34:09 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1fg23bo1ebiu1ziwm9mvz7smi4yk/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>イールド・トークナイゼーション イールドのトークン化がなぜ重要なのか？ミスプライスと潜在的巨大市場</title>
-			<link>https://hashhub-research.com/articles/2021-10-26-about-pendle</link>
-			<guid isPermaLink="false">2021-10-26-about-pendle</guid>
-			<description></description>
-			<pubDate>Tue, 26 Oct 2021 08:46:39 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/u18x9twqsf05k434mrxb37wwhuia/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
