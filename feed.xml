@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Poked Bots概要 Dfinityのデザインを手掛けた企業によるNFT</title>
+			<link>https://hashhub-research.com/articles/2021-11-23-poked-bots</link>
+			<guid isPermaLink="false">2021-11-23-poked-bots</guid>
+			<description>前提&lt;br /&gt;Poked Bots&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Mon, 22 Nov 2021 17:43:03 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8obnuu6w76g0iihqleftl6db5oqb/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>NFTマーケットプレイス・アグリゲーターGenieの概要</title>
 			<link>https://hashhub-research.com/articles/2021-11-21-about-genie</link>
 			<guid isPermaLink="false">2021-11-21-about-genie</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;コミュニティスケール・バッテリーの概要&lt;br /&gt;</description>
 			<pubDate>Thu, 28 Oct 2021 09:04:36 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/jc0a9yflt6px0ej2sm5nnbsfbcsr/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>暗号資産マーケットレポート 注目のトークンの投資分析【21年10月版】 </title>
-			<link>https://hashhub-research.com/articles/2021-10-27-market-report</link>
-			<guid isPermaLink="false">2021-10-27-market-report</guid>
-			<description>前提&lt;br /&gt;9月マーケットの概観&lt;br /&gt;</description>
-			<pubDate>Tue, 26 Oct 2021 15:34:09 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1fg23bo1ebiu1ziwm9mvz7smi4yk/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
