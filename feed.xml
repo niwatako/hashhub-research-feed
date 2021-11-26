@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title> 11/26〜12/9期間限定公開レポート「DAOを知る」特集</title>
+			<link>https://hashhub-research.com/articles/2021-11-26-free-report-for-limited-time</link>
+			<guid isPermaLink="false">2021-11-26-free-report-for-limited-time</guid>
+			<description>より多くの人に暗号資産・ブロックチェーンの知見を届けるために&lt;br /&gt;「DAOを知る」特集｜11月26日～12月9日の期間限定レポート&lt;br /&gt;</description>
+			<pubDate>Fri, 26 Nov 2021 12:24:56 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/c7hbgowhc7fgj5q8qf3czqhcs88q/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>【TIPS】Internet Computer上のNFT評価指標について~ICPuppiesの事例~</title>
 			<link>https://hashhub-research.com/articles/2021-11-25-about-nft-rarity-index</link>
 			<guid isPermaLink="false">2021-11-25-about-nft-rarity-index</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;10月のDeFiマーケット概観&lt;br /&gt;各プロダクトの近況&lt;br /&gt;</description>
 			<pubDate>Fri, 29 Oct 2021 17:29:27 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/q0mlkrc5z8tiagmh68x1w8e1uujn/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title> 10/29〜11/11期間限定公開レポート「NFTゲーム経済圏は持続可能か」特集</title>
-			<link>https://hashhub-research.com/articles/2021-10-29-free-report-for-limited-time</link>
-			<guid isPermaLink="false">2021-10-29-free-report-for-limited-time</guid>
-			<description>より多くの人に暗号資産・ブロックチェーンの知見を届けるために&lt;br /&gt;「NFTゲーム経済圏は持続可能か」特集｜10月29日～11月11日の期間限定レポート&lt;br /&gt;</description>
-			<pubDate>Fri, 29 Oct 2021 10:35:23 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/rieawxoq3ime2rjxzpo5vj9d0aar/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
