@@ -5,6 +5,17 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>DeFiマーケットレポート【21年月11版】</title>
+			<link>https://hashhub-research.com/articles/2021-11-27-defi-market</link>
+			<guid isPermaLink="false">2021-11-27-defi-market</guid>
+			<description>前提&lt;br /&gt;11月のDeFiマーケット概観&lt;br /&gt;
+
+  
+各プロダクトの近況&lt;br /&gt;</description>
+			<pubDate>Fri, 26 Nov 2021 23:15:07 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ie8pxugnhsdgn8rrdiumxfp6l4jz/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title> 11/26〜12/9期間限定公開レポート「DAOを知る」特集</title>
 			<link>https://hashhub-research.com/articles/2021-11-26-free-report-for-limited-time</link>
 			<guid isPermaLink="false">2021-11-26-free-report-for-limited-time</guid>
@@ -187,14 +198,6 @@
 			<description>前提&lt;br /&gt;Tokemakの概要&lt;br /&gt;独自トークンTOKEの概要&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Tue, 26 Oct 2021 21:40:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/c4elu2qcu7g47426lkjutrbcixm7/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>DeFiマーケットレポート【21年10月版】 </title>
-			<link>https://hashhub-research.com/articles/2021-10-30-defi-market</link>
-			<guid isPermaLink="false">2021-10-30-defi-market</guid>
-			<description>前提&lt;br /&gt;10月のDeFiマーケット概観&lt;br /&gt;各プロダクトの近況&lt;br /&gt;</description>
-			<pubDate>Fri, 29 Oct 2021 17:29:27 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/q0mlkrc5z8tiagmh68x1w8e1uujn/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
