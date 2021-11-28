@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Acalaの概要　Polkadotのエコシステムで稼働するDeFiハブ</title>
+			<link>https://hashhub-research.com/articles/2021-11-28-acala-overview</link>
+			<guid isPermaLink="false">2021-11-28-acala-overview</guid>
+			<description>前提&lt;br /&gt;Acalaの概要&lt;br /&gt;Acalaトークン（ACA）の概要&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Wed, 24 Nov 2021 16:00:57 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/gn548jwe1qseufuxirdbi2okrx6k/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>DeFiマーケットレポート【21年月11版】</title>
 			<link>https://hashhub-research.com/articles/2021-11-27-defi-market</link>
 			<guid isPermaLink="false">2021-11-27-defi-market</guid>
@@ -190,14 +198,6 @@
 			<description>前提&lt;br /&gt;流動性の供給方法とリクイディティーマイニングの問題点&lt;br /&gt;プロトコルがコントロールする流動性&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Tue, 02 Nov 2021 09:34:37 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0i1ktgezbc7ivrr2mk3w8ybpdf0l/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Tokemakの概要　DeFiのエコシステムに持続的な流動性をもたらすプロトコル</title>
-			<link>https://hashhub-research.com/articles/2021-10-31-tokemak-overview</link>
-			<guid isPermaLink="false">2021-10-31-tokemak-overview</guid>
-			<description>前提&lt;br /&gt;Tokemakの概要&lt;br /&gt;独自トークンTOKEの概要&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Tue, 26 Oct 2021 21:40:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/c4elu2qcu7g47426lkjutrbcixm7/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
