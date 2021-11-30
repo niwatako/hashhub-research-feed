@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>不動産NFTを実現するPropyの概要</title>
+			<link>https://hashhub-research.com/articles/2021-11-30-about-propy</link>
+			<guid isPermaLink="false">2021-11-30-about-propy</guid>
+			<description>前提&lt;br /&gt;ホワイトペーパーの概括&lt;br /&gt;キエフのアパートメントをNFT化・販売した1号案件&lt;br /&gt;不動産のトークン化にNFTを活用する利点・課題&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Mon, 29 Nov 2021 17:58:33 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/hgjppfl61xyuw7bhjsvpug5px4op/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Acalaの概要　Polkadotのエコシステムで稼働するDeFiハブ</title>
 			<link>https://hashhub-research.com/articles/2021-11-28-acala-overview</link>
 			<guid isPermaLink="false">2021-11-28-acala-overview</guid>
@@ -190,14 +198,6 @@
 			<description></description>
 			<pubDate>Sun, 31 Oct 2021 19:12:15 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/xhbjqhhh4jr340yqrbfphf8rzcfs/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>プロトコルが管理する流動性について</title>
-			<link>https://hashhub-research.com/articles/2021-11-02-about-protocol-owned-liquidity</link>
-			<guid isPermaLink="false">2021-11-02-about-protocol-owned-liquidity</guid>
-			<description>前提&lt;br /&gt;流動性の供給方法とリクイディティーマイニングの問題点&lt;br /&gt;プロトコルがコントロールする流動性&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Tue, 02 Nov 2021 09:34:37 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0i1ktgezbc7ivrr2mk3w8ybpdf0l/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
