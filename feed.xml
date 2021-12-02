@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Star Atlasの概要</title>
+			<link>https://hashhub-research.com/articles/2021-12-02-about-star-atlas</link>
+			<guid isPermaLink="false">2021-12-02-about-star-atlas</guid>
+			<description>前提&lt;br /&gt;Star Atlasの概要&lt;br /&gt;独自トークン&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Thu, 02 Dec 2021 09:13:01 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/q81ub4sm2463spo7dnt3f0aw1pvz/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>DeFrag.fi｜プットオプションによる担保資産保護機能をもつNFT担保ローン</title>
 			<link>https://hashhub-research.com/articles/2021-12-01-about-defrag-fi</link>
 			<guid isPermaLink="false">2021-12-01-about-defrag-fi</guid>
@@ -190,14 +198,6 @@
 			<description>前提&lt;br /&gt;Astar Networkの概要&lt;br /&gt;Astar Networkの歴史やエコシステム&lt;br /&gt;Astar NetworkのネイティブトークンであるASTRの概要&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Fri, 05 Nov 2021 10:08:17 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/xrpihwmjt7q1ujn5t737gycq4y7u/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Illuvium（ILV）｜ImmutableX上の分散型RPG Illuviumの概要</title>
-			<link>https://hashhub-research.com/articles/2021-11-04-about-illuvium</link>
-			<guid isPermaLink="false">2021-11-04-about-illuvium</guid>
-			<description>前提&lt;br /&gt;Illuvium概要&lt;br /&gt;DeFi（分散型金融）との融合&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Thu, 04 Nov 2021 14:04:11 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/jt5z01oc3p6qpd8cmyi2nhazcxcs/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
