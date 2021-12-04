@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>GameFiのメタゲームから収益を上げる Townstarのアイテム販売価格変動ケーススタディ</title>
+			<link>https://hashhub-research.com/articles/2021-12-04-gamefi-townstar</link>
+			<guid isPermaLink="false">2021-12-04-gamefi-townstar</guid>
+			<description>前提&lt;br /&gt;Town Starの概要&lt;br /&gt;GameFiのFi側の構造に着目する&lt;br /&gt;筆者の採った戦略と事前準備&lt;br /&gt;番外編&lt;br /&gt;GameFiのメタゲームは利益を低レイヤーに持ち帰ることである&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Thu, 02 Dec 2021 12:07:16 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/g34u6bc1chp7bzx6jqk4q5wl59ij/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>0xmonsエコシステムの概観｜0xmons・NFT-Lottery・ZK-NFT・Sudo Swap</title>
 			<link>https://hashhub-research.com/articles/2021-12-03-about-0xmons</link>
 			<guid isPermaLink="false">2021-12-03-about-0xmons</guid>
@@ -190,14 +198,6 @@
 			<description>前提&lt;br /&gt;KlimaDAOの概要 &lt;br /&gt;カーボンクレジットのトークン化プロセス&lt;br /&gt;Olympus DAOと類似したKlima DAOのライフサイクル&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Fri, 05 Nov 2021 17:11:08 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/okvm2g98ny04956r8yjuwhjp8ius/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>【論考】パブリックブロックチェーンを基盤とするメタバース成立には何が必要か</title>
-			<link>https://hashhub-research.com/articles/2021-11-06-blockchain-metaverse</link>
-			<guid isPermaLink="false">2021-11-06-blockchain-metaverse</guid>
-			<description>前提&lt;br /&gt;技術的な永続可能性と人的交流の活発度合い&lt;br /&gt;物理空間との互換性のバランス&lt;br /&gt;草の根空間拡張の難しさ&lt;br /&gt;グラフィックで具現化されたパラメータを操作すること&lt;br /&gt;価値を生成する場所と運用する場所&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Fri, 05 Nov 2021 23:21:01 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/m7v4r0xme43bvkuon0wwhc7moskl/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
