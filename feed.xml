@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Francium デルタニュートラルでの資産運用が可能なプラットフォーム</title>
+			<link>https://hashhub-research.com/articles/2021-12-07-about-francium</link>
+			<guid isPermaLink="false">2021-12-07-about-francium</guid>
+			<description>前提&lt;br /&gt;疑似的なデルタニュートラルと損益シミュレーション&lt;br /&gt;Franciumが提供するサービス&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Mon, 06 Dec 2021 18:14:08 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/l6ee02473s7lbqgn4p0pim71mq9i/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>PolkadotのクロスチェーンDEXネットワーク Zenlinkの概要</title>
 			<link>https://hashhub-research.com/articles/2021-12-05-about-zenlink</link>
 			<guid isPermaLink="false">2021-12-05-about-zenlink</guid>
@@ -190,14 +198,6 @@
 			<description>NFT販売の傾向&lt;br /&gt;既存企業のNFT活用の活発化&lt;br /&gt;メタバースの流行とNFT&lt;br /&gt;国内動向のまとめ&lt;br /&gt;まとめ&lt;br /&gt;</description>
 			<pubDate>Tue, 09 Nov 2021 20:20:33 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/7ujolyckt07on1ceujoe92nw65z3/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Aave v3の概要 最も使われているDeFiレンディングプロトコルの最新バージョン</title>
-			<link>https://hashhub-research.com/articles/2021-11-09-aave-v3-overview</link>
-			<guid isPermaLink="false">2021-11-09-aave-v3-overview</guid>
-			<description>前提&lt;br /&gt;Aave v3の概要&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Mon, 08 Nov 2021 08:41:32 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/wqk905fnjxtzbymoozi2094thwk7/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
