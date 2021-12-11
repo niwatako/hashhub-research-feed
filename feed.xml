@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>NFT（Non-Fungible-Token）動向レポート【12月版】</title>
+			<link>https://hashhub-research.com/articles/2021-12-11-nft-market</link>
+			<guid isPermaLink="false">2021-12-11-nft-market</guid>
+			<description>前提&lt;br /&gt;NFT販売の傾向&lt;br /&gt;既存IPの成功事例&lt;br /&gt;NFT発のIPの動向&lt;br /&gt;国内動向のまとめ&lt;br /&gt;まとめ&lt;br /&gt;</description>
+			<pubDate>Fri, 10 Dec 2021 14:33:02 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/tfmv6tv9i00jnua20al68z8nhj2f/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>12/10〜12/23期間限定公開レポート「NFTの再解釈」特集</title>
 			<link>https://hashhub-research.com/articles/2021-12-10-free-report-for-limited-time</link>
 			<guid isPermaLink="false">2021-12-10-free-report-for-limited-time</guid>
@@ -190,14 +198,6 @@
 			<description>前提&lt;br /&gt;PolygonとHopを使うやり方&lt;br /&gt;</description>
 			<pubDate>Mon, 15 Nov 2021 14:13:51 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/16u22g4axydbo5h9gw7is8ewfd4t/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Internet Computer上のSocialFi×NFT｜DSCVR・Dmail・Canistore</title>
-			<link>https://hashhub-research.com/articles/2021-11-14-about-socialfi-nft</link>
-			<guid isPermaLink="false">2021-11-14-about-socialfi-nft</guid>
-			<description>前提&lt;br /&gt;DSCVR｜NFT保有者限定の文字エフェクト効果&lt;br /&gt;Dmail｜Web3.0版Gmail&lt;br /&gt;Canistore｜デジタルコンテンツのソーシャルストアdApps&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Mon, 08 Nov 2021 19:59:58 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/tgj4ucwuslgiuxso1xxvvhp1twpc/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
