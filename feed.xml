@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Polkadot/KusamaのPLO現状（2021年12月時点）と今後のロードマップ</title>
+			<link>https://hashhub-research.com/articles/2021-12-14-about-parachain-lease-offering</link>
+			<guid isPermaLink="false">2021-12-14-about-parachain-lease-offering</guid>
+			<description>前提&lt;br /&gt;PLO（Parachain Lease Offering）の概要&lt;br /&gt;今後のロードマップ&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Tue, 14 Dec 2021 08:58:47 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/7ephn7pws2c7zzivwyspoz23y641/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>NFT（Non-Fungible-Token）動向レポート【12月版】</title>
 			<link>https://hashhub-research.com/articles/2021-12-11-nft-market</link>
 			<guid isPermaLink="false">2021-12-11-nft-market</guid>
@@ -190,14 +198,6 @@
 			<description>前提&lt;br /&gt;Aikin/Nuanceの概要&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Tue, 16 Nov 2021 18:16:18 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/zi798j98yb7cu3x3pnvg47pj8zo9/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>【TIPS】レイヤー2で少額運用開始するときのコスト削減</title>
-			<link>https://hashhub-research.com/articles/2021-11-16-layer2-cost-reduction</link>
-			<guid isPermaLink="false">2021-11-16-layer2-cost-reduction</guid>
-			<description>前提&lt;br /&gt;PolygonとHopを使うやり方&lt;br /&gt;</description>
-			<pubDate>Mon, 15 Nov 2021 14:13:51 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/16u22g4axydbo5h9gw7is8ewfd4t/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
