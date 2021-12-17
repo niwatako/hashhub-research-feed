@@ -5,6 +5,15 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>DSCVRの概要｜概要解説・利用方法・HashHub Researchポータル開設のお知らせ</title>
+			<link>https://hashhub-research.com/articles/2021-12-17-about-dscvr</link>
+			<guid isPermaLink="false">2021-12-17-about-dscvr</guid>
+			<description>前提&lt;br /&gt;DSCVRの概要&lt;br /&gt;DSCVRの利用方法&lt;br /&gt;オリジナルのポータルを作成する｜DAOコミュニティスペースの作成&lt;br /&gt;
+「HashHub Researchポータル」作成のお知らせ&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Tue, 14 Dec 2021 22:21:22 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ptg1941c7jtudpbydiq1qyaxfvay/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>世界の暗号資産取引所ビジネスの定点観測レポート【21年12月版】 </title>
 			<link>https://hashhub-research.com/articles/2021-12-16-crypto-asset-exchange-report</link>
 			<guid isPermaLink="false">2021-12-16-crypto-asset-exchange-report</guid>
@@ -190,14 +199,6 @@
 			<description></description>
 			<pubDate>Fri, 19 Nov 2021 17:38:20 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/i558mgsfd7q1vbf7v1rl1wf8vavr/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>暗号資産マーケットレポート 注目のトークンの投資分析【21年11月版】 </title>
-			<link>https://hashhub-research.com/articles/2021-11-19-market-report</link>
-			<guid isPermaLink="false">2021-11-19-market-report</guid>
-			<description>前提&lt;br /&gt;10月マーケットの概観&lt;br /&gt;</description>
-			<pubDate>Thu, 18 Nov 2021 19:39:09 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/n1ku8qkwesc5m2bptpug5jufeem9/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
