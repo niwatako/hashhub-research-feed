@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ストラクチャードプロダクトプロトコルの概観</title>
+			<link>https://hashhub-research.com/articles/2021-12-20-about-structured-protocol</link>
+			<guid isPermaLink="false">2021-12-20-about-structured-protocol</guid>
+			<description>前提&lt;br /&gt;オプションストラテジー&lt;br /&gt;プロダクトごとのストラテジー比較&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Sun, 19 Dec 2021 13:55:03 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/x3kuobj9nw31btxiicn6751kceug/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>NEAR Protocolエコシステムの概観</title>
 			<link>https://hashhub-research.com/articles/2021-12-18-about-near-ecosystem</link>
 			<guid isPermaLink="false">2021-12-18-about-near-ecosystem</guid>
@@ -191,14 +199,6 @@
 			<description>前提&lt;br /&gt;Poked Bots&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Mon, 22 Nov 2021 17:43:03 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8obnuu6w76g0iihqleftl6db5oqb/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>NFTマーケットプレイス・アグリゲーターGenieの概要</title>
-			<link>https://hashhub-research.com/articles/2021-11-21-about-genie</link>
-			<guid isPermaLink="false">2021-11-21-about-genie</guid>
-			<description>前提&lt;br /&gt;Genieの概要&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Fri, 19 Nov 2021 17:24:54 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/4ck3c3or98tb3d1z8t1tjcfhc2al/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
