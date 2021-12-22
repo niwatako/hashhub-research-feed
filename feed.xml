@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>なぜ今、ミームコインなのか　SNS時代の新たな投資概念</title>
+			<link>https://hashhub-research.com/articles/2021-12-22-about-meme-coin</link>
+			<guid isPermaLink="false">2021-12-22-about-meme-coin</guid>
+			<description>前提&lt;br /&gt;ミームコインブームはどのようにして起きたのか&lt;br /&gt;ミームコインの主な特徴とその特殊性&lt;br /&gt;ミームコインの今後の展望&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Wed, 22 Dec 2021 08:54:03 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ls2tqe4eq7ebodlizzrjrgwinstw/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>論考・レイヤー1およびスマートコントラクトプラットフォームトークンに関する投資（2022年版）</title>
 			<link>https://hashhub-research.com/articles/2021-12-21-layer1-investment</link>
 			<guid isPermaLink="false">2021-12-21-layer1-investment</guid>
@@ -191,14 +199,6 @@
 			<description>前提&lt;br /&gt;Internet Computer上のNFT評価指標&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Tue, 23 Nov 2021 13:44:29 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/k3h8phztqckipqiyxrfibv8zht80/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Delta One  デルタニュートラルでヘッジされたイールドファーミングによる利付ステーブルトークン</title>
-			<link>https://hashhub-research.com/articles/2021-11-24-about-delta-one</link>
-			<guid isPermaLink="false">2021-11-24-about-delta-one</guid>
-			<description></description>
-			<pubDate>Wed, 24 Nov 2021 07:41:49 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/rew3ebbyahexx4j46eonb8tatj9p/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
