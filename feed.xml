@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>［REDACTED］DAO DeFiエコシステムにおけるOlympusDAOのプレゼンス向上を目的としたSub DAO</title>
+			<link>https://hashhub-research.com/articles/2021-12-23-about-redacted-dao</link>
+			<guid isPermaLink="false">2021-12-23-about-redacted-dao</guid>
+			<description>前提&lt;br /&gt;Olympus DAOにおける課題点と解決策&lt;br /&gt;［REDACTED］DAOの組成経緯&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Wed, 22 Dec 2021 14:27:52 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/cltjodtyn67penhc4s7gw54x2izj/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>なぜ今、ミームコインなのか　SNS時代の新たな投資概念</title>
 			<link>https://hashhub-research.com/articles/2021-12-22-about-meme-coin</link>
 			<guid isPermaLink="false">2021-12-22-about-meme-coin</guid>
@@ -191,14 +199,6 @@
 			<description>より多くの人に暗号資産・ブロックチェーンの知見を届けるために&lt;br /&gt;「DAOを知る」特集｜11月26日～12月9日の期間限定レポート&lt;br /&gt;</description>
 			<pubDate>Fri, 26 Nov 2021 12:24:56 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/c7hbgowhc7fgj5q8qf3czqhcs88q/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>【TIPS】Internet Computer上のNFT評価指標について~ICPuppiesの事例~</title>
-			<link>https://hashhub-research.com/articles/2021-11-25-about-nft-rarity-index</link>
-			<guid isPermaLink="false">2021-11-25-about-nft-rarity-index</guid>
-			<description>前提&lt;br /&gt;Internet Computer上のNFT評価指標&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Tue, 23 Nov 2021 13:44:29 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/k3h8phztqckipqiyxrfibv8zht80/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
