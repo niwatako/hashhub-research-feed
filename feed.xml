@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Web3の片鱗（4）｜アテンションエコノミーと動機の単純化が産んだ「記憶の代替装置」~Web3サービスの短命さを克服する〜</title>
+			<link>https://hashhub-research.com/articles/2022-07-4-piece-of-web3-4</link>
+			<guid isPermaLink="false">2022-07-4-piece-of-web3-4</guid>
+			<description>前提&lt;br /&gt;アテンションエコノミーと動機の単純化が産んだ「記憶の代替装置」&lt;br /&gt;余談ですが、次のサイクルまで「生き残っていない」「生き残っている」Web3プロジェクトとは&lt;br /&gt;</description>
+			<pubDate>Mon, 04 Jul 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/arollwf81j44282j9grcxe6p2fyi/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Web5をはじめとするGlobal Verification Network入門【後編】｜Disco、Gitcoin passportにみるVCのユースケースと将来像</title>
 			<link>https://hashhub-research.com/articles/2022-07-02-global-verification-network-2</link>
 			<guid isPermaLink="false">2022-07-02-global-verification-network-2</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;ボトムアップで作られるコンテンツとは何か&lt;br /&gt;キャッサバの食し方とその伝承｜信じて従う（群れる）ヒトの心の正体&lt;br /&gt;不自由なインターネット環境に生じるボトムアップ社会の産物｜テクノロジーによるヒトの教育&lt;br /&gt;</description>
 			<pubDate>Mon, 06 Jun 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ty7uivznveske6pige9q1pdulum3/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>月刊DAOレポート6月：DAO2DAOの動き</title>
-			<link>https://hashhub-research.com/articles/2022-06-04-monthly-dao</link>
-			<guid isPermaLink="false">2022-06-04-monthly-dao</guid>
-			<description>前提&lt;br /&gt;DAO2DAOの動き&lt;br /&gt;投資DAOからサービスDAOへ&lt;br /&gt;レピュテーション・IDツール&lt;br /&gt;フルタイムの貢献と法的枠組み&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Sat, 04 Jun 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/o0ge60b8rjvs5hm10rrkzbzmycpe/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
