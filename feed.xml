@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ゲームとメタバースや哲学的な対比からIDとオンチェーンクレデンシャルの違いや使い分けられるポイントを探る</title>
+			<link>https://hashhub-research.com/articles/2022-07-06-difference-between-id-and-on-chain-credential</link>
+			<guid isPermaLink="false">2022-07-06-difference-between-id-and-on-chain-credential</guid>
+			<description>前提&lt;br /&gt;IDの特徴&lt;br /&gt;オンチェーン履歴の特徴&lt;br /&gt;どちらが何に向いているか&lt;br /&gt;余談「われ思う、ゆえに、われ在り」&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Wed, 06 Jul 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/sk49f84gs075ifqb25jkbtdsfito/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>USDDの概要およびリスク分析</title>
 			<link>https://hashhub-research.com/articles/2022-07-05-about-usdd</link>
 			<guid isPermaLink="false">2022-07-05-about-usdd</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;STEPNは「xx to Earn」のアプリケーションとして何が凄かったか&lt;br /&gt;「xx to Earn」の課題&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Tue, 07 Jun 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/sacc8vo90hov51ntdpjs6etw90gm/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Web3が描くクリエイターエコノミーの産物【検証編】｜Writing NFTの実態考察</title>
-			<link>https://hashhub-research.com/articles/2022-06-06-web3-creator-economy-2</link>
-			<guid isPermaLink="false">2022-06-06-web3-creator-economy-2</guid>
-			<description>Writing NFTとは何を表すものか&lt;br /&gt;Writing NFTは結局何を表すものなのか&lt;br /&gt;</description>
-			<pubDate>Mon, 06 Jun 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/czr5thl0wmbzkiuz39vs795ok73y/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
