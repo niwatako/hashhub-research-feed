@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>DeFi Option Vaults(DOVs)の誤解を解く</title>
+			<link>https://hashhub-research.com/articles/2022-07-07-9-about-defi-option-vaults</link>
+			<guid isPermaLink="false">2022-07-07-9-about-defi-option-vaults</guid>
+			<description>目次&lt;br /&gt;前提&lt;br /&gt;DeFi Option Vaults(DOVs)の利益の源泉&lt;br /&gt;オプションの性質とボラティリティ&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Sat, 09 Jul 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/pzczgcnxshdhsja7t2zg09x7f73s/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>「メタバースとブロックチェーン」特集｜7月8日～7月21日の期間限定レポート</title>
 			<link>https://hashhub-research.com/articles/2022-07-08-free-report-for-limited-time</link>
 			<guid isPermaLink="false">2022-07-08-free-report-for-limited-time</guid>
@@ -187,14 +195,6 @@
 			<description>より多くの人に暗号資産・ブロックチェーンの知見を届けるために&lt;br /&gt;「（許容できるリスクの範囲で）とにかく触ってみよう」特集｜6月10日～6月23日の期間限定レポート&lt;br /&gt;</description>
 			<pubDate>Fri, 10 Jun 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/juo0pjlz79w0fwbrh2dnx92ugqvu/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ReFiの最新動向｜DeFi・DAO・NFTの事例と活用機会</title>
-			<link>https://hashhub-research.com/articles/2022-06-09-about-refi</link>
-			<guid isPermaLink="false">2022-06-09-about-refi</guid>
-			<description>前提&lt;br /&gt;KlimaDAOモデルの概説&lt;br /&gt;DAOやNFTの事例&lt;br /&gt;3つのブロックチェーン活用機会&lt;br /&gt;クリプト界隈の動き&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 09 Jun 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/k04p7hupibvmg6vgsg0npzq2g8fh/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
