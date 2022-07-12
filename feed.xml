@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title> GHOの概要 レンディングプロトコルのAaveが新しくリリースしようとするステーブルコイン</title>
+			<link>https://hashhub-research.com/articles/2022-07-12-gho-overview</link>
+			<guid isPermaLink="false">2022-07-12-gho-overview</guid>
+			<description>前提&lt;br /&gt;GHOの概要&lt;br /&gt;筆者の考察・予測される影響&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Tue, 12 Jul 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/5nci8s3bk3o01ggzoow6jcarlpwn/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>DeFi Option Vaults(DOVs)の誤解を解く</title>
 			<link>https://hashhub-research.com/articles/2022-07-07-9-about-defi-option-vaults</link>
 			<guid isPermaLink="false">2022-07-07-9-about-defi-option-vaults</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;真のコミュニティは、反省、批判、実験へ向かう動機付けを持っていない&lt;br /&gt;真のコミュニティにはコンセンサスは必要がない&lt;br /&gt;純度X％のアソシエーション、不純度X%のコミュニティ&lt;br /&gt;コミュニティ&lt;&gt;アソシエーション軸で捉えた共同体の大まかな分類と及びその長所と短所&lt;br /&gt;「FT」「NFT」「SSI/DID」という名の人工的な防御壁を活用するWeb3共同体&lt;br /&gt;</description>
 			<pubDate>Mon, 13 Jun 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/aidwzb7hxph475m2iszf9vrhq92a/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>「（許容できるリスクの範囲で）とにかく触ってみよう」特集｜6月10日～6月23日の期間限定レポート</title>
-			<link>https://hashhub-research.com/articles/2022-06-10-free-report-for-limited-time</link>
-			<guid isPermaLink="false">2022-06-10-free-report-for-limited-time</guid>
-			<description>より多くの人に暗号資産・ブロックチェーンの知見を届けるために&lt;br /&gt;「（許容できるリスクの範囲で）とにかく触ってみよう」特集｜6月10日～6月23日の期間限定レポート&lt;br /&gt;</description>
-			<pubDate>Fri, 10 Jun 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/juo0pjlz79w0fwbrh2dnx92ugqvu/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
