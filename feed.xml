@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Skybreachの概要 NFTレゴを活用したコンポーサブルなRPGメタバースの全容を把握する</title>
+			<link>https://hashhub-research.com/articles/2022-07-13-about-skybreach</link>
+			<guid isPermaLink="false">2022-07-13-about-skybreach</guid>
+			<description>前提&lt;br /&gt;トークンモデルや土地、アバターの特徴&lt;br /&gt;メタバース、ゲームの立ち回り&lt;br /&gt;コンポーサブルなメタバースとは&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Wed, 13 Jul 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/6nlvhq7ylxlp1mp2zdpwe0ffmk53/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title> GHOの概要 レンディングプロトコルのAaveが新しくリリースしようとするステーブルコイン</title>
 			<link>https://hashhub-research.com/articles/2022-07-12-gho-overview</link>
 			<guid isPermaLink="false">2022-07-12-gho-overview</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;既存金融にみるペッグ通貨とリスク&lt;br /&gt;暗号資産の世界におけるペッグトークン&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Tue, 14 Jun 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2ljkv3ezqirhx42ysoh27a4ze84u/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Web3の片鱗（1）｜DAOは不純物X％含有の新たなコミュニティ形態なのか</title>
-			<link>https://hashhub-research.com/articles/2022-06-13-piece-of-web3-1</link>
-			<guid isPermaLink="false">2022-06-13-piece-of-web3-1</guid>
-			<description>前提&lt;br /&gt;真のコミュニティは、反省、批判、実験へ向かう動機付けを持っていない&lt;br /&gt;真のコミュニティにはコンセンサスは必要がない&lt;br /&gt;純度X％のアソシエーション、不純度X%のコミュニティ&lt;br /&gt;コミュニティ&lt;&gt;アソシエーション軸で捉えた共同体の大まかな分類と及びその長所と短所&lt;br /&gt;「FT」「NFT」「SSI/DID」という名の人工的な防御壁を活用するWeb3共同体&lt;br /&gt;</description>
-			<pubDate>Mon, 13 Jun 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/aidwzb7hxph475m2iszf9vrhq92a/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
