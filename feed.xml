@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>非同期で高速なL1チェーンを目指すSuiの概要</title>
+			<link>https://hashhub-research.com/articles/2022-07-15-sui-overview</link>
+			<guid isPermaLink="false">2022-07-15-sui-overview</guid>
+			<description>前提&lt;br /&gt;MoveとSuiの特徴&lt;br /&gt;コンセンサスアルゴリズム&lt;br /&gt;トークンとオンラインストレージ&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Fri, 15 Jul 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/p0vtcpycu9enp0bubuk2b0mt1p4e/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>EthereumのPoS移行「The Merge」で投資家・トレーダーが知っておくべき5つのこと</title>
 			<link>https://hashhub-research.com/articles/2022-07-14-trader-need-to-know-about-ethereum-merge</link>
 			<guid isPermaLink="false">2022-07-14-trader-need-to-know-about-ethereum-merge</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;</description>
 			<pubDate>Thu, 16 Jun 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/atqyc6imm84p4j1vic1pfqlra09w/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Ethereum分裂騒動の仮説と考慮すべき要素</title>
-			<link>https://hashhub-research.com/articles/2022-06-15-about-ethereum</link>
-			<guid isPermaLink="false">2022-06-15-about-ethereum</guid>
-			<description>前提&lt;br /&gt;Ethereumチェーン分裂の可能性考察&lt;br /&gt;2022年6月現在でのMining Pool情勢&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Wed, 15 Jun 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/3gueyxsy2l5jynm6305ldi9dxk64/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
