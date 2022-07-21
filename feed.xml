@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Celestia | Data Availabilityの提供に特化したL1ブロックチェーン</title>
+			<link>https://hashhub-research.com/articles/2022-07-21-about-celestia</link>
+			<guid isPermaLink="false">2022-07-21-about-celestia</guid>
+			<description>前提&lt;br /&gt;Celestiaの概要&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Thu, 21 Jul 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1l8dz5za0ixew9nvg56ipxd95fpg/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>月刊DAO7月号｜次のサイクルへ向けた動き</title>
 			<link>https://hashhub-research.com/articles/2022-07-20-monthly-dao</link>
 			<guid isPermaLink="false">2022-07-20-monthly-dao</guid>
@@ -188,14 +196,6 @@
 			<description>前提&lt;br /&gt;分散型ワーキンググループとは&lt;br /&gt;事業体構造を持つDAO&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Wed, 22 Jun 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/avrpe36t0ijcrtw01wj1wdiowtq2/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>STEPNはどうすればよかったのか -Axieと比較し今後のGameFiに活かすケーススタディ-</title>
-			<link>https://hashhub-research.com/articles/2022-06-21-stepn-axie-review</link>
-			<guid isPermaLink="false">2022-06-21-stepn-axie-review</guid>
-			<description>前提&lt;br /&gt;BSC STEPNの経緯&lt;br /&gt;Axieとの比較&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Tue, 21 Jun 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ky7vegc0fwy3g8j78x5e14s7s8pk/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
