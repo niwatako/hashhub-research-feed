@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>NFT（Non-Fungible-Token）の動向 22年7月</title>
+			<link>https://hashhub-research.com/articles/2022-07-22-nft-market</link>
+			<guid isPermaLink="false">2022-07-22-nft-market</guid>
+			<description>前提&lt;br /&gt;NFT販売の傾向&lt;br /&gt;NFT系最大級のリアルイベント NFT NYC&lt;br /&gt;EIP-2981/ ERC-4907について&lt;br /&gt;国内動向&lt;br /&gt;まとめ&lt;br /&gt;付録： ニュースリスト&lt;br /&gt;</description>
+			<pubDate>Fri, 22 Jul 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/eyavqdi6ifpop096hmb8hxfcr3ja/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Celestia | Data Availabilityの提供に特化したL1ブロックチェーン</title>
 			<link>https://hashhub-research.com/articles/2022-07-21-about-celestia</link>
 			<guid isPermaLink="false">2022-07-21-about-celestia</guid>
@@ -188,14 +196,6 @@
 			<description>前提&lt;br /&gt;Web5の概要&lt;br /&gt;SSIの基本解説&lt;br /&gt;SSIの主要ユースケースの紹介&lt;br /&gt;</description>
 			<pubDate>Wed, 22 Jun 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/5s7xqstsbf2hs089hq4kj3j2f2zv/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>分散型ワーキンググループとしてのDAOと事業体の構造とは</title>
-			<link>https://hashhub-research.com/articles/2022-06-22-decentralized-working-group</link>
-			<guid isPermaLink="false">2022-06-22-decentralized-working-group</guid>
-			<description>前提&lt;br /&gt;分散型ワーキンググループとは&lt;br /&gt;事業体構造を持つDAO&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Wed, 22 Jun 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/avrpe36t0ijcrtw01wj1wdiowtq2/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
