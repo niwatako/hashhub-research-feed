@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>米国ステーブルコイン規制の最新事情（2022年7月時点）</title>
+			<link>https://hashhub-research.com/articles/2022-07-26-stablecoin-regulation-update</link>
+			<guid isPermaLink="false">2022-07-26-stablecoin-regulation-update</guid>
+			<description>前提&lt;br /&gt;主な論点&lt;br /&gt;上院法案、Responsible Financial Innovation Act&lt;br /&gt;NY州金融サービス局、Virtual Currency Guidance&lt;br /&gt;USDT、USDC、BUSDの裏付資産と情報開示の状況&lt;br /&gt;総括&lt;br /&gt;付録&lt;br /&gt;出所、補足&lt;br /&gt;</description>
+			<pubDate>Tue, 26 Jul 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ahfqiei8mf0ojvk3ogrih73q9vh6/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Sperax | 自動運用機能による利付ハイブリッド型ステーブルトークン</title>
 			<link>https://hashhub-research.com/articles/2022-07-25-about-sperax</link>
 			<guid isPermaLink="false">2022-07-25-about-sperax</guid>
@@ -188,14 +196,6 @@
 			<description>前提&lt;br /&gt;dYdX Chainの概要&lt;br /&gt;分散型無期限先物取引所プロジェクトはなぜ独自ブロックチェーンを構築するのか&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Mon, 27 Jun 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/v6bq024pyewju81ox765ncssgmf7/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Arbitrum Oddeseyの概要とやり方を動画で学ぶ -ブリッジとアグリゲーターの種類と今後の傾向の解説-</title>
-			<link>https://hashhub-research.com/articles/20220624-arbitrum-oddesey1</link>
-			<guid isPermaLink="false">20220624-arbitrum-oddesey1</guid>
-			<description>前提&lt;br /&gt;Arbtirum Odysseyの概要&lt;br /&gt;ブリッジアグリゲーターとブリッジプロトコル&lt;br /&gt;給付金（エアドロップ）のTipsと注意点&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Fri, 24 Jun 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/4fn1iikxb5pe4k2nuvhxsieys0nm/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
