@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>レバレッジステーキングとリスク、そのリスクに賭ける際の投資戦略に関して</title>
+			<link>https://hashhub-research.com/articles/2022-07-28-about-leveraged-staking</link>
+			<guid isPermaLink="false">2022-07-28-about-leveraged-staking</guid>
+			<description>免責事項&lt;br /&gt;要約&lt;br /&gt;レバレッジステーキングの概要&lt;br /&gt;レバレッジステーキングのリスク&lt;br /&gt;レバレッジステーキングのリスクに賭ける際の具体的な投資戦略&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Thu, 28 Jul 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/fo01p0liy3vphg3ozlohigp4r95m/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>国内法人がWeb3事業を進める際のポイント</title>
 			<link>https://hashhub-research.com/articles/2022-07-27-enterprise-web3</link>
 			<guid isPermaLink="false">2022-07-27-enterprise-web3</guid>
@@ -188,14 +196,6 @@
 			<description>未来の合意形成に特定のインセンティブを持ち込むとは&lt;br /&gt;混乱が生じるのは2.に市場原理を求めるから&lt;br /&gt;余談その１｜それは持続可能ではなく自走可能である&lt;br /&gt;余談その２｜新たな社会創造に必要な3要素とトークンインセンティブ設計&lt;br /&gt;</description>
 			<pubDate>Wed, 29 Jun 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/wq2matvyg9ogihfnngp765bwylqe/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>次のクリプトの強気相場が始まるサインを見極めるために、注意を向けるべきこと</title>
-			<link>https://hashhub-research.com/articles/2022-06-28-next-bull-market</link>
-			<guid isPermaLink="false">2022-06-28-next-bull-market</guid>
-			<description>前提&lt;br /&gt;相場のサイクルの見極めの重要さ&lt;br /&gt;次のクリプトの強気相場が始まるサインを見極めるために、注意を向けるべきこと&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Tue, 28 Jun 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/d0njmc40npt3dte93159slg4lubu/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
