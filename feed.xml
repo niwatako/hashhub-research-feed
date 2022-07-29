@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>P2Pマッチングによりレンディングの資本効率性を向上させるMorphoの概要</title>
+			<link>https://hashhub-research.com/articles/2022-07-29-about-morpho</link>
+			<guid isPermaLink="false">2022-07-29-about-morpho</guid>
+			<description>前提&lt;br /&gt;P2PレンディングプロトコルMorphoの概要&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Fri, 29 Jul 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/cyjwi5wbbu5vey969uadi27svxbh/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>レバレッジステーキングとリスク、そのリスクに賭ける際の投資戦略に関して</title>
 			<link>https://hashhub-research.com/articles/2022-07-28-about-leveraged-staking</link>
 			<guid isPermaLink="false">2022-07-28-about-leveraged-staking</guid>
@@ -188,14 +196,6 @@
 			<description>前提&lt;br /&gt;相場下落の原因&lt;br /&gt;冬相場をどう過ごすか&lt;br /&gt;相場の転換点&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Thu, 30 Jun 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/6y1nndjovwlafz2uv7uky547kvo8/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Web3の片鱗（3）｜あらためてDAOとは＿未来の合意形成に特定のインセンティブを持ち込むとは（余談：新たな社会創造に必要な3要素とトークンインセンティブ設計）</title>
-			<link>https://hashhub-research.com/articles/2022-06-29-piece-of-web3-3</link>
-			<guid isPermaLink="false">2022-06-29-piece-of-web3-3</guid>
-			<description>未来の合意形成に特定のインセンティブを持ち込むとは&lt;br /&gt;混乱が生じるのは2.に市場原理を求めるから&lt;br /&gt;余談その１｜それは持続可能ではなく自走可能である&lt;br /&gt;余談その２｜新たな社会創造に必要な3要素とトークンインセンティブ設計&lt;br /&gt;</description>
-			<pubDate>Wed, 29 Jun 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/wq2matvyg9ogihfnngp765bwylqe/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
