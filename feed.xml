@@ -5,6 +5,15 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>地方創生×Web3【ユースケース考察編】｜Web3ベースの①「通貨/決済システム」</title>
+			<link>https://hashhub-research.com/articles/2022-08-06-web3-regional-development-2</link>
+			<guid isPermaLink="false">2022-08-06-web3-regional-development-2</guid>
+			<description>前提&lt;br /&gt;1.BCによる地域活性化の前に「ブロックチェーンはどのような場合に有効であり、どのような場合に有効ではないのか」をまず理解しよう&lt;br /&gt;2.ブロックチェーンベースの地域活性化事例
+&lt;br /&gt;3.主要ユースケース①「通貨/決済システム」&lt;br /&gt;</description>
+			<pubDate>Sat, 06 Aug 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/a17ny598q1x7ghbqe30edexq9q7j/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ベアマーケットにも関わらず収益力が高いクリプト・Web3のプロダクト</title>
 			<link>https://hashhub-research.com/articles/2022-08-05-web3-products-with-high-profitability</link>
 			<guid isPermaLink="false">2022-08-05-web3-products-with-high-profitability</guid>
@@ -188,14 +197,6 @@
 			<description>より多くの人に暗号資産・ブロックチェーンの知見を届けるために&lt;br /&gt;「メタバースとブロックチェーン」特集｜7月8日～7月21日の期間限定レポート&lt;br /&gt;</description>
 			<pubDate>Fri, 08 Jul 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/xua0ywa9x5nxajykhgj4qf5r2yhw/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Web3・クリプトのスタートアップ特有のよくある8の困難</title>
-			<link>https://hashhub-research.com/articles/2022-07-07-8-common-difficulties-to-web3-startups</link>
-			<guid isPermaLink="false">2022-07-07-8-common-difficulties-to-web3-startups</guid>
-			<description>前提&lt;br /&gt;1.税制と規制の観点で、日本国内で実質的にできることが制限される&lt;br /&gt;2.業界のキャッチアップは難しい&lt;br /&gt;3.グローバルが前提&lt;br /&gt;5.経営やプロジェクト管理に相場師のようなマーケット感覚が求められる&lt;br /&gt;6.トークンを発行したあとはコアチーム視点ではBS/PLの構造が変わる&lt;br /&gt;7.スマートコントラクトの安全性は100%保証できない&lt;br /&gt;8.失敗したときは詐欺と批判される&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 07 Jul 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/h601zkt24lxkgrd0mptqnr8oc84u/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
