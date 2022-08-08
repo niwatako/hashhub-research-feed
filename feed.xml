@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Web3スタートアップの創業者が陥る罠</title>
+			<link>https://hashhub-research.com/articles/2022-08-08-traps-for-web3-startup-founders</link>
+			<guid isPermaLink="false">2022-08-08-traps-for-web3-startup-founders</guid>
+			<description>前提&lt;br /&gt;PMF→持続する仕組み（往々にしてそれは売上）が一番重要という身も蓋もない話&lt;br /&gt;Web3の起業家にとっての2つの意思決定をジェフベゾス のフレームワークで考える。&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Mon, 08 Aug 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0lnkkmryo5d5e7yyubwqm5dxdf4h/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>地方創生×Web3【ユースケース考察編】｜Web3ベースの①「通貨/決済システム」</title>
 			<link>https://hashhub-research.com/articles/2022-08-06-web3-regional-development-2</link>
 			<guid isPermaLink="false">2022-08-06-web3-regional-development-2</guid>
@@ -189,14 +197,6 @@
 			<description>目次&lt;br /&gt;前提&lt;br /&gt;DeFi Option Vaults(DOVs)の利益の源泉&lt;br /&gt;オプションの性質とボラティリティ&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Mon, 11 Jul 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/pzczgcnxshdhsja7t2zg09x7f73s/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>「メタバースとブロックチェーン」特集｜7月8日～7月21日の期間限定レポート</title>
-			<link>https://hashhub-research.com/articles/2022-07-08-free-report-for-limited-time</link>
-			<guid isPermaLink="false">2022-07-08-free-report-for-limited-time</guid>
-			<description>より多くの人に暗号資産・ブロックチェーンの知見を届けるために&lt;br /&gt;「メタバースとブロックチェーン」特集｜7月8日～7月21日の期間限定レポート&lt;br /&gt;</description>
-			<pubDate>Fri, 08 Jul 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/xua0ywa9x5nxajykhgj4qf5r2yhw/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
