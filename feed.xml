@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>地方創生×Web3【ユースケース考察編】②｜ブロックチェーンベースのガバナンスフレームワークは地方統治方法として有用か</title>
+			<link>https://hashhub-research.com/articles/2022-08-09-web3-regional-development-3</link>
+			<guid isPermaLink="false">2022-08-09-web3-regional-development-3</guid>
+			<description>4.主要ユースケース②「地方独自の統治システム」｜ブロックチェーンベースのガバナンスフレームワークは地方統治方法として有用か&lt;br /&gt;</description>
+			<pubDate>Tue, 09 Aug 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ev9w15txt076ji621rwap4ohhihn/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Web3スタートアップの創業者が陥る罠</title>
 			<link>https://hashhub-research.com/articles/2022-08-08-traps-for-web3-startup-founders</link>
 			<guid isPermaLink="false">2022-08-08-traps-for-web3-startup-founders</guid>
@@ -189,14 +197,6 @@
 			<description>前提&lt;br /&gt;GHOの概要&lt;br /&gt;筆者の考察・予測される影響&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Tue, 12 Jul 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/5nci8s3bk3o01ggzoow6jcarlpwn/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>DeFi Option Vaults(DOVs)の誤解を解く</title>
-			<link>https://hashhub-research.com/articles/2022-07-07-9-about-defi-option-vaults</link>
-			<guid isPermaLink="false">2022-07-07-9-about-defi-option-vaults</guid>
-			<description>目次&lt;br /&gt;前提&lt;br /&gt;DeFi Option Vaults(DOVs)の利益の源泉&lt;br /&gt;オプションの性質とボラティリティ&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Mon, 11 Jul 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/pzczgcnxshdhsja7t2zg09x7f73s/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
