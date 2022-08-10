@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Synthetixの概況　拡大するエコシステムを理解する</title>
+			<link>https://hashhub-research.com/articles/2022-08-10-update-synthetix</link>
+			<guid isPermaLink="false">2022-08-10-update-synthetix</guid>
+			<description>前提&lt;br /&gt;数値で見るSynthetix&lt;br /&gt;Synthetixのエコシステム&lt;br /&gt;Lyra&lt;br /&gt;Synthetixの今後のロードマップ・v3のローンチ&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Wed, 10 Aug 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/11jvoh3eazbsol2t5pnan489n56d/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>地方創生×Web3【ユースケース考察編】②｜ブロックチェーンベースのガバナンスフレームワークは地方統治方法として有用か</title>
 			<link>https://hashhub-research.com/articles/2022-08-09-web3-regional-development-3</link>
 			<guid isPermaLink="false">2022-08-09-web3-regional-development-3</guid>
@@ -189,14 +197,6 @@
 			<description>前提&lt;br /&gt;トークンモデルや土地、アバターの特徴&lt;br /&gt;メタバース、ゲームの立ち回り&lt;br /&gt;コンポーサブルなメタバースとは&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Wed, 13 Jul 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/6nlvhq7ylxlp1mp2zdpwe0ffmk53/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title> GHOの概要 レンディングプロトコルのAaveが新しくリリースしようとするステーブルコイン</title>
-			<link>https://hashhub-research.com/articles/2022-07-12-gho-overview</link>
-			<guid isPermaLink="false">2022-07-12-gho-overview</guid>
-			<description>前提&lt;br /&gt;GHOの概要&lt;br /&gt;筆者の考察・予測される影響&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Tue, 12 Jul 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/5nci8s3bk3o01ggzoow6jcarlpwn/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
