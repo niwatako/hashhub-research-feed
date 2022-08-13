@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>レトロアクティブ パブリックグッズ ファンディングにより公共財にイグジットを提供するOptimismのガバナンス</title>
+			<link>https://hashhub-research.com/articles/2022-08-13-about-optimism</link>
+			<guid isPermaLink="false">2022-08-13-about-optimism</guid>
+			<description>前提&lt;br /&gt;Optimismの二院制ガバナンスの概要&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Sat, 13 Aug 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/fkui3aqqdvwib7njwss624m0fx2l/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>【2022年夏の選書】HashHubリサーチチームがこの夏読んでいる、またはオススメの書籍</title>
 			<link>https://hashhub-research.com/articles/2022-08-12-about-summer-book-recommendations</link>
 			<guid isPermaLink="false">2022-08-12-about-summer-book-recommendations</guid>
@@ -189,14 +197,6 @@
 			<description>前提 &lt;br /&gt;債券としてstETHのバリュエーションを考える &lt;br /&gt;stETHのディスカウントを利用してステーブルコインを高利率で運用するストラテジー &lt;br /&gt;総括 &lt;br /&gt;</description>
 			<pubDate>Mon, 18 Jul 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/3ah2o6mdoso25q33i1tyxpqoi6y0/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>非同期で高速なL1チェーンを目指すSuiの概要</title>
-			<link>https://hashhub-research.com/articles/2022-07-15-sui-overview</link>
-			<guid isPermaLink="false">2022-07-15-sui-overview</guid>
-			<description>前提&lt;br /&gt;MoveとSuiの特徴&lt;br /&gt;コンセンサスアルゴリズム&lt;br /&gt;トークンとオンラインストレージ&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Fri, 15 Jul 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/p0vtcpycu9enp0bubuk2b0mt1p4e/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
