@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Velodromeの概要　レイヤー2上で存在感を出す新しい仕組みを用いた分散型取引所</title>
+			<link>https://hashhub-research.com/articles/2022-08-15-velodrome-overview</link>
+			<guid isPermaLink="false">2022-08-15-velodrome-overview</guid>
+			<description>前提&lt;br /&gt;Velodromeを理解するための前知識&lt;br /&gt;Velodromeの仕組みとトークンエコノミクス&lt;br /&gt;VELOトークンのディストリビューションスケジュール&lt;br /&gt;</description>
+			<pubDate>Mon, 15 Aug 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ygmez1rxycc43c6ad6jjdpkuye27/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>レトロアクティブ パブリックグッズ ファンディングにより公共財にイグジットを提供するOptimismのガバナンス</title>
 			<link>https://hashhub-research.com/articles/2022-08-13-about-optimism</link>
 			<guid isPermaLink="false">2022-08-13-about-optimism</guid>
@@ -189,14 +197,6 @@
 &lt;br /&gt;</description>
 			<pubDate>Tue, 19 Jul 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/wz1t31wrs9ev4olt7tfb0g8amccc/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ステーブルコインを高利率で運用する戦略 stETHのディスカウントを利用</title>
-			<link>https://hashhub-research.com/articles/2022-7-18-strategies-managing-stablecoin-using-steth</link>
-			<guid isPermaLink="false">2022-7-18-strategies-managing-stablecoin-using-steth</guid>
-			<description>前提 &lt;br /&gt;債券としてstETHのバリュエーションを考える &lt;br /&gt;stETHのディスカウントを利用してステーブルコインを高利率で運用するストラテジー &lt;br /&gt;総括 &lt;br /&gt;</description>
-			<pubDate>Mon, 18 Jul 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/3ah2o6mdoso25q33i1tyxpqoi6y0/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
