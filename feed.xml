@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>フラッシュローンとFURUCOMBOを用い、レバレッジを効かせた流動性の提供方法について</title>
+			<link>https://hashhub-research.com/articles/2022-08-17-about-flashloan-furucombo</link>
+			<guid isPermaLink="false">2022-08-17-about-flashloan-furucombo</guid>
+			<description>免責事項&lt;br /&gt;要約&lt;br /&gt;フラッシュローンとは&lt;br /&gt;FURUCOMBOとは&lt;br /&gt;フラッシュローンとFURUCOMBOを用い、レバレッジを効かせた流動性提供の方法&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Wed, 17 Aug 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/mp0z50djk5notwlrqftbagg1h5f4/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Nouns DAOの概要　成功するNFTプロジェクトの秘訣を学ぶ</title>
 			<link>https://hashhub-research.com/articles/2022-08-16-nouns-dao-overview</link>
 			<guid isPermaLink="false">2022-08-16-nouns-dao-overview</guid>
@@ -188,14 +196,6 @@
 			<description>前提&lt;br /&gt;Celestiaの概要&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Thu, 21 Jul 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1l8dz5za0ixew9nvg56ipxd95fpg/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>月刊DAO7月号｜次のサイクルへ向けた動き</title>
-			<link>https://hashhub-research.com/articles/2022-07-20-monthly-dao</link>
-			<guid isPermaLink="false">2022-07-20-monthly-dao</guid>
-			<description>前提&lt;br /&gt;DAOプロジェクト・ツール特集&lt;br /&gt;DAOをスモールスタートさせる方法&lt;br /&gt;クリプト界隈のDAOニュース&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Wed, 20 Jul 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/sea46qcv3vy12s1gki9n4pstc6xc/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
