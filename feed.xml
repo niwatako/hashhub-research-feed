@@ -5,6 +5,15 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Swell Network 高い分散性を備えた次世代のリキッドステーキングプロジェクト</title>
+			<link>https://hashhub-research.com/articles/2022-08-18-about-swell-network</link>
+			<guid isPermaLink="false">2022-08-18-about-swell-network</guid>
+			<description>前提&lt;br /&gt;Ethereumのステーキングの全体像&lt;br /&gt;Swell Networkの概要&lt;br /&gt;
+考察：Lidoの牙城を崩せるか&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Thu, 18 Aug 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/00yhlf9uid0dpf2fjvfxv4w89ocu/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>フラッシュローンとFURUCOMBOを用い、レバレッジを効かせた流動性の提供方法について</title>
 			<link>https://hashhub-research.com/articles/2022-08-17-about-flashloan-furucombo</link>
 			<guid isPermaLink="false">2022-08-17-about-flashloan-furucombo</guid>
@@ -188,14 +197,6 @@
 			<description>前提&lt;br /&gt;NFT販売の傾向&lt;br /&gt;NFT系最大級のリアルイベント NFT NYC&lt;br /&gt;EIP-2981/ ERC-4907について&lt;br /&gt;国内動向&lt;br /&gt;まとめ&lt;br /&gt;付録： ニュースリスト&lt;br /&gt;</description>
 			<pubDate>Fri, 22 Jul 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/eyavqdi6ifpop096hmb8hxfcr3ja/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Celestia | Data Availabilityの提供に特化したL1ブロックチェーン</title>
-			<link>https://hashhub-research.com/articles/2022-07-21-about-celestia</link>
-			<guid isPermaLink="false">2022-07-21-about-celestia</guid>
-			<description>前提&lt;br /&gt;Celestiaの概要&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Thu, 21 Jul 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1l8dz5za0ixew9nvg56ipxd95fpg/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
