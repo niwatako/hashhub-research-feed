@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>sudoswapの概要　従来型NFTマーケットプレイスとOpenSea(Seaport)とのアプローチ比較</title>
+			<link>https://hashhub-research.com/articles/2022-08-19-about-sudoswap</link>
+			<guid isPermaLink="false">2022-08-19-about-sudoswap</guid>
+			<description>前提&lt;br /&gt;sudoswapの概要&lt;br /&gt;sudoswapとOpenSea(Seaport)とのアプローチ比較&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Fri, 19 Aug 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/9sk6yhuv3m4lqdrvcbr595zsvm2p/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Swell Network 高い分散性を備えた次世代のリキッドステーキングプロジェクト</title>
 			<link>https://hashhub-research.com/articles/2022-08-18-about-swell-network</link>
 			<guid isPermaLink="false">2022-08-18-about-swell-network</guid>
@@ -189,14 +197,6 @@
 			<description>より多くの人に暗号資産・ブロックチェーンの知見を届けるために&lt;br /&gt;「マイニングを考える」特集｜7月22日～8月11日の期間限定レポート&lt;br /&gt;</description>
 			<pubDate>Fri, 22 Jul 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/822zh8dcbi3ro4yjfwe8h9bkorbb/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>NFT（Non-Fungible-Token）の動向 22年7月</title>
-			<link>https://hashhub-research.com/articles/2022-07-22-nft-market</link>
-			<guid isPermaLink="false">2022-07-22-nft-market</guid>
-			<description>前提&lt;br /&gt;NFT販売の傾向&lt;br /&gt;NFT系最大級のリアルイベント NFT NYC&lt;br /&gt;EIP-2981/ ERC-4907について&lt;br /&gt;国内動向&lt;br /&gt;まとめ&lt;br /&gt;付録： ニュースリスト&lt;br /&gt;</description>
-			<pubDate>Fri, 22 Jul 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/eyavqdi6ifpop096hmb8hxfcr3ja/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
