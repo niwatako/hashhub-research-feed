@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>「論考・ETHの時価総額がBTCを追い抜くと考える理由」を再度考える</title>
+			<link>https://hashhub-research.com/articles/2022-08-22-thinking-again-about-eth-market-capitalization</link>
+			<guid isPermaLink="false">2022-08-22-thinking-again-about-eth-market-capitalization</guid>
+			<description>前提&lt;br /&gt;The Merge後の売り圧力をBTCと比較するへの反論&lt;br /&gt;マネーフローは金利が高い通貨に流れる点への反論&lt;br /&gt;Ethereumの市場規模はデジタルゴールド以上という点への反論&lt;br /&gt;筆者の私見&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Mon, 22 Aug 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/vjv79z815zro8ir2oe5t0o130knv/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>sudoswapの概要　従来型NFTマーケットプレイスとOpenSea(Seaport)とのアプローチ比較</title>
 			<link>https://hashhub-research.com/articles/2022-08-19-about-sudoswap</link>
 			<guid isPermaLink="false">2022-08-19-about-sudoswap</guid>
@@ -189,14 +197,6 @@
 			<description>ペッグメカニズムなど仕組みについて&lt;br /&gt;自動運用機能（Auto Yield）の効用とリスク&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Mon, 25 Jul 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2bmgbi8zndn9y83ugvh630ww7vr3/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title> 「マイニングを考える」特集｜7月22日～8月11日の期間限定レポート</title>
-			<link>https://hashhub-research.com/articles/2022-07-22-free-report-for-limited-time</link>
-			<guid isPermaLink="false">2022-07-22-free-report-for-limited-time</guid>
-			<description>より多くの人に暗号資産・ブロックチェーンの知見を届けるために&lt;br /&gt;「マイニングを考える」特集｜7月22日～8月11日の期間限定レポート&lt;br /&gt;</description>
-			<pubDate>Fri, 22 Jul 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/822zh8dcbi3ro4yjfwe8h9bkorbb/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
