@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>暗号資産の相場動向を強気と弱気のシナリオパターンをそれぞれ考える</title>
+			<link>https://hashhub-research.com/articles/2022-08-24-bullish-and-bearish-scenario-pattern</link>
+			<guid isPermaLink="false">2022-08-24-bullish-and-bearish-scenario-pattern</guid>
+			<description>前提&lt;br /&gt;暗号資産全体・グローバルマクロ環境のシナリオパターン&lt;br /&gt;BTCのシナリオパターン&lt;br /&gt;ETHのシナリオパターン&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Wed, 24 Aug 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/c0m9cva7remww8hklzw0rc0osip5/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>NFT（Non-Fungible-Token）の動向 22年8月</title>
 			<link>https://hashhub-research.com/articles/2022-08-23-nft-market</link>
 			<guid isPermaLink="false">2022-08-23-nft-market</guid>
@@ -189,14 +197,6 @@
 			<description>国内法人がWeb3事業を進める際のポイント&lt;br /&gt;前提&lt;br /&gt;経営層とプレーヤーの温度差&lt;br /&gt;企業での具体的な課題&lt;br /&gt;チームのサイズ&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Wed, 27 Jul 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/dq5tpfk2aybc6xblxaspaiqkdzu6/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>米国ステーブルコイン規制の最新事情（2022年7月時点）</title>
-			<link>https://hashhub-research.com/articles/2022-07-26-stablecoin-regulation-update</link>
-			<guid isPermaLink="false">2022-07-26-stablecoin-regulation-update</guid>
-			<description>前提&lt;br /&gt;主な論点&lt;br /&gt;上院法案、Responsible Financial Innovation Act&lt;br /&gt;NY州金融サービス局、Virtual Currency Guidance&lt;br /&gt;USDT、USDC、BUSDの裏付資産と情報開示の状況&lt;br /&gt;総括&lt;br /&gt;付録&lt;br /&gt;出所、補足&lt;br /&gt;</description>
-			<pubDate>Tue, 26 Jul 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ahfqiei8mf0ojvk3ogrih73q9vh6/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
