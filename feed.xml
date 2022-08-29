@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>NFT価格はどのようにして決まるのか【中編】｜主観的に評価するアプローチ｜Taker protocol、Abacus protocol</title>
+			<link>https://hashhub-research.com/articles/2022-08-29-about-nft-pricing-2</link>
+			<guid isPermaLink="false">2022-08-29-about-nft-pricing-2</guid>
+			<description>前提&lt;br /&gt;1.主観的にNFTを評価するアプローチ&lt;br /&gt;アプローチ①の事例：Taker protocol｜信用できる鑑定士を通じた評価アプローチ&lt;br /&gt;アプローチ②の事例：Abacus protocol｜対象NFT価格がトランシェの価格よりも高いか低いかを判断して鑑定するアプローチ&lt;br /&gt;</description>
+			<pubDate>Mon, 29 Aug 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/svgo11t1s31d0gu5pgko4m9m2j6y/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>The Merge前に知っておきたいデータ -インフレ率、半減期との比較、フォークコインの価格への影響を数値で見る-</title>
 			<link>https://hashhub-research.com/articles/2022-08-27-the-merge-halving-forkcoin</link>
 			<guid isPermaLink="false">2022-08-27-the-merge-halving-forkcoin</guid>
@@ -189,14 +197,6 @@
 			<description>前提&lt;br /&gt;Soul Bound Token（SBT）の概要&lt;br /&gt;SBTプロジェクトの事例｜ゲーム、メタバース、DAOなど&lt;br /&gt;DeSoc（Decentralized Society）の概要&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Mon, 01 Aug 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/w886qrcswja4a2ictta9rvv1i5n1/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>論考・ETHの時価総額がBTCを追い抜くと考える理由</title>
-			<link>https://hashhub-research.com/articles/2022-07-30-how-eth-will-flip-btc</link>
-			<guid isPermaLink="false">2022-07-30-how-eth-will-flip-btc</guid>
-			<description>前提&lt;br /&gt;論考・ETHの時価総額がBTCを追い抜くと考える理由&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Sat, 30 Jul 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/v30lic5thoyz116lhcxfsd2qi0d5/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
