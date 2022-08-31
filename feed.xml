@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>NFT価格はどのようにして決まるのか【後編】｜オラクルを介して評価するアプローチ｜BendDAO、Banksea NFTオラクル</title>
+			<link>https://hashhub-research.com/articles/2022-08-31-about-nft-pricing-3</link>
+			<guid isPermaLink="false">2022-08-31-about-nft-pricing-3</guid>
+			<description>前提&lt;br /&gt;2.オラクルを介してNFTを評価するアプローチ&lt;br /&gt;TWAP評価によるアプローチの事例：Bend DAO｜現状と課題を理解する&lt;br /&gt;②機械学習（AI）を用いて評価するアプローチ事例：Banksea｜レアリティなども加味して客観的に評価&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Wed, 31 Aug 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/7ewh78aghymm8v3gf4ra65bo636c/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Compound V3の概要 -セキュリティとリスク重視の差別化-</title>
 			<link>https://hashhub-research.com/articles/2022-08-30-about-compound-v3</link>
 			<guid isPermaLink="false">2022-08-30-about-compound-v3</guid>
@@ -189,14 +197,6 @@
 			<description></description>
 			<pubDate>Wed, 03 Aug 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/akdevoawbe0aflk5qa74kfgmqrd7/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>zkEVMをめぐる開発競争の現状と待望される理由</title>
-			<link>https://hashhub-research.com/articles/2022-08-02-about-zkevm</link>
-			<guid isPermaLink="false">2022-08-02-about-zkevm</guid>
-			<description>前提&lt;br /&gt;zkEVMの開発競争の現状&lt;br /&gt;zkEVMが待望される理由&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Tue, 02 Aug 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ut41rezdkbgsz52pnl5mdmrqfrm0/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
