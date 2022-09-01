@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Avalanche上の複数プロジェクトを用いたステーブルコインファーミングについて</title>
+			<link>https://hashhub-research.com/articles/2022-09-01-asset-management-of-stablecoin</link>
+			<guid isPermaLink="false">2022-09-01-asset-management-of-stablecoin</guid>
+			<description>免責事項&lt;br /&gt;要約&lt;br /&gt;活用するAvalanche上のプロジェクト紹介&lt;br /&gt;Benqi&lt;br /&gt;Yeti Finance&lt;br /&gt;Echidna Finance&lt;br /&gt;ステーブルコインのファーミング事例&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Thu, 01 Sep 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/jsdj2u01pdahgwvtb8jokgpvjce8/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>NFT価格はどのようにして決まるのか【後編】｜オラクルを介して評価するアプローチ｜BendDAO、Banksea NFTオラクル</title>
 			<link>https://hashhub-research.com/articles/2022-08-31-about-nft-pricing-3</link>
 			<guid isPermaLink="false">2022-08-31-about-nft-pricing-3</guid>
@@ -189,14 +197,6 @@
 			<description>前提&lt;br /&gt;主要なDeFi&lt;br /&gt;NFT-Fi、GameFi、DAOでの活用&lt;br /&gt;DeFiを使ったビジネス&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 04 Aug 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/d5z39wwvyn3ekd7lyf8thpfwv0kq/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>中立性と透明性向上を目的とした保有暗号資産の財務情報の開示</title>
-			<link>https://hashhub-research.com/articles/portfolio-disclosure</link>
-			<guid isPermaLink="false">portfolio-disclosure</guid>
-			<description></description>
-			<pubDate>Wed, 03 Aug 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/akdevoawbe0aflk5qa74kfgmqrd7/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
