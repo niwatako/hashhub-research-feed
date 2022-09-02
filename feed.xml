@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Lightning Networkエコシステムの現況とプライバシー規制の影響による課題</title>
+			<link>https://hashhub-research.com/articles/2022-09-02-about-lightning-network</link>
+			<guid isPermaLink="false">2022-09-02-about-lightning-network</guid>
+			<description>前提&lt;br /&gt;エコシステムの現況&lt;br /&gt;プライバシー規制の影響と課題&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Fri, 02 Sep 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/puv5sw0uijfyy9q4mxum130dsl22/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Avalanche上の複数プロジェクトを用いたステーブルコインファーミングについて</title>
 			<link>https://hashhub-research.com/articles/2022-09-01-asset-management-of-stablecoin</link>
 			<guid isPermaLink="false">2022-09-01-asset-management-of-stablecoin</guid>
@@ -189,14 +197,6 @@
 			<description>前提&lt;br /&gt;収益力が高いDeFiプロトコル&lt;br /&gt;収益力が高いWeb3インフラストラクチャー系プロトコル&lt;br /&gt;収益力が高いNFTマーケットプレイス&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Fri, 05 Aug 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/6exqu5mzv7ybjtervc1pyemdbmaw/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>DeFiがどう価値を生んでいるのか身近な人に説明する方法 - 具体例を挙げながら検証する -</title>
-			<link>https://hashhub-research.com/articles/2022-08-04-defi-value</link>
-			<guid isPermaLink="false">2022-08-04-defi-value</guid>
-			<description>前提&lt;br /&gt;主要なDeFi&lt;br /&gt;NFT-Fi、GameFi、DAOでの活用&lt;br /&gt;DeFiを使ったビジネス&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 04 Aug 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/d5z39wwvyn3ekd7lyf8thpfwv0kq/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
