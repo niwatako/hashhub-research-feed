@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>スマートコントラクトプラットフォーム競争の2022年のトレンドを知る</title>
+			<link>https://hashhub-research.com/articles/2022-09-06-trends-in-the-smart-contract-platform-competition</link>
+			<guid isPermaLink="false">2022-09-06-trends-in-the-smart-contract-platform-competition</guid>
+			<description>前提&lt;br /&gt;ステーブルコインをレイヤー1がネイティブに実装&lt;br /&gt;独自のユーザー層やローカルコミュニティへリーチできるブロックチェーン（LINE、Oasis、Klaytn）&lt;br /&gt;早い・安いではない新しい開発者体験&lt;br /&gt;規制対応ができる余地を仕組みとして提供&lt;br /&gt;デフレーションモデルの導入&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Tue, 06 Sep 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/hpnxeya3r344x0gjuy8euxc31t07/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>トップ暗号資産取引所が下落相場の中でも収益を生み出す高度なビジネスの打ち手</title>
 			<link>https://hashhub-research.com/articles/2022-09-05-top-crypto-exchanges-generate</link>
 			<guid isPermaLink="false">2022-09-05-top-crypto-exchanges-generate</guid>
@@ -188,15 +196,6 @@
 			<description>前提&lt;br /&gt;PMF→持続する仕組み（往々にしてそれは売上）が一番重要という身も蓋もない話&lt;br /&gt;Web3の起業家にとっての2つの意思決定をジェフベゾス のフレームワークで考える。&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Mon, 08 Aug 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0lnkkmryo5d5e7yyubwqm5dxdf4h/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>地方創生×Web3【ユースケース考察編】①｜Web3ベース「通貨/決済システム」の有用性と課題</title>
-			<link>https://hashhub-research.com/articles/2022-08-06-web3-regional-development-2</link>
-			<guid isPermaLink="false">2022-08-06-web3-regional-development-2</guid>
-			<description>前提&lt;br /&gt;1.BCによる地域活性化の前に「ブロックチェーンはどのような場合に有効であり、どのような場合に有効ではないのか」をまず理解しよう&lt;br /&gt;2.ブロックチェーンベースの地域活性化事例
-&lt;br /&gt;3.主要ユースケース①「通貨/決済システム」&lt;br /&gt;</description>
-			<pubDate>Sat, 06 Aug 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/a17ny598q1x7ghbqe30edexq9q7j/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
