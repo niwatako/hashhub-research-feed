@@ -13,6 +13,14 @@
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/5gquphmzicqzgitjfjwwfohtds8y/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		<item>
+			<title>中立性と透明性向上を目的とした保有暗号資産の財務情報の開示</title>
+			<link>https://hashhub-research.com/articles/portfolio-disclosure</link>
+			<guid isPermaLink="false">portfolio-disclosure</guid>
+			<description></description>
+			<pubDate>Wed, 07 Sep 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/akdevoawbe0aflk5qa74kfgmqrd7/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>スマートコントラクトプラットフォーム競争の2022年のトレンドを知る</title>
 			<link>https://hashhub-research.com/articles/2022-09-06-trends-in-the-smart-contract-platform-competition</link>
 			<guid isPermaLink="false">2022-09-06-trends-in-the-smart-contract-platform-competition</guid>
@@ -188,14 +196,6 @@
 			<description>前提&lt;br /&gt;数値で見るSynthetix&lt;br /&gt;Synthetixのエコシステム&lt;br /&gt;Lyra&lt;br /&gt;Synthetixの今後のロードマップ・v3のローンチ&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Wed, 10 Aug 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/11jvoh3eazbsol2t5pnan489n56d/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>地方創生×Web3【ユースケース考察編】②｜ブロックチェーンベースのガバナンスフレームワークは地方統治方法として有用か</title>
-			<link>https://hashhub-research.com/articles/2022-08-09-web3-regional-development-3</link>
-			<guid isPermaLink="false">2022-08-09-web3-regional-development-3</guid>
-			<description>4.主要ユースケース②「地方独自の統治システム」｜ブロックチェーンベースのガバナンスフレームワークは地方統治方法として有用か&lt;br /&gt;4-1.地域ガバナンスにDAOを持ち込む前に知っておきたいこと｜分散化と非中央集権化の違い&lt;br /&gt;4-2.ブロックチェーンベースのガバナンスフレームワーク（DAO）を参加型計画に活用することの有用性&lt;br /&gt;4-3.ブロックチェーンベースのガバナンスフレームワークを地方に活用することの課題&lt;br /&gt;</description>
-			<pubDate>Tue, 09 Aug 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ev9w15txt076ji621rwap4ohhihn/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
