@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Free to Own（F2O） DigiDaigakuなどのNFTに見るブロックチェーンゲームの新潮流</title>
+			<link>https://hashhub-research.com/articles/2022-09-13-overview-free-to-own</link>
+			<guid isPermaLink="false">2022-09-13-overview-free-to-own</guid>
+			<description>前提&lt;br /&gt;Free to Own（F2O）およびDigiDaigakuの概要&lt;br /&gt;Free to Own（F2O）はNFT市場やブロックチェーンゲームにどのような意味をもたらすか&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Tue, 13 Sep 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0nu0ooj692mo4ghf27jx1ghk5hak/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>不動産担保型ステーブルコインUSDRの概要</title>
 			<link>https://hashhub-research.com/articles/2022-09-12-about-usdr</link>
 			<guid isPermaLink="false">2022-09-12-about-usdr</guid>
@@ -188,14 +196,6 @@
 			<description>前提&lt;br /&gt;Velodromeを理解するための前知識&lt;br /&gt;Velodromeの仕組みとトークンエコノミクス&lt;br /&gt;VELOトークンのディストリビューションスケジュール&lt;br /&gt;</description>
 			<pubDate>Mon, 15 Aug 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ygmez1rxycc43c6ad6jjdpkuye27/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>レトロアクティブ パブリックグッズ ファンディングにより公共財にイグジットを提供するOptimismのガバナンス</title>
-			<link>https://hashhub-research.com/articles/2022-08-13-about-optimism</link>
-			<guid isPermaLink="false">2022-08-13-about-optimism</guid>
-			<description>前提&lt;br /&gt;Optimismの二院制ガバナンスの概要&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Sat, 13 Aug 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/fkui3aqqdvwib7njwss624m0fx2l/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
