@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>NFT流通モデルを脱構築する【前編】｜「現在のNFT流通モデルの多くは崩壊している」と同時に「新たな流通メカニズムは開拓されている」</title>
+			<link>https://hashhub-research.com/articles/2022-09-16-about-vrgda</link>
+			<guid isPermaLink="false">2022-09-16-about-vrgda</guid>
+			<description>前提&lt;br /&gt;NFT流通手法に関する課題感「現在のNFT流通モデルの多くは崩壊している」&lt;br /&gt;前提知識：VRGDAとは何か&lt;br /&gt;VRGDAの仕組み解説&lt;br /&gt;</description>
+			<pubDate>Fri, 16 Sep 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/evsxw9k9lveqzku540vxb4g1k555/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Distributed Validator Technology | バリデータのトラストレスな分散運営を実現する技術</title>
 			<link>https://hashhub-research.com/articles/2022-09-14-about-distributed-validator-technology</link>
 			<guid isPermaLink="false">2022-09-14-about-distributed-validator-technology</guid>
@@ -188,14 +196,6 @@
 			<description>免責事項&lt;br /&gt;要約&lt;br /&gt;フラッシュローンとは&lt;br /&gt;FURUCOMBOとは&lt;br /&gt;フラッシュローンとFURUCOMBOを用い、レバレッジを効かせた流動性提供の方法&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Wed, 17 Aug 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/mp0z50djk5notwlrqftbagg1h5f4/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Nouns DAOの概要　成功するNFTプロジェクトの秘訣を学ぶ</title>
-			<link>https://hashhub-research.com/articles/2022-08-16-nouns-dao-overview</link>
-			<guid isPermaLink="false">2022-08-16-nouns-dao-overview</guid>
-			<description>前提&lt;br /&gt;Nouns DAOの概要&lt;br /&gt;成功するNFTプロジェクトの秘訣を学ぶ&lt;br /&gt;Nouns DAOのコミュニティ内の活動やプロジェクト&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Tue, 16 Aug 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/hvvd69ca6it0mripgtos0cokdtwt/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
