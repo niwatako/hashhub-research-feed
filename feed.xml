@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>次の10年はインフレ・高金利の時代　インフレが一過性ではない長いトレンドになるシナリオを考える</title>
+			<link>https://hashhub-research.com/articles/2022-09-20-inflation-age-has-came</link>
+			<guid isPermaLink="false">2022-09-20-inflation-age-has-came</guid>
+			<description>前提 &lt;br /&gt;インフレ・高金利が長いトレンドになる可能性を示す5つの理由  &lt;br /&gt; 4.アメリカの経済は底堅い（需要サイド） &lt;br /&gt;総括 &lt;br /&gt;</description>
+			<pubDate>Tue, 20 Sep 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/eg0lu06o2m23swkp08eop1690efz/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>NFTロイヤリティの行方</title>
 			<link>https://hashhub-research.com/articles/2022-09-19-about-nft-royalty</link>
 			<guid isPermaLink="false">2022-09-19-about-nft-royalty</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;The Merge後の売り圧力をBTCと比較するへの反論&lt;br /&gt;マネーフローは金利が高い通貨に流れる点への反論&lt;br /&gt;Ethereumの市場規模はデジタルゴールド以上という点への反論&lt;br /&gt;筆者の私見&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Mon, 22 Aug 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/vjv79z815zro8ir2oe5t0o130knv/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>sudoswapの概要　従来型NFTマーケットプレイスとOpenSea(Seaport)とのアプローチ比較</title>
-			<link>https://hashhub-research.com/articles/2022-08-19-about-sudoswap</link>
-			<guid isPermaLink="false">2022-08-19-about-sudoswap</guid>
-			<description>前提&lt;br /&gt;sudoswapの概要&lt;br /&gt;sudoswapとOpenSea(Seaport)とのアプローチ比較&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 19 Aug 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/9sk6yhuv3m4lqdrvcbr595zsvm2p/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
