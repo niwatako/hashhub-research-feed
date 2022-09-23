@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>NFTの応用的な設計ができるDynamic NFTsとは 実現可能なユースケースの例</title>
+			<link>https://hashhub-research.com/articles/2022-09-23-overview</link>
+			<guid isPermaLink="false">2022-09-23-overview</guid>
+			<description>前提&lt;br /&gt;Dynamic NFTs（dNFTs）の概要&lt;br /&gt;実現可能なユースケースの例を5つ紹介&lt;br /&gt;</description>
+			<pubDate>Fri, 23 Sep 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/r64gce4n1edyt9v3p3205sccb999/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>運用収益配分型ステーブルコイン USD+</title>
 			<link>https://hashhub-research.com/articles/2022-09-22-about-usd-prus</link>
 			<guid isPermaLink="false">2022-09-22-about-usd-prus</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;NFT価格はどのようにして決まるのか&lt;br /&gt;計測不可能な要素｜主観的な価値観で測る&lt;br /&gt;計算可能な要素｜主観的評価の排除&lt;br /&gt;</description>
 			<pubDate>Thu, 25 Aug 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ffm9yjkmddcbu0hab0r8u4zldifb/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>暗号資産の相場動向を強気と弱気のシナリオパターンをそれぞれ考える</title>
-			<link>https://hashhub-research.com/articles/2022-08-24-bullish-and-bearish-scenario-pattern</link>
-			<guid isPermaLink="false">2022-08-24-bullish-and-bearish-scenario-pattern</guid>
-			<description>前提&lt;br /&gt;暗号資産全体・グローバルマクロ環境のシナリオパターン&lt;br /&gt;BTCのシナリオパターン&lt;br /&gt;ETHのシナリオパターン&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Wed, 24 Aug 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/gsmco6aqlgl443v1erj0hcml2plu/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
