@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>特集記事「Web3とロイヤルティマーケティング」</title>
+			<link>https://hashhub-research.com/articles/2022-09-26-about-loyalty-marketing</link>
+			<guid isPermaLink="false">2022-09-26-about-loyalty-marketing</guid>
+			<description>既存ブランドが取り組んできたWeb3ベースの施策振り返り&lt;br /&gt;既存事業の強化、ロイヤルティプログラムの拡張を目的としたStarbucks Odysseyの登場&lt;br /&gt;余談：既存ブランドが行うWeb3ベースの施策はロイヤルティマーケティングなのか、それともイノベーション思考が生んだ新規事業なのか&lt;br /&gt;</description>
+			<pubDate>Mon, 26 Sep 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/uz488vs97ewlvepnj2a1geq51a6i/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>NFTの応用的な設計ができるDynamic NFTsとは 実現可能なユースケースの例</title>
 			<link>https://hashhub-research.com/articles/2022-09-23-overview</link>
 			<guid isPermaLink="false">2022-09-23-overview</guid>
@@ -187,14 +195,6 @@
 			<description>「SBTを批判的に捉える」特集&lt;br /&gt;</description>
 			<pubDate>Fri, 26 Aug 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/psp5eivtoi9khw8mmbjqv36oiylt/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>NFT価格はどのようにして決まるのか【前編】｜NFT-Fiの困難さを理解する</title>
-			<link>https://hashhub-research.com/articles/2022-08-25-about-nft-pricing</link>
-			<guid isPermaLink="false">2022-08-25-about-nft-pricing</guid>
-			<description>前提&lt;br /&gt;NFT価格はどのようにして決まるのか&lt;br /&gt;計測不可能な要素｜主観的な価値観で測る&lt;br /&gt;計算可能な要素｜主観的評価の排除&lt;br /&gt;</description>
-			<pubDate>Thu, 25 Aug 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ffm9yjkmddcbu0hab0r8u4zldifb/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
