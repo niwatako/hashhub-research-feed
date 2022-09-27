@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Osmosisの概要 分散型取引所に特化した独自ブロックチェーン</title>
+			<link>https://hashhub-research.com/articles/2022-09-27-osmosis-overview</link>
+			<guid isPermaLink="false">2022-09-27-osmosis-overview</guid>
+			<description>前提&lt;br /&gt;Osmosisの概要&lt;br /&gt;Osmosisの成功の要因、なぜCOSMOSエコシステムを牽引しているか&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Tue, 27 Sep 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ljjob5on1puswdhn33wy4rbkyoek/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>特集記事「Web3とロイヤルティマーケティング」｜スターバックスのNFT活用事例は企業がNFTを活用するスタンダードなアプローチになるか</title>
 			<link>https://hashhub-research.com/articles/2022-09-26-about-loyalty-marketing</link>
 			<guid isPermaLink="false">2022-09-26-about-loyalty-marketing</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;ETHのインフレ率の比較&lt;br /&gt;BTCのインフレ率と半減期&lt;br /&gt;取得の可能性のあるETHWとETFについて&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Sat, 27 Aug 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/3l7nhflthy9zdmq1iepyc1zmksni/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>「SBTを批判的に捉える」特集｜NFT≒「私はそれを所有している」、SSI≒「私は何者である」、SBT≒「？？？」</title>
-			<link>https://hashhub-research.com/articles/2022-08-26-free-report-for-limited-time</link>
-			<guid isPermaLink="false">2022-08-26-free-report-for-limited-time</guid>
-			<description>「SBTを批判的に捉える」特集&lt;br /&gt;</description>
-			<pubDate>Fri, 26 Aug 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/psp5eivtoi9khw8mmbjqv36oiylt/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
