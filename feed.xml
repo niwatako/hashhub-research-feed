@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>次のトレンドの種は何かその１ -CosmosのInterchain security-</title>
+			<link>https://hashhub-research.com/articles/2022-09-28-next-trend-no1</link>
+			<guid isPermaLink="false">2022-09-28-next-trend-no1</guid>
+			<description>前提&lt;br /&gt;現状のマッピング&lt;br /&gt;CosmosのInterchain security&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Wed, 28 Sep 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/f67265tf4vybgozyumzse9ic0qoe/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Osmosisの概要 分散型取引所に特化した独自ブロックチェーン</title>
 			<link>https://hashhub-research.com/articles/2022-09-27-osmosis-overview</link>
 			<guid isPermaLink="false">2022-09-27-osmosis-overview</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;1.主観的にNFTを評価するアプローチ&lt;br /&gt;アプローチ①の事例：Taker protocol｜信用できる鑑定士を通じた評価アプローチ&lt;br /&gt;アプローチ②の事例：Abacus protocol｜対象NFT価格がトランシェの価格よりも高いか低いかを判断して鑑定するアプローチ&lt;br /&gt;</description>
 			<pubDate>Mon, 29 Aug 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/x1k8aa5mt2ln8ryy3ff9bcw4sqpv/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>The Merge前に知っておきたいデータ -インフレ率、半減期との比較、フォークコインの価格への影響を数値で見る-</title>
-			<link>https://hashhub-research.com/articles/2022-08-27-the-merge-halving-forkcoin</link>
-			<guid isPermaLink="false">2022-08-27-the-merge-halving-forkcoin</guid>
-			<description>前提&lt;br /&gt;ETHのインフレ率の比較&lt;br /&gt;BTCのインフレ率と半減期&lt;br /&gt;取得の可能性のあるETHWとETFについて&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Sat, 27 Aug 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/3l7nhflthy9zdmq1iepyc1zmksni/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
