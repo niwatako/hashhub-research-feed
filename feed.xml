@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>NFT流通モデルを脱構築する【後編】｜VRGDAメカニズムを応用したゲーム「Art Gobblers」</title>
+			<link>https://hashhub-research.com/articles/2022-09-29-about-vrgda-2</link>
+			<guid isPermaLink="false">2022-09-29-about-vrgda-2</guid>
+			<description>前提&lt;br /&gt;VRGDAメカニズムを応用したゲーム「Art Gobblers」の概要&lt;br /&gt;どこにVRGDAメカニズムを応用しているのか？｜Art Gobblerの仕組み概要&lt;br /&gt;考察：VRGDAメカニズムは消費アイテム（トークン）の需要と供給の乖離を抑制できるか&lt;br /&gt;</description>
+			<pubDate>Thu, 29 Sep 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/j0ycuknwwfea837y2oeeg9nwtwpd/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>次のトレンドの種は何かその１ -CosmosのInterchain security-</title>
 			<link>https://hashhub-research.com/articles/2022-09-28-next-trend-no1</link>
 			<guid isPermaLink="false">2022-09-28-next-trend-no1</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Compound V2との相違点&lt;br /&gt;今後の展望&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Tue, 30 Aug 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/9zvts1zmk1yphofdm31b990s0yx5/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>NFT価格はどのようにして決まるのか【中編】｜主観的に評価するアプローチ｜Taker protocol、Abacus protocol</title>
-			<link>https://hashhub-research.com/articles/2022-08-29-about-nft-pricing-2</link>
-			<guid isPermaLink="false">2022-08-29-about-nft-pricing-2</guid>
-			<description>前提&lt;br /&gt;1.主観的にNFTを評価するアプローチ&lt;br /&gt;アプローチ①の事例：Taker protocol｜信用できる鑑定士を通じた評価アプローチ&lt;br /&gt;アプローチ②の事例：Abacus protocol｜対象NFT価格がトランシェの価格よりも高いか低いかを判断して鑑定するアプローチ&lt;br /&gt;</description>
-			<pubDate>Mon, 29 Aug 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/x1k8aa5mt2ln8ryy3ff9bcw4sqpv/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
