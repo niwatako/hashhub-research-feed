@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>SAFE（旧Gnosis Safe）の概要 業界で最も採用されているマルチシグウォレット</title>
+			<link>https://hashhub-research.com/articles/2022-10-07-safe-overview</link>
+			<guid isPermaLink="false">2022-10-07-safe-overview</guid>
+			<description>前提&lt;br /&gt;SAFE（旧Gnosis Safe）の略歴&lt;br /&gt;SAFE（旧Gnosis Safe）の使い方や仕組み&lt;br /&gt;SAFEトークンの概要&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Fri, 07 Oct 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/7o290lqht5hihoc8qnftgh1w3rgo/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>次のトレンドの種は何か その2 -DeFi特化チェーンのSeiとそれを使ったSVM、独自チェーンの基盤となるL1の比較-</title>
 			<link>https://hashhub-research.com/articles/2022-10-05-next-trend-sei-svm-eclipse</link>
 			<guid isPermaLink="false">2022-10-05-next-trend-sei-svm-eclipse</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;ステーブルコインをレイヤー1がネイティブに実装&lt;br /&gt;独自のユーザー層やローカルコミュニティへリーチできるブロックチェーン（LINE、Oasis、Klaytn）&lt;br /&gt;早い・安いではない新しい開発者体験&lt;br /&gt;規制対応ができる余地を仕組みとして提供&lt;br /&gt;デフレーションモデルの導入&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Tue, 06 Sep 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/hpnxeya3r344x0gjuy8euxc31t07/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>トップ暗号資産取引所が下落相場の中でも収益を生み出す高度なビジネスの打ち手</title>
-			<link>https://hashhub-research.com/articles/2022-09-05-top-crypto-exchanges-generate</link>
-			<guid isPermaLink="false">2022-09-05-top-crypto-exchanges-generate</guid>
-			<description>前提&lt;br /&gt;ステーブルコインを強化して取引所としてキャッシュフロー構造を変化させる（Binance）&lt;br /&gt;ディストレスト買収（FTX）&lt;br /&gt;取引所とヘッジファンドの応用（FTX）&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Mon, 05 Sep 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/eip0003akhiiiirvcy53t8x6a2ec/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
