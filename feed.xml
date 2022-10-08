@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>中央銀行による統制がかつてなく効いていない2022年 暗号資産市場（特にBitcoin）に与える影響</title>
+			<link>https://hashhub-research.com/articles/2022-10-08-central-bank-control-has-never-been-more-ineffective</link>
+			<guid isPermaLink="false">2022-10-08-central-bank-control-has-never-been-more-ineffective</guid>
+			<description>前提&lt;br /&gt;中央銀行による統制が、かつてなく効いていない2022年&lt;br /&gt;暗号資産市場（特にBitcoin）に与える影響&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Sat, 08 Oct 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ungbo4vxfwtx3yrgou3umpvayd95/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>SAFE（旧Gnosis Safe）の概要 業界で最も採用されているマルチシグウォレット</title>
 			<link>https://hashhub-research.com/articles/2022-10-07-safe-overview</link>
 			<guid isPermaLink="false">2022-10-07-safe-overview</guid>
@@ -187,14 +195,6 @@
 			<description>Executive Summary&lt;br /&gt;国際機関の検討状況（全体像）&lt;br /&gt;金融活動作業部会（FATF）：犯罪行為の防止、ガイダンス改訂を検討中&lt;br /&gt;金融安定理事会（FSB）：いよいよ年内に規制案を公表&lt;br /&gt;国際決済銀行（BIS）：ステーブルコインに決済システムの国際標準を適用&lt;br /&gt;国際通貨基金（IMF）：中央集権主体に厳しい規制を課すべきと提言&lt;br /&gt;総括&lt;br /&gt;付録&lt;br /&gt;出所&lt;br /&gt;</description>
 			<pubDate>Wed, 07 Sep 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/5gquphmzicqzgitjfjwwfohtds8y/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>スマートコントラクトプラットフォーム競争の2022年のトレンドを知る</title>
-			<link>https://hashhub-research.com/articles/2022-09-06-trends-in-the-smart-contract-platform-competition</link>
-			<guid isPermaLink="false">2022-09-06-trends-in-the-smart-contract-platform-competition</guid>
-			<description>前提&lt;br /&gt;ステーブルコインをレイヤー1がネイティブに実装&lt;br /&gt;独自のユーザー層やローカルコミュニティへリーチできるブロックチェーン（LINE、Oasis、Klaytn）&lt;br /&gt;早い・安いではない新しい開発者体験&lt;br /&gt;規制対応ができる余地を仕組みとして提供&lt;br /&gt;デフレーションモデルの導入&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Tue, 06 Sep 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/hpnxeya3r344x0gjuy8euxc31t07/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
