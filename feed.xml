@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ev.ioを例にしプラスサムで持続可能なGameFiを考える</title>
+			<link>https://hashhub-research.com/articles/2022-10-11-ev-io-gamefi</link>
+			<guid isPermaLink="false">2022-10-11-ev-io-gamefi</guid>
+			<description>前提：GameFi（BCG）の課題&lt;br /&gt;ev.ioの概要と運営のAddicted Gamesについて&lt;br /&gt;ev.ioのゲーム詳細&lt;br /&gt;ev.ioがプラスサムゲームを目指せる理由&lt;br /&gt;ev.ioから考える今後のGameFi（BCG）&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Tue, 11 Oct 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0lwe2cgiy6319metu7wyw9jdy7qn/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>NFTフロア価格無期限先物【前編】: Floor Perpの仕組み </title>
 			<link>https://hashhub-research.com/articles/2022-10-10-about-floor-perp</link>
 			<guid isPermaLink="false">2022-10-10-about-floor-perp</guid>
@@ -187,14 +195,6 @@
 			<description>「試行錯誤が続くNFTブランディング」特集&lt;br /&gt;</description>
 			<pubDate>Fri, 09 Sep 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/tp3nprbjvg6rjpkufv9umdh5qtm0/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>不動産の小口利用や所有をNFTで実現する衝撃 3億円完売したNOT A HOTELを中心に考察する</title>
-			<link>https://hashhub-research.com/articles/2022-09-08-overview-not-a-hotel</link>
-			<guid isPermaLink="false">2022-09-08-overview-not-a-hotel</guid>
-			<description>前提&lt;br /&gt;NOT A HOTEL NFTの概要&lt;br /&gt;法的建て付け&lt;br /&gt;同社がNFTにすることのメリットとは&lt;br /&gt;ビジネスモデルやプライシングに関する考察&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 08 Sep 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/wp522sjuvktl3k6k4j7iaii5q2sd/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
