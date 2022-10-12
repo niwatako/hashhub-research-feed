@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>DAOに貢献をすることをビジネスにする株式会社の事例と、今度予想される動き</title>
+			<link>https://hashhub-research.com/articles/2022-10-12-company-contribute-dao</link>
+			<guid isPermaLink="false">2022-10-12-company-contribute-dao</guid>
+			<description>前提&lt;br /&gt;Llamaの事例&lt;br /&gt;GFX Labsの事例&lt;br /&gt;DAOに貢献をすることをビジネスにするB2DAO（ビジネス to DAO）の今後予想される動き&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Wed, 12 Oct 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/xmxzdpf53bhcwrx3n4j8vups2u8r/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ev.ioを例にしプラスサムで持続可能なGameFiを考える</title>
 			<link>https://hashhub-research.com/articles/2022-10-11-ev-io-gamefi</link>
 			<guid isPermaLink="false">2022-10-11-ev-io-gamefi</guid>
@@ -187,14 +195,6 @@
 			<description>免責事項&lt;br /&gt;要約&lt;br /&gt;USDRの概要&lt;br /&gt;ステーブルコインや分散型金融市場を用いた運用の問題点&lt;br /&gt;USDRの発行から収益を得る流れ&lt;br /&gt;担保資産の内訳とその詳細について&lt;br /&gt;問題点と注意点について&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Mon, 12 Sep 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/yufmhkh499ywlu4yi51jnt558xh0/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>「試行錯誤が続くNFTブランディング」特集</title>
-			<link>https://hashhub-research.com/articles/2022-09-09-free-report-for-limited-time</link>
-			<guid isPermaLink="false">2022-09-09-free-report-for-limited-time</guid>
-			<description>「試行錯誤が続くNFTブランディング」特集&lt;br /&gt;</description>
-			<pubDate>Fri, 09 Sep 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/tp3nprbjvg6rjpkufv9umdh5qtm0/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
