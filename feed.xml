@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>過剰担保型ステーブルコインUSDr -  資金効率を向上させるステーブルコイン - </title>
+			<link>https://hashhub-research.com/articles/2022-10-13-about-usdr</link>
+			<guid isPermaLink="false">2022-10-13-about-usdr</guid>
+			<description>免責事項&lt;br /&gt;要約&lt;br /&gt;USDrの概要&lt;br /&gt;Ratio financeとは&lt;br /&gt;USDrを用いたレバレッジファーミングの現状の問題点&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Thu, 13 Oct 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0bxrk16w6qel6i7qrscc7dqwnk8b/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>DAOに貢献をすることをビジネスにする株式会社の事例と、今度予想される動き</title>
 			<link>https://hashhub-research.com/articles/2022-10-12-company-contribute-dao</link>
 			<guid isPermaLink="false">2022-10-12-company-contribute-dao</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Free to Own（F2O）およびDigiDaigakuの概要&lt;br /&gt;Free to Own（F2O）はNFT市場やブロックチェーンゲームにどのような意味をもたらすか&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Tue, 13 Sep 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0nu0ooj692mo4ghf27jx1ghk5hak/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>不動産担保型ステーブルコインUSDRの概要</title>
-			<link>https://hashhub-research.com/articles/2022-09-12-about-usdr</link>
-			<guid isPermaLink="false">2022-09-12-about-usdr</guid>
-			<description>免責事項&lt;br /&gt;要約&lt;br /&gt;USDRの概要&lt;br /&gt;ステーブルコインや分散型金融市場を用いた運用の問題点&lt;br /&gt;USDRの発行から収益を得る流れ&lt;br /&gt;担保資産の内訳とその詳細について&lt;br /&gt;問題点と注意点について&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Mon, 12 Sep 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/yufmhkh499ywlu4yi51jnt558xh0/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
