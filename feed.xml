@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Exponential DeFi DeFi向けの投資&amp;リスク分析プラットフォーム</title>
+			<link>https://hashhub-research.com/articles/2022-10-27-about-exponential-defi</link>
+			<guid isPermaLink="false">2022-10-27-about-exponential-defi</guid>
+			<description>免責事項&lt;br /&gt;要約&lt;br /&gt;Exponential DeFiの概要&lt;br /&gt;主要機能&lt;br /&gt;Invest機能を踏まえた今後の展望&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Thu, 27 Oct 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/pqvva48c0icpjb3yqzcuhuy4ivhz/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>企業から見た資金調達手段と、個人から見た投資対効果について</title>
 			<link>https://hashhub-research.com/articles/2022-10-26-status-of-ieo-and-ido</link>
 			<guid isPermaLink="false">2022-10-26-status-of-ieo-and-ido</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Osmosisの概要&lt;br /&gt;Osmosisの成功の要因、なぜCOSMOSエコシステムを牽引しているか&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Tue, 27 Sep 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ljjob5on1puswdhn33wy4rbkyoek/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>特集記事「Web3とロイヤルティマーケティング」｜スターバックスのNFT活用事例は企業がNFTを活用するスタンダードなアプローチになるか</title>
-			<link>https://hashhub-research.com/articles/2022-09-26-about-loyalty-marketing</link>
-			<guid isPermaLink="false">2022-09-26-about-loyalty-marketing</guid>
-			<description>既存ブランドが取り組んできたWeb3ベースの施策振り返り&lt;br /&gt;既存事業の強化、ロイヤルティプログラムの拡張を目的としたStarbucks Odysseyの登場&lt;br /&gt;余談：既存ブランドが行うWeb3ベースの施策はロイヤルティマーケティングなのか、それともイノベーション思考が生んだ新規事業なのか&lt;br /&gt;</description>
-			<pubDate>Mon, 26 Sep 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/uz488vs97ewlvepnj2a1geq51a6i/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
