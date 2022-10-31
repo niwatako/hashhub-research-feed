@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>zkSyncのレイヤー3 ”Pathfinder(Opportunity)”</title>
+			<link>https://hashhub-research.com/articles/2022-10-31-about-pathfinder</link>
+			<guid isPermaLink="false">2022-10-31-about-pathfinder</guid>
+			<description>前提&lt;br /&gt;レイヤー3&lt;br /&gt;zkSyncのレイヤー3「Pathfinder（Opportunity）」&lt;br /&gt;レイヤー3によって実現されるエコシステム&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Mon, 31 Oct 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/xq5c8qej54ti5499t3uso950ua1s/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ATOM2.0 これからのCosmos</title>
 			<link>https://hashhub-research.com/articles/2022-10-28-atom2</link>
 			<guid isPermaLink="false">2022-10-28-atom2</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;VRGDAメカニズムを応用したゲーム「Art Gobblers」の概要&lt;br /&gt;どこにVRGDAメカニズムを応用しているのか？｜Art Gobblerの仕組み概要&lt;br /&gt;考察：VRGDAメカニズムは消費アイテム（トークン）の需要と供給の乖離を抑制できるか&lt;br /&gt;</description>
 			<pubDate>Thu, 29 Sep 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/j0ycuknwwfea837y2oeeg9nwtwpd/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>次のトレンドの種は何かその１ -CosmosのInterchain security-</title>
-			<link>https://hashhub-research.com/articles/2022-09-28-next-trend-no1</link>
-			<guid isPermaLink="false">2022-09-28-next-trend-no1</guid>
-			<description>前提&lt;br /&gt;現状のマッピング&lt;br /&gt;CosmosのInterchain security&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Wed, 28 Sep 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/bmtouti9fsxxd6ik1grp6ysivomi/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
