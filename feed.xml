@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>分散型ソーシャルメディアを理解する【前編】</title>
+			<link>https://hashhub-research.com/articles/2022-11-02-de-social</link>
+			<guid isPermaLink="false">2022-11-02-de-social</guid>
+			<description>前提&lt;br /&gt;分散型ソーシャルメディアが提案する価値とは&lt;br /&gt;既存ソーシャルメディアに対する不満の解消が、すなわちマスアダプションのきっかけになるわけではない&lt;br /&gt;</description>
+			<pubDate>Wed, 02 Nov 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/717if4szwpk0txyv80up1gqbub50/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>企業から見た資金調達手段その２ -国内IEO、海外IEO/IDO、DEXについて-</title>
 			<link>https://hashhub-research.com/articles/2022-11-01-status-of-ieo-and-ido-2</link>
 			<guid isPermaLink="false">2022-11-01-status-of-ieo-and-ido-2</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Ethereumが重視している開発方針や前提&lt;br /&gt;The Mergeの振り返り（ブロック生成とETHの供給スケジュールを振り返る）&lt;br /&gt;The Surge（レイヤー2の最適化して段階的にシャーディングを実装）&lt;br /&gt;The Verge （Verkle Treeを実装してWitness Dateを圧縮）&lt;br /&gt;The Purge（ステートの圧縮）&lt;br /&gt;The Splurge（上記に含まれない重要なアップデート）&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Mon, 03 Oct 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/nclle9danoyip3k0hj5boy55t0oo/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>DID普及のために: ウォレットリカバリーと複数署名システムのまとめと考察</title>
-			<link>https://hashhub-research.com/articles/2022-10-01-wallet-recovery</link>
-			<guid isPermaLink="false">2022-10-01-wallet-recovery</guid>
-			<description>前提&lt;br /&gt;ウォレット復旧システム&lt;br /&gt;複数署名のシステム&lt;br /&gt;リカバリーやTSSを実装したプロダクト&lt;br /&gt;ウォレットリカバリーの現状と本音&lt;br /&gt;</description>
-			<pubDate>Sat, 01 Oct 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8cdb0ltwjii8xkg8ux6r431bppgp/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
