@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>企業から見た資金調達手段その２ -国内IEO、海外IEO/IDO、DEXについて-</title>
+			<link>https://hashhub-research.com/articles/2022-11-01-status-of-ieo-and-ido-2</link>
+			<guid isPermaLink="false">2022-11-01-status-of-ieo-and-ido-2</guid>
+			<description>前提：税制改正や審査基準の簡素化など外部環境の変化&lt;br /&gt;海外IEO/IDO&lt;br /&gt;国内IEO&lt;br /&gt;DEX&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Tue, 01 Nov 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/c7w5zo7gmgogedxac9tkdld1upzf/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>zkSyncのレイヤー3 ”Pathfinder(Opportunity)”</title>
 			<link>https://hashhub-research.com/articles/2022-10-31-about-pathfinder</link>
 			<guid isPermaLink="false">2022-10-31-about-pathfinder</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;ウォレット復旧システム&lt;br /&gt;複数署名のシステム&lt;br /&gt;リカバリーやTSSを実装したプロダクト&lt;br /&gt;ウォレットリカバリーの現状と本音&lt;br /&gt;</description>
 			<pubDate>Sat, 01 Oct 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8cdb0ltwjii8xkg8ux6r431bppgp/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>NFT流通モデルを脱構築する【後編】｜VRGDAメカニズムを応用したゲーム「Art Gobblers」</title>
-			<link>https://hashhub-research.com/articles/2022-09-29-about-vrgda-2</link>
-			<guid isPermaLink="false">2022-09-29-about-vrgda-2</guid>
-			<description>前提&lt;br /&gt;VRGDAメカニズムを応用したゲーム「Art Gobblers」の概要&lt;br /&gt;どこにVRGDAメカニズムを応用しているのか？｜Art Gobblerの仕組み概要&lt;br /&gt;考察：VRGDAメカニズムは消費アイテム（トークン）の需要と供給の乖離を抑制できるか&lt;br /&gt;</description>
-			<pubDate>Thu, 29 Sep 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/j0ycuknwwfea837y2oeeg9nwtwpd/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
