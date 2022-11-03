@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Ethereumの重要なロードマップの一つ”Account Abstraction”の概要</title>
+			<link>https://hashhub-research.com/articles/2022-11-03-account-abstraction</link>
+			<guid isPermaLink="false">2022-11-03-account-abstraction</guid>
+			<description>１ 前提&lt;br /&gt;２ Ethereumのアカウントの仕様&lt;br /&gt;３ Account Abstractionの概要&lt;br /&gt;４ Account Abstractionの歴史&lt;br /&gt;５ zkRollup上での展開&lt;br /&gt;６ 総論&lt;br /&gt;</description>
+			<pubDate>Thu, 03 Nov 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/6i8bt63bs6cg2lj3qywo7kek891d/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>分散型ソーシャルメディアを理解する【前編】</title>
 			<link>https://hashhub-research.com/articles/2022-11-02-de-social</link>
 			<guid isPermaLink="false">2022-11-02-de-social</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Fat App 理論（Fat Applications）&lt;br /&gt;考察&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Tue, 04 Oct 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/761qelr33gbvlfrunsjwqu9kra1g/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Ethereumの2023年以降のロードマップの概観</title>
-			<link>https://hashhub-research.com/articles/2022-10-03-ethereum-roadmap-after-the-merge</link>
-			<guid isPermaLink="false">2022-10-03-ethereum-roadmap-after-the-merge</guid>
-			<description>前提&lt;br /&gt;Ethereumが重視している開発方針や前提&lt;br /&gt;The Mergeの振り返り（ブロック生成とETHの供給スケジュールを振り返る）&lt;br /&gt;The Surge（レイヤー2の最適化して段階的にシャーディングを実装）&lt;br /&gt;The Verge （Verkle Treeを実装してWitness Dateを圧縮）&lt;br /&gt;The Purge（ステートの圧縮）&lt;br /&gt;The Splurge（上記に含まれない重要なアップデート）&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Mon, 03 Oct 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/nclle9danoyip3k0hj5boy55t0oo/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
