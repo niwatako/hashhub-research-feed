@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ハイブリッド担保型ステーブルコインInterest Protocolについて</title>
+			<link>https://hashhub-research.com/articles/2022-11-05-interest-protocol</link>
+			<guid isPermaLink="false">2022-11-05-interest-protocol</guid>
+			<description>前提&lt;br /&gt;Interest Protocolの概要&lt;br /&gt;リスク&lt;br /&gt;トークン&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Sat, 05 Nov 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/3tdf1nxniytza2h495iab42ir2o3/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Ethereumの重要なロードマップの一つ”Account Abstraction”の概要</title>
 			<link>https://hashhub-research.com/articles/2022-11-03-account-abstraction</link>
 			<guid isPermaLink="false">2022-11-03-account-abstraction</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;L1：アプリ特化チェーン dydx&lt;br /&gt;アプリチェーンの利点と欠点&lt;br /&gt;基盤となるL1チェーン比較&lt;br /&gt;DeFi特化チェーンのSei&lt;br /&gt;Seiを利用したSVMエコシステム拡大を狙うNitro&lt;br /&gt;SVM経済圏を広げるもう一つのプロジェクトEclipse&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Wed, 05 Oct 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0lljn7xxnrab2t5jwoklw3es3o49/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Fat Protocol理論へのアンチテーゼ　Fat App理論(Fat App Thesis)とアプリケーションチェーンを考える</title>
-			<link>https://hashhub-research.com/articles/2022-10-04-fat-app-thesis</link>
-			<guid isPermaLink="false">2022-10-04-fat-app-thesis</guid>
-			<description>前提&lt;br /&gt;Fat App 理論（Fat Applications）&lt;br /&gt;考察&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Tue, 04 Oct 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/761qelr33gbvlfrunsjwqu9kra1g/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
