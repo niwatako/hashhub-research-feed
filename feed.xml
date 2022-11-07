@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>分散型ソーシャルメディアを理解する【中編】｜Farcasterを事例に「ユーザーがソーシャルグラフを所有する」仕組みを理解する</title>
+			<link>https://hashhub-research.com/articles/2022-11-07-de-social-2-farcaster</link>
+			<guid isPermaLink="false">2022-11-07-de-social-2-farcaster</guid>
+			<description>前提&lt;br /&gt;Farcasterの概要&lt;br /&gt;Farcasterの大まかな仕組みを理解する&lt;br /&gt;Farcasterが提供している価値とは&lt;br /&gt;</description>
+			<pubDate>Mon, 07 Nov 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2a95otbdf7irbb9562hnk2lo9zf0/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ハイブリッド担保型ステーブルコインInterest Protocolについて</title>
 			<link>https://hashhub-research.com/articles/2022-11-05-interest-protocol</link>
 			<guid isPermaLink="false">2022-11-05-interest-protocol</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;SAFE（旧Gnosis Safe）の略歴&lt;br /&gt;SAFE（旧Gnosis Safe）の使い方や仕組み&lt;br /&gt;SAFEトークンの概要&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Fri, 07 Oct 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/7o290lqht5hihoc8qnftgh1w3rgo/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>次のトレンドの種は何か その2 -DeFi特化チェーンのSeiとそれを使ったSVM、独自チェーンの基盤となるL1の比較-</title>
-			<link>https://hashhub-research.com/articles/2022-10-05-next-trend-sei-svm-eclipse</link>
-			<guid isPermaLink="false">2022-10-05-next-trend-sei-svm-eclipse</guid>
-			<description>前提&lt;br /&gt;L1：アプリ特化チェーン dydx&lt;br /&gt;アプリチェーンの利点と欠点&lt;br /&gt;基盤となるL1チェーン比較&lt;br /&gt;DeFi特化チェーンのSei&lt;br /&gt;Seiを利用したSVMエコシステム拡大を狙うNitro&lt;br /&gt;SVM経済圏を広げるもう一つのプロジェクトEclipse&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Wed, 05 Oct 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0lljn7xxnrab2t5jwoklw3es3o49/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
