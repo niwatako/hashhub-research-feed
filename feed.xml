@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Sturdy Finance 無利子借り入れ可能で資本効率性の高いレンディングプロトコル</title>
+			<link>https://hashhub-research.com/articles/2022-11-09-about-sturdy-finance</link>
+			<guid isPermaLink="false">2022-11-09-about-sturdy-finance</guid>
+			<description>免責事項&lt;br /&gt;要約&lt;br /&gt;Sturdy Financeの概要&lt;br /&gt;Sturdy Financeの詳細&lt;br /&gt;課題と注意点&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Wed, 09 Nov 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/bejbm1jv6evl6ecelmqwz0s8oxzn/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>トークノミクスに必要な要素を、歴史を振り返りながら探る -L1, DeFi, NFT, DAOでの本質的な役割は何か-</title>
 			<link>https://hashhub-research.com/articles/2022-11-08-necessary-elements-for-tokenomics</link>
 			<guid isPermaLink="false">2022-11-08-necessary-elements-for-tokenomics</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Floor Perpの概要とメリット&lt;br /&gt;基本的な仕組み&lt;br /&gt;NFTを担保にしたショートポジション&lt;br /&gt;マーケットメイキングとクリアリング&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Mon, 10 Oct 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/7jli81afnljrdee5p1kj8jjrhhf4/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>中央銀行による統制がかつてなく効いていない2022年 暗号資産市場（特にBitcoin）に与える影響</title>
-			<link>https://hashhub-research.com/articles/2022-10-08-central-bank-control-has-never-been-more-ineffective</link>
-			<guid isPermaLink="false">2022-10-08-central-bank-control-has-never-been-more-ineffective</guid>
-			<description>前提&lt;br /&gt;中央銀行による統制が、かつてなく効いていない2022年&lt;br /&gt;暗号資産市場（特にBitcoin）に与える影響&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Sat, 08 Oct 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ungbo4vxfwtx3yrgou3umpvayd95/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
