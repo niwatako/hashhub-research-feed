@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>FTX/Alameda事件: 一部始終のまとめと今後の相場への影響</title>
+			<link>https://hashhub-research.com/articles/2022-11-11-ftx-alameda-case</link>
+			<guid isPermaLink="false">2022-11-11-ftx-alameda-case</guid>
+			<description>企業・人物の解説&lt;br /&gt;騒動の時系列まとめ&lt;br /&gt;インソルベンシー・リスク&lt;br /&gt;今回の事件が界隈にもたらす影響&lt;br /&gt;参考記事&lt;br /&gt;</description>
+			<pubDate>Fri, 11 Nov 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/sobrznd2vndll4icvgzrgwnfd6eb/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Sturdy Finance 無利子借り入れ可能で資本効率性の高いレンディングプロトコル</title>
 			<link>https://hashhub-research.com/articles/2022-11-09-about-sturdy-finance</link>
 			<guid isPermaLink="false">2022-11-09-about-sturdy-finance</guid>
@@ -187,14 +195,6 @@
 			<description>前提：GameFi（BCG）の課題&lt;br /&gt;ev.ioの概要と運営のAddicted Gamesについて&lt;br /&gt;ev.ioのゲーム詳細&lt;br /&gt;ev.ioがプラスサムゲームを目指せる理由&lt;br /&gt;ev.ioから考える今後のGameFi（BCG）&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Tue, 11 Oct 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0lwe2cgiy6319metu7wyw9jdy7qn/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>NFTフロア価格無期限先物【前編】: Floor Perpの仕組み </title>
-			<link>https://hashhub-research.com/articles/2022-10-10-about-floor-perp</link>
-			<guid isPermaLink="false">2022-10-10-about-floor-perp</guid>
-			<description>前提&lt;br /&gt;Floor Perpの概要とメリット&lt;br /&gt;基本的な仕組み&lt;br /&gt;NFTを担保にしたショートポジション&lt;br /&gt;マーケットメイキングとクリアリング&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Mon, 10 Oct 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/7jli81afnljrdee5p1kj8jjrhhf4/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
