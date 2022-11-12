@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>モジュラーブロックチェーンのトレンドを把握する</title>
+			<link>https://hashhub-research.com/articles/2022-11-12-trends-in-modular-blockchain</link>
+			<guid isPermaLink="false">2022-11-12-trends-in-modular-blockchain</guid>
+			<description>前提&lt;br /&gt;モジュラーブロックチェーンの主なプロジェクトの概要&lt;br /&gt;モジュラーブロックチェーンの課題&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Sat, 12 Nov 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/frwzf6ad3d1qdzhgcv0q8yv49xk8/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>FTX/Alameda事件: 一部始終のまとめと今後の相場への影響</title>
 			<link>https://hashhub-research.com/articles/2022-11-11-ftx-alameda-case</link>
 			<guid isPermaLink="false">2022-11-11-ftx-alameda-case</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Llamaの事例&lt;br /&gt;GFX Labsの事例&lt;br /&gt;DAOに貢献をすることをビジネスにするB2DAO（ビジネス to DAO）の今後予想される動き&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Wed, 12 Oct 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/xmxzdpf53bhcwrx3n4j8vups2u8r/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ev.ioを例にしプラスサムで持続可能なGameFiを考える</title>
-			<link>https://hashhub-research.com/articles/2022-10-11-ev-io-gamefi</link>
-			<guid isPermaLink="false">2022-10-11-ev-io-gamefi</guid>
-			<description>前提：GameFi（BCG）の課題&lt;br /&gt;ev.ioの概要と運営のAddicted Gamesについて&lt;br /&gt;ev.ioのゲーム詳細&lt;br /&gt;ev.ioがプラスサムゲームを目指せる理由&lt;br /&gt;ev.ioから考える今後のGameFi（BCG）&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Tue, 11 Oct 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0lwe2cgiy6319metu7wyw9jdy7qn/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
