@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ハイクオリティなFPSゲームにNFTやトークンを導入する事例</title>
+			<link>https://hashhub-research.com/articles/2022-11-16-shrapnel-superior</link>
+			<guid isPermaLink="false">2022-11-16-shrapnel-superior</guid>
+			<description>前提&lt;br /&gt;AAAゲームがNFTやトークンをゲームに組み込む事例：SHRAPNEL&lt;br /&gt;Steamでリリースし、別でブロックチェーン版を出す事例：Superior&lt;br /&gt;既存市場のゲームにBCG要素は受け入れられるか&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Wed, 16 Nov 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/elibfigc8mcsm8ff36udrk05ksbe/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>分散型ソーシャルメディアを理解する【後編】｜分散型ソーシャルメディアが創造する新しいソーシャルプリミティブとは何か</title>
 			<link>https://hashhub-research.com/articles/2022-11-14-de-social-3</link>
 			<guid isPermaLink="false">2022-11-14-de-social-3</guid>
@@ -187,14 +195,6 @@
 			<description>前提：企業のNFT活用のために必要な知識&lt;br /&gt;成功と失敗を繰り返した企業のNFT活用&lt;br /&gt;ルイヴィトン、コカ・コーラ、バドワイザー、ツイッターからはじまった、大手企業のNFT活用&lt;br /&gt;最近のNFTのトレンドとそれを使った大手企業のNFT活用&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Sat, 15 Oct 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/oyd3q5d298km1r7dw2fuc74g22rs/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>過剰担保型ステーブルコインUSDr -  資金効率を向上させるステーブルコイン - </title>
-			<link>https://hashhub-research.com/articles/2022-10-13-about-usdr</link>
-			<guid isPermaLink="false">2022-10-13-about-usdr</guid>
-			<description>免責事項&lt;br /&gt;要約&lt;br /&gt;USDrの概要&lt;br /&gt;Ratio financeとは&lt;br /&gt;USDrを用いたレバレッジファーミングの現状の問題点&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Thu, 13 Oct 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0bxrk16w6qel6i7qrscc7dqwnk8b/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
