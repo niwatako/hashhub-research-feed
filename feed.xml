@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>アプリ特化チェーン導入のポイントをCosmos, Polkadot, Avalancheで比較する 詳細編</title>
+			<link>https://hashhub-research.com/articles/2022-11-22-cosmos-polkadot-and-avalanche-comparison-2</link>
+			<guid isPermaLink="false">2022-11-22-cosmos-polkadot-and-avalanche-comparison-2</guid>
+			<description>前提：アプリ特化チェーンを導入に当たり細かい情報が必要&lt;br /&gt;詳細の比較&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Tue, 22 Nov 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/44vrdg0yjjwojpccb66hygqvtv6o/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>アプリ特化チェーン導入のポイントをCosmos, Polkadot, Avalancheで比較する 概要編</title>
 			<link>https://hashhub-research.com/articles/2022-11-21-cosmos-polkadot-and-avalanche-comparison</link>
 			<guid isPermaLink="false">2022-11-21-cosmos-polkadot-and-avalanche-comparison</guid>
@@ -187,14 +195,6 @@
 			<description>サマリ&lt;br /&gt;Tornado Cashとは？&lt;br /&gt;Tornado Cashの制裁と暗号資産業界の反応&lt;br /&gt;Coin Centerの提訴について&lt;br /&gt;ビジネス上にどのような影響があるか？&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Fri, 21 Oct 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8ptwac1q30v66snbawk8swyf5cyx/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>NFT（Non-Fungible-Token）の動向 22年10月</title>
-			<link>https://hashhub-research.com/articles/2022-10-19-nft-market</link>
-			<guid isPermaLink="false">2022-10-19-nft-market</guid>
-			<description>前提&lt;br /&gt;NFT販売の傾向&lt;br /&gt;Magic Edenもロイヤリティを選択性に&lt;br /&gt;個々のNFTの価値の表示サポート&lt;br /&gt;国内動向&lt;br /&gt;さいごに&lt;br /&gt;付録：ニュースリスト&lt;br /&gt;</description>
-			<pubDate>Wed, 19 Oct 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ts8hia7aqmztc2cjy9vce1v9zfvt/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
