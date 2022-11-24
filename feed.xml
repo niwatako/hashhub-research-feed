@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Web3クレデンシャルを知る①｜POAP(Proof of Attendance Protocol)とは</title>
+			<link>https://hashhub-research.com/articles/2022-11-24-learn-about-web3-credential-1</link>
+			<guid isPermaLink="false">2022-11-24-learn-about-web3-credential-1</guid>
+			<description>前提&lt;br /&gt;POAP(Proof of Attendance Protocol)&lt;br /&gt;POAPと類似プロジェクトの差異はどこにあるか&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Thu, 24 Nov 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/cbzeqo4qpdyv9i79p2mkx13bi8r7/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Y2K Finance ペッグ型トークンのヘッジを可能にするプロトコル</title>
 			<link>https://hashhub-research.com/articles/2022-11-23-y2k-finance</link>
 			<guid isPermaLink="false">2022-11-23-y2k-finance</guid>
@@ -187,14 +195,6 @@
 			<description>免責事項&lt;br /&gt;要約&lt;br /&gt;Bluejay Financeの概要&lt;br /&gt;発行されるステーブルコインの仕様・詳細&lt;br /&gt;問題点&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Mon, 24 Oct 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/wjeg2pirjt1mmru6dzs11klhd6g2/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Horizonが開発するブロックチェーンゲームインフラのSequenceとNiftyswapの概要とSkyweaverの発展性を考察する</title>
-			<link>https://hashhub-research.com/articles/2022-10-22-about-horizon-blockchain-games</link>
-			<guid isPermaLink="false">2022-10-22-about-horizon-blockchain-games</guid>
-			<description>前提&lt;br /&gt;Sequence Walletの概要｜スムーズなオンボードを促すコントラクトウォレット&lt;br /&gt;Niftyswapの概要｜ゲームアイテム（ERC-1155）のAMM&lt;br /&gt;Skyweaverの収益構造&lt;br /&gt;エコシステムの持続性と発展性&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Sat, 22 Oct 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/exj3eorp93vv28qezs6yd2t1xni0/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
