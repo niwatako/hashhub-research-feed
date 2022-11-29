@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>NFT（Non-Fungible-Token）の動向 22年11月</title>
+			<link>https://hashhub-research.com/articles/2022-11-29-nft-market</link>
+			<guid isPermaLink="false">2022-11-29-nft-market</guid>
+			<description>前提&lt;br /&gt;NFT販売の傾向&lt;br /&gt;OpenSeaの投じたロイヤリティ強制ソリューションの影響&lt;br /&gt;国内動向&lt;br /&gt;さいごに&lt;br /&gt;付録：ニュースリスト&lt;br /&gt;</description>
+			<pubDate>Tue, 29 Nov 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/eub0n9j7de7u1z5p39hychb30wbs/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>SNSプラットフォームに依存しないコミュニティ作成ツールであるGuild.xyzの概要</title>
 			<link>https://hashhub-research.com/articles/2022-11-28-about-guild</link>
 			<guid isPermaLink="false">2022-11-28-about-guild</guid>
@@ -187,14 +195,6 @@
 			<description>免責事項&lt;br /&gt;要約&lt;br /&gt;Exponential DeFiの概要&lt;br /&gt;主要機能&lt;br /&gt;Invest機能を踏まえた今後の展望&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Thu, 27 Oct 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/pqvva48c0icpjb3yqzcuhuy4ivhz/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>企業から見た資金調達手段と、個人から見た投資対効果について</title>
-			<link>https://hashhub-research.com/articles/2022-10-26-status-of-ieo-and-ido</link>
-			<guid isPermaLink="false">2022-10-26-status-of-ieo-and-ido</guid>
-			<description>前提：税制改正や審査基準の簡素化など外部環境の変化&lt;br /&gt;個人投資家の視点からIEO/IDOのROIを見る&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Wed, 26 Oct 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/elx6hn2hp4x119ffz3l313591w60/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
