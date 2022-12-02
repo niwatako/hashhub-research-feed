@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>NFTノーコードツールで「譲渡できないNFT」を作ってみよう</title>
+			<link>https://hashhub-research.com/articles/2022-12-02-about-thirdweb</link>
+			<guid isPermaLink="false">2022-12-02-about-thirdweb</guid>
+			<description>前提&lt;br /&gt;thirdweb：ノーコードツールでNFTを発行してみよう&lt;br /&gt;NFT関連ノーコードツールの紹介&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Fri, 02 Dec 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/3ud7yt8wobbx8ia8y5lr84ibwk21/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Web3クレデンシャルを知る②｜POAPとGitPOAP、Noox、MintKudos、FLOATsの比較</title>
 			<link>https://hashhub-research.com/articles/2022-11-30-learn-about-web3-credential-2</link>
 			<guid isPermaLink="false">2022-11-30-learn-about-web3-credential-2</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;レイヤー3&lt;br /&gt;zkSyncのレイヤー3「Pathfinder（Opportunity）」&lt;br /&gt;レイヤー3によって実現されるエコシステム&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Mon, 31 Oct 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/xq5c8qej54ti5499t3uso950ua1s/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ATOM2.0 これからのCosmos</title>
-			<link>https://hashhub-research.com/articles/2022-10-28-atom2</link>
-			<guid isPermaLink="false">2022-10-28-atom2</guid>
-			<description>前提&lt;br /&gt;これまでのCosmos Hub&lt;br /&gt;これからのCosmos Hub&lt;br /&gt;複数のLiquid Stakingプロジェクト&lt;br /&gt;新たなATOMの発行スキームと手数料の仕組み&lt;br /&gt;Cosmos Hubを経済的に強くするための２つの仕組み&lt;br /&gt;DAOを管理する仕組み Cosmos Assembly&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Fri, 28 Oct 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/xl5lnooh48otcjm7dkqlz9t9eaiu/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
