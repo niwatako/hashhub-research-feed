@@ -26,7 +26,7 @@ jobs:
       - name: Setup python # ワークフローのセクションごとに設定する名前。特に設定する必要はないが、どこでエラーが起きているかを把握する為にも設定しておいた方が良い。
         uses: actions/setup-python@v2 # Pythonのセットアップ
         with:
-          python-version: "3.9.6" # Pythonのバージョン指定
+          python-version: "3.10.8" # Pythonのバージョン指定
       - name: Cache pip
         uses: actions/cache@v2
         with:
