@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>CurveのステーブルコインcrvUSD　独自アルゴリズムで展開を試みるステーブルコインの概要</title>
+			<link>https://hashhub-research.com/articles/2022-12-10-crvusd-overview</link>
+			<guid isPermaLink="false">2022-12-10-crvusd-overview</guid>
+			<description>前提&lt;br /&gt;CurveのステーブルコインcrvUSD&lt;br /&gt;今後の展望と考察&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Sat, 10 Dec 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/zdjivvfr162mo78dzpdqa8swq6oz/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Spectの概要｜DAOの内部オペレーションを改善するミドルウェア</title>
 			<link>https://hashhub-research.com/articles/2022-12-09-about-spect</link>
 			<guid isPermaLink="false">2022-12-09-about-spect</guid>
@@ -187,14 +195,6 @@
 			<description>前提：トークンの役割の変遷&lt;br /&gt;トークンの役割の変遷&lt;br /&gt;トークン発行のタイミング&lt;br /&gt;トークンの価格を保つ仕組み&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Tue, 08 Nov 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ck9an2pnabkup6gq9gbws3a8qg41/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>分散型ソーシャルメディアを理解する【中編】｜Farcasterを事例に「ユーザーがソーシャルグラフを所有する」仕組みを理解する</title>
-			<link>https://hashhub-research.com/articles/2022-11-07-de-social-2-farcaster</link>
-			<guid isPermaLink="false">2022-11-07-de-social-2-farcaster</guid>
-			<description>前提&lt;br /&gt;Farcasterの概要&lt;br /&gt;Farcasterの大まかな仕組みを理解する&lt;br /&gt;Farcasterが提供している価値とは&lt;br /&gt;</description>
-			<pubDate>Mon, 07 Nov 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2a95otbdf7irbb9562hnk2lo9zf0/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
