@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Web3クレデンシャルを知る④｜マーケティングプラットフォームに組み込まれたWeb3クレデンシャル【前提編】</title>
+			<link>https://hashhub-research.com/articles/2022-12-14-learn-about-web3-credential-4</link>
+			<guid isPermaLink="false">2022-12-14-learn-about-web3-credential-4</guid>
+			<description>前提&lt;br /&gt;なぜオンチェーンクレデンシャルを導入するマーケティングプラットフォームが増えてきたのか&lt;br /&gt;総括：なぜオンチェーンクレデンシャルを導入するマーケティングプラットフォームが増えてきたのか&lt;br /&gt;</description>
+			<pubDate>Wed, 14 Dec 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/m3t1wf84hwbnd13d97il3agf9w8d/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Euler Finance｜パーミッションレスなレンディングプロトコル</title>
 			<link>https://hashhub-research.com/articles/2022-12-12-about-euler-finance</link>
 			<guid isPermaLink="false">2022-12-12-about-euler-finance</guid>
@@ -187,14 +195,6 @@
 			<description>企業・人物の解説&lt;br /&gt;騒動の時系列まとめ&lt;br /&gt;インソルベンシー・リスク&lt;br /&gt;今回の事件が界隈にもたらす影響&lt;br /&gt;参考記事&lt;br /&gt;</description>
 			<pubDate>Fri, 11 Nov 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/sobrznd2vndll4icvgzrgwnfd6eb/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Sturdy Finance 無利子借り入れ可能で資本効率性の高いレンディングプロトコル</title>
-			<link>https://hashhub-research.com/articles/2022-11-09-about-sturdy-finance</link>
-			<guid isPermaLink="false">2022-11-09-about-sturdy-finance</guid>
-			<description>免責事項&lt;br /&gt;要約&lt;br /&gt;Sturdy Financeの概要&lt;br /&gt;Sturdy Financeの詳細&lt;br /&gt;課題と注意点&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Wed, 09 Nov 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/bejbm1jv6evl6ecelmqwz0s8oxzn/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
