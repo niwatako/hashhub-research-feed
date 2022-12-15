@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Ethereum The Merge後の大きなアップグレード”Shanghai”を複数シナリオで考察する</title>
+			<link>https://hashhub-research.com/articles/2022-12-15-scenarios-after-shanghai-upgrade</link>
+			<guid isPermaLink="false">2022-12-15-scenarios-after-shanghai-upgrade</guid>
+			<description>前提&lt;br /&gt;Shanghaiの概要&lt;br /&gt;ETHのステーキングの現状&lt;br /&gt;ETHへの売り圧を中心に複数のシナリオを考察する&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Thu, 15 Dec 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/z56aqmq7csc28kh3sm2p6yre26w7/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Web3クレデンシャルを知る④｜マーケティングプラットフォームに組み込まれたWeb3クレデンシャル【前提編】</title>
 			<link>https://hashhub-research.com/articles/2022-12-14-learn-about-web3-credential-4</link>
 			<guid isPermaLink="false">2022-12-14-learn-about-web3-credential-4</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;モジュラーブロックチェーンの主なプロジェクトの概要&lt;br /&gt;モジュラーブロックチェーンの課題&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Sat, 12 Nov 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/frwzf6ad3d1qdzhgcv0q8yv49xk8/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>FTX/Alameda事件: 一部始終のまとめと今後の相場への影響</title>
-			<link>https://hashhub-research.com/articles/2022-11-11-ftx-alameda-case</link>
-			<guid isPermaLink="false">2022-11-11-ftx-alameda-case</guid>
-			<description>企業・人物の解説&lt;br /&gt;騒動の時系列まとめ&lt;br /&gt;インソルベンシー・リスク&lt;br /&gt;今回の事件が界隈にもたらす影響&lt;br /&gt;参考記事&lt;br /&gt;</description>
-			<pubDate>Fri, 11 Nov 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/sobrznd2vndll4icvgzrgwnfd6eb/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
