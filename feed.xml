@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Web3地方創生の成功パターンと注意点（概要編）</title>
+			<link>https://hashhub-research.com/articles/2022-12-16-web3-regional-development-4</link>
+			<guid isPermaLink="false">2022-12-16-web3-regional-development-4</guid>
+			<description>前提：地方創生の新たな道具としてのNFT、DAO、ファンジブルトークン&lt;br /&gt;Web3（ブロックチェーン）を活かすメリット&lt;br /&gt;地方創生の成功パターン&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Fri, 16 Dec 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/n8olocm0h0g9480n4t6sjli6wkph/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Ethereum The Merge後の大きなアップグレード”Shanghai”を複数シナリオで考察する</title>
 			<link>https://hashhub-research.com/articles/2022-12-15-scenarios-after-shanghai-upgrade</link>
 			<guid isPermaLink="false">2022-12-15-scenarios-after-shanghai-upgrade</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Web3云々以前にWebとは何であったか&lt;br /&gt;では「Web3が紡ぐバリューグラフ」とはどのようなものなのか&lt;br /&gt;「より小さな」、しかし「より濃密な」ネットワーク≠「高品質なコミュニティ」&lt;br /&gt;Q：分散型ソーシャルメディアが創造する新しいソーシャルプリミティブとは何か&lt;br /&gt;</description>
 			<pubDate>Mon, 14 Nov 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/807ot2747vnjx7nycb95osoomfx3/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>モジュラーブロックチェーンのトレンドを把握する</title>
-			<link>https://hashhub-research.com/articles/2022-11-12-trends-in-modular-blockchain</link>
-			<guid isPermaLink="false">2022-11-12-trends-in-modular-blockchain</guid>
-			<description>前提&lt;br /&gt;モジュラーブロックチェーンの主なプロジェクトの概要&lt;br /&gt;モジュラーブロックチェーンの課題&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Sat, 12 Nov 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/frwzf6ad3d1qdzhgcv0q8yv49xk8/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
