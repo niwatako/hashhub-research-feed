@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Web3クレデンシャルを知る⑤｜Quest to Earn/マーケティングプラットフォームに組み込まれたWeb3クレデンシャル【事例編】</title>
+			<link>https://hashhub-research.com/articles/2022-12-21-learn-about-web3-credential-5</link>
+			<guid isPermaLink="false">2022-12-21-learn-about-web3-credential-5</guid>
+			<description>前提&lt;br /&gt;(1)dappback&lt;br /&gt;(2)PYME&lt;br /&gt;(3)Quest3&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Wed, 21 Dec 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/wtci1cs88kvkeszk1kxsaedz4wd6/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Eigen Layer ミドルウェア層にEthereumのセキュリティを再利用して提供するプロトコルの概要</title>
 			<link>https://hashhub-research.com/articles/2022-12-19-eigenlayer-overview</link>
 			<guid isPermaLink="false">2022-12-19-eigenlayer-overview</guid>
@@ -187,14 +195,6 @@
 			<description>はじめに&lt;br /&gt;Nike .SWOOSH&lt;br /&gt;.SWOOSHの提案書を想像する&lt;br /&gt;NikeのWeb3のあゆみ&lt;br /&gt;企業にとってのWeb3&lt;br /&gt;クリプトネイティブのコミュニティ活動とは&lt;br /&gt;企業はクリプトを活用してコミュニティを形成できるか&lt;br /&gt;総評&lt;br /&gt;</description>
 			<pubDate>Sat, 19 Nov 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8rmss04m732tb8hhv7e1102buxq2/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Proof of Reserve｜DeFiへの期待とノンカストディアルの課題を金融システムに求められる透明性から再考する</title>
-			<link>https://hashhub-research.com/articles/2022-11-17-proof-of-reserve</link>
-			<guid isPermaLink="false">2022-11-17-proof-of-reserve</guid>
-			<description>Executive Summary&lt;br /&gt;前提&lt;br /&gt;Proof of Reserve&lt;br /&gt;オープンソースプロダクトの試み&lt;br /&gt;DeFiへの期待とノンカストディアルの課題&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 17 Nov 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/kl0q8sm6yxr5h8gaygs5ex55l19m/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
