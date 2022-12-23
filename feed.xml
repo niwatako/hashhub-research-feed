@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>「マスアダプションへの重要ステップ：秘密鍵管理の負担を軽減するDID関連技術とAccount Abstractionを理解する」特集</title>
+			<link>https://hashhub-research.com/articles/2022-12-23-free-report-for-limited-time</link>
+			<guid isPermaLink="false">2022-12-23-free-report-for-limited-time</guid>
+			<description></description>
+			<pubDate>Fri, 23 Dec 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/as25y452mka75c8s5rchzh6vmrrl/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Arrakis Finance V2｜Uniswap V3の集中流動性を自動で最適化するストラテジーを提供するメカニズムの概要</title>
 			<link>https://hashhub-research.com/articles/2022-12-22-about-arrakis-finance-v2-palm</link>
 			<guid isPermaLink="false">2022-12-22-about-arrakis-finance-v2-palm</guid>
@@ -187,14 +195,6 @@
 			<description>前提：アプリ特化チェーンを導入に当たり細かい情報が必要&lt;br /&gt;詳細の比較&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Tue, 22 Nov 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/44vrdg0yjjwojpccb66hygqvtv6o/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>アプリ特化チェーン導入のポイントをCosmos, Polkadot, Avalancheで比較する 概要編</title>
-			<link>https://hashhub-research.com/articles/2022-11-21-cosmos-polkadot-and-avalanche-comparison</link>
-			<guid isPermaLink="false">2022-11-21-cosmos-polkadot-and-avalanche-comparison</guid>
-			<description>前提：企業によるアプリ特化チェーン導入の流れと課題&lt;br /&gt;Cosmos、Polkadot、Avalancheの比較&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Mon, 21 Nov 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2dflzhjh4j17wfvo44dg8g9bn1n8/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
