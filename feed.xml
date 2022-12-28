@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>スマートコントラクトチェーンの概要・事例を俯瞰する</title>
+			<link>https://hashhub-research.com/articles/2022-12-28-smart-contract-chain-overview</link>
+			<guid isPermaLink="false">2022-12-28-smart-contract-chain-overview</guid>
+			<description>前提&lt;br /&gt;代表的なスマートコントラクトチェーン&lt;br /&gt;各スマートコントラクトチェーンの概要と事例&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Wed, 28 Dec 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/tvk2m9608yi5in0r198m162z269e/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>米国規制の最新事情（2022年後期）</title>
 			<link>https://hashhub-research.com/articles/2022-12-27-about-regulation</link>
 			<guid isPermaLink="false">2022-12-27-about-regulation</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Mellow Protocolの概要&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Fri, 25 Nov 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2kehogyz3amr4cp6z3k6um0h7kru/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Web3クレデンシャルを知る①｜POAP(Proof of Attendance Protocol)とは</title>
-			<link>https://hashhub-research.com/articles/2022-11-24-learn-about-web3-credential-1</link>
-			<guid isPermaLink="false">2022-11-24-learn-about-web3-credential-1</guid>
-			<description>前提&lt;br /&gt;POAP(Proof of Attendance Protocol)&lt;br /&gt;POAPと類似プロジェクトの差異はどこにあるか&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 24 Nov 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/cbzeqo4qpdyv9i79p2mkx13bi8r7/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
