@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>bitcoin genesis blockに潜む0x04の謎</title>
+			<link>https://hashhub-research.com/articles/2022-12-29-mystery-of-0x04</link>
+			<guid isPermaLink="false">2022-12-29-mystery-of-0x04</guid>
+			<description>前提&lt;br /&gt;genesis blockについて&lt;br /&gt;0x04の謎&lt;br /&gt;</description>
+			<pubDate>Thu, 29 Dec 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/thdz5nw5bpyhz5f8wa50sq5ynmn5/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>スマートコントラクトチェーンの概要・事例を俯瞰する</title>
 			<link>https://hashhub-research.com/articles/2022-12-28-smart-contract-chain-overview</link>
 			<guid isPermaLink="false">2022-12-28-smart-contract-chain-overview</guid>
@@ -187,14 +195,6 @@
 			<description>前提：SNSの相互運用性を高めるGuild&lt;br /&gt;詳細&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Mon, 28 Nov 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/h9uy14l7re8eofb9xdr0jtemdv96/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Mellow Protocol | DeFiプロトコルへの流動性提供を統合的に管理するプロトコル</title>
-			<link>https://hashhub-research.com/articles/2022-11-25-about-mellow-protocol</link>
-			<guid isPermaLink="false">2022-11-25-about-mellow-protocol</guid>
-			<description>前提&lt;br /&gt;Mellow Protocolの概要&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Fri, 25 Nov 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2kehogyz3amr4cp6z3k6um0h7kru/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
