@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>2022年HashHubメンバーがおすすめする書籍、コンテンツ</title>
+			<link>https://hashhub-research.com/articles/2022-12-30-members-select-recommendations</link>
+			<guid isPermaLink="false">2022-12-30-members-select-recommendations</guid>
+			<description>はじめに&lt;br /&gt;2022年HashHubメンバーがおすすめする書籍、コンテンツ&lt;br /&gt;22世紀の民主主義 選挙はアルゴリズムになり、政治家はネコになる&lt;br /&gt;成長企業はなぜ、OKRを使うのか&lt;br /&gt;風の谷のナウシカ 豪華装幀本&lt;br /&gt;ハイパーインフレーション&lt;br /&gt;Master Web3 Fundamentals: From Node To Network&lt;br /&gt;TheCryptoStory - Where it came from, what it all means, and why it still matters.By Matt Levine&lt;br /&gt;感染の法則：ウイルス伝染から金融危機、ネットミームの拡散まで&lt;br /&gt;エクストリーム・エコノミー 大変革の時代に生きる経済、死ぬ経済&lt;br /&gt;チ。-地球の運動について-&lt;br /&gt;経済数学の直観的方法 確率・統計編&lt;br /&gt;エンジニアリング組織論への招待&lt;br /&gt;教養としての決済&lt;br /&gt;おわりに&lt;br /&gt;</description>
+			<pubDate>Fri, 30 Dec 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/frhsev2t4ugo016secf7uqfiv11h/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>bitcoin genesis blockに潜む0x04の謎</title>
 			<link>https://hashhub-research.com/articles/2022-12-29-mystery-of-0x04</link>
 			<guid isPermaLink="false">2022-12-29-mystery-of-0x04</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;NFT販売の傾向&lt;br /&gt;OpenSeaの投じたロイヤリティ強制ソリューションの影響&lt;br /&gt;国内動向&lt;br /&gt;さいごに&lt;br /&gt;付録：ニュースリスト&lt;br /&gt;</description>
 			<pubDate>Tue, 29 Nov 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/eub0n9j7de7u1z5p39hychb30wbs/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>SNSプラットフォームに依存しないコミュニティ作成ツールであるGuild.xyzの概要</title>
-			<link>https://hashhub-research.com/articles/2022-11-28-about-guild</link>
-			<guid isPermaLink="false">2022-11-28-about-guild</guid>
-			<description>前提：SNSの相互運用性を高めるGuild&lt;br /&gt;詳細&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Mon, 28 Nov 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/h9uy14l7re8eofb9xdr0jtemdv96/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
