@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>「Bitcoin・暗号資産を巡る2022年の概況」</title>
+			<link>https://hashhub-research.com/articles/2022-12-31-overview-of-crypto-assets-in-2022</link>
+			<guid isPermaLink="false">2022-12-31-overview-of-crypto-assets-in-2022</guid>
+			<description>はじめに（視点の設定）&lt;br /&gt;</description>
+			<pubDate>Sat, 31 Dec 2022 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/7t2yz73dfts60jheu9yv0efmt3pf/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>2022年HashHubメンバーがおすすめする書籍、コンテンツ</title>
 			<link>https://hashhub-research.com/articles/2022-12-30-members-select-recommendations</link>
 			<guid isPermaLink="false">2022-12-30-members-select-recommendations</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;(1)GitPOAP&lt;br /&gt;(２)Noox.world&lt;br /&gt;(３)MintKudos&lt;br /&gt;(４)FLOATs&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Wed, 30 Nov 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/zlnysh1wqaguzwdfdmitbqz00ijx/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>NFT（Non-Fungible-Token）の動向 22年11月</title>
-			<link>https://hashhub-research.com/articles/2022-11-29-nft-market</link>
-			<guid isPermaLink="false">2022-11-29-nft-market</guid>
-			<description>前提&lt;br /&gt;NFT販売の傾向&lt;br /&gt;OpenSeaの投じたロイヤリティ強制ソリューションの影響&lt;br /&gt;国内動向&lt;br /&gt;さいごに&lt;br /&gt;付録：ニュースリスト&lt;br /&gt;</description>
-			<pubDate>Tue, 29 Nov 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/eub0n9j7de7u1z5p39hychb30wbs/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
