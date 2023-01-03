@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>LCP -インターオペラビリティの最先端-</title>
+			<link>https://hashhub-research.com/articles/2023-01-03-lcp</link>
+			<guid isPermaLink="false">2023-01-03-lcp</guid>
+			<description>前提&lt;br /&gt;これまでのCosmosのインターオペラビリティ&lt;br /&gt;IBCが抱える課題&lt;br /&gt;LCPの仕組み&lt;br /&gt;総論 これからのインターオペラビリティ&lt;br /&gt;</description>
+			<pubDate>Tue, 03 Jan 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ie3j8tm2nnohhdxftu6qz9pgowmv/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>リサーチャーが選ぶ2022年をあらわす・2023年も引き続き注目したいテーマのレポート10選</title>
 			<link>https://hashhub-research.com/articles/2023-01-01-researchers-select-reports-10</link>
 			<guid isPermaLink="false">2023-01-01-researchers-select-reports-10</guid>
@@ -197,14 +205,6 @@
 			<description>前提&lt;br /&gt;１．ICP NFTの歴史 -BTC Flowerを中心に解説- &lt;br /&gt;２．ICP NFTの差別化要因&lt;br /&gt;３．ICP NFTのマーケットプレイスの概観&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Sat, 03 Dec 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/qeby4zvtdv0t5b3uw7vz4slgcyty/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>NFTノーコードツールで「譲渡できないNFT」を作ってみよう</title>
-			<link>https://hashhub-research.com/articles/2022-12-02-about-thirdweb</link>
-			<guid isPermaLink="false">2022-12-02-about-thirdweb</guid>
-			<description>前提&lt;br /&gt;thirdweb：ノーコードツールでNFTを発行してみよう&lt;br /&gt;NFT関連ノーコードツールの紹介&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 02 Dec 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/3ud7yt8wobbx8ia8y5lr84ibwk21/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
