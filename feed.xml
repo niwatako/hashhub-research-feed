@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>2023年の暗号資産・Web3業界の10の予想</title>
+			<link>https://hashhub-research.com/articles/2023-01-07-10-predictions-for-crypto-and-web3-in-2023</link>
+			<guid isPermaLink="false">2023-01-07-10-predictions-for-crypto-and-web3-in-2023</guid>
+			<description>前提&lt;br /&gt;1.マーケット環境は引き続き厳しい&lt;br /&gt;2.クリプトファンドは苦しく、スタートアップも資金調達は困難&lt;br /&gt;3.L1やL2も選別が進む、独自ブロックチェーンは増える&lt;br /&gt;4.GameFiは一度成功して、踊り場も経験する&lt;br /&gt;5.NFTはインターネットの新しいツールとして緩やかに一般に浸透する&lt;br /&gt;6.DeFiのCeFiに対するシェアは高まるものの、持続性は引き続き課題&lt;br /&gt;7.これまでと異なる事業環境&lt;br /&gt;8.規制は厳しい目線が注がれながらも、決定的な枠組みは生まれず優柔不断な状態が続く&lt;br /&gt;9.ステーブルコインの競争環境&lt;br /&gt;10.AIとWeb3&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Sat, 07 Jan 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/wpf8l3m7jgv747xi497h8o2kioqo/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>中立性と透明性向上を目的とした保有暗号資産の財務情報の開示</title>
 			<link>https://hashhub-research.com/articles/portfolio-disclosure</link>
 			<guid isPermaLink="false">portfolio-disclosure</guid>
@@ -197,14 +205,6 @@
 			<description>前提&lt;br /&gt;取引所だけが暗号資産ライフの入り口なのか&lt;br /&gt;まずは気軽に書いてみる – SteemitとHive.blog&lt;br /&gt;DAOで貢献する&lt;br /&gt;暗号資産払いの仕事をする&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Thu, 08 Dec 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/283ycafz0gql3ma7x17phtp2613e/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>オンチェーンファイアウォールを提供するHarpieの概要</title>
-			<link>https://hashhub-research.com/articles/2022-12-7-about-harpie</link>
-			<guid isPermaLink="false">2022-12-7-about-harpie</guid>
-			<description>前提&lt;br /&gt;Harpieの概要&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Wed, 07 Dec 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/qrwwq0e3lb1uc5a16m9pi7w9xosu/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
