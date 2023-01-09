@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Web5の技術概要と思想の考察｜DID・VCを活用したtbDEXとクリエイターアプリZIONの仕組みとポイントを解説</title>
+			<link>https://hashhub-research.com/articles/2023-01-09-technical-overview-of-web5-and-discussion-of-its-philosophy</link>
+			<guid isPermaLink="false">2023-01-09-technical-overview-of-web5-and-discussion-of-its-philosophy</guid>
+			<description>前提&lt;br /&gt;Web5の技術概要｜Decentralized Web Node&lt;br /&gt;DWNの応用例｜tbDEXのポイントを解説&lt;br /&gt;Lightning Networkの活用｜クリエイターアプリZION&lt;br /&gt;【考察】インテンション・エコノミー&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Mon, 09 Jan 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2czwj53jns1azex24x9e83ocl8we/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>2023年の暗号資産・Web3業界の10の予想</title>
 			<link>https://hashhub-research.com/articles/2023-01-07-10-predictions-for-crypto-and-web3-in-2023</link>
 			<guid isPermaLink="false">2023-01-07-10-predictions-for-crypto-and-web3-in-2023</guid>
@@ -197,14 +205,6 @@
 			<description>前提&lt;br /&gt;Spectの概要&lt;br /&gt;DAOではなく、なぜサークルなのか&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Fri, 09 Dec 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/gh7ki4gocuwdwqy1rhzjpn19vedj/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>購入しないで始める暗号資産ライフ</title>
-			<link>https://hashhub-research.com/articles/2022-12-08-crypto-life-without-purchase</link>
-			<guid isPermaLink="false">2022-12-08-crypto-life-without-purchase</guid>
-			<description>前提&lt;br /&gt;取引所だけが暗号資産ライフの入り口なのか&lt;br /&gt;まずは気軽に書いてみる – SteemitとHive.blog&lt;br /&gt;DAOで貢献する&lt;br /&gt;暗号資産払いの仕事をする&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Thu, 08 Dec 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/283ycafz0gql3ma7x17phtp2613e/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
