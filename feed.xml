@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>トークンエコノミクスの現況と展望</title>
+			<link>https://hashhub-research.com/articles/2023-01-10-latest-trends-in-tokenomics-in-defi-and-gamefi</link>
+			<guid isPermaLink="false">2023-01-10-latest-trends-in-tokenomics-in-defi-and-gamefi</guid>
+			<description>直近のモデル&lt;br /&gt;より良いトークンエコノミクス&lt;br /&gt;結言&lt;br /&gt;</description>
+			<pubDate>Tue, 10 Jan 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/yvp3ksz0nl2f8pbyd6sw54d9scs1/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Web5の技術概要と思想の考察｜DID・VCを活用したtbDEXとクリエイターアプリZIONの仕組みとポイントを解説</title>
 			<link>https://hashhub-research.com/articles/2023-01-09-technical-overview-of-web5-and-discussion-of-its-philosophy</link>
 			<guid isPermaLink="false">2023-01-09-technical-overview-of-web5-and-discussion-of-its-philosophy</guid>
@@ -197,14 +205,6 @@
 			<description>前提&lt;br /&gt;CurveのステーブルコインcrvUSD&lt;br /&gt;今後の展望と考察&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Sat, 10 Dec 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/zdjivvfr162mo78dzpdqa8swq6oz/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Spectの概要｜DAOの内部オペレーションを改善するミドルウェア</title>
-			<link>https://hashhub-research.com/articles/2022-12-09-about-spect</link>
-			<guid isPermaLink="false">2022-12-09-about-spect</guid>
-			<description>前提&lt;br /&gt;Spectの概要&lt;br /&gt;DAOではなく、なぜサークルなのか&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 09 Dec 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/gh7ki4gocuwdwqy1rhzjpn19vedj/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
