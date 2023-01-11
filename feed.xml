@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Jarvis Network 様々な法定通貨連動型ステーブルコイン発行プロトコル</title>
+			<link>https://hashhub-research.com/articles/2023-01-11-about-javis-network</link>
+			<guid isPermaLink="false">2023-01-11-about-javis-network</guid>
+			<description>免責事項&lt;br /&gt;要約&lt;br /&gt;Jarvis Networkの概要&lt;br /&gt;主要機能 &lt;br /&gt;課題とリスク&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Wed, 11 Jan 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/vwje1nnswv38npubj800g29ts0nt/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>トークンエコノミクスの現況と展望</title>
 			<link>https://hashhub-research.com/articles/2023-01-10-latest-trends-in-tokenomics-in-defi-and-gamefi</link>
 			<guid isPermaLink="false">2023-01-10-latest-trends-in-tokenomics-in-defi-and-gamefi</guid>
@@ -197,14 +205,6 @@
 			<description>免責事項&lt;br /&gt;要約&lt;br /&gt;Euler Financeの概要&lt;br /&gt;Euler Financeの詳細 &lt;br /&gt;その他機能&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Mon, 12 Dec 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/frtwtk5tdr92hqlfcly9oprehvlc/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>CurveのステーブルコインcrvUSD　独自アルゴリズムで展開を試みるステーブルコインの概要</title>
-			<link>https://hashhub-research.com/articles/2022-12-10-crvusd-overview</link>
-			<guid isPermaLink="false">2022-12-10-crvusd-overview</guid>
-			<description>前提&lt;br /&gt;CurveのステーブルコインcrvUSD&lt;br /&gt;今後の展望と考察&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Sat, 10 Dec 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/zdjivvfr162mo78dzpdqa8swq6oz/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
