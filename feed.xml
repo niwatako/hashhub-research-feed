@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Internet Computer Protocolの現状（2023年1月時点）と今後の展開</title>
+			<link>https://hashhub-research.com/articles/2023-01-12-about-icp</link>
+			<guid isPermaLink="false">2023-01-12-about-icp</guid>
+			<description>前回からの進捗&lt;br /&gt;1 HTTPアウトコール&lt;br /&gt;2 Bitcoin統合&lt;br /&gt;3 認証技術&lt;br /&gt;汎用sMPC技術&lt;br /&gt;活発な開発&lt;br /&gt;まとめ&lt;br /&gt;</description>
+			<pubDate>Thu, 12 Jan 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1f81k0alte1wdv1wtbkp1n3cm711/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Jarvis Network 様々な法定通貨連動型ステーブルコイン発行プロトコル</title>
 			<link>https://hashhub-research.com/articles/2023-01-11-about-javis-network</link>
 			<guid isPermaLink="false">2023-01-11-about-javis-network</guid>
@@ -197,14 +205,6 @@
 			<description>前提&lt;br /&gt;なぜオンチェーンクレデンシャルを導入するマーケティングプラットフォームが増えてきたのか&lt;br /&gt;総括：なぜオンチェーンクレデンシャルを導入するマーケティングプラットフォームが増えてきたのか&lt;br /&gt;</description>
 			<pubDate>Wed, 14 Dec 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/m3t1wf84hwbnd13d97il3agf9w8d/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Euler Finance｜パーミッションレスなレンディングプロトコル</title>
-			<link>https://hashhub-research.com/articles/2022-12-12-about-euler-finance</link>
-			<guid isPermaLink="false">2022-12-12-about-euler-finance</guid>
-			<description>免責事項&lt;br /&gt;要約&lt;br /&gt;Euler Financeの概要&lt;br /&gt;Euler Financeの詳細 &lt;br /&gt;その他機能&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Mon, 12 Dec 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/frtwtk5tdr92hqlfcly9oprehvlc/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
