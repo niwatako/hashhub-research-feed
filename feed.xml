@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>FTX/Alamedaショックを受けたSolanaエコシステムの現状と今後の展望</title>
+			<link>https://hashhub-research.com/articles/2023-01-14-after-incident-of-ftx-alameda-solana-ecosystem-state</link>
+			<guid isPermaLink="false">2023-01-14-after-incident-of-ftx-alameda-solana-ecosystem-state</guid>
+			<description>前提&lt;br /&gt;Solana foundationの状況&lt;br /&gt;Solanaの現状&lt;br /&gt;開発・コミュニティの動向&lt;br /&gt;Solanaエコシステムの展望&lt;br /&gt;考察&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Sat, 14 Jan 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/kafmtddafyyxjdhsdjxl6tdb7i3b/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Share to Earn（S2E）を標榜する分散型SNS「Phaver」とは？</title>
 			<link>https://hashhub-research.com/articles/2023-01-13-about-phaver</link>
 			<guid isPermaLink="false">2023-01-13-about-phaver</guid>
@@ -197,14 +205,6 @@
 			<description>前提：地方創生の新たな道具としてのNFT、DAO、ファンジブルトークン&lt;br /&gt;Web3（ブロックチェーン）を活かすメリット&lt;br /&gt;地方創生の成功パターン&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Fri, 16 Dec 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/n8olocm0h0g9480n4t6sjli6wkph/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Ethereum The Merge後の大きなアップグレード”Shanghai”を複数シナリオで考察する</title>
-			<link>https://hashhub-research.com/articles/2022-12-15-scenarios-after-shanghai-upgrade</link>
-			<guid isPermaLink="false">2022-12-15-scenarios-after-shanghai-upgrade</guid>
-			<description>前提&lt;br /&gt;Shanghaiの概要&lt;br /&gt;ETHのステーキングの現状&lt;br /&gt;ETHへの売り圧を中心に複数のシナリオを考察する&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 15 Dec 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/z56aqmq7csc28kh3sm2p6yre26w7/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
