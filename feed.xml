@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ローンチ2ヶ月でOpenSea超え！？脅威の成長率を見せる 新興NFTマーケットプレイス「Blur」の概要と展望を探る</title>
+			<link>https://hashhub-research.com/articles/2023-01-17-about-blur</link>
+			<guid isPermaLink="false">2023-01-17-about-blur</guid>
+			<description>前提&lt;br /&gt;Blurとは？&lt;br /&gt;展望と考察&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Tue, 17 Jan 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/51z14wqxi88lkrlfa88ik1b7rxov/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>【前編】レイヤー2アダプションの動向 Arbitrum/Optimism</title>
 			<link>https://hashhub-research.com/articles/2023-01-16-layer-2-adoption-arbitrum-optimism-1</link>
 			<guid isPermaLink="false">2023-01-16-layer-2-adoption-arbitrum-optimism-1</guid>
@@ -197,14 +205,6 @@
 			<description>前提&lt;br /&gt;Eigen layerの概要&lt;br /&gt;懸念事項やリスク&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Mon, 19 Dec 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/da86f1w28rv14aanzhmdjjrpbe9v/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Web3地方創生の成功パターンと注意点（詳細編）</title>
-			<link>https://hashhub-research.com/articles/2022-12-17-web3-regional-development-5</link>
-			<guid isPermaLink="false">2022-12-17-web3-regional-development-5</guid>
-			<description>前提：地方創生の新たな道具としてのNFT、DAO、ファンジブルトークン&lt;br /&gt;Web3地方創生の事例&lt;br /&gt;注意点&lt;br /&gt;法的な観点&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Sat, 17 Dec 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/lmutyp8h1lbgjhvic715cj1bs3uj/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
