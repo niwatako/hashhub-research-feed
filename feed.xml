@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>クリエイターエコノミー・ケーススタディ #1 Micah Johnson</title>
+			<link>https://hashhub-research.com/articles/2023-01-21-about-micah-johnson</link>
+			<guid isPermaLink="false">2023-01-21-about-micah-johnson</guid>
+			<description>前提&lt;br /&gt;ケーススタディ #1｜Micah Johnson氏のNFTクリエイターとしての歩みを振り返る&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Sat, 21 Jan 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ruf6oxfbh90nxbfclojpkueru63e/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>【後編】レイヤー2アダプションの動向 Arbitrum/Optimism</title>
 			<link>https://hashhub-research.com/articles/2023-01-19-layer-2-adoption-arbitrum-optimism-2</link>
 			<guid isPermaLink="false">2023-01-19-layer-2-adoption-arbitrum-optimism-2</guid>
@@ -197,14 +205,6 @@
 			<description></description>
 			<pubDate>Fri, 23 Dec 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/as25y452mka75c8s5rchzh6vmrrl/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Arrakis Finance V2｜Uniswap V3の集中流動性を自動で最適化するストラテジーを提供するメカニズムの概要</title>
-			<link>https://hashhub-research.com/articles/2022-12-22-about-arrakis-finance-v2-palm</link>
-			<guid isPermaLink="false">2022-12-22-about-arrakis-finance-v2-palm</guid>
-			<description>前提&lt;br /&gt;Arrakis Finance V2&lt;br /&gt;PALM - Protocol Automated Liquidity Management&lt;br /&gt;懸念事項とリスク&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 22 Dec 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/4tk1za5xkvvrr093q1pjh92moqpc/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
