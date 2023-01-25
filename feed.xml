@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>GammaSwap LPトークンを活用したボラティリティーDEX</title>
+			<link>https://hashhub-research.com/articles/2023-01-25-about-gamma-swap</link>
+			<guid isPermaLink="false">2023-01-25-about-gamma-swap</guid>
+			<description>免責事項&lt;br /&gt;要約&lt;br /&gt;GammaSwapの概要&lt;br /&gt;ロング・ストラドル／ショート・ストラドルの概要 &lt;br /&gt;ユースケースや考えられる未来&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Wed, 25 Jan 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/a47ixacwliawkis3q1x3dyv2z9il/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>デジタルファッションの現在と未来。 RED DAOの投資ポートフォリオから展望を予想！</title>
 			<link>https://hashhub-research.com/articles/2023-01-24-digital-fashion</link>
 			<guid isPermaLink="false">2023-01-24-digital-fashion</guid>
@@ -197,14 +205,6 @@
 			<description>前提&lt;br /&gt;ホワイトハウス：本格的な規制強化に舵を切る&lt;br /&gt;規制当局：既存の権限に基づき規制強化を進める&lt;br /&gt;議会：規制の法制化に向け議論が活発化&lt;br /&gt;証券vs商品を巡る議論：CFTC寄りの法案が優勢だったが、見直し論が浮上&lt;br /&gt;総括&lt;br /&gt;出所・補足&lt;br /&gt;</description>
 			<pubDate>Tue, 27 Dec 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/g3wzknlt0whuzeenv5qvqvehj3xg/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>NFT（Non-Fungible-Token）の動向 22年12月</title>
-			<link>https://hashhub-research.com/articles/2022-12-24-nft-market</link>
-			<guid isPermaLink="false">2022-12-24-nft-market</guid>
-			<description>前提&lt;br /&gt;NFT販売の傾向&lt;br /&gt;元アメリカ大統領トランプ氏のNFTが話題に&lt;br /&gt;動画プラットフォーム「Shibuya」 が $6.9Mを調達&lt;br /&gt;国内動向&lt;br /&gt;さいごに&lt;br /&gt;付録：ニュースリスト&lt;br /&gt;</description>
-			<pubDate>Sat, 24 Dec 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/33bpla2tr0eed2vu3ujd1sr0a8fp/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
