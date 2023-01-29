@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>「失敗から学ぶNFT戦略」特集｜PORSCHΞ 911を事例に</title>
+			<link>https://hashhub-research.com/articles/2023-01-29-about-porsche-nft</link>
+			<guid isPermaLink="false">2023-01-29-about-porsche-nft</guid>
+			<description>前提&lt;br /&gt;■ミントイベント準備段階のポルシェNFT戦略&lt;br /&gt;■ミントイベント時、及びイベント終了後のNFT戦略の動向&lt;br /&gt;■ポルシェNFTの失敗を整理する&lt;br /&gt;総括｜ポルシェ911NFTの今後の動向に対する私見&lt;br /&gt;</description>
+			<pubDate>Sun, 29 Jan 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/cb4kauxm20gc7ih3zplg2ya0i9w1/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Visaが提案するStarkNetを用いたサブスクリプションモデルの仕組みの解説と考察</title>
 			<link>https://hashhub-research.com/articles/2023-01-27-visa-proposes-subscription-model-using-starknet</link>
 			<guid isPermaLink="false">2023-01-27-visa-proposes-subscription-model-using-starknet</guid>
@@ -197,14 +205,6 @@
 			<description>前提&lt;br /&gt;genesis blockについて&lt;br /&gt;0x04の謎&lt;br /&gt;</description>
 			<pubDate>Thu, 29 Dec 2022 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/thdz5nw5bpyhz5f8wa50sq5ynmn5/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>スマートコントラクトチェーンの概要・事例を俯瞰する</title>
-			<link>https://hashhub-research.com/articles/2022-12-28-smart-contract-chain-overview</link>
-			<guid isPermaLink="false">2022-12-28-smart-contract-chain-overview</guid>
-			<description>前提&lt;br /&gt;代表的なスマートコントラクトチェーン&lt;br /&gt;各スマートコントラクトチェーンの概要と事例&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Wed, 28 Dec 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/tvk2m9608yi5in0r198m162z269e/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
