@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Pancake SwapとTrader Joeの最新状況や成功要因の分析</title>
+			<link>https://hashhub-research.com/articles/2023-02-02-analysis-pancake-swap-and-trader-joe</link>
+			<guid isPermaLink="false">2023-02-02-analysis-pancake-swap-and-trader-joe</guid>
+			<description>前提&lt;br /&gt;Pancake Swapの現況&lt;br /&gt;Trader Joeの現況&lt;br /&gt;当初Uniswapのフォークプロジェクトとしてローンチした彼らの成功要因からコピープロジェクトの再現性を問う&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Thu, 02 Feb 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/l2oef5df2605eczcahgud2rlow3i/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>NFT（Non-Fungible-Token）の動向 23年1月</title>
 			<link>https://hashhub-research.com/articles/2023-2-1-nft-market</link>
 			<guid isPermaLink="false">2023-2-1-nft-market</guid>
@@ -197,14 +205,6 @@
 &lt;br /&gt;</description>
 			<pubDate>Sun, 01 Jan 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/bhhxhmgpxb1mcqcqf26he0u52ocd/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>「Bitcoin・暗号資産を巡る2022年の概況」</title>
-			<link>https://hashhub-research.com/articles/2022-12-31-overview-of-crypto-assets-in-2022</link>
-			<guid isPermaLink="false">2022-12-31-overview-of-crypto-assets-in-2022</guid>
-			<description>はじめに（視点の設定）&lt;br /&gt;</description>
-			<pubDate>Sat, 31 Dec 2022 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/7t2yz73dfts60jheu9yv0efmt3pf/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
