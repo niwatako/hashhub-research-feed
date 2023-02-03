@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Web3メールマガジンプラットフォームParagraphを使ったメディア運営事業の可能性</title>
+			<link>https://hashhub-research.com/articles/2023-02-03-paragraph-overview-and-potential-of-media-business</link>
+			<guid isPermaLink="false">2023-02-03-paragraph-overview-and-potential-of-media-business</guid>
+			<description>前提&lt;br /&gt;Paragraphの概要&lt;br /&gt;Paragraphを使ったマネタイズ手段の検討と考察&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Fri, 03 Feb 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/zrylwhtq8fr0iz4yx455ero8qkm3/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Pancake SwapとTrader Joeの最新状況や成功要因の分析</title>
 			<link>https://hashhub-research.com/articles/2023-02-02-analysis-pancake-swap-and-trader-joe</link>
 			<guid isPermaLink="false">2023-02-02-analysis-pancake-swap-and-trader-joe</guid>
@@ -187,24 +195,6 @@
 			<description>前提&lt;br /&gt;これまでのCosmosのインターオペラビリティ&lt;br /&gt;IBCが抱える課題&lt;br /&gt;LCPの仕組み&lt;br /&gt;総論 これからのインターオペラビリティ&lt;br /&gt;</description>
 			<pubDate>Tue, 03 Jan 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ie3j8tm2nnohhdxftu6qz9pgowmv/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>リサーチャーが選ぶ2022年をあらわす・2023年も引き続き注目したいテーマのレポート10選</title>
-			<link>https://hashhub-research.com/articles/2023-01-01-researchers-select-reports-10</link>
-			<guid isPermaLink="false">2023-01-01-researchers-select-reports-10</guid>
-			<description>リサーチャーが選ぶ2022年をあらわす・2023年も引き続き注目したいレポート10選&lt;br /&gt;1.コントリビュートの類型から“DAOで働く”を考える
-&lt;br /&gt;2.Bondメカニズムと（3,3）メカニズムのエコノミクス
-&lt;br /&gt;3.DAOにおけるトレジャリーマネージメント
-&lt;br /&gt;4.アプリ特化チェーン導入のポイントをCosmos, Polkadot, Avalancheで比較する 詳細編
-&lt;br /&gt;5.Web5をはじめとするGlobal Verification Network入門【前編】｜Web5の概要、SSI/DIDの基礎、主なユースケース
-&lt;br /&gt;6.論考・DAOは一般社会を模倣した”新しい働き方”として消費されるのか
-&lt;br /&gt;7.zkEVMをめぐる開発競争の現状と待望される理由
-&lt;br /&gt;8.Distributed Validator Technology | バリデータのトラストレスな分散運営を実現する技術
-&lt;br /&gt;9.ブレトンウッズ体制3.0 | 新しい世界通貨秩序とビットコイン
-&lt;br /&gt;10.「論考・ETHの時価総額がBTCを追い抜くと考える理由」を再度考える
-&lt;br /&gt;</description>
-			<pubDate>Sun, 01 Jan 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/bhhxhmgpxb1mcqcqf26he0u52ocd/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
