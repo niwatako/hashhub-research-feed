@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>2023年のDeFiの重要トレンド リアルワールドアセット（RWA）と本人確認をしたDeFi利用</title>
+			<link>https://hashhub-research.com/articles/2023-02-08-real-world-assets-on-defi</link>
+			<guid isPermaLink="false">2023-02-08-real-world-assets-on-defi</guid>
+			<description>前提&lt;br /&gt;DeFiの世界で需要が高まるリアルワールドアセット（RWA）&lt;br /&gt;パブリックブロックチェーン上に展開されるリアルワールドアセットの事例&lt;br /&gt;今後の広まりについて筆者の予想&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Wed, 08 Feb 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/49nxr747fls6epmb3bwbyxrgaib6/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>DeFiマーケットレポート【2023年1月】</title>
 			<link>https://hashhub-research.com/articles/2023-02-07-defi-market-2023-1</link>
 			<guid isPermaLink="false">2023-02-07-defi-market-2023-1</guid>
@@ -188,14 +196,6 @@
 			<description>前提&lt;br /&gt;Web5の技術概要｜Decentralized Web Node&lt;br /&gt;DWNの応用例｜tbDEXのポイントを解説&lt;br /&gt;Lightning Networkの活用｜クリエイターアプリZION&lt;br /&gt;【考察】インテンション・エコノミー&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Mon, 09 Jan 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2czwj53jns1azex24x9e83ocl8we/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>2023年の暗号資産・Web3業界の10の予想</title>
-			<link>https://hashhub-research.com/articles/2023-01-07-10-predictions-for-crypto-and-web3-in-2023</link>
-			<guid isPermaLink="false">2023-01-07-10-predictions-for-crypto-and-web3-in-2023</guid>
-			<description>前提&lt;br /&gt;1.マーケット環境は引き続き厳しい&lt;br /&gt;2.クリプトファンドは苦しく、スタートアップも資金調達は困難&lt;br /&gt;3.L1やL2も選別が進む、独自ブロックチェーンは増える&lt;br /&gt;4.GameFiは一度成功して、踊り場も経験する&lt;br /&gt;5.NFTはインターネットの新しいツールとして緩やかに一般に浸透する&lt;br /&gt;6.DeFiのCeFiに対するシェアは高まるものの、持続性は引き続き課題&lt;br /&gt;7.これまでと異なる事業環境&lt;br /&gt;8.規制は厳しい目線が注がれながらも、決定的な枠組みは生まれず優柔不断な状態が続く&lt;br /&gt;9.ステーブルコインの競争環境&lt;br /&gt;10.AIとWeb3&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Sat, 07 Jan 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/wpf8l3m7jgv747xi497h8o2kioqo/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
