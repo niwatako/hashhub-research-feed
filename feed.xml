@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>【動画解説】Duneでクエリとオリジナルのダッシュボードを作ってみよう</title>
+			<link>https://hashhub-research.com/articles/2023-02-10-create-your-own-query-and-dashboard-with-dune-for-beginer</link>
+			<guid isPermaLink="false">2023-02-10-create-your-own-query-and-dashboard-with-dune-for-beginer</guid>
+			<description>動画本編はこちらからご視聴ください&lt;br /&gt;</description>
+			<pubDate>Fri, 10 Feb 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/pqv8848nfu8qxd1v785gnr83iyrm/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>2023/01 week4 HashHub Podcast レポートダイジェストの公開</title>
 			<link>https://hashhub-research.com/articles/2023-02-09-hashhub-podcast-2023-01-week4</link>
 			<guid isPermaLink="false">2023-02-09-hashhub-podcast-2023-01-week4</guid>
@@ -188,14 +196,6 @@
 			<description>免責事項&lt;br /&gt;要約&lt;br /&gt;Jarvis Networkの概要&lt;br /&gt;主要機能 &lt;br /&gt;課題とリスク&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Wed, 11 Jan 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/vwje1nnswv38npubj800g29ts0nt/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>トークンエコノミクスの現況と展望</title>
-			<link>https://hashhub-research.com/articles/2023-01-10-latest-trends-in-tokenomics-in-defi-and-gamefi</link>
-			<guid isPermaLink="false">2023-01-10-latest-trends-in-tokenomics-in-defi-and-gamefi</guid>
-			<description>直近のモデル&lt;br /&gt;より良いトークンエコノミクス&lt;br /&gt;結言&lt;br /&gt;</description>
-			<pubDate>Tue, 10 Jan 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/yvp3ksz0nl2f8pbyd6sw54d9scs1/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
