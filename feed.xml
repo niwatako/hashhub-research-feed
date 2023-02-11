@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>希少性から豊富性へ？ オープンエディションはNFTのあり方を変えうるか？</title>
+			<link>https://hashhub-research.com/articles/2023-02-11-about-open-edition</link>
+			<guid isPermaLink="false">2023-02-11-about-open-edition</guid>
+			<description>前提&lt;br /&gt;オープンエディション（OE）とは？&lt;br /&gt;オープンエディションのブームを牽引するManifoldとは？&lt;br /&gt;NFTの価値はどこにある？&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Sat, 11 Feb 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1l034zlwcm65f8u63gsq95aotifp/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>【動画解説】Duneでクエリとオリジナルのダッシュボードを作ってみよう</title>
 			<link>https://hashhub-research.com/articles/2023-02-10-create-your-own-query-and-dashboard-with-dune-for-beginer</link>
 			<guid isPermaLink="false">2023-02-10-create-your-own-query-and-dashboard-with-dune-for-beginer</guid>
@@ -188,14 +196,6 @@
 			<description>前回からの進捗&lt;br /&gt;1 HTTPアウトコール&lt;br /&gt;2 Bitcoin統合&lt;br /&gt;3 認証技術&lt;br /&gt;汎用sMPC技術&lt;br /&gt;活発な開発&lt;br /&gt;まとめ&lt;br /&gt;</description>
 			<pubDate>Thu, 12 Jan 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1f81k0alte1wdv1wtbkp1n3cm711/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Jarvis Network 様々な法定通貨連動型ステーブルコイン発行プロトコル</title>
-			<link>https://hashhub-research.com/articles/2023-01-11-about-javis-network</link>
-			<guid isPermaLink="false">2023-01-11-about-javis-network</guid>
-			<description>免責事項&lt;br /&gt;要約&lt;br /&gt;Jarvis Networkの概要&lt;br /&gt;主要機能 &lt;br /&gt;課題とリスク&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Wed, 11 Jan 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/vwje1nnswv38npubj800g29ts0nt/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
