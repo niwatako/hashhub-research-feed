@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>生存戦略の共有｜2018-19参入組の例</title>
+			<link>https://hashhub-research.com/articles/2023-02-13-survival-strategy</link>
+			<guid isPermaLink="false">2023-02-13-survival-strategy</guid>
+			<description>前提&lt;br /&gt;DAO・ワーキンググループへの参加&lt;br /&gt;冬相場につきゲームをプレイする理由&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Mon, 13 Feb 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/kgi2zl33o87uc9inaqn1lgfj5qgo/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>希少性から豊富性へ？ オープンエディションはNFTのあり方を変えうるか？</title>
 			<link>https://hashhub-research.com/articles/2023-02-11-about-open-edition</link>
 			<guid isPermaLink="false">2023-02-11-about-open-edition</guid>
@@ -188,14 +196,6 @@
 			<description>前提&lt;br /&gt;Phaverとは？&lt;br /&gt;展望と考察&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Fri, 13 Jan 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/n0mkilasau7jpwn9ao0jo72hcuf0/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Internet Computer Protocolの現状（2023年1月時点）と今後の展開</title>
-			<link>https://hashhub-research.com/articles/2023-01-12-about-icp</link>
-			<guid isPermaLink="false">2023-01-12-about-icp</guid>
-			<description>前回からの進捗&lt;br /&gt;1 HTTPアウトコール&lt;br /&gt;2 Bitcoin統合&lt;br /&gt;3 認証技術&lt;br /&gt;汎用sMPC技術&lt;br /&gt;活発な開発&lt;br /&gt;まとめ&lt;br /&gt;</description>
-			<pubDate>Thu, 12 Jan 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1f81k0alte1wdv1wtbkp1n3cm711/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
