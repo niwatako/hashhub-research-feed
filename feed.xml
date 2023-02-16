@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>2023/02 week1 HashHub Podcast レポートダイジェストの公開</title>
+			<link>https://hashhub-research.com/articles/2023-02-16-hashhub-podcast-2023-02-week1</link>
+			<guid isPermaLink="false">2023-02-16-hashhub-podcast-2023-02-week1</guid>
+			<description>HashHub Podcastの構成&lt;br /&gt;</description>
+			<pubDate>Thu, 16 Feb 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/x9p3rh0kmq59nlf8xvohyquy3bph/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>クリエイターエコノミー・ケーススタディ #2 xcopy【後編】</title>
 			<link>https://hashhub-research.com/articles/2023-02-15-about-xcopy-2</link>
 			<guid isPermaLink="false">2023-02-15-about-xcopy-2</guid>
@@ -188,14 +196,6 @@
 			<description>前提&lt;br /&gt;Blurとは？&lt;br /&gt;展望と考察&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Tue, 17 Jan 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/805nqiflcyn9w9hvu9t1vqsgxbf5/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>【前編】レイヤー2アダプションの動向 Arbitrum/Optimism</title>
-			<link>https://hashhub-research.com/articles/2023-01-16-layer-2-adoption-arbitrum-optimism-1</link>
-			<guid isPermaLink="false">2023-01-16-layer-2-adoption-arbitrum-optimism-1</guid>
-			<description>前提&lt;br /&gt;導入知識&lt;br /&gt;ArbitrumとOptimismの現状比較&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Mon, 16 Jan 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/dk7l4d1bmx84h3dp4ujjs8hv6dyu/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
