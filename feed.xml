@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>AIはweb3領域でどう活用されるのか？ その活用事例と展望を解説</title>
+			<link>https://hashhub-research.com/articles/2023-02-19-how-will-ai-be-used-in-the-web3</link>
+			<guid isPermaLink="false">2023-02-19-how-will-ai-be-used-in-the-web3</guid>
+			<description>前提&lt;br /&gt;AI時代の到来&lt;br /&gt;AIとweb3の活用事例&lt;br /&gt;今後実現されていくユースケースを考察&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Sun, 19 Feb 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/o637lwjew50mlj6jywazu898h43i/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Mars Protocol IBCを応用したクロスチェーンレンディングプラットフォーム</title>
 			<link>https://hashhub-research.com/articles/2023-02-17-about-mars-protocol</link>
 			<guid isPermaLink="false">2023-02-17-about-mars-protocol</guid>
@@ -188,14 +196,6 @@
 			<description>前提&lt;br /&gt;各プロトコルの状況&lt;br /&gt;懸念事項とリスク&lt;br /&gt;今後の展開に関する考察&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 19 Jan 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/op27m8b9izvp2qkyadgj8pr87rlc/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>日本のIPをWeb3ゲームで活かす方法｜NFTを複数のゲームで活用する事例、Sparkadiaからアイデアを探る</title>
-			<link>https://hashhub-research.com/articles/2023-01-18-about-sparkadia</link>
-			<guid isPermaLink="false">2023-01-18-about-sparkadia</guid>
-			<description>前提&lt;br /&gt;Sparkadiaの概要&lt;br /&gt;日本のIPとゲームスタジオモデル&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Wed, 18 Jan 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/q9cu8r26qu1hj79zooxpwgfirmcg/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
