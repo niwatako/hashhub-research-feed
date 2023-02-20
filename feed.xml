@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>MEV-Boostによる利益獲得手段の現状解明から読み解く集権化と検閲の解決策の方向性</title>
+			<link>https://hashhub-research.com/articles/2023-02-20-understanding-the-current-status-mev-in-ethereum-after-the-merge</link>
+			<guid isPermaLink="false">2023-02-20-understanding-the-current-status-mev-in-ethereum-after-the-merge</guid>
+			<description>前提&lt;br /&gt;MEVを獲得する場合、誰が何をどのように行っているのか、そしてどれくらいの利益を得ているのか&lt;br /&gt;MEVに関連する問題や懸念はどのようなものか、またその解決策の方向性はどのようなものか&lt;br /&gt;MEVに関する動向は今後どのような展望が期待されるか&lt;br /&gt;考察&lt;br /&gt;総括&lt;br /&gt;Reference&lt;br /&gt;</description>
+			<pubDate>Mon, 20 Feb 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0iv3jq0k7ea3wgg5613t1bwrilbs/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>AIはweb3領域でどう活用されるのか？ その活用事例と展望を解説</title>
 			<link>https://hashhub-research.com/articles/2023-02-19-how-will-ai-be-used-in-the-web3</link>
 			<guid isPermaLink="false">2023-02-19-how-will-ai-be-used-in-the-web3</guid>
@@ -188,14 +196,6 @@
 			<description>前提&lt;br /&gt;ケーススタディ #1｜Micah Johnson氏のNFTクリエイターとしての歩みを振り返る&lt;br /&gt;【2020年2月〜4月｜1/1エディションのNFTをSuperRare経由で販売開始】&lt;br /&gt;【2020年6月〜｜Niftygateway経由で1/1NFT販売＋限定部数:NFT販売を開始】&lt;br /&gt;【2020年11月14日：転換点となるコンセプチュアルアート「ˈSÄ-V(Ə-)RƏN-TĒ」を250ETH($117,278)で売却】&lt;br /&gt;【2021年2月18日~2021年12月、代表作Akuシリーズを展開開始、NFT IPとしては史上初となる主要テレビ映画開発契約を獲得、Visaとの提携発表】&lt;br /&gt;【2022年〜、AkuシリーズをPFP NFTとして再展開、バーチャルファッション、メタバース等のより商業的な領域へ】&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Sat, 21 Jan 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ruf6oxfbh90nxbfclojpkueru63e/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>【後編】レイヤー2アダプションの動向 Arbitrum/Optimism</title>
-			<link>https://hashhub-research.com/articles/2023-01-19-layer-2-adoption-arbitrum-optimism-2</link>
-			<guid isPermaLink="false">2023-01-19-layer-2-adoption-arbitrum-optimism-2</guid>
-			<description>前提&lt;br /&gt;各プロトコルの状況&lt;br /&gt;懸念事項とリスク&lt;br /&gt;今後の展開に関する考察&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 19 Jan 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/op27m8b9izvp2qkyadgj8pr87rlc/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
