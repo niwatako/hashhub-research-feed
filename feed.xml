@@ -5,10 +5,18 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>JitoSOL ステーキング報酬にMEVを付加するリキッドステーキングとスパムトランザクションを軽減するクライアントの概要</title>
+			<link>https://hashhub-research.com/articles/2023-02-24-overview-jitosol-and-jitoclient</link>
+			<guid isPermaLink="false">2023-02-24-overview-jitosol-and-jitoclient</guid>
+			<description>前提&lt;br /&gt;JitoSOLの概要&lt;br /&gt;バリデーターとステーカー（エンドユーザー）はどれくらいの利益を享受できるのか&lt;br /&gt;Jito-Solanaクライアントによるネットワークへの負荷改善&lt;br /&gt;MEVがステーキング報酬に組み込まれる仕組み&lt;br /&gt;展望に対する考察と懸念事項&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Fri, 24 Feb 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/rekhwd42c351wf3kltorbftbxke8/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>文芸とNFT  #1　「Literary NFT」文芸NFTは新たな文字メディア表現となるか</title>
 			<link>https://hashhub-research.com/articles/2023-02-23-literary-nft-1</link>
 			<guid isPermaLink="false">2023-02-23-literary-nft-1</guid>
-			<description>【前提】&lt;br /&gt;Literary NFT（文芸NFT）とは&lt;br /&gt;総括：文芸NFTはニッチでしかない、からどうしようもない、ではない&lt;br /&gt;</description>
+			<description>【前提】&lt;br /&gt;Literary NFT（文芸NFT）とは&lt;br /&gt;文芸NFTの可能性&lt;br /&gt;</description>
 			<pubDate>Thu, 23 Feb 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/7l017tgk0o6iufwou3k2u6jxjusw/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
@@ -188,14 +196,6 @@
 			<description>前提&lt;br /&gt;Visaの提案するサブスクリプションモデルの概要&lt;br /&gt;暗号資産を用いたセルフカストディウォレットによるサブスクリプションモデルを実現する必要性とは何か&lt;br /&gt;決済企業が取り組む動機と今後の予想&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Fri, 27 Jan 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/cbvuiv4khyo5jpld6qlnxs642qxp/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>GammaSwap LPトークンを活用したボラティリティーDEX</title>
-			<link>https://hashhub-research.com/articles/2023-01-25-about-gamma-swap</link>
-			<guid isPermaLink="false">2023-01-25-about-gamma-swap</guid>
-			<description>免責事項&lt;br /&gt;要約&lt;br /&gt;GammaSwapの概要&lt;br /&gt;ロング・ストラドル／ショート・ストラドルの概要 &lt;br /&gt;ユースケースや考えられる未来&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Wed, 25 Jan 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/a47ixacwliawkis3q1x3dyv2z9il/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
