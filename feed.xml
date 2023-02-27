@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>2023/02 week2 HashHub Podcast レポートダイジェストの公開</title>
+			<link>https://hashhub-research.com/articles/2023-02-27-hashhub-podcast-2023-02-week2</link>
+			<guid isPermaLink="false">2023-02-27-hashhub-podcast-2023-02-week2</guid>
+			<description>HashHub Podcastの構成&lt;br /&gt;</description>
+			<pubDate>Mon, 27 Feb 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/dz2nypcjmmbadiab5oiuba41lgir/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>分散型デリバティブ取引所のファンダメンタルズ分析  Token Terminalを活用して分析</title>
 			<link>https://hashhub-research.com/articles/2023-02-26-token-terminal-fundamental-analysis</link>
 			<guid isPermaLink="false">2023-02-26-token-terminal-fundamental-analysis</guid>
@@ -188,14 +196,6 @@
 			<description>前提：NFT, GameFi, DID/SSIとウォレットへのトレンドの変化&lt;br /&gt;全体のトレンド&lt;br /&gt;キャプテン翼 -RIVALS-の分析&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Mon, 30 Jan 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/3tponnhw263v17dk1y1k93vxumrt/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>「失敗から学ぶNFT戦略」特集｜PORSCHΞ 911を事例に</title>
-			<link>https://hashhub-research.com/articles/2023-01-29-about-porsche-nft</link>
-			<guid isPermaLink="false">2023-01-29-about-porsche-nft</guid>
-			<description>前提&lt;br /&gt;■ミントイベント準備段階のポルシェNFT戦略&lt;br /&gt;■ミントイベント時、及びイベント終了後のNFT戦略の動向&lt;br /&gt;■ポルシェNFTの失敗を整理する&lt;br /&gt;総括｜ポルシェ911NFTの今後の動向に対する私見&lt;br /&gt;</description>
-			<pubDate>Sun, 29 Jan 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/cb4kauxm20gc7ih3zplg2ya0i9w1/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
