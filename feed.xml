@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>NFT（Non-Fungible-Token）の動向 23年2月</title>
+			<link>https://hashhub-research.com/articles/2023-02-07--nft-market</link>
+			<guid isPermaLink="false">2023-02-07--nft-market</guid>
+			<description>前提&lt;br /&gt;NFT販売の傾向&lt;br /&gt;Ordinals BTCのNFT&lt;br /&gt;OpenSea vs Blur&lt;br /&gt;国内動向&lt;br /&gt;さいごに&lt;br /&gt;</description>
+			<pubDate>Mon, 27 Feb 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/lfze4jfrn61mwj1qjc1kcvpmmrb3/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>2023/02 week2 HashHub Podcast レポートダイジェストの公開</title>
 			<link>https://hashhub-research.com/articles/2023-02-27-hashhub-podcast-2023-02-week2</link>
 			<guid isPermaLink="false">2023-02-27-hashhub-podcast-2023-02-week2</guid>
@@ -188,14 +196,6 @@
 			<description>前提&lt;br /&gt;NFT販売の傾向&lt;br /&gt;オープンエディションブーム&lt;br /&gt;BAYC陣営がゲームのリリースで市場を賑わす&lt;br /&gt;DigiDaigakuの提案する新しいNFTの技術仕様&lt;br /&gt;国内動向&lt;br /&gt;さいごに&lt;br /&gt;付録：ニュースリスト&lt;br /&gt;</description>
 			<pubDate>Wed, 01 Feb 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/z9mjyrhznm18q8wqeuhbqj5naify/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>月刊法人レポート【2023年1月号】</title>
-			<link>https://hashhub-research.com/articles/2023-01-30-monthly-industry-trend-reports</link>
-			<guid isPermaLink="false">2023-01-30-monthly-industry-trend-reports</guid>
-			<description>前提：NFT, GameFi, DID/SSIとウォレットへのトレンドの変化&lt;br /&gt;全体のトレンド&lt;br /&gt;キャプテン翼 -RIVALS-の分析&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Mon, 30 Jan 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/3tponnhw263v17dk1y1k93vxumrt/3157b8acce898feb095a19f4a06fbeebad94415cc86d807d4fab190f5202c531" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
