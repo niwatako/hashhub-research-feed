@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Web3の片鱗（5）｜無料公開特集「デジタル遺産相続の今とこれから」</title>
+			<link>https://hashhub-research.com/articles/2023-03-2-piece-of-web3-5</link>
+			<guid isPermaLink="false">2023-03-2-piece-of-web3-5</guid>
+			<description>「デジタル資産」は既存の物理的な「資産」と同じ枠組みで捉えられるようなものだろうか？&lt;br /&gt;法的、社会的、技術的課題の整理&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Thu, 02 Mar 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/dfyomnxmwcv8frj5ttpc0a07puur/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>2023/02 week3 HashHub Podcast レポートダイジェストの公開</title>
 			<link>https://hashhub-research.com/articles/2023-03-02-hashhub-podcast-2023-02-week3</link>
 			<guid isPermaLink="false">2023-03-02-hashhub-podcast-2023-02-week3</guid>
@@ -188,14 +196,6 @@
 			<description>前提&lt;br /&gt;Paragraphの概要&lt;br /&gt;Paragraphを使ったマネタイズ手段の検討と考察&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Fri, 03 Feb 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/zrylwhtq8fr0iz4yx455ero8qkm3/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Pancake SwapとTrader Joeの最新状況や成功要因の分析</title>
-			<link>https://hashhub-research.com/articles/2023-02-02-analysis-pancake-swap-and-trader-joe</link>
-			<guid isPermaLink="false">2023-02-02-analysis-pancake-swap-and-trader-joe</guid>
-			<description>前提&lt;br /&gt;Pancake Swapの現況&lt;br /&gt;Trader Joeの現況&lt;br /&gt;当初Uniswapのフォークプロジェクトとしてローンチした彼らの成功要因からコピープロジェクトの再現性を問う&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 02 Feb 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/l2oef5df2605eczcahgud2rlow3i/9df3eb5329d15bbf90d173c004f93d91cfb92919ed8ffa1203174ed1a553fd7a" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
