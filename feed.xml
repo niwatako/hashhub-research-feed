@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>2023/02 week3 HashHub Podcast レポートダイジェストの公開</title>
+			<link>https://hashhub-research.com/articles/2023-03-02-hashhub-podcast-2023-02-week3</link>
+			<guid isPermaLink="false">2023-03-02-hashhub-podcast-2023-02-week3</guid>
+			<description>HashHub Podcastの構成&lt;br /&gt;</description>
+			<pubDate>Thu, 02 Mar 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/qlhbfkh0gepnac2mh16v2o3nb597/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>NFT（Non-Fungible-Token）の動向 23年2月</title>
 			<link>https://hashhub-research.com/articles/2023-02-07--nft-market</link>
 			<guid isPermaLink="false">2023-02-07--nft-market</guid>
@@ -188,14 +196,6 @@
 			<description>前提&lt;br /&gt;Pancake Swapの現況&lt;br /&gt;Trader Joeの現況&lt;br /&gt;当初Uniswapのフォークプロジェクトとしてローンチした彼らの成功要因からコピープロジェクトの再現性を問う&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 02 Feb 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/l2oef5df2605eczcahgud2rlow3i/9df3eb5329d15bbf90d173c004f93d91cfb92919ed8ffa1203174ed1a553fd7a" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>NFT（Non-Fungible-Token）の動向 23年1月</title>
-			<link>https://hashhub-research.com/articles/2023-2-1-nft-market</link>
-			<guid isPermaLink="false">2023-2-1-nft-market</guid>
-			<description>前提&lt;br /&gt;NFT販売の傾向&lt;br /&gt;オープンエディションブーム&lt;br /&gt;BAYC陣営がゲームのリリースで市場を賑わす&lt;br /&gt;DigiDaigakuの提案する新しいNFTの技術仕様&lt;br /&gt;国内動向&lt;br /&gt;さいごに&lt;br /&gt;付録：ニュースリスト&lt;br /&gt;</description>
-			<pubDate>Wed, 01 Feb 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/z9mjyrhznm18q8wqeuhbqj5naify/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
