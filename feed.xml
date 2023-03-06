@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>月間法人レポート【2023年3月号】</title>
+			<link>https://hashhub-research.com/articles/2023-03-06-monthly-industry-trend-reports</link>
+			<guid isPermaLink="false">2023-03-06-monthly-industry-trend-reports</guid>
+			<description>前提：企業が今後参入する独自チェーンとDID/SSIとウォレット&lt;br /&gt;Polkadot, Cosmos, Avalanche, Polygonのアップデート&lt;br /&gt;Appchainである必要はあるのか&lt;br /&gt;DID/ウォレット開発の流れ&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Mon, 06 Mar 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ydhqu9eea3yrd0j5mwnkjtk4p255/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>コインベースが独自L2チェーン「Base」を発表 その概要と設立背景、展望を解説！</title>
 			<link>https://hashhub-research.com/articles/2023-03-04-about-base</link>
 			<guid isPermaLink="false">2023-03-04-about-base</guid>
@@ -187,15 +195,6 @@
 			<description>TVL（Total Value Locked）&lt;br /&gt;ブロックチェーン別TVL&lt;br /&gt;DeFiプロトコル別のTVL&lt;br /&gt;DEXの出来高&lt;br /&gt;プロトコル収益額の比較&lt;br /&gt;Layer 2&lt;br /&gt;Activity&lt;br /&gt;個別プロトコルの動向&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Tue, 07 Feb 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/nki625xa0ik83hjjh4r5wvx1dzx0/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>クリエイターエコノミー・ケーススタディ #2 xcopy【前編】</title>
-			<link>https://hashhub-research.com/articles/2023-02-06-about-xcopy</link>
-			<guid isPermaLink="false">2023-02-06-about-xcopy</guid>
-			<description>前提&lt;br /&gt;ケーススタディ #2｜xcopy
-&lt;br /&gt;Q1:xcopyの1/1NFTはいつから、何をきっかけに高い評価額で取引されるようになったのか？取引相場の転換期を調査し、その要因を探索する。&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Mon, 06 Feb 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/3yw07fh2d7j155zlo7rpwlswsywm/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
