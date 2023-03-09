@@ -13,6 +13,14 @@
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0wbok8fjg2nvwsi7azvber9iqsw5/9df3eb5329d15bbf90d173c004f93d91cfb92919ed8ffa1203174ed1a553fd7a" length="0" type="image/jpeg" />
 		</item>
 		<item>
+			<title>2023/02 week4 HashHub Podcast レポートダイジェストの公開</title>
+			<link>https://hashhub-research.com/articles/2023-03-09-hashhub-podcast-2023-02-week4</link>
+			<guid isPermaLink="false">2023-03-09-hashhub-podcast-2023-02-week4</guid>
+			<description>HashHub Podcastの構成&lt;br /&gt;</description>
+			<pubDate>Thu, 09 Mar 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0tasg6mhsz1g299bko9fisq1rbg8/9df3eb5329d15bbf90d173c004f93d91cfb92919ed8ffa1203174ed1a553fd7a" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>web3クレデンシャルを知る⑥｜教育とWeb3クレデンシャル ※Web3学習サービスリスト</title>
 			<link>https://hashhub-research.com/articles/2023-03-08-learn-about-web3-credential-6</link>
 			<guid isPermaLink="false">2023-03-08-learn-about-web3-credential-6</guid>
@@ -187,14 +195,6 @@
 			<description>動画本編はこちらからご視聴ください&lt;br /&gt;</description>
 			<pubDate>Fri, 10 Feb 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/pqv8848nfu8qxd1v785gnr83iyrm/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>2023/01 week4 HashHub Podcast レポートダイジェストの公開</title>
-			<link>https://hashhub-research.com/articles/2023-02-09-hashhub-podcast-2023-01-week4</link>
-			<guid isPermaLink="false">2023-02-09-hashhub-podcast-2023-01-week4</guid>
-			<description>HashHub Podcastの構成&lt;br /&gt;フルバージョンはこちらからご視聴ください&lt;br /&gt;</description>
-			<pubDate>Thu, 09 Feb 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/u8qma7wcns8kqefmvlsnj68qx57e/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
