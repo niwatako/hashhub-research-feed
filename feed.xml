@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ステーブルコインの各種概要について</title>
+			<link>https://hashhub-research.com/articles/2023-03-11-various-stablecoin-overviews</link>
+			<guid isPermaLink="false">2023-03-11-various-stablecoin-overviews</guid>
+			<description>免責事項&lt;br /&gt;要約&lt;br /&gt;ステーブルコインの各種概要&lt;br /&gt;法定通貨担保型ステーブルコイン&lt;br /&gt;暗号資産担保型ステーブルコイン&lt;br /&gt;アルゴリズム型ステーブルコイン&lt;br /&gt;その他ステーブルコインの概要について &lt;br /&gt;筆者の考え&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Sat, 11 Mar 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/bh44im6psf9g7hgldqvzwckp6csn/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>DeFiにおける戦争の歴史を振り返る</title>
 			<link>https://hashhub-research.com/articles/2023-03-09-a-history-of-war-in-defi</link>
 			<guid isPermaLink="false">2023-03-09-a-history-of-war-in-defi</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;オープンエディション（OE）とは？&lt;br /&gt;オープンエディションのブームを牽引するManifoldとは？&lt;br /&gt;NFTの価値はどこにある？&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Sat, 11 Feb 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1l034zlwcm65f8u63gsq95aotifp/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>【動画解説】Duneでクエリとオリジナルのダッシュボードを作ってみよう</title>
-			<link>https://hashhub-research.com/articles/2023-02-10-create-your-own-query-and-dashboard-with-dune-for-beginer</link>
-			<guid isPermaLink="false">2023-02-10-create-your-own-query-and-dashboard-with-dune-for-beginer</guid>
-			<description>動画本編はこちらからご視聴ください&lt;br /&gt;</description>
-			<pubDate>Fri, 10 Feb 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/pqv8848nfu8qxd1v785gnr83iyrm/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
