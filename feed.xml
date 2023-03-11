@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>目的が異なるWeb2.5とWeb3.0のDID/SSIを図で理解する</title>
+			<link>https://hashhub-research.com/articles/2023-03-12-web2-and-web3-with-different-objectives</link>
+			<guid isPermaLink="false">2023-03-12-web2-and-web3-with-different-objectives</guid>
+			<description>前提：Web2.5とWeb3.0で役割が異なるDID/SSI&lt;br /&gt;アプローチと目的の比較&lt;br /&gt;Web2.5的なDID/SSIプラットフォームのアプローチ&lt;br /&gt;Web3.0的なDID/SSIプラットフォームのアプローチ&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Sun, 12 Mar 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1ews31g1pxd2mqgp3dp9v0f12syn/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ステーブルコインの各種概要について</title>
 			<link>https://hashhub-research.com/articles/2023-03-11-various-stablecoin-overviews</link>
 			<guid isPermaLink="false">2023-03-11-various-stablecoin-overviews</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;DAO・ワーキンググループへの参加&lt;br /&gt;冬相場につきゲームをプレイする理由&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Mon, 13 Feb 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/kgi2zl33o87uc9inaqn1lgfj5qgo/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>希少性から豊富性へ？ オープンエディションはNFTのあり方を変えうるか？</title>
-			<link>https://hashhub-research.com/articles/2023-02-11-about-open-edition</link>
-			<guid isPermaLink="false">2023-02-11-about-open-edition</guid>
-			<description>前提&lt;br /&gt;オープンエディション（OE）とは？&lt;br /&gt;オープンエディションのブームを牽引するManifoldとは？&lt;br /&gt;NFTの価値はどこにある？&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Sat, 11 Feb 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1l034zlwcm65f8u63gsq95aotifp/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
