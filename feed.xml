@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>NFC×NFTの事例分析とその可能性を考察</title>
+			<link>https://hashhub-research.com/articles/2023-03-20-nfc-and-nft-case-study-analysis</link>
+			<guid isPermaLink="false">2023-03-20-nfc-and-nft-case-study-analysis</guid>
+			<description>前提&lt;br /&gt;NFTブームの終焉と求められるユースケース&lt;br /&gt;NFCタグ×NFTの事例紹介&lt;br /&gt;ユースケースと展望の考察&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Mon, 20 Mar 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/yraz3u6h88owmiyxpwrf0vg8ylt8/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>クリプトに起こりやすい「技術的期待」と「ビジネス上の過大評価」との間に起こるギャップ構造の考察</title>
 			<link>https://hashhub-research.com/articles/2023-03-17-consideration-of-the-structure-of-the-gap-between-technical-expectations-and-business-overestimation-in-crypto</link>
 			<guid isPermaLink="false">2023-03-17-consideration-of-the-structure-of-the-gap-between-technical-expectations-and-business-overestimation-in-crypto</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;AI時代の到来&lt;br /&gt;AIとweb3の活用事例&lt;br /&gt;今後実現されていくユースケースを考察&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Sun, 19 Feb 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/o637lwjew50mlj6jywazu898h43i/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Mars Protocol IBCを応用したクロスチェーンレンディングプラットフォーム</title>
-			<link>https://hashhub-research.com/articles/2023-02-17-about-mars-protocol</link>
-			<guid isPermaLink="false">2023-02-17-about-mars-protocol</guid>
-			<description>前提&lt;br /&gt;Mars Protocolの概要&lt;br /&gt;課題と懸念点&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Fri, 17 Feb 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/wtpewci03un6rua1t0j2hnev96lk/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
