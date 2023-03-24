@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>【HashHub Podcast】#9 DeFi戦争の歴史/ステーブルコイン各種概要/目的が異なるWeb2.5と3.0のDID・SSI【書き起こし】</title>
+			<link>https://hashhub-research.com/articles/2023-3-24-hashhub-podcast-history-of-defiwars-stablecoins-did-ssi-web2-web3</link>
+			<guid isPermaLink="false">2023-3-24-hashhub-podcast-history-of-defiwars-stablecoins-did-ssi-web2-web3</guid>
+			<description>音声コンテンツ本編の書き起こし&lt;br /&gt;</description>
+			<pubDate>Fri, 24 Mar 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/qg247k23x2myj83m6k1kxx81znlt/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>web3クレデンシャルを知る#8｜新たな潮流、増加しつつあるBNB chain*Cyber ConnectベースのWeb3クレデンシャル</title>
 			<link>https://hashhub-research.com/articles/2023-03-23-learn-about-web3-credential-8</link>
 			<guid isPermaLink="false">2023-03-23-learn-about-web3-credential-8</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;１章 信頼と安心の区分&lt;br /&gt;２章 信頼と社会的知性の関係性&lt;br /&gt;３章 信頼とネットワークの関係性&lt;br /&gt;４章 的確な情報判断が出来る為に&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Wed, 22 Feb 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/vjqf33ofyiw4b4e175infsippvmk/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>MEV-Boostによる利益獲得手段の現状解明から読み解く集権化と検閲の解決策の方向性</title>
-			<link>https://hashhub-research.com/articles/2023-02-20-understanding-the-current-status-mev-in-ethereum-after-the-merge</link>
-			<guid isPermaLink="false">2023-02-20-understanding-the-current-status-mev-in-ethereum-after-the-merge</guid>
-			<description>前提&lt;br /&gt;MEVを獲得する場合、誰が何をどのように行っているのか、そしてどれくらいの利益を得ているのか&lt;br /&gt;MEVに関連する問題や懸念はどのようなものか、またその解決策の方向性はどのようなものか&lt;br /&gt;MEVに関する動向は今後どのような展望が期待されるか&lt;br /&gt;考察&lt;br /&gt;総括&lt;br /&gt;Reference&lt;br /&gt;</description>
-			<pubDate>Mon, 20 Feb 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0iv3jq0k7ea3wgg5613t1bwrilbs/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
