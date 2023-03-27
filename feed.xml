@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>国内のNFT, DAO, GameFi, DID/SSIの最新事情</title>
+			<link>https://hashhub-research.com/articles/2023-03-27-the-latest-on-nft-dao-gamefi-did-in-japan</link>
+			<guid isPermaLink="false">2023-03-27-the-latest-on-nft-dao-gamefi-did-in-japan</guid>
+			<description>前提：国内のNFT, DAO, GameFi, DID/SSIの最新事情&lt;br /&gt;NFT&lt;br /&gt;DAO&lt;br /&gt;BCG（BlockChain Game）・GameFi&lt;br /&gt;DID/SSI、ウォレット、オンチェーン分析など&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Mon, 27 Mar 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/o4yowvjdfy9gsvm444r9vc5m31ce/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>【HashHub Podcast】#9 DeFi戦争の歴史/ステーブルコイン各種概要/目的が異なるWeb2.5と3.0のDID・SSI【書き起こし】</title>
 			<link>https://hashhub-research.com/articles/2023-3-24-hashhub-podcast-history-of-defiwars-stablecoins-did-ssi-web2-web3</link>
 			<guid isPermaLink="false">2023-3-24-hashhub-podcast-history-of-defiwars-stablecoins-did-ssi-web2-web3</guid>
@@ -187,14 +195,6 @@
 			<description>【前提】&lt;br /&gt;Literary NFT（文芸NFT）とは&lt;br /&gt;文芸NFTの可能性&lt;br /&gt;</description>
 			<pubDate>Thu, 23 Feb 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/7l017tgk0o6iufwou3k2u6jxjusw/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>信頼とネットワークという切り口から見る 暗号資産投資の情報判断における考察</title>
-			<link>https://hashhub-research.com/articles/2023-02-22-about-trust-and-assurance</link>
-			<guid isPermaLink="false">2023-02-22-about-trust-and-assurance</guid>
-			<description>前提&lt;br /&gt;１章 信頼と安心の区分&lt;br /&gt;２章 信頼と社会的知性の関係性&lt;br /&gt;３章 信頼とネットワークの関係性&lt;br /&gt;４章 的確な情報判断が出来る為に&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Wed, 22 Feb 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/vjqf33ofyiw4b4e175infsippvmk/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
