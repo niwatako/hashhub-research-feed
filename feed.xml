@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>NFT（Non-Fungible-Token）の動向 23年3月</title>
+			<link>https://hashhub-research.com/articles/2023-03-28-nft-market</link>
+			<guid isPermaLink="false">2023-03-28-nft-market</guid>
+			<description>前提&lt;br /&gt;NFT販売の傾向&lt;br /&gt;ブルーチップNFTコレクション価格の続落傾向&lt;br /&gt;TwelveFoldから始まるBTC NFTの再ブーム&lt;br /&gt;国内動向&lt;br /&gt;さいごに&lt;br /&gt;</description>
+			<pubDate>Tue, 28 Mar 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/mmjq7qzg51btdhb75b4wi09tu4wr/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>国内のNFT, DAO, GameFi, DID/SSIの最新事情</title>
 			<link>https://hashhub-research.com/articles/2023-03-27-the-latest-on-nft-dao-gamefi-did-in-japan</link>
 			<guid isPermaLink="false">2023-03-27-the-latest-on-nft-dao-gamefi-did-in-japan</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;JitoSOLの概要&lt;br /&gt;バリデーターとステーカー（エンドユーザー）はどれくらいの利益を享受できるのか&lt;br /&gt;Jito-Solanaクライアントによるネットワークへの負荷改善&lt;br /&gt;MEVがステーキング報酬に組み込まれる仕組み&lt;br /&gt;展望に対する考察と懸念事項&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Fri, 24 Feb 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/rekhwd42c351wf3kltorbftbxke8/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>文芸とNFT  #1　「Literary NFT」文芸NFTは新たな文字メディア表現となるか</title>
-			<link>https://hashhub-research.com/articles/2023-02-23-literary-nft-1</link>
-			<guid isPermaLink="false">2023-02-23-literary-nft-1</guid>
-			<description>【前提】&lt;br /&gt;Literary NFT（文芸NFT）とは&lt;br /&gt;文芸NFTの可能性&lt;br /&gt;</description>
-			<pubDate>Thu, 23 Feb 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/7l017tgk0o6iufwou3k2u6jxjusw/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
