@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Sonne Finance｜レンディングプロトコルとしてOptimismで勢いのある理由とトークンエコノミクスの特徴</title>
+			<link>https://hashhub-research.com/articles/2023-03-29-sonne-finance-overview</link>
+			<guid isPermaLink="false">2023-03-29-sonne-finance-overview</guid>
+			<description>前提&lt;br /&gt;Sonne Financeの概要&lt;br /&gt;流動性生成イベント（Liquidity Generation Event[LGE]）&lt;br /&gt;Velodromeを利用した流動性獲得維持モデル&lt;br /&gt;Sonne Financeの競争優位性と懸念事項を考察する&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Wed, 29 Mar 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8rhf29g02gxvguowixretvg1lyod/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>NFT（Non-Fungible-Token）の動向 23年3月</title>
 			<link>https://hashhub-research.com/articles/2023-03-28-nft-market</link>
 			<guid isPermaLink="false">2023-03-28-nft-market</guid>
@@ -187,14 +195,6 @@
 			<description>要約&lt;br /&gt;前提&lt;br /&gt;ファンダメンタルズ分析&lt;br /&gt;指標の説明&lt;br /&gt;各指標のまとめ&lt;br /&gt;各指標をグラフ化して分析 &lt;br /&gt;P/F ratio (fully diluted)&lt;br /&gt;P/F ratio (circulating)&lt;br /&gt;P/S ratio (fully diluted)&lt;br /&gt;P/S ratio (circulating)&lt;br /&gt;Return on TVL&lt;br /&gt;まとめ&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Sun, 26 Feb 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/bf6qqkaeaw63dwm0b3cfkswa5nft/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>JitoSOL ステーキング報酬にMEVを付加するリキッドステーキングとスパムトランザクションを軽減するクライアントの概要</title>
-			<link>https://hashhub-research.com/articles/2023-02-24-overview-jitosol-and-jitoclient</link>
-			<guid isPermaLink="false">2023-02-24-overview-jitosol-and-jitoclient</guid>
-			<description>前提&lt;br /&gt;JitoSOLの概要&lt;br /&gt;バリデーターとステーカー（エンドユーザー）はどれくらいの利益を享受できるのか&lt;br /&gt;Jito-Solanaクライアントによるネットワークへの負荷改善&lt;br /&gt;MEVがステーキング報酬に組み込まれる仕組み&lt;br /&gt;展望に対する考察と懸念事項&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 24 Feb 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/rekhwd42c351wf3kltorbftbxke8/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
