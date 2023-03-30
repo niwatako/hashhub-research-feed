@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ReFi完全解説：カーボンクレジット市場とブロックチェーン（前編）</title>
+			<link>https://hashhub-research.com/articles/2023-03-30-about-refi-1</link>
+			<guid isPermaLink="false">2023-03-30-about-refi-1</guid>
+			<description>ReFi（リファイ）とは&lt;br /&gt;カーボンオフセット・カーボンクレジットの概要と課題&lt;br /&gt;Web3での取り組み: ダブルカウント対策&lt;br /&gt;前編 まとめ&lt;br /&gt;</description>
+			<pubDate>Thu, 30 Mar 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/e781nt2jnlaq1plg0yv2cy092o0v/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Sonne Finance｜レンディングプロトコルとしてOptimismで勢いのある理由とトークンエコノミクスの特徴</title>
 			<link>https://hashhub-research.com/articles/2023-03-29-sonne-finance-overview</link>
 			<guid isPermaLink="false">2023-03-29-sonne-finance-overview</guid>
@@ -187,14 +195,6 @@
 			<description>HashHub Podcastの構成&lt;br /&gt;</description>
 			<pubDate>Mon, 27 Feb 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/dz2nypcjmmbadiab5oiuba41lgir/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>分散型デリバティブ取引所のファンダメンタルズ分析  Token Terminalを活用して分析</title>
-			<link>https://hashhub-research.com/articles/2023-02-26-token-terminal-fundamental-analysis</link>
-			<guid isPermaLink="false">2023-02-26-token-terminal-fundamental-analysis</guid>
-			<description>要約&lt;br /&gt;前提&lt;br /&gt;ファンダメンタルズ分析&lt;br /&gt;指標の説明&lt;br /&gt;各指標のまとめ&lt;br /&gt;各指標をグラフ化して分析 &lt;br /&gt;P/F ratio (fully diluted)&lt;br /&gt;P/F ratio (circulating)&lt;br /&gt;P/S ratio (fully diluted)&lt;br /&gt;P/S ratio (circulating)&lt;br /&gt;Return on TVL&lt;br /&gt;まとめ&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Sun, 26 Feb 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/bf6qqkaeaw63dwm0b3cfkswa5nft/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
