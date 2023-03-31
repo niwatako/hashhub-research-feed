@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>【HashHub Podcast】#10 Bankless Academy/技術的期待と過大評価/NFC×NFT【書き起こし】</title>
+			<link>https://hashhub-research.com/articles/2023-03-31-hashhub-podcast-bankless-academy-technical-expectaion-and-over-estimation-nfc-nft</link>
+			<guid isPermaLink="false">2023-03-31-hashhub-podcast-bankless-academy-technical-expectaion-and-over-estimation-nfc-nft</guid>
+			<description>音声コンテンツ本編の書き起こし&lt;br /&gt;</description>
+			<pubDate>Fri, 31 Mar 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/fuuyraqgutx9v6w5kuhr44ihkkhd/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ReFi完全解説：カーボンクレジット市場とブロックチェーン（前編）</title>
 			<link>https://hashhub-research.com/articles/2023-03-30-about-refi-1</link>
 			<guid isPermaLink="false">2023-03-30-about-refi-1</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;NFT販売の傾向&lt;br /&gt;Ordinals BTCのNFT&lt;br /&gt;OpenSea vs Blur&lt;br /&gt;国内動向&lt;br /&gt;さいごに&lt;br /&gt;</description>
 			<pubDate>Mon, 27 Feb 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/lfze4jfrn61mwj1qjc1kcvpmmrb3/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>2023/02 week2 HashHub Podcast レポートダイジェストの公開</title>
-			<link>https://hashhub-research.com/articles/2023-02-27-hashhub-podcast-2023-02-week2</link>
-			<guid isPermaLink="false">2023-02-27-hashhub-podcast-2023-02-week2</guid>
-			<description>HashHub Podcastの構成&lt;br /&gt;</description>
-			<pubDate>Mon, 27 Feb 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/dz2nypcjmmbadiab5oiuba41lgir/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
