@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>RWA（Real World Assets）担保型ステーブルコインの事例</title>
+			<link>https://hashhub-research.com/articles/2023-04-04-real-world-assets</link>
+			<guid isPermaLink="false">2023-04-04-real-world-assets</guid>
+			<description>免責事項&lt;br /&gt;要約&lt;br /&gt;RWA（Real World Assets）担保型ステーブルコインとは&lt;br /&gt;三つの事例 （不動産担保型、農作物担保型、住宅ローン債権担保型）&lt;br /&gt;考察&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Tue, 04 Apr 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/d6if03w4nsc7qk8ls7s8crk754w9/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ReFi完全解説：カーボンクレジット市場とブロックチェーン（後編）</title>
 			<link>https://hashhub-research.com/articles/2023-04-03-about-refi-2</link>
 			<guid isPermaLink="false">2023-04-03-about-refi-2</guid>
@@ -187,14 +195,6 @@
 			<description>「デジタル資産」は既存の物理的な「資産」と同じ枠組みで捉えられるようなものだろうか？&lt;br /&gt;法的、社会的、技術的課題の整理&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 02 Mar 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/dfyomnxmwcv8frj5ttpc0a07puur/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>2023/02 week3 HashHub Podcast レポートダイジェストの公開</title>
-			<link>https://hashhub-research.com/articles/2023-03-02-hashhub-podcast-2023-02-week3</link>
-			<guid isPermaLink="false">2023-03-02-hashhub-podcast-2023-02-week3</guid>
-			<description>HashHub Podcastの構成&lt;br /&gt;</description>
-			<pubDate>Thu, 02 Mar 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/qlhbfkh0gepnac2mh16v2o3nb597/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
