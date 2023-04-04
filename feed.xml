@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Skip CosmosエコシステムにおけるMEVソリューション</title>
+			<link>https://hashhub-research.com/articles/2023-04-04-about-skip</link>
+			<guid isPermaLink="false">2023-04-04-about-skip</guid>
+			<description>前提&lt;br /&gt;Skip Select、Protoco-Rev on Osmosisの概要&lt;br /&gt;課題と懸念点&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Tue, 04 Apr 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/f3busw39va59cvdvzslgxlzvzkqu/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>RWA（Real World Assets）担保型ステーブルコインの事例</title>
 			<link>https://hashhub-research.com/articles/2023-04-04-real-world-assets</link>
 			<guid isPermaLink="false">2023-04-04-real-world-assets</guid>
@@ -187,14 +195,6 @@
 			<description>Summary&lt;br /&gt;TVL（Total Value Locked）&lt;br /&gt;ブロックチェーン別TVL&lt;br /&gt;DeFiプロトコル別のTVL&lt;br /&gt;DEXの出来高&lt;br /&gt;プロトコル収益額の比較&lt;br /&gt;ステーブルコインドミナンス&lt;br /&gt;Layer 2&lt;br /&gt;個別プロトコルのActivity&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Fri, 03 Mar 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ps8l8tbpuyk3q2nesra6e4f1gpxc/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Web3の片鱗（5）｜無料公開特集「デジタル遺産相続の今とこれから」</title>
-			<link>https://hashhub-research.com/articles/2023-03-2-piece-of-web3-5</link>
-			<guid isPermaLink="false">2023-03-2-piece-of-web3-5</guid>
-			<description>「デジタル資産」は既存の物理的な「資産」と同じ枠組みで捉えられるようなものだろうか？&lt;br /&gt;法的、社会的、技術的課題の整理&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 02 Mar 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/dfyomnxmwcv8frj5ttpc0a07puur/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
