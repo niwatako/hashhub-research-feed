@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>DeFiマーケットレポート【2023年3月】</title>
+			<link>https://hashhub-research.com/articles/2023-04-07-defi-market-2023-3</link>
+			<guid isPermaLink="false">2023-04-07-defi-market-2023-3</guid>
+			<description>Summary&lt;br /&gt;TVL（Total Value Locked）&lt;br /&gt;DeFiプロトコルのTVL&lt;br /&gt;DEXの出来高&lt;br /&gt;プロトコル収益額の比較&lt;br /&gt;ステーブルコインドミナンス&lt;br /&gt;Layer 2&lt;br /&gt;個別プロトコルのActivity：PancakeSwap V3のローンチ&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Fri, 07 Apr 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ydxz3na4tf83zd87eqrtmiwvgurw/9df3eb5329d15bbf90d173c004f93d91cfb92919ed8ffa1203174ed1a553fd7a" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>web3の思想背景</title>
 			<link>https://hashhub-research.com/articles/2023-04-06-web3-ideology</link>
 			<guid isPermaLink="false">2023-04-06-web3-ideology</guid>
@@ -187,14 +195,6 @@
 			<description>前提：企業が今後参入する独自チェーンとDID/SSIとウォレット&lt;br /&gt;Polkadot, Cosmos, Avalanche, Polygonのアップデート&lt;br /&gt;Appchainである必要はあるのか&lt;br /&gt;DID/ウォレット開発の流れ&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Mon, 06 Mar 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ydhqu9eea3yrd0j5mwnkjtk4p255/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>コインベースが独自L2チェーン「Base」を発表 その概要と設立背景、展望を解説！</title>
-			<link>https://hashhub-research.com/articles/2023-03-04-about-base</link>
-			<guid isPermaLink="false">2023-03-04-about-base</guid>
-			<description>前提&lt;br /&gt;Baseとは？&lt;br /&gt;Optimismとの関係は？&lt;br /&gt;狙いと展望は？&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Sat, 04 Mar 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/v7asdauq4peryx33yzaci878hjjw/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
