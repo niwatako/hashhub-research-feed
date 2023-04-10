@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>日本におけるステーブルコインの法整備と 具体的な事例、未来を考察！</title>
+			<link>https://hashhub-research.com/articles/2023-04-10-stablecoin-legislation-in-japan</link>
+			<guid isPermaLink="false">2023-04-10-stablecoin-legislation-in-japan</guid>
+			<description>前提&lt;br /&gt;ステーブルコインの法律が整備される&lt;br /&gt;国内におけるステーブルコインの動向&lt;br /&gt;展望&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Mon, 10 Apr 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/5laottakbn98cbyhc8hku9hkg0lz/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>DeFiマーケットレポート【2023年3月】</title>
 			<link>https://hashhub-research.com/articles/2023-04-07-defi-market-2023-3</link>
 			<guid isPermaLink="false">2023-04-07-defi-market-2023-3</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Web3関連のオンライン教育サービス群リスト&lt;br /&gt;1.知識、スキルの獲得を目的としたオンライン学習サービス&lt;br /&gt;2.オンライン学習で得た知識、スキルをWeb3クレデンシャルで証明しようとするサービス&lt;br /&gt;3.Quest to Earnの派生となるWeb3クレデンシャルを活用した教育ベースのマーケティング支援サービス&lt;br /&gt;</description>
 			<pubDate>Wed, 08 Mar 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/v0mkdt8ljtt7pnq8u31kszvh0an1/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>月間法人レポート【2023年3月号】</title>
-			<link>https://hashhub-research.com/articles/2023-03-06-monthly-industry-trend-reports</link>
-			<guid isPermaLink="false">2023-03-06-monthly-industry-trend-reports</guid>
-			<description>前提：企業が今後参入する独自チェーンとDID/SSIとウォレット&lt;br /&gt;Polkadot, Cosmos, Avalanche, Polygonのアップデート&lt;br /&gt;Appchainである必要はあるのか&lt;br /&gt;DID/ウォレット開発の流れ&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Mon, 06 Mar 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ydhqu9eea3yrd0j5mwnkjtk4p255/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
