@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>【HashHub Podcast】#11 CyberConnect/クリプト法人最新事情/NFTマーケット3月【書き起こし】</title>
+			<link>https://hashhub-research.com/articles/2023-04-12-hashhub-podcast-cyberconnect-crypto-trend-nft-market-3</link>
+			<guid isPermaLink="false">2023-04-12-hashhub-podcast-cyberconnect-crypto-trend-nft-market-3</guid>
+			<description>音声コンテンツ本編の書き起こし&lt;br /&gt;</description>
+			<pubDate>Wed, 12 Apr 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/h4wfsshu9xrvp8z8zl2uedljr9ti/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ReFiのイマ: カーボン市場の新たな指標創出を目指す「Nori」</title>
 			<link>https://hashhub-research.com/articles/2023-04-11-about-refi-3</link>
 			<guid isPermaLink="false">2023-04-11-about-refi-3</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;DeFiにおける戦争の歴史を振り返る&lt;br /&gt;今後どのようなWarsが起きる可能性があるか&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 09 Mar 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0wbok8fjg2nvwsi7azvber9iqsw5/9df3eb5329d15bbf90d173c004f93d91cfb92919ed8ffa1203174ed1a553fd7a" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>2023/02 week4 HashHub Podcast レポートダイジェストの公開</title>
-			<link>https://hashhub-research.com/articles/2023-03-09-hashhub-podcast-2023-02-week4</link>
-			<guid isPermaLink="false">2023-03-09-hashhub-podcast-2023-02-week4</guid>
-			<description></description>
-			<pubDate>Thu, 09 Mar 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0tasg6mhsz1g299bko9fisq1rbg8/9df3eb5329d15bbf90d173c004f93d91cfb92919ed8ffa1203174ed1a553fd7a" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
