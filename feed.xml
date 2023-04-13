@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ReFiのイマ: 空間データに特化した分散型オラクルを開発する「Astral」</title>
+			<link>https://hashhub-research.com/articles/2023-04-13-about-refi-4</link>
+			<guid isPermaLink="false">2023-04-13-about-refi-4</guid>
+			<description>はじめに&lt;br /&gt;根本的な位置情報記録メソッド&lt;br /&gt;検証可能な空間データレジストリ&lt;br /&gt;空間データ×Web3が可能にすること&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Thu, 13 Apr 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/wexkl1rt5oc028e3zqytf3ktz4bw/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>【HashHub Podcast】#11 CyberConnect/クリプト法人最新事情/NFTマーケット3月【書き起こし】</title>
 			<link>https://hashhub-research.com/articles/2023-04-12-hashhub-podcast-cyberconnect-crypto-trend-nft-market-3</link>
 			<guid isPermaLink="false">2023-04-12-hashhub-podcast-cyberconnect-crypto-trend-nft-market-3</guid>
@@ -187,14 +195,6 @@
 			<description>免責事項&lt;br /&gt;要約&lt;br /&gt;ステーブルコインの各種概要&lt;br /&gt;法定通貨担保型ステーブルコイン&lt;br /&gt;暗号資産担保型ステーブルコイン&lt;br /&gt;アルゴリズム型ステーブルコイン&lt;br /&gt;その他ステーブルコインの概要について &lt;br /&gt;筆者の考え&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Sat, 11 Mar 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/bh44im6psf9g7hgldqvzwckp6csn/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>DeFiにおける戦争の歴史を振り返る</title>
-			<link>https://hashhub-research.com/articles/2023-03-09-a-history-of-war-in-defi</link>
-			<guid isPermaLink="false">2023-03-09-a-history-of-war-in-defi</guid>
-			<description>前提&lt;br /&gt;DeFiにおける戦争の歴史を振り返る&lt;br /&gt;今後どのようなWarsが起きる可能性があるか&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 09 Mar 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0wbok8fjg2nvwsi7azvber9iqsw5/9df3eb5329d15bbf90d173c004f93d91cfb92919ed8ffa1203174ed1a553fd7a" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
