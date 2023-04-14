@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>リキッドステーキングに起きるナラティブの予兆</title>
+			<link>https://hashhub-research.com/articles/2023-04-14-liquid-staking-narrative</link>
+			<guid isPermaLink="false">2023-04-14-liquid-staking-narrative</guid>
+			<description>前提&lt;br /&gt;リキッドステーキングとは&lt;br /&gt;LSDプロジェクトの概要&lt;br /&gt;Ethereumアップグレード後のLSDの展望&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Fri, 14 Apr 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/grr9bw7wchy5tvikww75pupia9x8/9df3eb5329d15bbf90d173c004f93d91cfb92919ed8ffa1203174ed1a553fd7a" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ReFiのイマ: 空間データに特化した分散型オラクルを開発する「Astral」</title>
 			<link>https://hashhub-research.com/articles/2023-04-13-about-refi-4</link>
 			<guid isPermaLink="false">2023-04-13-about-refi-4</guid>
@@ -187,14 +195,6 @@
 			<description>前提：Web2.5とWeb3.0で役割が異なるDID/SSI&lt;br /&gt;アプローチと目的の比較&lt;br /&gt;Web2.5的なDID/SSIプラットフォームのアプローチ&lt;br /&gt;Web3.0的なDID/SSIプラットフォームのアプローチ&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Sun, 12 Mar 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1ews31g1pxd2mqgp3dp9v0f12syn/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ステーブルコインの各種概要について</title>
-			<link>https://hashhub-research.com/articles/2023-03-11-various-stablecoin-overviews</link>
-			<guid isPermaLink="false">2023-03-11-various-stablecoin-overviews</guid>
-			<description>免責事項&lt;br /&gt;要約&lt;br /&gt;ステーブルコインの各種概要&lt;br /&gt;法定通貨担保型ステーブルコイン&lt;br /&gt;暗号資産担保型ステーブルコイン&lt;br /&gt;アルゴリズム型ステーブルコイン&lt;br /&gt;その他ステーブルコインの概要について &lt;br /&gt;筆者の考え&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Sat, 11 Mar 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/bh44im6psf9g7hgldqvzwckp6csn/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
