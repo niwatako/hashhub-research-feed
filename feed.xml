@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>RWA（Real World Assets）関連プロトコル|ステーブルコイン運用に関連するRWAプロトコル</title>
+			<link>https://hashhub-research.com/articles/2023-04-18-real-world-assets-2</link>
+			<guid isPermaLink="false">2023-04-18-real-world-assets-2</guid>
+			<description>免責事項&lt;br /&gt;要約&lt;br /&gt;RWA（Real World Assets）担保型ステーブルコイン事例&lt;br /&gt;ステーブルコイン運用が可能なRWA（Real World Assets）プロトコル&lt;br /&gt;考察&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Tue, 18 Apr 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/4msrz6565dvnqc4qgnhbizt5iyvp/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ReFiのイマ: 個人ユーザー向けプロダクトの現状と課題</title>
 			<link>https://hashhub-research.com/articles/2023-04-17-about-refi-5</link>
 			<guid isPermaLink="false">2023-04-17-about-refi-5</guid>
@@ -187,14 +195,6 @@
 			<description></description>
 			<pubDate>Tue, 14 Mar 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/d9vr6ywtsdohzsr0v7iawgface72/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>欧州での共通データクラウド構想「Gaia-X」構想の現状と可能性</title>
-			<link>https://hashhub-research.com/articles/2023-03-13-about-caia-x</link>
-			<guid isPermaLink="false">2023-03-13-about-caia-x</guid>
-			<description>前提&lt;br /&gt;Gaia-Xとは？&lt;br /&gt;生まれた歪みと課題&lt;br /&gt;狙いと展望は？&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Mon, 13 Mar 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/pky67l69ru1yx0trk1m6rw4ouw00/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
