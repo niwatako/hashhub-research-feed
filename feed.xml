@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>月刊エアドロップガイド：活動すべきプロトコルの選び方</title>
+			<link>https://hashhub-research.com/articles/2023-04-19-monthly-airdrop-guide</link>
+			<guid isPermaLink="false">2023-04-19-monthly-airdrop-guide</guid>
+			<description>前提：エアドロップの現状&lt;br /&gt;エアドロに対する考え方&lt;br /&gt;L2での立ち回り方&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Wed, 19 Apr 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/3kb52du9258rhqk9si2b7a8maoh2/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>RWA（Real World Assets）関連プロトコル|ステーブルコイン運用に関連するRWAプロトコル</title>
 			<link>https://hashhub-research.com/articles/2023-04-18-real-world-assets-2</link>
 			<guid isPermaLink="false">2023-04-18-real-world-assets-2</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Bankless Academyの概要&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 16 Mar 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/f5f8bxl8gwphmb2k71cvurrabydr/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>【HashHub Podcast】#8 デジタル遺産相続/DeFiマーケット動向/CoinbaseのL2【AI要約テキストあり】</title>
-			<link>https://hashhub-research.com/articles/2023-03-14-hashhub-podcast-2023-03-week1</link>
-			<guid isPermaLink="false">2023-03-14-hashhub-podcast-2023-03-week1</guid>
-			<description></description>
-			<pubDate>Tue, 14 Mar 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/d9vr6ywtsdohzsr0v7iawgface72/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
