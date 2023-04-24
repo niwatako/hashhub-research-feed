@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ReFiのイマ: Open Forest Protocolと環境資産データの検証システム</title>
+			<link>https://hashhub-research.com/articles/2023-04-24-about-refi-6</link>
+			<guid isPermaLink="false">2023-04-24-about-refi-6</guid>
+			<description>はじめに&lt;br /&gt;Open Forest Protocolの概要&lt;br /&gt;データ検証システムと$OPN&lt;br /&gt;開発状況と課題&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Mon, 24 Apr 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/xsck52fysc0c44lx6w0f1f0qwqfc/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>【対談書き起こし】#12 Sonne Finance/ReFi完全解説/RWA型ステーブルコイン</title>
 			<link>https://hashhub-research.com/articles/2023-04-21-hashhub-podcast-sonnefinance-refi-rwa-stablecoin</link>
 			<guid isPermaLink="false">2023-04-21-hashhub-podcast-sonnefinance-refi-rwa-stablecoin</guid>
@@ -187,14 +195,6 @@
 			<description>前提｜新たな潮流、増加しつつあるBNB chain*Cyber ConnectベースのWeb3クレデンシャル&lt;br /&gt;Cyber Connectの概要&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 23 Mar 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/xzyyywbdjm3aoxxah6j7z5um24yh/9df3eb5329d15bbf90d173c004f93d91cfb92919ed8ffa1203174ed1a553fd7a" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>NFC×NFTの事例分析とその可能性を考察</title>
-			<link>https://hashhub-research.com/articles/2023-03-20-nfc-and-nft-case-study-analysis</link>
-			<guid isPermaLink="false">2023-03-20-nfc-and-nft-case-study-analysis</guid>
-			<description>前提&lt;br /&gt;NFTブームの終焉と求められるユースケース&lt;br /&gt;NFCタグ×NFTの事例紹介&lt;br /&gt;ユースケースと展望の考察&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Mon, 20 Mar 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/yraz3u6h88owmiyxpwrf0vg8ylt8/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
