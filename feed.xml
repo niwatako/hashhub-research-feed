@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>世界から注目を集めるzkRollupソリューション 「INTMAX」の概要を解説</title>
+			<link>https://hashhub-research.com/articles/2023-04-26-about-intmax</link>
+			<guid isPermaLink="false">2023-04-26-about-intmax</guid>
+			<description>前提&lt;br /&gt;前提知識：zkRollupとは？&lt;br /&gt;INTMAX とは？&lt;br /&gt;INTMAXの技術的概要&lt;br /&gt;ロードマップと展望&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Wed, 26 Apr 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/5ntj6wzbxvqc8x1aq5efakvs8qr6/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>NFT（Non-Fungible-Token）の動向 23年4月</title>
 			<link>https://hashhub-research.com/articles/2023-04-25-nft-market</link>
 			<guid isPermaLink="false">2023-04-25-nft-market</guid>
@@ -187,14 +195,6 @@
 			<description>前提：国内のNFT, DAO, GameFi, DID/SSIの最新事情&lt;br /&gt;NFT&lt;br /&gt;DAO&lt;br /&gt;BCG（BlockChain Game）・GameFi&lt;br /&gt;DID/SSI、ウォレット、オンチェーン分析など&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Mon, 27 Mar 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/o4yowvjdfy9gsvm444r9vc5m31ce/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>【HashHub Podcast】#9 DeFi戦争の歴史/ステーブルコイン各種概要/目的が異なるWeb2.5と3.0のDID・SSI【書き起こし】</title>
-			<link>https://hashhub-research.com/articles/2023-3-24-hashhub-podcast-history-of-defiwars-stablecoins-did-ssi-web2-web3</link>
-			<guid isPermaLink="false">2023-3-24-hashhub-podcast-history-of-defiwars-stablecoins-did-ssi-web2-web3</guid>
-			<description>音声コンテンツ本編の書き起こし&lt;br /&gt;</description>
-			<pubDate>Fri, 24 Mar 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/qg247k23x2myj83m6k1kxx81znlt/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
