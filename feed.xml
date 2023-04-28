@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>【対談書き起こし】#13 Skip:CosmosのMEV/web3の思想背景/DeFiマーケット3月</title>
+			<link>https://hashhub-research.com/articles/2023-04-28-hashhub-podcast-skip-web3-ideology-defi-market-2023-3</link>
+			<guid isPermaLink="false">2023-04-28-hashhub-podcast-skip-web3-ideology-defi-market-2023-3</guid>
+			<description>対談コンテンツの書き起こし&lt;br /&gt;</description>
+			<pubDate>Fri, 28 Apr 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ynfuxleat9e233lwhnh0uoj2uce2/9df3eb5329d15bbf90d173c004f93d91cfb92919ed8ffa1203174ed1a553fd7a" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>世界から注目を集めるzkRollupソリューション 「INTMAX」の概要を解説</title>
 			<link>https://hashhub-research.com/articles/2023-04-26-about-intmax</link>
 			<guid isPermaLink="false">2023-04-26-about-intmax</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;NFT販売の傾向&lt;br /&gt;ブルーチップNFTコレクション価格の続落傾向&lt;br /&gt;TwelveFoldから始まるBTC NFTの再ブーム&lt;br /&gt;国内動向&lt;br /&gt;さいごに&lt;br /&gt;</description>
 			<pubDate>Tue, 28 Mar 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/mmjq7qzg51btdhb75b4wi09tu4wr/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>国内のNFT, DAO, GameFi, DID/SSIの最新事情</title>
-			<link>https://hashhub-research.com/articles/2023-03-27-the-latest-on-nft-dao-gamefi-did-in-japan</link>
-			<guid isPermaLink="false">2023-03-27-the-latest-on-nft-dao-gamefi-did-in-japan</guid>
-			<description>前提：国内のNFT, DAO, GameFi, DID/SSIの最新事情&lt;br /&gt;NFT&lt;br /&gt;DAO&lt;br /&gt;BCG（BlockChain Game）・GameFi&lt;br /&gt;DID/SSI、ウォレット、オンチェーン分析など&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Mon, 27 Mar 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/o4yowvjdfy9gsvm444r9vc5m31ce/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
