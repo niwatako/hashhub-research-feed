@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>【2023年GW選書】HashHubリサーチチームがこのGWに読んでいる、またはオススメの書籍</title>
+			<link>https://hashhub-research.com/articles/2023-04-29-members-select-recommendations</link>
+			<guid isPermaLink="false">2023-04-29-members-select-recommendations</guid>
+			<description>はじめに&lt;br /&gt;2023年HashHubメンバーがおすすめする書籍、コンテンツ&lt;br /&gt;投資で一番大切な20の教え 賢い投資家になるための隠れた常識&lt;br /&gt;MEGATHREATS（メガスレット）世界経済を破滅させる10の巨大な脅威&lt;br /&gt;「シンプルで合理的な人生設計」出版：ダイヤモンド社 著：橘玲&lt;br /&gt;「解像度を上げる――曖昧な思考を明晰にする「深さ・広さ・構造・時間」の４視点と行動法」&lt;br /&gt;運動しても痩せないのはなぜか：代謝の最新科学が示す「それでも運動すべき理由」&lt;br /&gt;格差の起源 なぜ人類は繁栄し、不平等が生まれたの&lt;br /&gt;</description>
+			<pubDate>Sat, 29 Apr 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2hduqvt9qn0kgi08sg6fbjc994ze/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>【対談書き起こし】#13 Skip:CosmosのMEV/web3の思想背景/DeFiマーケット3月</title>
 			<link>https://hashhub-research.com/articles/2023-04-28-hashhub-podcast-skip-web3-ideology-defi-market-2023-3</link>
 			<guid isPermaLink="false">2023-04-28-hashhub-podcast-skip-web3-ideology-defi-market-2023-3</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Sonne Financeの概要&lt;br /&gt;流動性生成イベント（Liquidity Generation Event[LGE]）&lt;br /&gt;Velodromeを利用した流動性獲得維持モデル&lt;br /&gt;Sonne Financeの競争優位性と懸念事項を考察する&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Wed, 29 Mar 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8rhf29g02gxvguowixretvg1lyod/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>NFT（Non-Fungible-Token）の動向 23年3月</title>
-			<link>https://hashhub-research.com/articles/2023-03-28-nft-market</link>
-			<guid isPermaLink="false">2023-03-28-nft-market</guid>
-			<description>前提&lt;br /&gt;NFT販売の傾向&lt;br /&gt;ブルーチップNFTコレクション価格の続落傾向&lt;br /&gt;TwelveFoldから始まるBTC NFTの再ブーム&lt;br /&gt;国内動向&lt;br /&gt;さいごに&lt;br /&gt;</description>
-			<pubDate>Tue, 28 Mar 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/mmjq7qzg51btdhb75b4wi09tu4wr/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
