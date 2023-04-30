@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>GW2023：注目のクリプトレポートガイド</title>
+			<link>https://hashhub-research.com/articles/2023-04-30-guide-to-blockchain-technology-on-gw</link>
+			<guid isPermaLink="false">2023-04-30-guide-to-blockchain-technology-on-gw</guid>
+			<description></description>
+			<pubDate>Sun, 30 Apr 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/93o6i29264h5tv5qv555gxz8wqjw/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>【2023年GW選書】HashHubリサーチチームがこのGWに読んでいる、またはオススメの書籍</title>
 			<link>https://hashhub-research.com/articles/2023-04-29-members-select-recommendations</link>
 			<guid isPermaLink="false">2023-04-29-members-select-recommendations</guid>
@@ -187,14 +195,6 @@
 			<description>ReFi（リファイ）とは&lt;br /&gt;カーボンオフセット・カーボンクレジットの概要と課題&lt;br /&gt;Web3での取り組み: ダブルカウント対策&lt;br /&gt;前編 まとめ&lt;br /&gt;</description>
 			<pubDate>Thu, 30 Mar 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/e781nt2jnlaq1plg0yv2cy092o0v/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Sonne Finance｜レンディングプロトコルとしてOptimismで勢いのある理由とトークンエコノミクスの特徴</title>
-			<link>https://hashhub-research.com/articles/2023-03-29-sonne-finance-overview</link>
-			<guid isPermaLink="false">2023-03-29-sonne-finance-overview</guid>
-			<description>前提&lt;br /&gt;Sonne Financeの概要&lt;br /&gt;流動性生成イベント（Liquidity Generation Event[LGE]）&lt;br /&gt;Velodromeを利用した流動性獲得維持モデル&lt;br /&gt;Sonne Financeの競争優位性と懸念事項を考察する&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Wed, 29 Mar 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8rhf29g02gxvguowixretvg1lyod/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
