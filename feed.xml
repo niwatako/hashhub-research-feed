@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>図でわかるMEV入門</title>
+			<link>https://hashhub-research.com/articles/2023-05-04-introduction-mev-for-beginner</link>
+			<guid isPermaLink="false">2023-05-04-introduction-mev-for-beginner</guid>
+			<description>前提&lt;br /&gt;MEVとは（入門者向け）&lt;br /&gt;MEVは良いのか、悪いのか&lt;br /&gt;MEV-Boostを理解しよう&lt;br /&gt;MEVをユーザーに還元する動きとMEVを活用したビジネスの可能性&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Thu, 04 May 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2x2nl8fkhn78gqe4zfg0dm36egyj/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>IPOR（Inter Protocol Over-block Rate） 金利指標と金利スワップを提供するプロトコル</title>
 			<link>https://hashhub-research.com/articles/2023-05-03-about-ipor</link>
 			<guid isPermaLink="false">2023-05-03-about-ipor</guid>
@@ -187,14 +195,6 @@
 			<description></description>
 			<pubDate>Mon, 03 Apr 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/akdevoawbe0aflk5qa74kfgmqrd7/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>【HashHub Podcast】#10 Bankless Academy/技術的期待と過大評価/NFC×NFT【書き起こし】</title>
-			<link>https://hashhub-research.com/articles/2023-03-31-hashhub-podcast-bankless-academy-technical-expectaion-and-over-estimation-nfc-nft</link>
-			<guid isPermaLink="false">2023-03-31-hashhub-podcast-bankless-academy-technical-expectaion-and-over-estimation-nfc-nft</guid>
-			<description>音声コンテンツ本編の書き起こし&lt;br /&gt;</description>
-			<pubDate>Fri, 31 Mar 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0v3udplrwbs8s7z83o8zyeoui3zd/9df3eb5329d15bbf90d173c004f93d91cfb92919ed8ffa1203174ed1a553fd7a" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
