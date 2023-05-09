@@ -13,6 +13,14 @@
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/hlm4gmu2g4tmacip1gur5reu0v83/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
 		</item>
 		<item>
+			<title>中立性と透明性向上を目的とした保有暗号資産の財務情報の開示</title>
+			<link>https://hashhub-research.com/articles/portfolio-disclosure</link>
+			<guid isPermaLink="false">portfolio-disclosure</guid>
+			<description></description>
+			<pubDate>Tue, 09 May 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/akdevoawbe0aflk5qa74kfgmqrd7/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>図でわかるMEV入門</title>
 			<link>https://hashhub-research.com/articles/2023-05-04-introduction-mev-for-beginner</link>
 			<guid isPermaLink="false">2023-05-04-introduction-mev-for-beginner</guid>
@@ -187,14 +195,6 @@
 			<description>免責事項&lt;br /&gt;要約&lt;br /&gt;RWA（Real World Assets）担保型ステーブルコインとは&lt;br /&gt;三つの事例 （不動産担保型、農作物担保型、住宅ローン債権担保型）&lt;br /&gt;考察&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Tue, 04 Apr 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/d6if03w4nsc7qk8ls7s8crk754w9/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ReFi完全解説：カーボンクレジット市場とブロックチェーン（後編）</title>
-			<link>https://hashhub-research.com/articles/2023-04-03-about-refi-2</link>
-			<guid isPermaLink="false">2023-04-03-about-refi-2</guid>
-			<description>Web3での取り組み: プール化で流動性創出・価格形成促進&lt;br /&gt;Web3での取り組み: 環境資産の監視と信用担保&lt;br /&gt;ReFiの先にある可能性&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Mon, 03 Apr 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/guy31nfnth7czf4rs44szrk75jn0/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
