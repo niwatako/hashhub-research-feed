@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>web3クレデンシャルを知る#9｜Cyber Connectベースのアプリケーション群とCYBERトークン概要</title>
+			<link>https://hashhub-research.com/articles/2023-05-10-learn-about-web3-credential-9</link>
+			<guid isPermaLink="false">2023-05-10-learn-about-web3-credential-9</guid>
+			<description>前提&lt;br /&gt;1.CyberConnectトークン（$CYBER） の概要&lt;br /&gt;2.Cyber Connectベースのアプリケーション群&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Wed, 10 May 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/hrx4kig4rysv54talpwj46419ujz/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>【対談書き起こし】#14 ステーブルコイン法制/Nori:ReFi取引/Astral:空間オラクル</title>
 			<link>https://hashhub-research.com/articles/2023-05-9-hashhub-podcast-stablecoin-regulation-in-japan-nori-astral</link>
 			<guid isPermaLink="false">2023-05-9-hashhub-podcast-stablecoin-regulation-in-japan-nori-astral</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Skip Select、Protoco-Rev on Osmosisの概要&lt;br /&gt;課題と懸念点&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Tue, 04 Apr 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/f3busw39va59cvdvzslgxlzvzkqu/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>RWA（Real World Assets）担保型ステーブルコインの事例</title>
-			<link>https://hashhub-research.com/articles/2023-04-04-real-world-assets</link>
-			<guid isPermaLink="false">2023-04-04-real-world-assets</guid>
-			<description>免責事項&lt;br /&gt;要約&lt;br /&gt;RWA（Real World Assets）担保型ステーブルコインとは&lt;br /&gt;三つの事例 （不動産担保型、農作物担保型、住宅ローン債権担保型）&lt;br /&gt;考察&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Tue, 04 Apr 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/d6if03w4nsc7qk8ls7s8crk754w9/968de146d6055c6f1797201a92e562ed02202b4d9615ff2e320f59f21f0caa7f" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
