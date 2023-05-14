@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>co-creationの探索 #1.｜RTFKTのPre-Forge NFTsにみる物理製品の供給メカニズム</title>
+			<link>https://hashhub-research.com/articles/2023-05-14-exploring-co-creation-1</link>
+			<guid isPermaLink="false">2023-05-14-exploring-co-creation-1</guid>
+			<description>前提&lt;br /&gt;#1. RTFKTのPre-Forge NFTsにみる物理製品の供給メカニズム~製品の供給量はいつ誰かどのようにして決めるのか~&lt;br /&gt;あとがき&lt;br /&gt;</description>
+			<pubDate>Sun, 14 May 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/v837gb519kby5uhdmj937b9vr4n9/91cd54552ec2cbcce7f5ca3555a056cc2f141759c6ee4dd92bdf019d7a371c65" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>web3クレデンシャルを知る#9｜Cyber Connectベースのアプリケーション群とCYBERトークン概要</title>
 			<link>https://hashhub-research.com/articles/2023-05-10-learn-about-web3-credential-9</link>
 			<guid isPermaLink="false">2023-05-10-learn-about-web3-credential-9</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;思想とテクノロジーが結びつき、社会的変革の原動力に&lt;br /&gt;web3へと繋がる思想背景&lt;br /&gt;web3における新しい思想の潮流&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 06 Apr 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/09covywubclob80h3h6vt0etct67/91cd54552ec2cbcce7f5ca3555a056cc2f141759c6ee4dd92bdf019d7a371c65" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Skip CosmosエコシステムにおけるMEVソリューション</title>
-			<link>https://hashhub-research.com/articles/2023-04-04-about-skip</link>
-			<guid isPermaLink="false">2023-04-04-about-skip</guid>
-			<description>前提&lt;br /&gt;Skip Select、Protoco-Rev on Osmosisの概要&lt;br /&gt;課題と懸念点&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Tue, 04 Apr 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/f3busw39va59cvdvzslgxlzvzkqu/91cd54552ec2cbcce7f5ca3555a056cc2f141759c6ee4dd92bdf019d7a371c65" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
