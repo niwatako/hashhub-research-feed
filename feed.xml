@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>プライバシーに特化するステーブルコインBOB</title>
+			<link>https://hashhub-research.com/articles/2023-05-15-about-bob</link>
+			<guid isPermaLink="false">2023-05-15-about-bob</guid>
+			<description>免責事項&lt;br /&gt;要約&lt;br /&gt;概要と送金手順について&lt;br /&gt;ユースケースとコンプライアンス対応などについて&lt;br /&gt;問題点と私見&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Mon, 15 May 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/oqzga0cvt1zj9464ohvzsumqrc0m/91cd54552ec2cbcce7f5ca3555a056cc2f141759c6ee4dd92bdf019d7a371c65" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>co-creationの探索 #1.｜RTFKTのPre-Forge NFTsにみる物理製品の供給メカニズム</title>
 			<link>https://hashhub-research.com/articles/2023-05-14-exploring-co-creation-1</link>
 			<guid isPermaLink="false">2023-05-14-exploring-co-creation-1</guid>
@@ -187,14 +195,6 @@
 			<description>Summary&lt;br /&gt;TVL（Total Value Locked）&lt;br /&gt;DeFiプロトコルのTVL&lt;br /&gt;DEXの出来高&lt;br /&gt;プロトコル収益額の比較&lt;br /&gt;ステーブルコインドミナンス&lt;br /&gt;Layer 2&lt;br /&gt;個別プロトコルのActivity：PancakeSwap V3のローンチ&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Fri, 07 Apr 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ydxz3na4tf83zd87eqrtmiwvgurw/512a83d3ca88cf4490146392f501aee3c275ca0405ba6d9738090160ae4e57d8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>web3の思想背景</title>
-			<link>https://hashhub-research.com/articles/2023-04-06-web3-ideology</link>
-			<guid isPermaLink="false">2023-04-06-web3-ideology</guid>
-			<description>前提&lt;br /&gt;思想とテクノロジーが結びつき、社会的変革の原動力に&lt;br /&gt;web3へと繋がる思想背景&lt;br /&gt;web3における新しい思想の潮流&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 06 Apr 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/09covywubclob80h3h6vt0etct67/91cd54552ec2cbcce7f5ca3555a056cc2f141759c6ee4dd92bdf019d7a371c65" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
