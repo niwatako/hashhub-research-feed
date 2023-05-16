@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>【Nike、adidas、PUMA】BIG3の事例から考察する、Web3ファッションの現在地と今後</title>
+			<link>https://hashhub-research.com/articles/2023-05-16-about-web3-fashion</link>
+			<guid isPermaLink="false">2023-05-16-about-web3-fashion</guid>
+			<description>前提&lt;br /&gt;</description>
+			<pubDate>Tue, 16 May 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/uevejl5x7qjrkycw8mh0wgn79dxg/91cd54552ec2cbcce7f5ca3555a056cc2f141759c6ee4dd92bdf019d7a371c65" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>プライバシーに特化するステーブルコインBOB</title>
 			<link>https://hashhub-research.com/articles/2023-05-15-about-bob</link>
 			<guid isPermaLink="false">2023-05-15-about-bob</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;ステーブルコインの法律が整備される&lt;br /&gt;国内におけるステーブルコインの動向&lt;br /&gt;展望&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Mon, 10 Apr 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/5laottakbn98cbyhc8hku9hkg0lz/91cd54552ec2cbcce7f5ca3555a056cc2f141759c6ee4dd92bdf019d7a371c65" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>DeFiマーケットレポート【2023年3月】</title>
-			<link>https://hashhub-research.com/articles/2023-04-07-defi-market-2023-3</link>
-			<guid isPermaLink="false">2023-04-07-defi-market-2023-3</guid>
-			<description>Summary&lt;br /&gt;TVL（Total Value Locked）&lt;br /&gt;DeFiプロトコルのTVL&lt;br /&gt;DEXの出来高&lt;br /&gt;プロトコル収益額の比較&lt;br /&gt;ステーブルコインドミナンス&lt;br /&gt;Layer 2&lt;br /&gt;個別プロトコルのActivity：PancakeSwap V3のローンチ&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 07 Apr 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ydxz3na4tf83zd87eqrtmiwvgurw/512a83d3ca88cf4490146392f501aee3c275ca0405ba6d9738090160ae4e57d8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
