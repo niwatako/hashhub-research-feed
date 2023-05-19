@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>コントラクト解析における必要な観点とその手法</title>
+			<link>https://hashhub-research.com/articles/2023-05-19-necessary-perspectives-and-methods-in-contract-analysis</link>
+			<guid isPermaLink="false">2023-05-19-necessary-perspectives-and-methods-in-contract-analysis</guid>
+			<description>前提（免責事項）&lt;br /&gt;コントラクト解析の手法１&lt;br /&gt;コントラクト解析の手法２：Tenderly&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Fri, 19 May 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/wyou0p24x2nafqw9s4pay7x56glf/512a83d3ca88cf4490146392f501aee3c275ca0405ba6d9738090160ae4e57d8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>【対談書き起こし】#15 LSDナラティヴ/ReFi:個人向け動向/RWA担保型プロトコル</title>
 			<link>https://hashhub-research.com/articles/2023-05-18-hashhub-podcast-lsd-refi-for-individuals-rwa-protocols</link>
 			<guid isPermaLink="false">2023-05-18-hashhub-podcast-lsd-refi-for-individuals-rwa-protocols</guid>
@@ -187,14 +195,6 @@
 			<description>はじめに&lt;br /&gt;根本的な位置情報記録メソッド&lt;br /&gt;検証可能な空間データレジストリ&lt;br /&gt;空間データ×Web3が可能にすること&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 13 Apr 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/wexkl1rt5oc028e3zqytf3ktz4bw/91cd54552ec2cbcce7f5ca3555a056cc2f141759c6ee4dd92bdf019d7a371c65" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>【HashHub Podcast】#11 CyberConnect/クリプト法人最新事情/NFTマーケット3月【書き起こし】</title>
-			<link>https://hashhub-research.com/articles/2023-04-12-hashhub-podcast-cyberconnect-crypto-trend-nft-market-3</link>
-			<guid isPermaLink="false">2023-04-12-hashhub-podcast-cyberconnect-crypto-trend-nft-market-3</guid>
-			<description>音声コンテンツ本編の書き起こし&lt;br /&gt;</description>
-			<pubDate>Wed, 12 Apr 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/h4wfsshu9xrvp8z8zl2uedljr9ti/91cd54552ec2cbcce7f5ca3555a056cc2f141759c6ee4dd92bdf019d7a371c65" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
