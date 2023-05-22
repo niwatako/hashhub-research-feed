@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Optimism Superchainの概要と展望</title>
+			<link>https://hashhub-research.com/articles/2023-05-22-about-optimism-superchain</link>
+			<guid isPermaLink="false">2023-05-22-about-optimism-superchain</guid>
+			<description>前提&lt;br /&gt;前提知識：Optimismとは&lt;br /&gt;Optimism Superchain とは？&lt;br /&gt;Optimism Superchainが選ばれる理由&lt;br /&gt;展望&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Mon, 22 May 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1fi7n5k2javfz9axsslkab2ndr2d/91cd54552ec2cbcce7f5ca3555a056cc2f141759c6ee4dd92bdf019d7a371c65" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>コントラクト解析における必要な観点とその手法</title>
 			<link>https://hashhub-research.com/articles/2023-05-19-necessary-perspectives-and-methods-in-contract-analysis</link>
 			<guid isPermaLink="false">2023-05-19-necessary-perspectives-and-methods-in-contract-analysis</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;リキッドステーキングとは&lt;br /&gt;LSDプロジェクトの概要&lt;br /&gt;Ethereumアップグレード後のLSDの展望&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Fri, 14 Apr 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/grr9bw7wchy5tvikww75pupia9x8/512a83d3ca88cf4490146392f501aee3c275ca0405ba6d9738090160ae4e57d8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ReFiのイマ: 空間データに特化した分散型オラクルを開発する「Astral」</title>
-			<link>https://hashhub-research.com/articles/2023-04-13-about-refi-4</link>
-			<guid isPermaLink="false">2023-04-13-about-refi-4</guid>
-			<description>はじめに&lt;br /&gt;根本的な位置情報記録メソッド&lt;br /&gt;検証可能な空間データレジストリ&lt;br /&gt;空間データ×Web3が可能にすること&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 13 Apr 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/wexkl1rt5oc028e3zqytf3ktz4bw/91cd54552ec2cbcce7f5ca3555a056cc2f141759c6ee4dd92bdf019d7a371c65" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
