@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ゼロ知識証明のユースケース</title>
+			<link>https://hashhub-research.com/articles/2023-05-23-zero-knowledge-proof-use-cases</link>
+			<guid isPermaLink="false">2023-05-23-zero-knowledge-proof-use-cases</guid>
+			<description>前提：ゼロ知識証明への注目&lt;br /&gt;ゼロ知識証明の３要素&lt;br /&gt;上記を活用した具体的なサービス例&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Tue, 23 May 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/rbfy7cq1hicjlsztbik2h1v3nwe8/91cd54552ec2cbcce7f5ca3555a056cc2f141759c6ee4dd92bdf019d7a371c65" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Optimism Superchainの概要と展望</title>
 			<link>https://hashhub-research.com/articles/2023-05-22-about-optimism-superchain</link>
 			<guid isPermaLink="false">2023-05-22-about-optimism-superchain</guid>
@@ -187,14 +195,6 @@
 			<description>はじめに&lt;br /&gt;個人向けReFiプロダクトの現状&lt;br /&gt;プロジェクトが意識すべきポイント&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Mon, 17 Apr 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/20sokxzvwyhamkbxdsw88jywb4qw/91cd54552ec2cbcce7f5ca3555a056cc2f141759c6ee4dd92bdf019d7a371c65" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>リキッドステーキングに起きるナラティブの予兆</title>
-			<link>https://hashhub-research.com/articles/2023-04-14-liquid-staking-narrative</link>
-			<guid isPermaLink="false">2023-04-14-liquid-staking-narrative</guid>
-			<description>前提&lt;br /&gt;リキッドステーキングとは&lt;br /&gt;LSDプロジェクトの概要&lt;br /&gt;Ethereumアップグレード後のLSDの展望&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 14 Apr 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/grr9bw7wchy5tvikww75pupia9x8/512a83d3ca88cf4490146392f501aee3c275ca0405ba6d9738090160ae4e57d8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
