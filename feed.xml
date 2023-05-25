@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>フィジタルNFTの事例分析と展望考察</title>
+			<link>https://hashhub-research.com/articles/2023-05-25-about-phygital-nft</link>
+			<guid isPermaLink="false">2023-05-25-about-phygital-nft</guid>
+			<description>前提&lt;br /&gt;フィジタル とは？&lt;br /&gt;フィジタル×NFTにおける10の事例を紹介&lt;br /&gt;展望&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Thu, 25 May 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/enujfhpqoy4ht6dlf0fdrckrg725/91cd54552ec2cbcce7f5ca3555a056cc2f141759c6ee4dd92bdf019d7a371c65" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ゼロ知識証明のユースケース</title>
 			<link>https://hashhub-research.com/articles/2023-05-23-zero-knowledge-proof-use-cases</link>
 			<guid isPermaLink="false">2023-05-23-zero-knowledge-proof-use-cases</guid>
@@ -187,14 +195,6 @@
 			<description>免責事項&lt;br /&gt;要約&lt;br /&gt;RWA（Real World Assets）担保型ステーブルコイン事例&lt;br /&gt;ステーブルコイン運用が可能なRWA（Real World Assets）プロトコル&lt;br /&gt;考察&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Tue, 18 Apr 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/4msrz6565dvnqc4qgnhbizt5iyvp/91cd54552ec2cbcce7f5ca3555a056cc2f141759c6ee4dd92bdf019d7a371c65" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ReFiのイマ: 個人ユーザー向けプロダクトの現状と課題</title>
-			<link>https://hashhub-research.com/articles/2023-04-17-about-refi-5</link>
-			<guid isPermaLink="false">2023-04-17-about-refi-5</guid>
-			<description>はじめに&lt;br /&gt;個人向けReFiプロダクトの現状&lt;br /&gt;プロジェクトが意識すべきポイント&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Mon, 17 Apr 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/20sokxzvwyhamkbxdsw88jywb4qw/91cd54552ec2cbcce7f5ca3555a056cc2f141759c6ee4dd92bdf019d7a371c65" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
