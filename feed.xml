@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>国内大手のWeb3動向</title>
+			<link>https://hashhub-research.com/articles/2023-05-29-about-web3-trends-in-japan</link>
+			<guid isPermaLink="false">2023-05-29-about-web3-trends-in-japan</guid>
+			<description>前提：国内大手企業のWeb3への参入&lt;br /&gt;国内大手企業参入状況をマッピング&lt;br /&gt;DID / SSI / SBT&lt;br /&gt;ステーブルコイン&lt;br /&gt;ST&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Mon, 29 May 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/rg4ipvfhhx6da0c44ed8xedm34wt/91cd54552ec2cbcce7f5ca3555a056cc2f141759c6ee4dd92bdf019d7a371c65" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>【対談書き起こし】#16 エアドロガイド/DeFi市場23Q1/ReFi:OFP検証プロトコル</title>
 			<link>https://hashhub-research.com/articles/2023-05-26-hashhub-podcast-airdrop-guide-defi-market-23q1-refi-ofp</link>
 			<guid isPermaLink="false">2023-05-26-hashhub-podcast-airdrop-guide-defi-market-23q1-refi-ofp</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;DeFiマーケットレポート 2023 Q1 &lt;br /&gt;2023 Q2に向けた展望&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 20 Apr 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8ca984olklzf6v2b1k9lik4b059b/91cd54552ec2cbcce7f5ca3555a056cc2f141759c6ee4dd92bdf019d7a371c65" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>月刊エアドロップガイド：活動すべきプロトコルの選び方</title>
-			<link>https://hashhub-research.com/articles/2023-04-19-monthly-airdrop-guide</link>
-			<guid isPermaLink="false">2023-04-19-monthly-airdrop-guide</guid>
-			<description>前提：エアドロップの現状&lt;br /&gt;エアドロに対する考え方&lt;br /&gt;L2での立ち回り方&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Wed, 19 Apr 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/3kb52du9258rhqk9si2b7a8maoh2/91cd54552ec2cbcce7f5ca3555a056cc2f141759c6ee4dd92bdf019d7a371c65" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
