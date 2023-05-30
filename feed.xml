@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>NFT（Non-Fungible-Token）の動向 23年5月</title>
+			<link>https://hashhub-research.com/articles/2023-05-30-nft-market</link>
+			<guid isPermaLink="false">2023-05-30-nft-market</guid>
+			<description>前提&lt;br /&gt;Ethereum NFT販売の傾向&lt;br /&gt;Bitcoin NFT&lt;br /&gt;ERC-6551を押さえておこう&lt;br /&gt;国内動向&lt;br /&gt;さいごに&lt;br /&gt;</description>
+			<pubDate>Tue, 30 May 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/5u08z1m5x80elk7jvmeab4jrr8j5/91cd54552ec2cbcce7f5ca3555a056cc2f141759c6ee4dd92bdf019d7a371c65" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>国内大手のWeb3動向</title>
 			<link>https://hashhub-research.com/articles/2023-05-29-about-web3-trends-in-japan</link>
 			<guid isPermaLink="false">2023-05-29-about-web3-trends-in-japan</guid>
@@ -187,14 +195,6 @@
 			<description>対談コンテンツの書き起こし&lt;br /&gt;</description>
 			<pubDate>Fri, 21 Apr 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/i29x9p0y52oej3t9ge6qg2hqbqx5/512a83d3ca88cf4490146392f501aee3c275ca0405ba6d9738090160ae4e57d8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>DeFiマーケットレポート【2023 Q1】</title>
-			<link>https://hashhub-research.com/articles/2023-04-20-defi-market-report-2023-q1</link>
-			<guid isPermaLink="false">2023-04-20-defi-market-report-2023-q1</guid>
-			<description>前提&lt;br /&gt;DeFiマーケットレポート 2023 Q1 &lt;br /&gt;2023 Q2に向けた展望&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 20 Apr 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8ca984olklzf6v2b1k9lik4b059b/91cd54552ec2cbcce7f5ca3555a056cc2f141759c6ee4dd92bdf019d7a371c65" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
