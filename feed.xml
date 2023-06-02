@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>【書き起こし】#17 NFT市場4月/intmax/IPOR金利スワップ</title>
+			<link>https://hashhub-research.com/articles/2023-06-02-hashhub-podcast-nft-market-04-intmax-ipor</link>
+			<guid isPermaLink="false">2023-06-02-hashhub-podcast-nft-market-04-intmax-ipor</guid>
+			<description>対談コンテンツの書き起こし&lt;br /&gt;マーケティングツールとしての活用が進むも厳しい市況のNFT&lt;br /&gt;プライバシー・ステートレス・セキュアなzk Rollupのレイヤー2&lt;br /&gt;DeFiにおける金利指標と金利スワップの創出で市場拡大をささえる&lt;br /&gt;</description>
+			<pubDate>Fri, 02 Jun 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1trfempp3l46oq137rjm2ctch5om/91cd54552ec2cbcce7f5ca3555a056cc2f141759c6ee4dd92bdf019d7a371c65" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Proto-Danksharding｜レイヤー2の更なる躍進へ繋がるアップグレードの影響と考察</title>
 			<link>https://hashhub-research.com/articles/2023-06-01-proto-danksharding-overview</link>
 			<guid isPermaLink="false">2023-06-01-proto-danksharding-overview</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Ethereum NFT販売の傾向&lt;br /&gt;PolygonのNFT活用&lt;br /&gt;Yuga Labsの企業コラボレーション&lt;br /&gt;国内動向&lt;br /&gt;さいごに&lt;br /&gt;</description>
 			<pubDate>Tue, 25 Apr 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ixv6a90ht7tlvbt3l4kjyv5kuu4t/91cd54552ec2cbcce7f5ca3555a056cc2f141759c6ee4dd92bdf019d7a371c65" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ReFiのイマ: Open Forest Protocolと環境資産データの検証システム</title>
-			<link>https://hashhub-research.com/articles/2023-04-24-about-refi-6</link>
-			<guid isPermaLink="false">2023-04-24-about-refi-6</guid>
-			<description>はじめに&lt;br /&gt;Open Forest Protocolの概要&lt;br /&gt;データ検証システムと$OPN&lt;br /&gt;開発状況と課題&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Mon, 24 Apr 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/xsck52fysc0c44lx6w0f1f0qwqfc/91cd54552ec2cbcce7f5ca3555a056cc2f141759c6ee4dd92bdf019d7a371c65" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
