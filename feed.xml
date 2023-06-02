@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>GMX系プロトコルを活用したステーブルコインgmUSD</title>
+			<link>https://hashhub-research.com/articles/2023-06-03-about-gmusd</link>
+			<guid isPermaLink="false">2023-06-03-about-gmusd</guid>
+			<description>要約&lt;br /&gt;gmUSDの概要&lt;br /&gt;特徴&lt;br /&gt;総論と私見&lt;br /&gt;</description>
+			<pubDate>Sat, 03 Jun 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/h9yzadt1yeyatwqnbx7fzbzhrfcg/91cd54552ec2cbcce7f5ca3555a056cc2f141759c6ee4dd92bdf019d7a371c65" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>【書き起こし】#17 NFT市場4月/intmax/IPOR金利スワップ</title>
 			<link>https://hashhub-research.com/articles/2023-06-02-hashhub-podcast-nft-market-04-intmax-ipor</link>
 			<guid isPermaLink="false">2023-06-02-hashhub-podcast-nft-market-04-intmax-ipor</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;前提知識：zkRollupとは？&lt;br /&gt;INTMAX とは？&lt;br /&gt;INTMAXの技術的概要&lt;br /&gt;ロードマップと展望&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Wed, 26 Apr 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/5ntj6wzbxvqc8x1aq5efakvs8qr6/91cd54552ec2cbcce7f5ca3555a056cc2f141759c6ee4dd92bdf019d7a371c65" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>NFT（Non-Fungible-Token）の動向 23年4月</title>
-			<link>https://hashhub-research.com/articles/2023-04-25-nft-market</link>
-			<guid isPermaLink="false">2023-04-25-nft-market</guid>
-			<description>前提&lt;br /&gt;Ethereum NFT販売の傾向&lt;br /&gt;PolygonのNFT活用&lt;br /&gt;Yuga Labsの企業コラボレーション&lt;br /&gt;国内動向&lt;br /&gt;さいごに&lt;br /&gt;</description>
-			<pubDate>Tue, 25 Apr 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ixv6a90ht7tlvbt3l4kjyv5kuu4t/91cd54552ec2cbcce7f5ca3555a056cc2f141759c6ee4dd92bdf019d7a371c65" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
