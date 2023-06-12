@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>主なウォレットの分類と国内外の動向</title>
+			<link>https://hashhub-research.com/articles/2023-06-12-major-wallet-classifications</link>
+			<guid isPermaLink="false">2023-06-12-major-wallet-classifications</guid>
+			<description>前提：多くの企業が開発を始めているウォレット&lt;br /&gt;ウォレットの分類&lt;br /&gt;国内外のウォレット&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Mon, 12 Jun 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/k31owln289jczdgqe523d6gw8w84/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>生物医学研究におけるIP-NFTの可能性について</title>
 			<link>https://hashhub-research.com/articles/2023-06-11-potential-of-ip-nft-in-biomedical-research</link>
 			<guid isPermaLink="false">2023-06-11-potential-of-ip-nft-in-biomedical-research</guid>
@@ -187,14 +195,6 @@
 			<description>免責事項&lt;br /&gt;要約&lt;br /&gt;IPORとは&lt;br /&gt;金利スワップ取引所&lt;br /&gt;流動性提供者について&lt;br /&gt;考察&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Wed, 03 May 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/wlh3ytodqgdwbyiylis985vokur4/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>GW2023：注目のクリプトレポートガイド</title>
-			<link>https://hashhub-research.com/articles/2023-04-30-guide-to-blockchain-technology-on-gw</link>
-			<guid isPermaLink="false">2023-04-30-guide-to-blockchain-technology-on-gw</guid>
-			<description></description>
-			<pubDate>Sun, 30 Apr 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/93o6i29264h5tv5qv555gxz8wqjw/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
