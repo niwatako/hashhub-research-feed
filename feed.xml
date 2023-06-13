@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>米国規制の最新事情（2023年前期）</title>
+			<link>https://hashhub-research.com/articles/2023-06-14-about-regulation</link>
+			<guid isPermaLink="false">2023-06-14-about-regulation</guid>
+			<description>前提&lt;br /&gt;ホワイトハウス（バイデン政権・民主党）&lt;br /&gt;連邦規制当局の体制&lt;br /&gt;連邦銀行監督当局&lt;br /&gt;証券取引委員会（SEC）&lt;br /&gt;3）現行規則の改正により規制強化を目指す&lt;br /&gt;議会&lt;br /&gt;総括&lt;br /&gt;出所・補足&lt;br /&gt;</description>
+			<pubDate>Wed, 14 Jun 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/icwap7ip2dwphicwzweuh5l23yo8/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>主なウォレットの分類と国内外の動向</title>
 			<link>https://hashhub-research.com/articles/2023-06-12-major-wallet-classifications</link>
 			<guid isPermaLink="false">2023-06-12-major-wallet-classifications</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;MEVとは（入門者向け）&lt;br /&gt;MEVは良いのか、悪いのか&lt;br /&gt;MEV-Boostを理解しよう&lt;br /&gt;MEVをユーザーに還元する動きとMEVを活用したビジネスの可能性&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 04 May 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2x2nl8fkhn78gqe4zfg0dm36egyj/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>IPOR（Inter Protocol Over-block Rate） 金利指標と金利スワップを提供するプロトコル</title>
-			<link>https://hashhub-research.com/articles/2023-05-03-about-ipor</link>
-			<guid isPermaLink="false">2023-05-03-about-ipor</guid>
-			<description>免責事項&lt;br /&gt;要約&lt;br /&gt;IPORとは&lt;br /&gt;金利スワップ取引所&lt;br /&gt;流動性提供者について&lt;br /&gt;考察&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Wed, 03 May 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/wlh3ytodqgdwbyiylis985vokur4/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
