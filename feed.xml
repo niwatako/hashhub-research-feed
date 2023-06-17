@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>匿名化された分散型社会｜DeSocの実現を志す7つの社会実験</title>
+			<link>https://hashhub-research.com/articles/2023-06-17-seven-social-experiments-to-realize-desoc</link>
+			<guid isPermaLink="false">2023-06-17-seven-social-experiments-to-realize-desoc</guid>
+			<description>前提&lt;br /&gt;1.heyanoun｜偽名でオンライン上で何かを行うことを試みる実験&lt;br /&gt;2.Sealcaster｜Farcaster上の匿名メッセージング&lt;br /&gt;3.SealCred Echo｜zkバッジを用いた匿名ツイート&lt;br /&gt;4.UniRep Social｜匿名メンバーが自分の身元を明かすことなく、評判を与えたり、受け取ったり、証明したりすることを可能にする&lt;br /&gt;5.Zkitter｜匿名性を前提とした分散型ソーシャルプロトコル&lt;br /&gt;6.Zk3｜Lens protocolへのSemaphore統合&lt;br /&gt;7.ETHdos｜recursive ZK-SNARKsを用いてVitalikとの親密度を測定する実験&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Sat, 17 Jun 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/3ui94nnahk1q7amgbv0drvywezbo/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>DeFiマーケットレポート【2023年5月】</title>
 			<link>https://hashhub-research.com/articles/2023-06-15-defi-market-2023-5</link>
 			<guid isPermaLink="false">2023-06-15-defi-market-2023-5</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;1.CyberConnectトークン（$CYBER） の概要&lt;br /&gt;2.Cyber Connectベースのアプリケーション群&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Wed, 10 May 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/hrx4kig4rysv54talpwj46419ujz/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>【対談書き起こし】#14 ステーブルコイン法制/Nori:ReFi取引/Astral:空間オラクル</title>
-			<link>https://hashhub-research.com/articles/2023-05-9-hashhub-podcast-stablecoin-regulation-in-japan-nori-astral</link>
-			<guid isPermaLink="false">2023-05-9-hashhub-podcast-stablecoin-regulation-in-japan-nori-astral</guid>
-			<description>対談コンテンツの書き起こし&lt;br /&gt;</description>
-			<pubDate>Tue, 09 May 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/hlm4gmu2g4tmacip1gur5reu0v83/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
