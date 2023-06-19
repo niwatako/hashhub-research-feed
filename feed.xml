@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>zkコンプライアンス（KYC、AML、KYB)の現在｜zkPass・Notebook Labs・Noxx・Polygon ID・KeyRing.Network</title>
+			<link>https://hashhub-research.com/articles/2023-06-19-about-zk-compliance</link>
+			<guid isPermaLink="false">2023-06-19-about-zk-compliance</guid>
+			<description>前提&lt;br /&gt;1.zkPass&lt;br /&gt;2.Notebook Labs｜ゼロ知識証明を利用した身元確認&lt;br /&gt;3.Noxx｜企業が仮名タレントと合法的に仕事をするための給与計算とコンプライアンスソリューションを提供&lt;br /&gt;4.Polygon ID&lt;br /&gt;5.KeyRing.Network｜コンプライアンスポリシーを設定するDeFiオラクル&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Mon, 19 Jun 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/6fkzsmzgc2vnfbb12rord5sknrbv/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>匿名化された分散型社会｜DeSocの実現を志す7つの社会実験</title>
 			<link>https://hashhub-research.com/articles/2023-06-17-seven-social-experiments-to-realize-desoc</link>
 			<guid isPermaLink="false">2023-06-17-seven-social-experiments-to-realize-desoc</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;#1. RTFKTのPre-Forge NFTsにみる物理製品の供給メカニズム~製品の供給量はいつ誰かどのようにして決めるのか~&lt;br /&gt;co-creation（共創）の要点整理&lt;br /&gt;あとがき&lt;br /&gt;</description>
 			<pubDate>Sun, 14 May 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/v837gb519kby5uhdmj937b9vr4n9/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>web3クレデンシャルを知る#9｜Cyber Connectベースのアプリケーション群とCYBERトークン概要</title>
-			<link>https://hashhub-research.com/articles/2023-05-10-learn-about-web3-credential-9</link>
-			<guid isPermaLink="false">2023-05-10-learn-about-web3-credential-9</guid>
-			<description>前提&lt;br /&gt;1.CyberConnectトークン（$CYBER） の概要&lt;br /&gt;2.Cyber Connectベースのアプリケーション群&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Wed, 10 May 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/hrx4kig4rysv54talpwj46419ujz/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
