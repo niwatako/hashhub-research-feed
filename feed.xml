@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>LSD担保型ステーブルコインeUSD</title>
+			<link>https://hashhub-research.com/articles/2023-06-20-about-eusd</link>
+			<guid isPermaLink="false">2023-06-20-about-eusd</guid>
+			<description>概要&lt;br /&gt;各種詳細&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Tue, 20 Jun 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/q3645pcx5xgpu0hfl0ry2adrb11o/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>zkコンプライアンス（KYC、AML、KYB)の現在｜zkPass・Notebook Labs・Noxx・Polygon ID・KeyRing.Network</title>
 			<link>https://hashhub-research.com/articles/2023-06-19-about-zk-compliance</link>
 			<guid isPermaLink="false">2023-06-19-about-zk-compliance</guid>
@@ -187,14 +195,6 @@
 			<description>免責事項&lt;br /&gt;要約&lt;br /&gt;概要と送金手順について&lt;br /&gt;ユースケースとコンプライアンス対応などについて&lt;br /&gt;問題点と私見&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Mon, 15 May 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/oqzga0cvt1zj9464ohvzsumqrc0m/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>co-creationの探索 #1.｜RTFKTのPre-Forge NFTsにみる物理製品の供給メカニズム</title>
-			<link>https://hashhub-research.com/articles/2023-05-14-exploring-co-creation-1</link>
-			<guid isPermaLink="false">2023-05-14-exploring-co-creation-1</guid>
-			<description>前提&lt;br /&gt;#1. RTFKTのPre-Forge NFTsにみる物理製品の供給メカニズム~製品の供給量はいつ誰かどのようにして決めるのか~&lt;br /&gt;co-creation（共創）の要点整理&lt;br /&gt;あとがき&lt;br /&gt;</description>
-			<pubDate>Sun, 14 May 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/v837gb519kby5uhdmj937b9vr4n9/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
