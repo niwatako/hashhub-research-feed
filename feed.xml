@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>2023年6月の暗号資産市場の雑感 筆者が現在関心がある投資アイデア</title>
+			<link>https://hashhub-research.com/articles/2023-06-26-thoughts-on-the-crypto-asset-market-in-june-2023</link>
+			<guid isPermaLink="false">2023-06-26-thoughts-on-the-crypto-asset-market-in-june-2023</guid>
+			<description>前提&lt;br /&gt;SECの暗号資産への態度、Bitcoin ETFへの期待&lt;br /&gt;トークン・アルトコインは投資対象になるか&lt;br /&gt;マクロ市場に目を向ける&lt;br /&gt;筆者が関心がある投資アイデア&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Mon, 26 Jun 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/wz25lnll78bs9r8wa5nynqijcy5y/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ウィークリークリプトニュースリキャップ(6/16~6/23)</title>
 			<link>https://hashhub-research.com/articles/2023-06-25-weekly-crypto-news-recap</link>
 			<guid isPermaLink="false">2023-06-25-weekly-crypto-news-recap</guid>
@@ -187,14 +195,6 @@
 			<description>前提（免責事項）&lt;br /&gt;コントラクト解析の手法１&lt;br /&gt;コントラクト解析の手法２：Tenderly&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Fri, 19 May 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/wyou0p24x2nafqw9s4pay7x56glf/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>【対談書き起こし】#15 LSDナラティヴ/ReFi:個人向け動向/RWA担保型プロトコル</title>
-			<link>https://hashhub-research.com/articles/2023-05-18-hashhub-podcast-lsd-refi-for-individuals-rwa-protocols</link>
-			<guid isPermaLink="false">2023-05-18-hashhub-podcast-lsd-refi-for-individuals-rwa-protocols</guid>
-			<description>対談コンテンツの書き起こし&lt;br /&gt;</description>
-			<pubDate>Thu, 18 May 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/etn9rb3l167sh1qhh6gdcmuc7zku/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
