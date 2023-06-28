@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>なぜ無期限先物DEXは下落相場でも成長したのか</title>
+			<link>https://hashhub-research.com/articles/2023-06-28-why-did-the-perpetual-futures-dex-grow</link>
+			<guid isPermaLink="false">2023-06-28-why-did-the-perpetual-futures-dex-grow</guid>
+			<description>補足：無期限先物DEXとは&lt;br /&gt;1. 無期限先物DEXの現状&lt;br /&gt;2. なぜ無期限先物DEXは成長したのか&lt;br /&gt;3. 今後注目できるプロトコルは何か&lt;br /&gt;4. 総括：今後も無期限先物DEXが成長していく余地はあるか&lt;br /&gt;</description>
+			<pubDate>Wed, 28 Jun 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/zuiraqv71w28tcbhwcoa3vhh1is6/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>2023年6月の暗号資産市場の雑感 筆者が現在関心がある投資アイデア</title>
 			<link>https://hashhub-research.com/articles/2023-06-26-thoughts-on-the-crypto-asset-market-in-june-2023</link>
 			<guid isPermaLink="false">2023-06-26-thoughts-on-the-crypto-asset-market-in-june-2023</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;前提知識：Optimismとは&lt;br /&gt;Optimism Superchain とは？&lt;br /&gt;Optimism Superchainが選ばれる理由&lt;br /&gt;展望&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Mon, 22 May 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1fi7n5k2javfz9axsslkab2ndr2d/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>コントラクト解析における必要な観点とその手法</title>
-			<link>https://hashhub-research.com/articles/2023-05-19-necessary-perspectives-and-methods-in-contract-analysis</link>
-			<guid isPermaLink="false">2023-05-19-necessary-perspectives-and-methods-in-contract-analysis</guid>
-			<description>前提（免責事項）&lt;br /&gt;コントラクト解析の手法１&lt;br /&gt;コントラクト解析の手法２：Tenderly&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 19 May 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/wyou0p24x2nafqw9s4pay7x56glf/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
