@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>NFT（Non-Fungible-Token）の動向 23年6月</title>
+			<link>https://hashhub-research.com/articles/2023-06-29-nft-market</link>
+			<guid isPermaLink="false">2023-06-29-nft-market</guid>
+			<description>前提&lt;br /&gt;Ethereum NFT販売の傾向&lt;br /&gt;格差が広がるブルーチップ銘柄&lt;br /&gt;ブランド企業のNFT活用が続く&lt;br /&gt;国内動向&lt;br /&gt;さいごに&lt;br /&gt;</description>
+			<pubDate>Thu, 29 Jun 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2fcbyo5t47qudkjzdwnb4tkhy6zd/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>なぜ無期限先物DEXは下落相場でも成長したのか</title>
 			<link>https://hashhub-research.com/articles/2023-06-28-why-did-the-perpetual-futures-dex-grow</link>
 			<guid isPermaLink="false">2023-06-28-why-did-the-perpetual-futures-dex-grow</guid>
@@ -187,14 +195,6 @@
 			<description>前提：ゼロ知識証明への注目&lt;br /&gt;ゼロ知識証明の３要素&lt;br /&gt;上記を活用した具体的なサービス例&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Tue, 23 May 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/rbfy7cq1hicjlsztbik2h1v3nwe8/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Optimism Superchainの概要と展望</title>
-			<link>https://hashhub-research.com/articles/2023-05-22-about-optimism-superchain</link>
-			<guid isPermaLink="false">2023-05-22-about-optimism-superchain</guid>
-			<description>前提&lt;br /&gt;前提知識：Optimismとは&lt;br /&gt;Optimism Superchain とは？&lt;br /&gt;Optimism Superchainが選ばれる理由&lt;br /&gt;展望&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Mon, 22 May 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1fi7n5k2javfz9axsslkab2ndr2d/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
