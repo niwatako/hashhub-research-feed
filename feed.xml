@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ウィークリークリプトニュースリキャップ(2023/6/23~6/30)</title>
+			<link>https://hashhub-research.com/articles/2023-06-30-weekly-crypto-news-recap</link>
+			<guid isPermaLink="false">2023-06-30-weekly-crypto-news-recap</guid>
+			<description>L1 &amp;L2&lt;br /&gt;ZK Stack: Matter Labsが発表した開発フレームワーク&lt;br /&gt;Ethereumのステーキング利回りが1％以下になる可能性&lt;br /&gt;DeFi&lt;br /&gt;dYdXがCosmosベースチェーンのパブリックテストネットを公開する&lt;br /&gt;NFT&lt;br /&gt;ERC-721にセキュリティレイヤーを追加した新規格ERC-721x発表&lt;br /&gt;ID&lt;br /&gt;市場動向&lt;br /&gt;BTCのオンチェーン分析&lt;br /&gt;MUFGがグローバル向けのステーブルコインを示唆&lt;br /&gt;</description>
+			<pubDate>Fri, 30 Jun 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2w90hjyt5x7vb69b8fz815n5iuow/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>NFT（Non-Fungible-Token）の動向 23年6月</title>
 			<link>https://hashhub-research.com/articles/2023-06-29-nft-market</link>
 			<guid isPermaLink="false">2023-06-29-nft-market</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;フィジタル とは？&lt;br /&gt;フィジタル×NFTにおける10の事例を紹介&lt;br /&gt;展望&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Thu, 25 May 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/enujfhpqoy4ht6dlf0fdrckrg725/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ゼロ知識証明のユースケース</title>
-			<link>https://hashhub-research.com/articles/2023-05-23-zero-knowledge-proof-use-cases</link>
-			<guid isPermaLink="false">2023-05-23-zero-knowledge-proof-use-cases</guid>
-			<description>前提：ゼロ知識証明への注目&lt;br /&gt;ゼロ知識証明の３要素&lt;br /&gt;上記を活用した具体的なサービス例&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Tue, 23 May 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/rbfy7cq1hicjlsztbik2h1v3nwe8/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
