@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>LSD担保型ステーブルコイン「R」</title>
+			<link>https://hashhub-research.com/articles/2023-07-01-about-r</link>
+			<guid isPermaLink="false">2023-07-01-about-r</guid>
+			<description>免責事項&lt;br /&gt;要約&lt;br /&gt;概要&lt;br /&gt;各種詳細&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Sat, 01 Jul 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2ixtbpc6n7y8hsyts9aaw4cqnc5q/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ウィークリークリプトニュースリキャップ(2023/6/23~6/30)</title>
 			<link>https://hashhub-research.com/articles/2023-06-30-weekly-crypto-news-recap</link>
 			<guid isPermaLink="false">2023-06-30-weekly-crypto-news-recap</guid>
@@ -187,14 +195,6 @@
 			<description>対談コンテンツの書き起こし&lt;br /&gt;</description>
 			<pubDate>Fri, 26 May 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/6j1qlzfb1xyucg074ohnp9dnygd7/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>フィジタルNFTの事例分析と展望考察</title>
-			<link>https://hashhub-research.com/articles/2023-05-25-about-phygital-nft</link>
-			<guid isPermaLink="false">2023-05-25-about-phygital-nft</guid>
-			<description>前提&lt;br /&gt;フィジタル とは？&lt;br /&gt;フィジタル×NFTにおける10の事例を紹介&lt;br /&gt;展望&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Thu, 25 May 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/enujfhpqoy4ht6dlf0fdrckrg725/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
