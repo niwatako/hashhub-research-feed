@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ERC7265：DeFiハッキング被害解消を目的に提案された標準規格の概要とその影響</title>
+			<link>https://hashhub-research.com/articles/2023-07-05-about-erc7265</link>
+			<guid isPermaLink="false">2023-07-05-about-erc7265</guid>
+			<description>前提&lt;br /&gt;DeFiプロトコルにおけるハッキング被害の現状と問題点&lt;br /&gt;ERC7265の機能と利点&lt;br /&gt;ERC7265を導入することで生じ得るリスクとその対処法について&lt;br /&gt;総括｜ERC7265によって生じる影響と今後の展望&lt;br /&gt;</description>
+			<pubDate>Wed, 05 Jul 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1qdi07eomm4ay2o1iqame9xkoqxc/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>LSD担保型ステーブルコイン「R」</title>
 			<link>https://hashhub-research.com/articles/2023-07-01-about-r</link>
 			<guid isPermaLink="false">2023-07-01-about-r</guid>
@@ -187,14 +195,6 @@
 			<description>前提：国内大手企業のWeb3への参入&lt;br /&gt;国内大手企業参入状況をマッピング&lt;br /&gt;DID / SSI / SBT&lt;br /&gt;ステーブルコイン&lt;br /&gt;ST&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Mon, 29 May 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/rg4ipvfhhx6da0c44ed8xedm34wt/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>【対談書き起こし】#16 エアドロガイド/DeFi市場23Q1/ReFi:OFP検証プロトコル</title>
-			<link>https://hashhub-research.com/articles/2023-05-26-hashhub-podcast-airdrop-guide-defi-market-23q1-refi-ofp</link>
-			<guid isPermaLink="false">2023-05-26-hashhub-podcast-airdrop-guide-defi-market-23q1-refi-ofp</guid>
-			<description>対談コンテンツの書き起こし&lt;br /&gt;</description>
-			<pubDate>Fri, 26 May 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/6j1qlzfb1xyucg074ohnp9dnygd7/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
