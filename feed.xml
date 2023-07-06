@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>LSDFiの概要 リスク認識を深めつつリキッドステーキングからさらなる追加的利益を得る方法</title>
+			<link>https://hashhub-research.com/articles/2023-07-06-liquid-staking-derivative-and-lsdfi-overview</link>
+			<guid isPermaLink="false">2023-07-06-liquid-staking-derivative-and-lsdfi-overview</guid>
+			<description>前提&lt;br /&gt;LSDFiの概要&lt;br /&gt;LSDFiの現状&lt;br /&gt;LSDFi系プロトコルの活用方法&lt;br /&gt;LSDFiにおけるリスク&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Thu, 06 Jul 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2wtd36skr4dgp1w3hn909l92wzt2/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ERC7265：DeFiハッキング被害解消を目的に提案された標準規格の概要とその影響</title>
 			<link>https://hashhub-research.com/articles/2023-07-05-about-erc7265</link>
 			<guid isPermaLink="false">2023-07-05-about-erc7265</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Ethereum NFT販売の傾向&lt;br /&gt;Bitcoin NFT&lt;br /&gt;ERC-6551を押さえておこう&lt;br /&gt;国内動向&lt;br /&gt;さいごに&lt;br /&gt;</description>
 			<pubDate>Tue, 30 May 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/5u08z1m5x80elk7jvmeab4jrr8j5/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>国内大手のWeb3動向</title>
-			<link>https://hashhub-research.com/articles/2023-05-29-about-web3-trends-in-japan</link>
-			<guid isPermaLink="false">2023-05-29-about-web3-trends-in-japan</guid>
-			<description>前提：国内大手企業のWeb3への参入&lt;br /&gt;国内大手企業参入状況をマッピング&lt;br /&gt;DID / SSI / SBT&lt;br /&gt;ステーブルコイン&lt;br /&gt;ST&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Mon, 29 May 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/rg4ipvfhhx6da0c44ed8xedm34wt/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
