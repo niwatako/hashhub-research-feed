@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Project Mariana｜AMMを活用したCBDCのクロスボーダー決済の概念実証について</title>
+			<link>https://hashhub-research.com/articles/2023-07-08-about-project-mariana</link>
+			<guid isPermaLink="false">2023-07-08-about-project-mariana</guid>
+			<description>前提&lt;br /&gt;Project Marianaの概要&lt;br /&gt;国際決済におけるCBDCとDeFiテクノロジーの潜在的な利点と課題&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Sat, 08 Jul 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1ywog06nk749nnpzrf10tfws5cmn/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>dockの概要 -EVM互換を備え、ゼロ知識証明を導入予定のDID/VCプラットフォーム-</title>
 			<link>https://hashhub-research.com/articles/2023-07-07-about-dock</link>
 			<guid isPermaLink="false">2023-07-07-about-dock</guid>
@@ -187,14 +195,6 @@
 			<description>対談コンテンツの書き起こし&lt;br /&gt;マーケティングツールとしての活用が進むも厳しい市況のNFT&lt;br /&gt;プライバシー・ステートレス・セキュアなzk Rollupのレイヤー2&lt;br /&gt;DeFiにおける金利指標と金利スワップの創出で市場拡大をささえる&lt;br /&gt;</description>
 			<pubDate>Fri, 02 Jun 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1trfempp3l46oq137rjm2ctch5om/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Proto-Danksharding｜レイヤー2の更なる躍進へ繋がるアップグレードの影響と考察</title>
-			<link>https://hashhub-research.com/articles/2023-06-01-proto-danksharding-overview</link>
-			<guid isPermaLink="false">2023-06-01-proto-danksharding-overview</guid>
-			<description>Summary&lt;br /&gt;導入：Dankshardingとは&lt;br /&gt;Proto-Dankshardingの概要&lt;br /&gt;Proto-Dankshardingによる影響が及ぶ可能性&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 01 Jun 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/oqtfarj8zibf6xzsvx4zsqo2xez2/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
