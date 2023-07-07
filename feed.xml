@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>dockの概要 -EVM互換を備え、ゼロ知識証明を導入予定のDID/VCプラットフォーム-</title>
+			<link>https://hashhub-research.com/articles/2023-07-07-about-dock</link>
+			<guid isPermaLink="false">2023-07-07-about-dock</guid>
+			<description>前提：2017年からDIDとVCを開発しているDock&lt;br /&gt;Dockの概要&lt;br /&gt;dockの特徴&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Fri, 07 Jul 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/v3v8hd8b6u718mls173q0pxi2czb/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>LSDFiの概要 リスク認識を深めつつリキッドステーキングからさらなる追加的利益を得る方法</title>
 			<link>https://hashhub-research.com/articles/2023-07-06-liquid-staking-derivative-and-lsdfi-overview</link>
 			<guid isPermaLink="false">2023-07-06-liquid-staking-derivative-and-lsdfi-overview</guid>
@@ -187,14 +195,6 @@
 			<description>Summary&lt;br /&gt;導入：Dankshardingとは&lt;br /&gt;Proto-Dankshardingの概要&lt;br /&gt;Proto-Dankshardingによる影響が及ぶ可能性&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 01 Jun 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/oqtfarj8zibf6xzsvx4zsqo2xez2/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>NFT（Non-Fungible-Token）の動向 23年5月</title>
-			<link>https://hashhub-research.com/articles/2023-05-30-nft-market</link>
-			<guid isPermaLink="false">2023-05-30-nft-market</guid>
-			<description>前提&lt;br /&gt;Ethereum NFT販売の傾向&lt;br /&gt;Bitcoin NFT&lt;br /&gt;ERC-6551を押さえておこう&lt;br /&gt;国内動向&lt;br /&gt;さいごに&lt;br /&gt;</description>
-			<pubDate>Tue, 30 May 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/5u08z1m5x80elk7jvmeab4jrr8j5/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
