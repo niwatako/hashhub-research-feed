@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Mantle Network｜EigenDAを統合したモジュラー・ブロックチェーンの概要</title>
+			<link>https://hashhub-research.com/articles/2023-07-11-about-mantle-network</link>
+			<guid isPermaLink="false">2023-07-11-about-mantle-network</guid>
+			<description>前提&lt;br /&gt;Mantle Networkの概要&lt;br /&gt;Mantle Networkの仕組み&lt;br /&gt;Mantle経済圏について&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Tue, 11 Jul 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/tc39ujohkg5os03o5cb0rzp11y7t/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Project Mariana｜AMMを活用したCBDCのクロスボーダー決済の概念実証について</title>
 			<link>https://hashhub-research.com/articles/2023-07-08-about-project-mariana</link>
 			<guid isPermaLink="false">2023-07-08-about-project-mariana</guid>
@@ -187,14 +195,6 @@
 			<description>要約&lt;br /&gt;gmUSDの概要&lt;br /&gt;特徴&lt;br /&gt;総論と私見&lt;br /&gt;</description>
 			<pubDate>Sat, 03 Jun 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/h9yzadt1yeyatwqnbx7fzbzhrfcg/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>【書き起こし】#17 NFT市場4月/intmax/IPOR金利スワップ</title>
-			<link>https://hashhub-research.com/articles/2023-06-02-hashhub-podcast-nft-market-04-intmax-ipor</link>
-			<guid isPermaLink="false">2023-06-02-hashhub-podcast-nft-market-04-intmax-ipor</guid>
-			<description>対談コンテンツの書き起こし&lt;br /&gt;マーケティングツールとしての活用が進むも厳しい市況のNFT&lt;br /&gt;プライバシー・ステートレス・セキュアなzk Rollupのレイヤー2&lt;br /&gt;DeFiにおける金利指標と金利スワップの創出で市場拡大をささえる&lt;br /&gt;</description>
-			<pubDate>Fri, 02 Jun 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1trfempp3l46oq137rjm2ctch5om/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
