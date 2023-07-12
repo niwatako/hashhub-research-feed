@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>DeFiマーケットレポート【2023年6月】</title>
+			<link>https://hashhub-research.com/articles/2023-07-12-defi-market-2023-6</link>
+			<guid isPermaLink="false">2023-07-12-defi-market-2023-6</guid>
+			<description>TVL（Total Value Locked）&lt;br /&gt;DEXの出来高&lt;br /&gt;プロトコル手数料収入の比較&lt;br /&gt;ステーブルコイン&lt;br /&gt;DeFiに関する規制動向&lt;br /&gt;Layer 2&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Wed, 12 Jul 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/vy2tqucqbfiktod5n8u4krungja6/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Mantle Network｜EigenDAを統合したモジュラー・ブロックチェーンの概要</title>
 			<link>https://hashhub-research.com/articles/2023-07-11-about-mantle-network</link>
 			<guid isPermaLink="false">2023-07-11-about-mantle-network</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;ブルーチップNFT とは？&lt;br /&gt;①CryptoPunks&lt;br /&gt;②BAYC&lt;br /&gt;③Azuki&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Mon, 05 Jun 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/44benawpjftoo4j5698kra0uwiq7/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>GMX系プロトコルを活用したステーブルコインgmUSD</title>
-			<link>https://hashhub-research.com/articles/2023-06-03-about-gmusd</link>
-			<guid isPermaLink="false">2023-06-03-about-gmusd</guid>
-			<description>要約&lt;br /&gt;gmUSDの概要&lt;br /&gt;特徴&lt;br /&gt;総論と私見&lt;br /&gt;</description>
-			<pubDate>Sat, 03 Jun 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/h9yzadt1yeyatwqnbx7fzbzhrfcg/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
