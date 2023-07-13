@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Lit Protocol -ウォレットのいらない世界を実現する-</title>
+			<link>https://hashhub-research.com/articles/2023-07-13-about-lit-protocol</link>
+			<guid isPermaLink="false">2023-07-13-about-lit-protocol</guid>
+			<description>前提&lt;br /&gt;ハッカソンでの利用&lt;br /&gt;Lit Protocolが提供する機能&lt;br /&gt;Lit Protocolを成り立たせている仕組み&lt;br /&gt;おわりに&lt;br /&gt;</description>
+			<pubDate>Thu, 13 Jul 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/vkzv5fxxw4a79nl3826kekyjb1ps/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>DeFiマーケットレポート【2023年6月】</title>
 			<link>https://hashhub-research.com/articles/2023-07-12-defi-market-2023-6</link>
 			<guid isPermaLink="false">2023-07-12-defi-market-2023-6</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;④Pudgy Penguins&lt;br /&gt;⑤CLONE X&lt;br /&gt;⑥Doodles&lt;br /&gt;⑦Moonbirds&lt;br /&gt;NFTプロジェクトの成功要因とは？&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Tue, 06 Jun 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/y0xumll0w6hr8ruivl3sooiv9vb0/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ブルーチップNFTから読み解くNFTプロジェクトの成功要因 前編　- CryptoPunks、BAYC、Azuki -</title>
-			<link>https://hashhub-research.com/articles/2023-06-05-about-blue-chip-nft-1</link>
-			<guid isPermaLink="false">2023-06-05-about-blue-chip-nft-1</guid>
-			<description>前提&lt;br /&gt;ブルーチップNFT とは？&lt;br /&gt;①CryptoPunks&lt;br /&gt;②BAYC&lt;br /&gt;③Azuki&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Mon, 05 Jun 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/44benawpjftoo4j5698kra0uwiq7/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
