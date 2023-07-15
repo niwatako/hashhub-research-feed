@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>レイヤー2の重要トレンド 2023年下半期における５つの要点</title>
+			<link>https://hashhub-research.com/articles/2023-07-15-l2-trend-q3</link>
+			<guid isPermaLink="false">2023-07-15-l2-trend-q3</guid>
+			<description>前提&lt;br /&gt;1：現状のレイヤー2のキラーアプリケーション&lt;br /&gt;2： Proto-Danksharding（ EIP-4844 ）&lt;br /&gt;3： OP-StackをベースにしたCoinbaseなどの独自レイヤー2&lt;br /&gt;4：Polygon 2.0&lt;br /&gt;5.短期的には解決されないレイヤー2の課題&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Sat, 15 Jul 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ab0a3d4r2643y20v5glp959vuyyw/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Lit Protocol -ウォレットのいらない世界を実現する-</title>
 			<link>https://hashhub-research.com/articles/2023-07-13-about-lit-protocol</link>
 			<guid isPermaLink="false">2023-07-13-about-lit-protocol</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;IP-NFTとは何か&lt;br /&gt;IP-NFTの事例&lt;br /&gt;IP-NFTが生物医学研究に与える影響と展望&lt;br /&gt;結論&lt;br /&gt;</description>
 			<pubDate>Sun, 11 Jun 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/qpet6n1slrtkgetucc2e4tbm8tkk/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ブルーチップNFTから読み解くNFTプロジェクトの成功要因 後編 -Pudgy Penguins、CLONE X、Doodles、Moonbirds-</title>
-			<link>https://hashhub-research.com/articles/2023-06-06-blue-chip-nft-2</link>
-			<guid isPermaLink="false">2023-06-06-blue-chip-nft-2</guid>
-			<description>前提&lt;br /&gt;④Pudgy Penguins&lt;br /&gt;⑤CLONE X&lt;br /&gt;⑥Doodles&lt;br /&gt;⑦Moonbirds&lt;br /&gt;NFTプロジェクトの成功要因とは？&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Tue, 06 Jun 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/y0xumll0w6hr8ruivl3sooiv9vb0/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
