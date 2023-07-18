@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ARKHAMの概要　-AIとインセンティブ設計でオンチェーンの透明性を高める-</title>
+			<link>https://hashhub-research.com/articles/2023-07-18-about-arkham</link>
+			<guid isPermaLink="false">2023-07-18-about-arkham</guid>
+			<description>前提：オンチェーンの匿名化を解除するARKHAM&lt;br /&gt;ARKHAMの特徴&lt;br /&gt;ARKHAMへの批判&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Tue, 18 Jul 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/eap711261i6bvxhxqczq5y99bcdk/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>新時代の出版プラットフォーム「Mirror」の全て</title>
 			<link>https://hashhub-research.com/articles/2023-07-17-all-about-mirror</link>
 			<guid isPermaLink="false">2023-07-17-all-about-mirror</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;ホワイトハウス（バイデン政権・民主党）&lt;br /&gt;連邦規制当局の体制&lt;br /&gt;連邦銀行監督当局&lt;br /&gt;証券取引委員会（SEC）&lt;br /&gt;議会&lt;br /&gt;総括&lt;br /&gt;出所・補足&lt;br /&gt;</description>
 			<pubDate>Wed, 14 Jun 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/icwap7ip2dwphicwzweuh5l23yo8/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>主なウォレットの分類と国内外の動向</title>
-			<link>https://hashhub-research.com/articles/2023-06-12-major-wallet-classifications</link>
-			<guid isPermaLink="false">2023-06-12-major-wallet-classifications</guid>
-			<description>前提：多くの企業が開発を始めているウォレット&lt;br /&gt;ウォレットの分類&lt;br /&gt;国内外のウォレット&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Mon, 12 Jun 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/k31owln289jczdgqe523d6gw8w84/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
