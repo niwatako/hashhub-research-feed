@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>新興LSDfiプロトコル</title>
+			<link>https://hashhub-research.com/articles/2023-07-19-about-lsdfi</link>
+			<guid isPermaLink="false">2023-07-19-about-lsdfi</guid>
+			<description>免責事項&lt;br /&gt;要約&lt;br /&gt;概要&lt;br /&gt;各種プロトコル&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Wed, 19 Jul 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/vk2pfl6gg3le1lfq94k38crihg2i/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ARKHAMの概要　-AIとインセンティブ設計でオンチェーンの透明性を高める-</title>
 			<link>https://hashhub-research.com/articles/2023-07-18-about-arkham</link>
 			<guid isPermaLink="false">2023-07-18-about-arkham</guid>
@@ -187,14 +195,6 @@
 			<description>Summary&lt;br /&gt;TVL（Total Value Locked）&lt;br /&gt;DEXの出来高&lt;br /&gt;プロトコル手数料収入の比較&lt;br /&gt;ステーブルコイン&lt;br /&gt;DeFi関連の規制動向&lt;br /&gt;Layer 2&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 15 Jun 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/kwripp1qvi24d813w0cg4ezlfvzz/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>米国規制の最新事情（2023年前期）</title>
-			<link>https://hashhub-research.com/articles/2023-06-14-about-regulation</link>
-			<guid isPermaLink="false">2023-06-14-about-regulation</guid>
-			<description>前提&lt;br /&gt;ホワイトハウス（バイデン政権・民主党）&lt;br /&gt;連邦規制当局の体制&lt;br /&gt;連邦銀行監督当局&lt;br /&gt;証券取引委員会（SEC）&lt;br /&gt;議会&lt;br /&gt;総括&lt;br /&gt;出所・補足&lt;br /&gt;</description>
-			<pubDate>Wed, 14 Jun 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/icwap7ip2dwphicwzweuh5l23yo8/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
