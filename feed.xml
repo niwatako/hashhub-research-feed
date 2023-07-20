@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Sablier V2｜分散型トークンストリーミングプロトコルの可能性と課題</title>
+			<link>https://hashhub-research.com/articles/2023-07-20-about-sablier-v2</link>
+			<guid isPermaLink="false">2023-07-20-about-sablier-v2</guid>
+			<description>前提&lt;br /&gt;Sablier V2の概要&lt;br /&gt;Sablier V2の目的と目標&lt;br /&gt;Sablier V2の主要な特徴と機能&lt;br /&gt;Sablier V2のビジネスモデル&lt;br /&gt;総括：Sablier V2の可能性と課題&lt;br /&gt;</description>
+			<pubDate>Thu, 20 Jul 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/mw39b4b8sljfhp02rck179en9d9e/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>新興LSDfiプロトコル</title>
 			<link>https://hashhub-research.com/articles/2023-07-19-about-lsdfi</link>
 			<guid isPermaLink="false">2023-07-19-about-lsdfi</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;1.heyanoun｜偽名でオンライン上で何かを行うことを試みる実験&lt;br /&gt;2.Sealcaster｜Farcaster上の匿名メッセージング&lt;br /&gt;3.SealCred Echo｜zkバッジを用いた匿名ツイート&lt;br /&gt;4.UniRep Social｜匿名メンバーが自分の身元を明かすことなく、評判を与えたり、受け取ったり、証明したりすることを可能にする&lt;br /&gt;5.Zkitter｜匿名性を前提とした分散型ソーシャルプロトコル&lt;br /&gt;6.Zk3｜Lens protocolへのSemaphore統合&lt;br /&gt;7.ETHdos｜recursive ZK-SNARKsを用いてVitalikとの親密度を測定する実験&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Sat, 17 Jun 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/3ui94nnahk1q7amgbv0drvywezbo/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>DeFiマーケットレポート【2023年5月】</title>
-			<link>https://hashhub-research.com/articles/2023-06-15-defi-market-2023-5</link>
-			<guid isPermaLink="false">2023-06-15-defi-market-2023-5</guid>
-			<description>Summary&lt;br /&gt;TVL（Total Value Locked）&lt;br /&gt;DEXの出来高&lt;br /&gt;プロトコル手数料収入の比較&lt;br /&gt;ステーブルコイン&lt;br /&gt;DeFi関連の規制動向&lt;br /&gt;Layer 2&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 15 Jun 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/kwripp1qvi24d813w0cg4ezlfvzz/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
