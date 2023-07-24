@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>NFT特化型ブロックチェーン「Ternoa」の概要</title>
+			<link>https://hashhub-research.com/articles/2023-07-24-about-ternoa</link>
+			<guid isPermaLink="false">2023-07-24-about-ternoa</guid>
+			<description>前提&lt;br /&gt;基本情報&lt;br /&gt;活用事例&lt;br /&gt;展望と考察&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Mon, 24 Jul 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/15w6866ehb1iuc594y3a4sw17e9r/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>DeFiマーケットレポート【2023 Q2】</title>
 			<link>https://hashhub-research.com/articles/2023-07-22-defi-market-report-2023-q2</link>
 			<guid isPermaLink="false">2023-07-22-defi-market-report-2023-q2</guid>
@@ -187,14 +195,6 @@
 			<description>概要&lt;br /&gt;各種詳細&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Tue, 20 Jun 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/q3645pcx5xgpu0hfl0ry2adrb11o/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>zkコンプライアンス（KYC、AML、KYB)の現在｜zkPass・Notebook Labs・Noxx・Polygon ID・KeyRing.Network</title>
-			<link>https://hashhub-research.com/articles/2023-06-19-about-zk-compliance</link>
-			<guid isPermaLink="false">2023-06-19-about-zk-compliance</guid>
-			<description>前提&lt;br /&gt;1.zkPass&lt;br /&gt;2.Notebook Labs｜ゼロ知識証明を利用した身元確認&lt;br /&gt;3.Noxx｜企業が仮名タレントと合法的に仕事をするための給与計算とコンプライアンスソリューションを提供&lt;br /&gt;4.Polygon ID&lt;br /&gt;5.KeyRing.Network｜コンプライアンスポリシーを設定するDeFiオラクル&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Mon, 19 Jun 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/6fkzsmzgc2vnfbb12rord5sknrbv/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
