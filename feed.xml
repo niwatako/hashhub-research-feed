@@ -5,14 +5,6 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
-			<title>時計やアートなどの実物コレクターズアイテムをNFT化してDeFI・Web3に持ち込む世界観</title>
-			<link>https://hashhub-research.com/articles/2023-07-25-bringing-collective-items-into-web3</link>
-			<guid isPermaLink="false">2023-07-25-bringing-collective-items-into-web3</guid>
-			<description>前提&lt;br /&gt;4K ProtocolとArcade.xyzの概要&lt;br /&gt;コレクターズアイテムをDeFI・Web3に持ち込むことによる価値&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Tue, 25 Jul 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/i7j53sp54fpyr6d66hwu15krinhw/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
 			<title>NFT特化型ブロックチェーン「Ternoa」の概要</title>
 			<link>https://hashhub-research.com/articles/2023-07-24-about-ternoa</link>
 			<guid isPermaLink="false">2023-07-24-about-ternoa</guid>
@@ -195,6 +187,14 @@
 			<description>免責事項&lt;br /&gt;前提：エアドロップとファーミングのポイント&lt;br /&gt;相場の指標について（BTCと伝統金融との相関、二年移動平均線）&lt;br /&gt;ファーミングとエアドロップ&lt;br /&gt;zkSyncとStarkNet&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 22 Jun 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ft7tlfa4hs6qhf5pxak5ei7y0xo0/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
+			<title>LSD担保型ステーブルコインeUSD</title>
+			<link>https://hashhub-research.com/articles/2023-06-20-about-eusd</link>
+			<guid isPermaLink="false">2023-06-20-about-eusd</guid>
+			<description>概要&lt;br /&gt;各種詳細&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Tue, 20 Jun 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/q3645pcx5xgpu0hfl0ry2adrb11o/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
