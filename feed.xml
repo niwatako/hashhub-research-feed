@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Uniswap V4/Xの概要 流動性プールの挙動の柔軟性とルーティングアイデアの吸収</title>
+			<link>https://hashhub-research.com/articles/2023-07-26-about-uniswap-v4-x</link>
+			<guid isPermaLink="false">2023-07-26-about-uniswap-v4-x</guid>
+			<description>前提&lt;br /&gt;Executive Summary&lt;br /&gt;Uniswap V4 概要&lt;br /&gt;Uniswap X 概要&lt;br /&gt;考察：Uniswapのアップグレードがもたらす影響とその意義とは何か&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Wed, 26 Jul 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/e8rgv7tjx82ox5ijgpuo9ylgr92g/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>時計やアートなどの実物コレクターズアイテムをNFT化してDeFI・Web3に持ち込む世界観</title>
 			<link>https://hashhub-research.com/articles/2023-07-25-bringing-collective-items-into-web3</link>
 			<guid isPermaLink="false">2023-07-25-bringing-collective-items-into-web3</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Ethscriptionsプロトコルの概要&lt;br /&gt;Ethscriptionsの基本的な仕組み&lt;br /&gt;Ethscriptionsの優位性と懸念点&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Sat, 24 Jun 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/3s60hxxhnncbt6q45w3ct2ag8hln/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>月刊エアドロ＆ファーミングガイド　2023年6月号</title>
-			<link>https://hashhub-research.com/articles/2023-06-22-monthly-airdrop-guide</link>
-			<guid isPermaLink="false">2023-06-22-monthly-airdrop-guide</guid>
-			<description>免責事項&lt;br /&gt;前提：エアドロップとファーミングのポイント&lt;br /&gt;相場の指標について（BTCと伝統金融との相関、二年移動平均線）&lt;br /&gt;ファーミングとエアドロップ&lt;br /&gt;zkSyncとStarkNet&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 22 Jun 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ft7tlfa4hs6qhf5pxak5ei7y0xo0/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
