@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>NFT（Non-Fungible-Token）の動向 23年7月</title>
+			<link>https://hashhub-research.com/articles/2023-07-27-nft-market</link>
+			<guid isPermaLink="false">2023-07-27-nft-market</guid>
+			<description>前提&lt;br /&gt;Ethereum NFT販売の傾向&lt;br /&gt;Blockchains by NFT Sales Volume&lt;br /&gt;PFP NFTの時代は終わったのか&lt;br /&gt;OpenSeaがNFTを交換する機能をリリース&lt;br /&gt;ブランド企業のNFT活用が今月も続く&lt;br /&gt;国内動向&lt;br /&gt;さいごに&lt;br /&gt;</description>
+			<pubDate>Thu, 27 Jul 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/26pv3snygs3j8eck3txmvevmhrd6/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Uniswap V4/Xの概要 流動性プールの挙動の柔軟性とルーティングアイデアの吸収</title>
 			<link>https://hashhub-research.com/articles/2023-07-26-about-uniswap-v4-x</link>
 			<guid isPermaLink="false">2023-07-26-about-uniswap-v4-x</guid>
@@ -187,14 +195,6 @@
 			<description>L1 &amp; L2&lt;br /&gt;DeFi&lt;br /&gt;セキュリティ／ハッキング&lt;br /&gt;市況&lt;br /&gt;</description>
 			<pubDate>Sun, 25 Jun 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/cxb6xqbhu9zpj3enpk6vreme874t/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Ethscriptionsプロトコルの概要｜基本的な仕組み解説、ERC721と比較した上での優位性、オンチェーンアセットとしての懸念について</title>
-			<link>https://hashhub-research.com/articles/2023-06-24-about-ethscriptions</link>
-			<guid isPermaLink="false">2023-06-24-about-ethscriptions</guid>
-			<description>前提&lt;br /&gt;Ethscriptionsプロトコルの概要&lt;br /&gt;Ethscriptionsの基本的な仕組み&lt;br /&gt;Ethscriptionsの優位性と懸念点&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Sat, 24 Jun 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/3s60hxxhnncbt6q45w3ct2ag8hln/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
