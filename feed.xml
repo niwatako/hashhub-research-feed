@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Appchainプラットフォームの比較検討 - OP Stack, Arbitrum, ZK Stack, Polygon, Polkadot, Avalanche -</title>
+			<link>https://hashhub-research.com/articles/2023-07-29-about-app-chain</link>
+			<guid isPermaLink="false">2023-07-29-about-app-chain</guid>
+			<description>前提：OP Stack, ZK StackなどAppchainプラットフォームの増加&lt;br /&gt;カテゴリごとの比較&lt;br /&gt; 総括&lt;br /&gt;</description>
+			<pubDate>Sat, 29 Jul 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/j935g9em55tk8sljkemhzdnj789v/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>NFT（Non-Fungible-Token）の動向 23年7月</title>
 			<link>https://hashhub-research.com/articles/2023-07-27-nft-market</link>
 			<guid isPermaLink="false">2023-07-27-nft-market</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;SECの暗号資産への態度、Bitcoin ETFへの期待&lt;br /&gt;トークン・アルトコインは投資対象になるか&lt;br /&gt;マクロ市場に目を向ける&lt;br /&gt;筆者が関心がある投資アイデア&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Mon, 26 Jun 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/wz25lnll78bs9r8wa5nynqijcy5y/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ウィークリークリプトニュースリキャップ(6/16~6/23)</title>
-			<link>https://hashhub-research.com/articles/2023-06-25-weekly-crypto-news-recap</link>
-			<guid isPermaLink="false">2023-06-25-weekly-crypto-news-recap</guid>
-			<description>L1 &amp; L2&lt;br /&gt;DeFi&lt;br /&gt;セキュリティ／ハッキング&lt;br /&gt;市況&lt;br /&gt;</description>
-			<pubDate>Sun, 25 Jun 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/cxb6xqbhu9zpj3enpk6vreme874t/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
