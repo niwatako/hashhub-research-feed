@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ゼロ知識証明を活用したID・DeFi利用環境の変化と影響</title>
+			<link>https://hashhub-research.com/articles/2023-07-31-id-and-defi-usage-environment-utilizing-zkp</link>
+			<guid isPermaLink="false">2023-07-31-id-and-defi-usage-environment-utilizing-zkp</guid>
+			<description>前提&lt;br /&gt;ID：Sismo、zkPassで匿名化される信頼&lt;br /&gt;DeFi：zkBob、tbDEXで信頼の発行者と検証者を切り離す&lt;br /&gt;余談：信頼で定義される個人&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Mon, 31 Jul 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/cdkisv6aa4hqwpm7mm6h43y07qi7/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Appchainプラットフォームの比較検討 - OP Stack, Arbitrum, ZK Stack, Polygon, Polkadot, Avalanche -</title>
 			<link>https://hashhub-research.com/articles/2023-07-29-about-app-chain</link>
 			<guid isPermaLink="false">2023-07-29-about-app-chain</guid>
@@ -187,14 +195,6 @@
 			<description>補足：無期限先物DEXとは&lt;br /&gt;1. 無期限先物DEXの現状&lt;br /&gt;2. なぜ無期限先物DEXは成長したのか&lt;br /&gt;3. 今後注目できるプロトコルは何か&lt;br /&gt;4. 総括：今後も無期限先物DEXが成長していく余地はあるか&lt;br /&gt;</description>
 			<pubDate>Wed, 28 Jun 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/zuiraqv71w28tcbhwcoa3vhh1is6/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>2023年6月の暗号資産市場の雑感 筆者が現在関心がある投資アイデア</title>
-			<link>https://hashhub-research.com/articles/2023-06-26-thoughts-on-the-crypto-asset-market-in-june-2023</link>
-			<guid isPermaLink="false">2023-06-26-thoughts-on-the-crypto-asset-market-in-june-2023</guid>
-			<description>前提&lt;br /&gt;SECの暗号資産への態度、Bitcoin ETFへの期待&lt;br /&gt;トークン・アルトコインは投資対象になるか&lt;br /&gt;マクロ市場に目を向ける&lt;br /&gt;筆者が関心がある投資アイデア&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Mon, 26 Jun 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/wz25lnll78bs9r8wa5nynqijcy5y/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
