@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>法定通貨担保型ステーブルコインFDUSD｜Binanceが採用した新たな法定通貨担保型ステーブルコイン</title>
+			<link>https://hashhub-research.com/articles/2023-08-01-about-fdusd</link>
+			<guid isPermaLink="false">2023-08-01-about-fdusd</guid>
+			<description>免責事項&lt;br /&gt;要約&lt;br /&gt;概要&lt;br /&gt;ステーブルコインの各種概要と発行体について&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Tue, 01 Aug 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/o77i1eohhy5q22hm63tj716a15kf/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ゼロ知識証明を活用したID・DeFi利用環境の変化と影響</title>
 			<link>https://hashhub-research.com/articles/2023-07-31-id-and-defi-usage-environment-utilizing-zkp</link>
 			<guid isPermaLink="false">2023-07-31-id-and-defi-usage-environment-utilizing-zkp</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Ethereum NFT販売の傾向&lt;br /&gt;格差が広がるブルーチップ銘柄&lt;br /&gt;ブランド企業のNFT活用が続く&lt;br /&gt;国内動向&lt;br /&gt;さいごに&lt;br /&gt;</description>
 			<pubDate>Thu, 29 Jun 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2fcbyo5t47qudkjzdwnb4tkhy6zd/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>なぜ無期限先物DEXは下落相場でも成長したのか</title>
-			<link>https://hashhub-research.com/articles/2023-06-28-why-did-the-perpetual-futures-dex-grow</link>
-			<guid isPermaLink="false">2023-06-28-why-did-the-perpetual-futures-dex-grow</guid>
-			<description>補足：無期限先物DEXとは&lt;br /&gt;1. 無期限先物DEXの現状&lt;br /&gt;2. なぜ無期限先物DEXは成長したのか&lt;br /&gt;3. 今後注目できるプロトコルは何か&lt;br /&gt;4. 総括：今後も無期限先物DEXが成長していく余地はあるか&lt;br /&gt;</description>
-			<pubDate>Wed, 28 Jun 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/zuiraqv71w28tcbhwcoa3vhh1is6/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
