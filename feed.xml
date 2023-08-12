@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>DeFiマーケットレポート【2023年7月】</title>
+			<link>https://hashhub-research.com/articles/2023-08-12-defi-market-2023-7</link>
+			<guid isPermaLink="false">2023-08-12-defi-market-2023-7</guid>
+			<description>TVL（Total Value Locked）&lt;br /&gt;DEXの出来高&lt;br /&gt;プロトコル収益額の比較&lt;br /&gt;ステーブルコイン&lt;br /&gt;DeFiに関する規制動向&lt;br /&gt;Layer 2&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Sat, 12 Aug 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2yz2prji1cravgenmyf5w2sz1jhb/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>論考：X（旧Twitter）が、トークンを発行することは絶対にないとする理由を考える</title>
 			<link>https://hashhub-research.com/articles/2023-08-11-reason-x-will-never-launch-token</link>
 			<guid isPermaLink="false">2023-08-11-reason-x-will-never-launch-token</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Project Marianaの概要&lt;br /&gt;国際決済におけるCBDCとDeFiテクノロジーの潜在的な利点と課題&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Sat, 08 Jul 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1ywog06nk749nnpzrf10tfws5cmn/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>dockの概要 -EVM互換を備え、ゼロ知識証明を導入予定のDID/VCプラットフォーム-</title>
-			<link>https://hashhub-research.com/articles/2023-07-07-about-dock</link>
-			<guid isPermaLink="false">2023-07-07-about-dock</guid>
-			<description>前提：2017年からDIDとVCを開発しているDock&lt;br /&gt;Dockの概要&lt;br /&gt;dockの特徴&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 07 Jul 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/v3v8hd8b6u718mls173q0pxi2czb/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
