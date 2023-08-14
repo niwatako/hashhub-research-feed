@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>PYUSD｜PayPalのステーブルコイン戦略とその影響</title>
+			<link>https://hashhub-research.com/articles/2023-08-14-about-paypal-usd</link>
+			<guid isPermaLink="false">2023-08-14-about-paypal-usd</guid>
+			<description>前提&lt;br /&gt;ステーブルコインの現状とPayPalの位置付け&lt;br /&gt;PYUSDの特徴と目的｜PayPalのステーブルコイン戦略について&lt;br /&gt;リスクと懸念&lt;br /&gt;総括｜PayPalのステーブルコインの将来展望&lt;br /&gt;</description>
+			<pubDate>Mon, 14 Aug 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ylijj748vmwiknk2ejhwjosqex6f/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>DeFiマーケットレポート【2023年7月】</title>
 			<link>https://hashhub-research.com/articles/2023-08-12-defi-market-2023-7</link>
 			<guid isPermaLink="false">2023-08-12-defi-market-2023-7</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Mantle Networkの概要&lt;br /&gt;Mantle Networkの仕組み&lt;br /&gt;Mantle経済圏について&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Tue, 11 Jul 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/tc39ujohkg5os03o5cb0rzp11y7t/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Project Mariana｜AMMを活用したCBDCのクロスボーダー決済の概念実証について</title>
-			<link>https://hashhub-research.com/articles/2023-07-08-about-project-mariana</link>
-			<guid isPermaLink="false">2023-07-08-about-project-mariana</guid>
-			<description>前提&lt;br /&gt;Project Marianaの概要&lt;br /&gt;国際決済におけるCBDCとDeFiテクノロジーの潜在的な利点と課題&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Sat, 08 Jul 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1ywog06nk749nnpzrf10tfws5cmn/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
