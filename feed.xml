@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>事業会社のウォレット戦略｜事例で分かるビジネス展開（前編）</title>
+			<link>https://hashhub-research.com/articles/2023-8-17-wallet-strategies-1</link>
+			<guid isPermaLink="false">2023-8-17-wallet-strategies-1</guid>
+			<description>前提&lt;br /&gt;Account Abstractionの概要と進捗&lt;br /&gt;ウォレット事例：unWallet、wappa、Argent&lt;br /&gt;サービス事例：VISA、InstaDapp&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Thu, 17 Aug 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/nys02agyrx1psozln2ja6egf7dl6/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>大企業にメリットがあるRWAとその課題</title>
 			<link>https://hashhub-research.com/articles/2023-08-15-about-rwa-for-enterprises</link>
 			<guid isPermaLink="false">2023-08-15-about-rwa-for-enterprises</guid>
@@ -188,14 +196,6 @@
 			<description>前提&lt;br /&gt;ハッカソンでの利用&lt;br /&gt;Lit Protocolが提供する機能&lt;br /&gt;Lit Protocolを成り立たせている仕組み&lt;br /&gt;おわりに&lt;br /&gt;</description>
 			<pubDate>Thu, 13 Jul 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/vkzv5fxxw4a79nl3826kekyjb1ps/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>DeFiマーケットレポート【2023年6月】</title>
-			<link>https://hashhub-research.com/articles/2023-07-12-defi-market-2023-6</link>
-			<guid isPermaLink="false">2023-07-12-defi-market-2023-6</guid>
-			<description>TVL（Total Value Locked）&lt;br /&gt;DEXの出来高&lt;br /&gt;プロトコル手数料収入の比較&lt;br /&gt;ステーブルコイン&lt;br /&gt;DeFiに関する規制動向&lt;br /&gt;Layer 2&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Wed, 12 Jul 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/vy2tqucqbfiktod5n8u4krungja6/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
