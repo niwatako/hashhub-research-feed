@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>事業会社のウォレット戦略｜事例で分かるビジネス展開（後編）</title>
+			<link>https://hashhub-research.com/articles/2023-08-18-wallet-strategies-2</link>
+			<guid isPermaLink="false">2023-08-18-wallet-strategies-2</guid>
+			<description>前提&lt;br /&gt;事業会社のウォレット戦略：Sequence Wallet&lt;br /&gt;顧客との接点：Starbucks Odyssey、LINE、Ponta&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Fri, 18 Aug 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/m33z57j00cgzerjqxcsh902j7ak4/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>事業会社のウォレット戦略｜事例で分かるビジネス展開（前編）</title>
 			<link>https://hashhub-research.com/articles/2023-8-17-wallet-strategies-1</link>
 			<guid isPermaLink="false">2023-8-17-wallet-strategies-1</guid>
@@ -188,14 +196,6 @@
 			<description>前提&lt;br /&gt;1：現状のレイヤー2のキラーアプリケーション&lt;br /&gt;2： Proto-Danksharding（ EIP-4844 ）&lt;br /&gt;3： OP-StackをベースにしたCoinbaseなどの独自レイヤー2&lt;br /&gt;4：Polygon 2.0&lt;br /&gt;5.短期的には解決されないレイヤー2の課題&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Sat, 15 Jul 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ab0a3d4r2643y20v5glp959vuyyw/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Lit Protocol -ウォレットのいらない世界を実現する-</title>
-			<link>https://hashhub-research.com/articles/2023-07-13-about-lit-protocol</link>
-			<guid isPermaLink="false">2023-07-13-about-lit-protocol</guid>
-			<description>前提&lt;br /&gt;ハッカソンでの利用&lt;br /&gt;Lit Protocolが提供する機能&lt;br /&gt;Lit Protocolを成り立たせている仕組み&lt;br /&gt;おわりに&lt;br /&gt;</description>
-			<pubDate>Thu, 13 Jul 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/vkzv5fxxw4a79nl3826kekyjb1ps/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
