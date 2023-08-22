@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Eigen Layerの現状 ロールアップ経済圏の拡大にみるEigen DAの競争優位性と課題</title>
+			<link>https://hashhub-research.com/articles/2023-08-22-state-of-eigen-layer-and-eigenda</link>
+			<guid isPermaLink="false">2023-08-22-state-of-eigen-layer-and-eigenda</guid>
+			<description>前提&lt;br /&gt;Eigen DAの役割と競争優位性&lt;br /&gt;Eigen DAの可能性と限界&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Tue, 22 Aug 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/9ive6ps2ppo3gl7cr03r7hdni3t9/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>事業会社のウォレット戦略｜事例で分かるビジネス展開（後編）</title>
 			<link>https://hashhub-research.com/articles/2023-08-18-wallet-strategies-2</link>
 			<guid isPermaLink="false">2023-08-18-wallet-strategies-2</guid>
@@ -188,14 +196,6 @@
 			<description>前提&lt;br /&gt;基本情報&lt;br /&gt;機能説明&lt;br /&gt; SubstackとParagraghとの違い&lt;br /&gt;Mirrorの狙いと展望&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Mon, 17 Jul 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/jv9xs9qrbbss9hzxjhv5bv5726yu/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>レイヤー2の重要トレンド 2023年下半期における５つの要点</title>
-			<link>https://hashhub-research.com/articles/2023-07-15-l2-trend-q3</link>
-			<guid isPermaLink="false">2023-07-15-l2-trend-q3</guid>
-			<description>前提&lt;br /&gt;1：現状のレイヤー2のキラーアプリケーション&lt;br /&gt;2： Proto-Danksharding（ EIP-4844 ）&lt;br /&gt;3： OP-StackをベースにしたCoinbaseなどの独自レイヤー2&lt;br /&gt;4：Polygon 2.0&lt;br /&gt;5.短期的には解決されないレイヤー2の課題&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Sat, 15 Jul 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ab0a3d4r2643y20v5glp959vuyyw/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
