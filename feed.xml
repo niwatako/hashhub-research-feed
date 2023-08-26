@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>『スノウ・クラッシュ』の作者がファウンダーを務める、 メタバース特化型ブロックチェーン「Lamina1」とは？</title>
+			<link>https://hashhub-research.com/articles/2023-08-26-about-lamina1</link>
+			<guid isPermaLink="false">2023-08-26-about-lamina1</guid>
+			<description>前提&lt;br /&gt;基本情報&lt;br /&gt;最終構想&lt;br /&gt;ベータネット公開&lt;br /&gt;展望と考察&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Sat, 26 Aug 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/3uy6h57jqmd2sc4b7facdk0c3t0r/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Coinbase 2023 Q2の決算から、これからの暗号資産交換業のビジネスを読み解く</title>
 			<link>https://hashhub-research.com/articles/coinbase-2023q2-result</link>
 			<guid isPermaLink="false">coinbase-2023q2-result</guid>
@@ -188,14 +196,6 @@
 			<description>前提&lt;br /&gt;Sablier V2の概要&lt;br /&gt;Sablier V2の目的と目標&lt;br /&gt;Sablier V2の主要な特徴と機能&lt;br /&gt;Sablier V2のビジネスモデル&lt;br /&gt;総括：Sablier V2の可能性と課題&lt;br /&gt;</description>
 			<pubDate>Thu, 20 Jul 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/mw39b4b8sljfhp02rck179en9d9e/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>新興LSDfiプロトコル</title>
-			<link>https://hashhub-research.com/articles/2023-07-19-about-lsdfi</link>
-			<guid isPermaLink="false">2023-07-19-about-lsdfi</guid>
-			<description>免責事項&lt;br /&gt;要約&lt;br /&gt;概要&lt;br /&gt;各種プロトコル&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Wed, 19 Jul 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/vk2pfl6gg3le1lfq94k38crihg2i/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
