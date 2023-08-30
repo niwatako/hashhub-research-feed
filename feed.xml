@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Discordのセキュリティ脅威【前編】：古典的なソーシャルエンジニアリング攻撃</title>
+			<link>https://hashhub-research.com/articles/2023-08-31-discord-security-threats</link>
+			<guid isPermaLink="false">2023-08-31-discord-security-threats</guid>
+			<description>1.はじめに&lt;br /&gt;2.本題に入る前に｜Discord公式によるセキュリティガイドは用意されています&lt;br /&gt;3.「アカウントなりすまし」を防ぐために〇〇の漏洩を防ぐ&lt;br /&gt;3.1 ソーシャルエンジニアリング攻撃&lt;br /&gt;</description>
+			<pubDate>Thu, 31 Aug 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/h19qood9z0909bft49mwi1y7sw8z/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>NFT（Non-Fungible-Token）の動向 23年8月</title>
 			<link>https://hashhub-research.com/articles/2023-08-30-nft-market</link>
 			<guid isPermaLink="false">2023-08-30-nft-market</guid>
@@ -188,14 +196,6 @@
 			<description>前提&lt;br /&gt;4K ProtocolとArcade.xyzの概要&lt;br /&gt;コレクターズアイテムをDeFI・Web3に持ち込むことによる価値&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Tue, 25 Jul 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/i7j53sp54fpyr6d66hwu15krinhw/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>NFT特化型ブロックチェーン「Ternoa」の概要</title>
-			<link>https://hashhub-research.com/articles/2023-07-24-about-ternoa</link>
-			<guid isPermaLink="false">2023-07-24-about-ternoa</guid>
-			<description>前提&lt;br /&gt;基本情報&lt;br /&gt;活用事例&lt;br /&gt;展望と考察&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Mon, 24 Jul 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/15w6866ehb1iuc594y3a4sw17e9r/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
