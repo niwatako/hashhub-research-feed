@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>NFT（Non-Fungible-Token）の動向 23年8月</title>
+			<link>https://hashhub-research.com/articles/2023-08-30-nft-market</link>
+			<guid isPermaLink="false">2023-08-30-nft-market</guid>
+			<description>前提&lt;br /&gt;Ethereum NFT販売の傾向&lt;br /&gt;OpenSaeのロイヤリティ方針変更&lt;br /&gt;コレクタブルのフロアプライス&lt;br /&gt;国内動向&lt;br /&gt;さいごに&lt;br /&gt;</description>
+			<pubDate>Wed, 30 Aug 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/l6fjtu43o6h4ff633r8h40g4znmp/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>月刊エアドロップガイド　2023年8月号：レイヤー2を中心にエアドロップ機会を求めて</title>
 			<link>https://hashhub-research.com/articles/2023-08-29-monthly-airdrop-guide</link>
 			<guid isPermaLink="false">2023-08-29-monthly-airdrop-guide</guid>
@@ -188,14 +196,6 @@
 			<description>前提&lt;br /&gt;基本情報&lt;br /&gt;活用事例&lt;br /&gt;展望と考察&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Mon, 24 Jul 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/15w6866ehb1iuc594y3a4sw17e9r/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>DeFiマーケットレポート【2023 Q2】</title>
-			<link>https://hashhub-research.com/articles/2023-07-22-defi-market-report-2023-q2</link>
-			<guid isPermaLink="false">2023-07-22-defi-market-report-2023-q2</guid>
-			<description>【4月のポイント】&lt;br /&gt;【5月のポイント】&lt;br /&gt;【6月のポイント】&lt;br /&gt;【2023 Q2 総括】&lt;br /&gt;2023 Q3以降に絡むナラティブは何か？&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Sat, 22 Jul 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/7581v3wt0tp18dvchoc3bs128wgn/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
