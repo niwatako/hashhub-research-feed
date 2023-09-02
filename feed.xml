@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Aerodromeの概要 Baseの中央流動性ハブとして期待されるDEXの可能性</title>
+			<link>https://hashhub-research.com/articles/2023-09-02-aerodrome-overview</link>
+			<guid isPermaLink="false">2023-09-02-aerodrome-overview</guid>
+			<description>Velodrome V2とAerodromeとの関係性&lt;br /&gt;Aerodromeの概要：(3,3)メカニズムのトークンエコノミー&lt;br /&gt;Baseチェーンにおける流動性の中心的存在になり得るか&lt;br /&gt;リスクと懸念事項&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Sat, 02 Sep 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/rb25vzc7nafltehkqk86ffuv3by4/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Discordのセキュリティ脅威【前編】：古典的なソーシャルエンジニアリング攻撃</title>
 			<link>https://hashhub-research.com/articles/2023-08-31-discord-security-threats</link>
 			<guid isPermaLink="false">2023-08-31-discord-security-threats</guid>
@@ -188,14 +196,6 @@
 			<description>前提&lt;br /&gt;Executive Summary&lt;br /&gt;Uniswap V4 概要&lt;br /&gt;Uniswap X 概要&lt;br /&gt;考察：Uniswapのアップグレードがもたらす影響とその意義とは何か&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Wed, 26 Jul 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/e8rgv7tjx82ox5ijgpuo9ylgr92g/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>時計やアートなどの実物コレクターズアイテムをNFT化してDeFI・Web3に持ち込む世界観</title>
-			<link>https://hashhub-research.com/articles/2023-07-25-bringing-collective-items-into-web3</link>
-			<guid isPermaLink="false">2023-07-25-bringing-collective-items-into-web3</guid>
-			<description>前提&lt;br /&gt;4K ProtocolとArcade.xyzの概要&lt;br /&gt;コレクターズアイテムをDeFI・Web3に持ち込むことによる価値&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Tue, 25 Jul 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/i7j53sp54fpyr6d66hwu15krinhw/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
