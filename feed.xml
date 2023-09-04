@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Discordのセキュリティ脅威【後編】：ブックマークレット攻撃</title>
+			<link>https://hashhub-research.com/articles/2023-09-04-discord-security-threats-2</link>
+			<guid isPermaLink="false">2023-09-04-discord-security-threats-2</guid>
+			<description>3.2. ブックマークレット攻撃&lt;br /&gt;4. 総括&lt;br /&gt;</description>
+			<pubDate>Mon, 04 Sep 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/atngis1f980r9y02k7w4l9jzyal4/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Aerodromeの概要 Baseの中央流動性ハブとして期待されるDEXの可能性</title>
 			<link>https://hashhub-research.com/articles/2023-09-02-aerodrome-overview</link>
 			<guid isPermaLink="false">2023-09-02-aerodrome-overview</guid>
@@ -188,14 +196,6 @@
 			<description>前提&lt;br /&gt;Ethereum NFT販売の傾向&lt;br /&gt;Blockchains by NFT Sales Volume&lt;br /&gt;PFP NFTの時代は終わったのか&lt;br /&gt;OpenSeaがNFTを交換する機能をリリース&lt;br /&gt;ブランド企業のNFT活用が今月も続く&lt;br /&gt;国内動向&lt;br /&gt;さいごに&lt;br /&gt;</description>
 			<pubDate>Thu, 27 Jul 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/26pv3snygs3j8eck3txmvevmhrd6/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Uniswap V4/Xの概要 流動性プールの挙動の柔軟性とルーティングアイデアの吸収</title>
-			<link>https://hashhub-research.com/articles/2023-07-26-about-uniswap-v4-x</link>
-			<guid isPermaLink="false">2023-07-26-about-uniswap-v4-x</guid>
-			<description>前提&lt;br /&gt;Executive Summary&lt;br /&gt;Uniswap V4 概要&lt;br /&gt;Uniswap X 概要&lt;br /&gt;考察：Uniswapのアップグレードがもたらす影響とその意義とは何か&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Wed, 26 Jul 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/e8rgv7tjx82ox5ijgpuo9ylgr92g/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
