@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>DeFiマーケットレポート【2023年8月】</title>
+			<link>https://hashhub-research.com/articles/2023-09-08-defi-market-2023-8</link>
+			<guid isPermaLink="false">2023-09-08-defi-market-2023-8</guid>
+			<description>TVL（Total Value Locked）&lt;br /&gt;DEXの出来高&lt;br /&gt;プロトコル手数料の比較&lt;br /&gt;ステーブルコイン&lt;br /&gt;DeFiに関する規制動向&lt;br /&gt;Layer 2&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Fri, 08 Sep 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/vvl9qduly29s1fxs49teql5kk0ss/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>中立性と透明性向上を目的とした保有暗号資産の財務情報の開示</title>
 			<link>https://hashhub-research.com/articles/portfolio-disclosure</link>
 			<guid isPermaLink="false">portfolio-disclosure</guid>
@@ -188,14 +196,6 @@
 			<description>前提：OP Stack, ZK StackなどAppchainプラットフォームの増加&lt;br /&gt;カテゴリごとの比較&lt;br /&gt; 総括&lt;br /&gt;</description>
 			<pubDate>Sat, 29 Jul 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/j935g9em55tk8sljkemhzdnj789v/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>NFT（Non-Fungible-Token）の動向 23年7月</title>
-			<link>https://hashhub-research.com/articles/2023-07-27-nft-market</link>
-			<guid isPermaLink="false">2023-07-27-nft-market</guid>
-			<description>前提&lt;br /&gt;Ethereum NFT販売の傾向&lt;br /&gt;Blockchains by NFT Sales Volume&lt;br /&gt;PFP NFTの時代は終わったのか&lt;br /&gt;OpenSeaがNFTを交換する機能をリリース&lt;br /&gt;ブランド企業のNFT活用が今月も続く&lt;br /&gt;国内動向&lt;br /&gt;さいごに&lt;br /&gt;</description>
-			<pubDate>Thu, 27 Jul 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/26pv3snygs3j8eck3txmvevmhrd6/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
