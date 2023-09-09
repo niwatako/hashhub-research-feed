@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Privacy Poolsの概要｜匿名性と規制遵守を両立する送金システム</title>
+			<link>https://hashhub-research.com/articles/2023-09-09-about-privacy-pools</link>
+			<guid isPermaLink="false">2023-09-09-about-privacy-pools</guid>
+			<description>Privacy Poolsの概要&lt;br /&gt;Privacy Poolsの概要&lt;br /&gt;技術背景・仕様&lt;br /&gt;運用の具体イメージ&lt;br /&gt;実用性の模索・展望&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Sat, 09 Sep 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/b0uo288xkh1fnaz69h78dzxb8mi7/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>DeFiマーケットレポート【2023年8月】</title>
 			<link>https://hashhub-research.com/articles/2023-09-08-defi-market-2023-8</link>
 			<guid isPermaLink="false">2023-09-08-defi-market-2023-8</guid>
@@ -188,14 +196,6 @@
 			<description>前提&lt;br /&gt;ID：Sismo、zkPassで匿名化される信頼&lt;br /&gt;DeFi：zkBob、tbDEXで信頼の発行者と検証者を切り離す&lt;br /&gt;余談：信頼で定義される個人&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Mon, 31 Jul 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/cdkisv6aa4hqwpm7mm6h43y07qi7/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Appchainプラットフォームの比較検討 - OP Stack, Arbitrum, ZK Stack, Polygon, Polkadot, Avalanche -</title>
-			<link>https://hashhub-research.com/articles/2023-07-29-about-app-chain</link>
-			<guid isPermaLink="false">2023-07-29-about-app-chain</guid>
-			<description>前提：OP Stack, ZK StackなどAppchainプラットフォームの増加&lt;br /&gt;カテゴリごとの比較&lt;br /&gt; 総括&lt;br /&gt;</description>
-			<pubDate>Sat, 29 Jul 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/j935g9em55tk8sljkemhzdnj789v/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
