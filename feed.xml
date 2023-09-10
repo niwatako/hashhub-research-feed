@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>論考：暗号資産業界が知っておくべき金融緩和漬けされた世界からの逆行と、意識する長期トレンド</title>
+			<link>https://hashhub-research.com/articles/2023-09-10-backwards-from-an-easing-soaked-world</link>
+			<guid isPermaLink="false">2023-09-10-backwards-from-an-easing-soaked-world</guid>
+			<description>前提&lt;br /&gt;金融緩和漬けされた世界からの逆行&lt;br /&gt;意識する長期トレンド&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Sun, 10 Sep 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/nsm7xxt7houa999jpxvfao470hfe/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Privacy Poolsの概要｜匿名性と規制遵守を両立する送金システム</title>
 			<link>https://hashhub-research.com/articles/2023-09-09-about-privacy-pools</link>
 			<guid isPermaLink="false">2023-09-09-about-privacy-pools</guid>
@@ -188,14 +196,6 @@
 			<description>免責事項&lt;br /&gt;要約&lt;br /&gt;概要&lt;br /&gt;ステーブルコインの各種概要と発行体について&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Tue, 01 Aug 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/o77i1eohhy5q22hm63tj716a15kf/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ゼロ知識証明を活用したID・DeFi利用環境の変化と影響</title>
-			<link>https://hashhub-research.com/articles/2023-07-31-id-and-defi-usage-environment-utilizing-zkp</link>
-			<guid isPermaLink="false">2023-07-31-id-and-defi-usage-environment-utilizing-zkp</guid>
-			<description>前提&lt;br /&gt;ID：Sismo、zkPassで匿名化される信頼&lt;br /&gt;DeFi：zkBob、tbDEXで信頼の発行者と検証者を切り離す&lt;br /&gt;余談：信頼で定義される個人&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Mon, 31 Jul 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/cdkisv6aa4hqwpm7mm6h43y07qi7/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
