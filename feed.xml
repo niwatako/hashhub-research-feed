@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>次のトレンドの種は何か -ナラティブの探求とその方法の解説-【前編】</title>
+			<link>https://hashhub-research.com/articles/2023-09-12-next-trend-narrative-tracking-1</link>
+			<guid isPermaLink="false">2023-09-12-next-trend-narrative-tracking-1</guid>
+			<description>前提&lt;br /&gt;本レポートの構成&lt;br /&gt;次のトレンドの種は何か&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Tue, 12 Sep 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/qdx9a2gu15atp9cfzp4vgzs5gmze/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>論考：暗号資産業界が知っておくべき金融緩和漬けされた世界からの逆行と、意識する長期トレンド</title>
 			<link>https://hashhub-research.com/articles/2023-09-10-backwards-from-an-easing-soaked-world</link>
 			<guid isPermaLink="false">2023-09-10-backwards-from-an-easing-soaked-world</guid>
@@ -188,14 +196,6 @@
 			<description>前提&lt;br /&gt;Ethereumレイヤー2の現状&lt;br /&gt;Shared Sequencerとは&lt;br /&gt;シーケンサーの分散化がもたらす影響と課題&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Wed, 02 Aug 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/91z1zf4ltlqf3z8mlhzkoiz1e3pe/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>法定通貨担保型ステーブルコインFDUSD｜Binanceが採用した新たな法定通貨担保型ステーブルコイン</title>
-			<link>https://hashhub-research.com/articles/2023-08-01-about-fdusd</link>
-			<guid isPermaLink="false">2023-08-01-about-fdusd</guid>
-			<description>免責事項&lt;br /&gt;要約&lt;br /&gt;概要&lt;br /&gt;ステーブルコインの各種概要と発行体について&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Tue, 01 Aug 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/o77i1eohhy5q22hm63tj716a15kf/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
