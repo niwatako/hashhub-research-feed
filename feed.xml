@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>NFTに対する代表的な攻撃手法を知る【前編】｜EVMチェーンにおける「承認/approve」の概念</title>
+			<link>https://hashhub-research.com/articles/2023-09-14-about-nft-scams-1</link>
+			<guid isPermaLink="false">2023-09-14-about-nft-scams-1</guid>
+			<description>前提&lt;br /&gt;approveの概念を知る｜ERC-721のsetApprovalForAllを理解するために&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Thu, 14 Sep 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ooyttg7fkrwyp5b20v6262cqoz6j/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>次のトレンドの種は何か -ナラティブの探求とその方法-【前編】</title>
 			<link>https://hashhub-research.com/articles/2023-09-12-next-trend-narrative-tracking-1</link>
 			<guid isPermaLink="false">2023-09-12-next-trend-narrative-tracking-1</guid>
@@ -188,14 +196,6 @@
 			<description>前提&lt;br /&gt;基本情報&lt;br /&gt;虹彩認証システム&lt;br /&gt;Worldcoin（$WLD）がローンチ&lt;br /&gt;展望と考察&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Sun, 06 Aug 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/sp8a1bts3uheozxnqfiisqsojcxt/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Shared Sequencerの概要 共有シーケンサーと分散化はレイヤー2の課題解決となり得るか</title>
-			<link>https://hashhub-research.com/articles/2023-08-02-shared-sequencer-overview</link>
-			<guid isPermaLink="false">2023-08-02-shared-sequencer-overview</guid>
-			<description>前提&lt;br /&gt;Ethereumレイヤー2の現状&lt;br /&gt;Shared Sequencerとは&lt;br /&gt;シーケンサーの分散化がもたらす影響と課題&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Wed, 02 Aug 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/91z1zf4ltlqf3z8mlhzkoiz1e3pe/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
