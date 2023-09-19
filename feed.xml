@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Nouns DAOのフォーキング事例からDAOガバナンスプロセスの限界と可能性を探る</title>
+			<link>https://hashhub-research.com/articles/2023-09-19-nouns-dao-forking</link>
+			<guid isPermaLink="false">2023-09-19-nouns-dao-forking</guid>
+			<description>前提&lt;br /&gt;NounsDAOのフォークの概要&lt;br /&gt;DAOのフォーキングに関する考察 &lt;br /&gt;総括 &lt;br /&gt;</description>
+			<pubDate>Tue, 19 Sep 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/a9aw6j04lcyz8kvx3ckh0qm31lrl/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Web3の情報収集｜社内事業メンバーの知識を底上げするリサーチ方法</title>
 			<link>https://hashhub-research.com/articles/2023-09-16-research-methods-for-web3</link>
 			<guid isPermaLink="false">2023-09-16-research-methods-for-web3</guid>
@@ -188,14 +196,6 @@
 			<description>前提&lt;br /&gt;Xが多かれ少なかれ共有しているWeb3的精神&lt;br /&gt;X（旧Twitter）が、トークンを発行することは絶対にないとする3つの理由&lt;br /&gt;トークン発行に合理的なケースとはなにか&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Fri, 11 Aug 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/zxwvomr85zq0c7zz1vmifdtnnc6o/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>リアルワールドアセット(RWA:Real world Assets)の現状・市場規模の拡大余地の概観</title>
-			<link>https://hashhub-research.com/articles/2023-08-09-state-of-rwa-in-a-half-of-2023</link>
-			<guid isPermaLink="false">2023-08-09-state-of-rwa-in-a-half-of-2023</guid>
-			<description>なぜ、リアルワールドアセットなのか？&lt;br /&gt;リアルワールドアセット2023年上半期までの現状&lt;br /&gt;リアルワールドアセット市場の拡大余地&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Wed, 09 Aug 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/4wq2sahhlp9l7lz4fvblelo41bp6/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
