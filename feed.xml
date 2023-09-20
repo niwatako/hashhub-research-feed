@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>NFTに対する代表的な攻撃手法を知る【中編】｜setApprovalForAll 、bulk listing signature、upgradeTo() functionの悪用</title>
+			<link>https://hashhub-research.com/articles/2023-09-20-about-nft-scams-2</link>
+			<guid isPermaLink="false">2023-09-20-about-nft-scams-2</guid>
+			<description>攻撃パターン1.setApprovalForAllの悪用&lt;br /&gt;攻撃パターン2.Seaport/Blur bulk listing signatureの悪用&lt;br /&gt;攻撃パターン3.upgradeTo()関数の悪用&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Wed, 20 Sep 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/s1nma8w0wpfwii4tbfpooq0uw65l/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Nouns DAOのフォーキング事例からDAOガバナンスプロセスの限界と可能性を探る</title>
 			<link>https://hashhub-research.com/articles/2023-09-19-nouns-dao-forking</link>
 			<guid isPermaLink="false">2023-09-19-nouns-dao-forking</guid>
@@ -188,14 +196,6 @@
 			<description>TVL（Total Value Locked）&lt;br /&gt;DEXの出来高&lt;br /&gt;プロトコル収益額の比較&lt;br /&gt;ステーブルコイン&lt;br /&gt;DeFiに関する規制動向&lt;br /&gt;Layer 2&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Sat, 12 Aug 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2yz2prji1cravgenmyf5w2sz1jhb/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>論考：X（旧Twitter）が、トークンを発行することは絶対にないとする理由を考える</title>
-			<link>https://hashhub-research.com/articles/2023-08-11-reason-x-will-never-launch-token</link>
-			<guid isPermaLink="false">2023-08-11-reason-x-will-never-launch-token</guid>
-			<description>前提&lt;br /&gt;Xが多かれ少なかれ共有しているWeb3的精神&lt;br /&gt;X（旧Twitter）が、トークンを発行することは絶対にないとする3つの理由&lt;br /&gt;トークン発行に合理的なケースとはなにか&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 11 Aug 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/zxwvomr85zq0c7zz1vmifdtnnc6o/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
