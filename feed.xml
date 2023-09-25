@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>EVM互換を実現する ビットコインのサイドチェーン「Spiderchain」とは？</title>
+			<link>https://hashhub-research.com/articles/2023-09-25-about-spiderchain</link>
+			<guid isPermaLink="false">2023-09-25-about-spiderchain</guid>
+			<description>前提&lt;br /&gt;ビットコインのサイドチェーン情報&lt;br /&gt;Spiderchainの概要&lt;br /&gt;Spiderchainの展望と考察&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Mon, 25 Sep 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/r6k0czrk06kp5xme1c5ezww5xnp3/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>レイヤー2へピボットする勝算とその背景、モジュール化するブロックチェーンのトレンドを知る</title>
 			<link>https://hashhub-research.com/articles/2023-09-23-l1-to-l2-pivot-and-modular-blockchain-trend</link>
 			<guid isPermaLink="false">2023-09-23-l1-to-l2-pivot-and-modular-blockchain-trend</guid>
@@ -187,15 +195,6 @@
 			<description>前提&lt;br /&gt;Account Abstractionの概要と進捗&lt;br /&gt;ウォレット事例：unWallet、wappa、Argent&lt;br /&gt;サービス事例：VISA、InstaDapp&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 17 Aug 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/nys02agyrx1psozln2ja6egf7dl6/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>大企業にメリットがあるRWAとその課題</title>
-			<link>https://hashhub-research.com/articles/2023-08-15-about-rwa-for-enterprises</link>
-			<guid isPermaLink="false">2023-08-15-about-rwa-for-enterprises</guid>
-			<description>前提：RWA（Real World Asset）は企業に向いている&lt;br /&gt;RWAの仕組み&lt;br /&gt;RWAの課題&lt;br /&gt;ソーシャルレンディングとの比較&lt;br /&gt; 総括
-&lt;br /&gt;</description>
-			<pubDate>Tue, 15 Aug 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/fz03hci9h1pjegsbtnlc6awvg7r0/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
