@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Statelessnessの概要｜Ethereumのさらなる分散化へ向けて</title>
+			<link>https://hashhub-research.com/articles/2023-09-26-about-statelessness</link>
+			<guid isPermaLink="false">2023-09-26-about-statelessness</guid>
+			<description>前提&lt;br /&gt;Statelessnessの概要&lt;br /&gt;ユーザーとして注目すること&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Tue, 26 Sep 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2ll26n991s9cw39xeq49nhb6ww6v/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>EVM互換を実現する ビットコインのサイドチェーン「Spiderchain」とは？</title>
 			<link>https://hashhub-research.com/articles/2023-09-25-about-spiderchain</link>
 			<guid isPermaLink="false">2023-09-25-about-spiderchain</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;事業会社のウォレット戦略：Sequence Wallet&lt;br /&gt;顧客との接点：Starbucks Odyssey、LINE、Ponta&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Fri, 18 Aug 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/m33z57j00cgzerjqxcsh902j7ak4/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>事業会社のウォレット戦略｜事例で分かるビジネス展開（前編）</title>
-			<link>https://hashhub-research.com/articles/2023-08-17-wallet-strategies-1</link>
-			<guid isPermaLink="false">2023-08-17-wallet-strategies-1</guid>
-			<description>前提&lt;br /&gt;Account Abstractionの概要と進捗&lt;br /&gt;ウォレット事例：unWallet、wappa、Argent&lt;br /&gt;サービス事例：VISA、InstaDapp&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 17 Aug 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/nys02agyrx1psozln2ja6egf7dl6/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
