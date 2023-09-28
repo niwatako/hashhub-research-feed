@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>週刊WEB3 SECURITY[23_0921~0927]</title>
+			<link>https://hashhub-research.com/articles/2023-09-28-weekly-web3-security</link>
+			<guid isPermaLink="false">2023-09-28-weekly-web3-security</guid>
+			<description>[サードパーティのセキュリティ侵害による被害報告が相次ぐ]&lt;br /&gt;[取引所関連]&lt;br /&gt;[フィッシング]&lt;br /&gt;[価格操作]&lt;br /&gt;[Wallet関連]&lt;br /&gt;[その他]&lt;br /&gt;</description>
+			<pubDate>Thu, 28 Sep 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ucrzfst2oidff5gvjm6jm79f5yma/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>NFT（Non-Fungible-Token）の動向 23年9月</title>
 			<link>https://hashhub-research.com/articles/2023-09-27-nft-market</link>
 			<guid isPermaLink="false">2023-09-27-nft-market</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;National Carbon Credit Registryの概要&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Wed, 23 Aug 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/va23nlafhrvgb36iffvcobc8gw3c/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Eigen Layerの現状 ロールアップ経済圏の拡大にみるEigen DAの競争優位性と課題</title>
-			<link>https://hashhub-research.com/articles/2023-08-22-state-of-eigen-layer-and-eigenda</link>
-			<guid isPermaLink="false">2023-08-22-state-of-eigen-layer-and-eigenda</guid>
-			<description>前提&lt;br /&gt;Eigen DAの役割と競争優位性&lt;br /&gt;Eigen DAの可能性と限界&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Tue, 22 Aug 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/9ive6ps2ppo3gl7cr03r7hdni3t9/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
