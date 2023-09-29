@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Coinbase創業者によるクリプトスタートアップ11のアイデアの解説</title>
+			<link>https://hashhub-research.com/articles/2023-9-28-startup-idea-by-coinbase-founder</link>
+			<guid isPermaLink="false">2023-9-28-startup-idea-by-coinbase-founder</guid>
+			<description>前提&lt;br /&gt;Coinbase創業者によるクリプトスタートアップ11のアイデア要約&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Thu, 28 Sep 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2rebngkvgepyhe83l9cvjes8d62e/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>週刊WEB3 SECURITY[23_0921~0927]</title>
 			<link>https://hashhub-research.com/articles/2023-09-28-weekly-web3-security</link>
 			<guid isPermaLink="false">2023-09-28-weekly-web3-security</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Coinbaseの2023 Q2の決算&lt;br /&gt;Coinbaseが今後収益増加を期待する領域&lt;br /&gt;暗号資産交換業としてのCoinbaseの強さ&lt;br /&gt;日本の個人投資家はBitcoinよりCoinbaseを買った方が良い？&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Fri, 25 Aug 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/s9wvw7up5op4uvkhzyw9xp9lzx24/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>UNDPがデジタル公共インフラとして公開したカーボンレジストリ｜National Carbon Credit Registryの概要</title>
-			<link>https://hashhub-research.com/articles/2023-08-23-about-national-carbon-credit-registry</link>
-			<guid isPermaLink="false">2023-08-23-about-national-carbon-credit-registry</guid>
-			<description>前提&lt;br /&gt;National Carbon Credit Registryの概要&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Wed, 23 Aug 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/va23nlafhrvgb36iffvcobc8gw3c/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
