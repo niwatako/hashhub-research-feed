@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>週刊WEB3 SECURITY[23_0928~1004]</title>
+			<link>https://hashhub-research.com/articles/2023-10-05-weekly-web3-security</link>
+			<guid isPermaLink="false">2023-10-05-weekly-web3-security</guid>
+			<description>[23年度Q3の被害まとめ]&lt;br /&gt;[23年9月の被害]&lt;br /&gt;[秘密鍵漏えい]&lt;br /&gt;[フィッシング]&lt;br /&gt;[Discordトークン漏洩]&lt;br /&gt;[取引所関連]&lt;br /&gt;[マルウェア]&lt;br /&gt;[その他]&lt;br /&gt;[読み物]&lt;br /&gt;</description>
+			<pubDate>Thu, 05 Oct 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/knhrs2sahx752xkyg9gy7pmjsgl4/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Optimismのエアドロップ戦略と二院制によるガバナンスモデル</title>
 			<link>https://hashhub-research.com/articles/2023-10-04-optimism-airdrop-strategy</link>
 			<guid isPermaLink="false">2023-10-04-optimism-airdrop-strategy</guid>
@@ -187,14 +195,6 @@
 			<description>1.はじめに&lt;br /&gt;2.本題に入る前に｜Discord公式によるセキュリティガイドは用意されています&lt;br /&gt;3.「アカウントなりすまし」を防ぐために〇〇の漏洩を防ぐ&lt;br /&gt;3.1 ソーシャルエンジニアリング攻撃&lt;br /&gt;</description>
 			<pubDate>Thu, 31 Aug 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/h19qood9z0909bft49mwi1y7sw8z/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>NFT（Non-Fungible-Token）の動向 23年8月</title>
-			<link>https://hashhub-research.com/articles/2023-08-30-nft-market</link>
-			<guid isPermaLink="false">2023-08-30-nft-market</guid>
-			<description>前提&lt;br /&gt;Ethereum NFT販売の傾向&lt;br /&gt;OpenSaeのロイヤリティ方針変更&lt;br /&gt;コレクタブルのフロアプライス&lt;br /&gt;国内動向&lt;br /&gt;さいごに&lt;br /&gt;</description>
-			<pubDate>Wed, 30 Aug 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/l6fjtu43o6h4ff633r8h40g4znmp/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
