@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>DeFiマーケットレポート【2023年9月】</title>
+			<link>https://hashhub-research.com/articles/2023-10-06-defi-market-2023-9</link>
+			<guid isPermaLink="false">2023-10-06-defi-market-2023-9</guid>
+			<description>TVL（Total Value Locked）&lt;br /&gt;DEX出来高&lt;br /&gt;プロトコル手数料&lt;br /&gt;ステーブルコイン&lt;br /&gt;DeFi関連の規制動向&lt;br /&gt;Layer 2&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Fri, 06 Oct 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/htg3v7ac4yx5nj0rhshhmq9m54bt/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>週刊WEB3 SECURITY[23_0928~1004]</title>
 			<link>https://hashhub-research.com/articles/2023-10-05-weekly-web3-security</link>
 			<guid isPermaLink="false">2023-10-05-weekly-web3-security</guid>
@@ -187,14 +195,6 @@
 			<description>Velodrome V2とAerodromeとの関係性&lt;br /&gt;Aerodromeの概要：(3,3)メカニズムのトークンエコノミー&lt;br /&gt;Baseチェーンにおける流動性の中心的存在になり得るか&lt;br /&gt;リスクと懸念事項&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Sat, 02 Sep 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/rb25vzc7nafltehkqk86ffuv3by4/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Discordのセキュリティ脅威【前編】：古典的なソーシャルエンジニアリング攻撃</title>
-			<link>https://hashhub-research.com/articles/2023-08-31-discord-security-threats</link>
-			<guid isPermaLink="false">2023-08-31-discord-security-threats</guid>
-			<description>1.はじめに&lt;br /&gt;2.本題に入る前に｜Discord公式によるセキュリティガイドは用意されています&lt;br /&gt;3.「アカウントなりすまし」を防ぐために〇〇の漏洩を防ぐ&lt;br /&gt;3.1 ソーシャルエンジニアリング攻撃&lt;br /&gt;</description>
-			<pubDate>Thu, 31 Aug 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/h19qood9z0909bft49mwi1y7sw8z/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
