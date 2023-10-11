@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>デルタニュートラル型ステーブルコイン: 登場背景と構造考察</title>
+			<link>https://hashhub-research.com/articles/2023-10-11-about-delta-neutral-stablecoin</link>
+			<guid isPermaLink="false">2023-10-11-about-delta-neutral-stablecoin</guid>
+			<description>はじめに&lt;br /&gt;暗号資産やRWAを担保とするステーブルコイン&lt;br /&gt;イールド付きSCの登場背景とLST担保型SCの課題&lt;br /&gt;デルタニュートラルとは&lt;br /&gt;デルタニュートラル型ステーブルコインが抱える課題&lt;br /&gt;</description>
+			<pubDate>Wed, 11 Oct 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2cq9vmw9h1y08vsot7h6ylh0a4p3/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>タイのRWA（Real World Assets）の現状</title>
 			<link>https://hashhub-research.com/articles/2023-10-09-real-world-assetsin-thailand</link>
 			<guid isPermaLink="false">2023-10-09-real-world-assetsin-thailand</guid>
@@ -187,14 +195,6 @@
 			<description>TVL（Total Value Locked）&lt;br /&gt;DEXの出来高&lt;br /&gt;プロトコル手数料の比較&lt;br /&gt;ステーブルコイン&lt;br /&gt;DeFiに関する規制動向&lt;br /&gt;Layer 2&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Fri, 08 Sep 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/vvl9qduly29s1fxs49teql5kk0ss/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Discordのセキュリティ脅威【後編】：ブックマークレット攻撃</title>
-			<link>https://hashhub-research.com/articles/2023-09-04-discord-security-threats-2</link>
-			<guid isPermaLink="false">2023-09-04-discord-security-threats-2</guid>
-			<description>3.2. ブックマークレット攻撃&lt;br /&gt;4. 総括&lt;br /&gt;</description>
-			<pubDate>Mon, 04 Sep 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/atngis1f980r9y02k7w4l9jzyal4/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
