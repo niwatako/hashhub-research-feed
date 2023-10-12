@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>週刊WEB3 SECURITY[23_1005~1011]</title>
+			<link>https://hashhub-research.com/articles/2023-10-12-weekly-web3-security</link>
+			<guid isPermaLink="false">2023-10-12-weekly-web3-security</guid>
+			<description>1.[Galxe、DNS攻撃により約1,120人のユーザーが被害を受け、~$270Kが盗まれる]&lt;br /&gt;2.[AvalancheのSocialFi ”Stars Arena”、リエントランシーアタックにより$2.9M流出 ※なお別の攻撃で$2K流出したばかりだった]&lt;br /&gt;3.[その他]&lt;br /&gt;</description>
+			<pubDate>Thu, 12 Oct 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/pbp2pucty38a8zopwz6aqi057383/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>デルタニュートラル型ステーブルコイン: 登場背景と構造考察</title>
 			<link>https://hashhub-research.com/articles/2023-10-11-about-delta-neutral-stablecoin</link>
 			<guid isPermaLink="false">2023-10-11-about-delta-neutral-stablecoin</guid>
@@ -187,14 +195,6 @@
 			<description>Privacy Poolsの概要&lt;br /&gt;技術背景・仕様&lt;br /&gt;運用の具体イメージ&lt;br /&gt;実用性の模索・展望&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Sat, 09 Sep 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/b0uo288xkh1fnaz69h78dzxb8mi7/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>DeFiマーケットレポート【2023年8月】</title>
-			<link>https://hashhub-research.com/articles/2023-09-08-defi-market-2023-8</link>
-			<guid isPermaLink="false">2023-09-08-defi-market-2023-8</guid>
-			<description>TVL（Total Value Locked）&lt;br /&gt;DEXの出来高&lt;br /&gt;プロトコル手数料の比較&lt;br /&gt;ステーブルコイン&lt;br /&gt;DeFiに関する規制動向&lt;br /&gt;Layer 2&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 08 Sep 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/vvl9qduly29s1fxs49teql5kk0ss/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
