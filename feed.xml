@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>月刊エアドロップガイド　2023年10月号 リキッドステーキング関連プロトコル</title>
+			<link>https://hashhub-research.com/articles/2023-10-13-monthly-airdrop-guide</link>
+			<guid isPermaLink="false">2023-10-13-monthly-airdrop-guide</guid>
+			<description>免責事項&lt;br /&gt;今回のエアドロ獲得方針と優先順位の考え方 &lt;br /&gt;トークン未発行のリキッドステーキング関連プロジェクトの概要&lt;br /&gt;アクションプランとモデルケース&lt;br /&gt;総括 &lt;br /&gt;</description>
+			<pubDate>Fri, 13 Oct 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/f1hbx9v8cgxmnsv6i37jw7y2ck0u/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>週刊WEB3 SECURITY[23_1005~1011]｜Galxeに対するDNS攻撃、Stars Arenaに対するリエントランシー攻撃etc.</title>
 			<link>https://hashhub-research.com/articles/2023-10-12-weekly-web3-security</link>
 			<guid isPermaLink="false">2023-10-12-weekly-web3-security</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;金融緩和漬けされた世界からの逆行&lt;br /&gt;意識する長期トレンド&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Sun, 10 Sep 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/nsm7xxt7houa999jpxvfao470hfe/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Privacy Poolsの概要｜匿名性と規制遵守を両立する送金システム</title>
-			<link>https://hashhub-research.com/articles/2023-09-09-about-privacy-pools</link>
-			<guid isPermaLink="false">2023-09-09-about-privacy-pools</guid>
-			<description>Privacy Poolsの概要&lt;br /&gt;技術背景・仕様&lt;br /&gt;運用の具体イメージ&lt;br /&gt;実用性の模索・展望&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Sat, 09 Sep 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/b0uo288xkh1fnaz69h78dzxb8mi7/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
