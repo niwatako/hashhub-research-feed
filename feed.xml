@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>EtherHiding｜Web3.0技術とBinance Smart Chain上のスマートコントラクトを利用した先進的な攻撃ベクトル</title>
+			<link>https://hashhub-research.com/articles/2023-10-18-about-etherhiding</link>
+			<guid isPermaLink="false">2023-10-18-about-etherhiding</guid>
+			<description>1.前提&lt;br /&gt;2.EtherHidingの概要&lt;br /&gt;3.EtherHidingによる攻撃の流れ&lt;br /&gt;4.課題、対策、まとめ&lt;br /&gt;</description>
+			<pubDate>Wed, 18 Oct 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/9xk0g7is52invhxj42hh8j1y4r6s/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Intentsの利用イメージ｜意図した取引を可能にする仕組み</title>
 			<link>https://hashhub-research.com/articles/2023-10-16-about-intents</link>
 			<guid isPermaLink="false">2023-10-16-about-intents</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;approveの概念を知る｜ERC-721のsetApprovalForAllを理解するために&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 14 Sep 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ooyttg7fkrwyp5b20v6262cqoz6j/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>次のトレンドの種は何か -ナラティブの探求とその方法-【前編】</title>
-			<link>https://hashhub-research.com/articles/2023-09-12-next-trend-narrative-tracking-1</link>
-			<guid isPermaLink="false">2023-09-12-next-trend-narrative-tracking-1</guid>
-			<description>前提&lt;br /&gt;本レポートの構成&lt;br /&gt;次のトレンドの種は何か&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Tue, 12 Sep 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/gz1i077kbl89i27nchffiipv1x4p/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
