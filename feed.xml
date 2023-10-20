@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>暗号資産業界におけるRWAトレンド・金利高の影響を冷静に俯瞰する</title>
+			<link>https://hashhub-research.com/articles/2023-10-20-overview-of-the-impact-of-rwa</link>
+			<guid isPermaLink="false">2023-10-20-overview-of-the-impact-of-rwa</guid>
+			<description>前提&lt;br /&gt;RWAトレンドは波乱も内包する可能性&lt;br /&gt;DeFiプロトコルは流動性を引き付けるのが困難に&lt;br /&gt;それでもRWAトレンドはしばらく継続&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Fri, 20 Oct 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/15v1v7sere13b12e75illrm1j9ps/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>週刊WEB3.0 SECURITY[23_1012~1018]｜Fantom Foundation関連ウォレットから~$7M相当の資産流出etc.</title>
 			<link>https://hashhub-research.com/articles/2023-10-19-weekly-web3-security</link>
 			<guid isPermaLink="false">2023-10-19-weekly-web3-security</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;情報の源流はどこか&lt;br /&gt;キュレート・整理された情報&lt;br /&gt;リサーチのポイント&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Sat, 16 Sep 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/kwf9ljjvauaif6nb1k71q1z6fc9i/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>次のトレンドの種は何か -ナラティブの探求とその方法-【後編】</title>
-			<link>https://hashhub-research.com/articles/2023-09-15-next-trend-narrative-tracking-2</link>
-			<guid isPermaLink="false">2023-09-15-next-trend-narrative-tracking-2</guid>
-			<description>前提&lt;br /&gt;ナラティブトラッカーの作成と使い方&lt;br /&gt;次のトレンドの種は何か&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 15 Sep 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8zly9rgrtk9gm1t85lhwacmhbyrr/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
