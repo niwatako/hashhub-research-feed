@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>DeFiマーケットレポート【2023年Q3】</title>
+			<link>https://hashhub-research.com/articles/2023-10-27-defi-market-report-2023-q3</link>
+			<guid isPermaLink="false">2023-10-27-defi-market-report-2023-q3</guid>
+			<description>前提&lt;br /&gt;【7月のポイント】&lt;br /&gt;【8月のポイント】&lt;br /&gt;【9月のポイント】&lt;br /&gt;Q3の振り返り、2023年Q4以降のトレンドは？&lt;br /&gt;総括 &lt;br /&gt;</description>
+			<pubDate>Fri, 27 Oct 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1mn2ltxtcb9s1ww2ha8rowby70hs/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Espresso Shared Sequencerの技術概要とロールアップが採用する可能性に関する考察</title>
 			<link>https://hashhub-research.com/articles/2023-10-23-espresso-overview</link>
 			<guid isPermaLink="false">2023-10-23-espresso-overview</guid>
@@ -187,14 +195,6 @@
 			<description>攻撃パターン1.setApprovalForAllの悪用&lt;br /&gt;攻撃パターン2.Seaport/Blur bulk listing signatureの悪用&lt;br /&gt;攻撃パターン3.upgradeTo()関数の悪用&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Wed, 20 Sep 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/s1nma8w0wpfwii4tbfpooq0uw65l/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Nouns DAOのフォーキング事例からDAOガバナンスプロセスの限界と可能性を探る</title>
-			<link>https://hashhub-research.com/articles/2023-09-19-nouns-dao-forking</link>
-			<guid isPermaLink="false">2023-09-19-nouns-dao-forking</guid>
-			<description>前提&lt;br /&gt;NounsDAOのフォークの概要&lt;br /&gt;DAOのフォーキングに関する考察 &lt;br /&gt;総括 &lt;br /&gt;</description>
-			<pubDate>Tue, 19 Sep 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/a9aw6j04lcyz8kvx3ckh0qm31lrl/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
