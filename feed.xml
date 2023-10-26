@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>週刊WEB3 SECURITY[23_1019~1025]｜Telegram tradingbot “Maestro”のルーターコントラクト侵害、”TrueUSD”「サードパーティの侵害」によるPII流出etc.</title>
+			<link>https://hashhub-research.com/articles/2023-10-26-weekly-web3-security</link>
+			<guid isPermaLink="false">2023-10-26-weekly-web3-security</guid>
+			<description>1.[Telegram tradingbot “Maestro”のルーターコントラクトが侵害され、$500k~の被害]&lt;br /&gt;2.[AegisWeb3の新機能Anti-RugPull]&lt;br /&gt;3.TrueUSD「サードパーティの侵害」によるPII流出&lt;br /&gt;4.[その他]&lt;br /&gt;</description>
+			<pubDate>Thu, 26 Oct 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/b4es8k6b9dwgdagirri3vop1xkfc/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>DeFiマーケットレポート【2023年Q3】</title>
 			<link>https://hashhub-research.com/articles/2023-10-25-defi-market-report-2023-q3</link>
 			<guid isPermaLink="false">2023-10-25-defi-market-report-2023-q3</guid>
@@ -187,14 +195,6 @@
 			<description>a.NFTを狙った攻撃パターン｜「metamask wallet login extension/Discordの悪用」&lt;br /&gt;b.NFTを狙った攻撃パターン｜「P2P Swap Order linkの悪用」&lt;br /&gt;c.NFTを狙った攻撃パターン｜「青い認証マークの悪用」&lt;br /&gt;d.NFTを狙った攻撃パターン｜「apple ID（iCloudの認証情報）の悪用」&lt;br /&gt;e.NFTを狙った攻撃パターン｜「.exe,.zip,.scr等の悪用」&lt;br /&gt;f.NFTを狙った攻撃パターン｜「悪質なオーダー検出を回避した攻撃」&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 21 Sep 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/i65zeks7dl5xhyys3o7szh1gx2wr/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>NFTに対する代表的な攻撃手法を知る【中編】｜setApprovalForAll 、bulk listing signature、upgradeTo() functionの悪用</title>
-			<link>https://hashhub-research.com/articles/2023-09-20-about-nft-scams-2</link>
-			<guid isPermaLink="false">2023-09-20-about-nft-scams-2</guid>
-			<description>攻撃パターン1.setApprovalForAllの悪用&lt;br /&gt;攻撃パターン2.Seaport/Blur bulk listing signatureの悪用&lt;br /&gt;攻撃パターン3.upgradeTo()関数の悪用&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Wed, 20 Sep 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/s1nma8w0wpfwii4tbfpooq0uw65l/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
