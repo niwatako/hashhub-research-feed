@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Ethereumの生体認証ウォレットはWeb3をマスに拡げるきっかけとなるか</title>
+			<link>https://hashhub-research.com/articles/2023-10-27-biometric-wallet-for-ethereum</link>
+			<guid isPermaLink="false">2023-10-27-biometric-wallet-for-ethereum</guid>
+			<description>前提&lt;br /&gt;Ethereumの生体認証ウォレット&lt;br /&gt;コア開発者による議論と妥協点&lt;br /&gt;生体認証が導入された世界のプロコン&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Fri, 27 Oct 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/msxi1e0b6k0nxfic0wrwofwv4wna/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>週刊WEB3 SECURITY[23_1019~1025]｜Telegram tradingbot “Maestro”のルーターコントラクト侵害、”TrueUSD”「サードパーティの侵害」によるPII流出etc.</title>
 			<link>https://hashhub-research.com/articles/2023-10-26-weekly-web3-security</link>
 			<guid isPermaLink="false">2023-10-26-weekly-web3-security</guid>
@@ -187,14 +195,6 @@
 			<description>EthereumのL2に進出するL1チェーンの概要&lt;br /&gt;考察１：なぜL2に進出しようと考えているのか、その背景を考える&lt;br /&gt;考察２：今後他のブロックチェーンもL2を展開しようとする可能性はあるか&lt;br /&gt;総括 &lt;br /&gt;</description>
 			<pubDate>Sat, 23 Sep 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/nvf8dmwq9f10qnlkmif81rzf6juu/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>NFTに対する代表的な攻撃手法を知る【後編】｜2021~2023年にかけて発生したNFTを狙った攻撃</title>
-			<link>https://hashhub-research.com/articles/2023-09-21-about-nft-scams-3</link>
-			<guid isPermaLink="false">2023-09-21-about-nft-scams-3</guid>
-			<description>a.NFTを狙った攻撃パターン｜「metamask wallet login extension/Discordの悪用」&lt;br /&gt;b.NFTを狙った攻撃パターン｜「P2P Swap Order linkの悪用」&lt;br /&gt;c.NFTを狙った攻撃パターン｜「青い認証マークの悪用」&lt;br /&gt;d.NFTを狙った攻撃パターン｜「apple ID（iCloudの認証情報）の悪用」&lt;br /&gt;e.NFTを狙った攻撃パターン｜「.exe,.zip,.scr等の悪用」&lt;br /&gt;f.NFTを狙った攻撃パターン｜「悪質なオーダー検出を回避した攻撃」&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 21 Sep 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/i65zeks7dl5xhyys3o7szh1gx2wr/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
