@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>NFT（Non-Fungible-Token）の動向 23年10月</title>
+			<link>https://hashhub-research.com/articles/2023-10-28-nft-market</link>
+			<guid isPermaLink="false">2023-10-28-nft-market</guid>
+			<description>前提&lt;br /&gt;NFTの数値情報&lt;br /&gt;世界のニュース&lt;br /&gt;国内のニュース&lt;br /&gt;さいごに&lt;br /&gt;</description>
+			<pubDate>Sat, 28 Oct 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/uulb0rod4i7exo2ii3e9jy28g1bq/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Ethereumの生体認証ウォレットはWeb3をマスに拡げるきっかけとなるか</title>
 			<link>https://hashhub-research.com/articles/2023-10-27-biometric-wallet-for-ethereum</link>
 			<guid isPermaLink="false">2023-10-27-biometric-wallet-for-ethereum</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;ビットコインのサイドチェーン情報&lt;br /&gt;Spiderchainの概要&lt;br /&gt;Spiderchainの展望と考察&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Mon, 25 Sep 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/r6k0czrk06kp5xme1c5ezww5xnp3/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>レイヤー2へピボットする勝算とその背景、モジュール化するブロックチェーンのトレンドを知る</title>
-			<link>https://hashhub-research.com/articles/2023-09-23-l1-to-l2-pivot-and-modular-blockchain-trend</link>
-			<guid isPermaLink="false">2023-09-23-l1-to-l2-pivot-and-modular-blockchain-trend</guid>
-			<description>EthereumのL2に進出するL1チェーンの概要&lt;br /&gt;考察１：なぜL2に進出しようと考えているのか、その背景を考える&lt;br /&gt;考察２：今後他のブロックチェーンもL2を展開しようとする可能性はあるか&lt;br /&gt;総括 &lt;br /&gt;</description>
-			<pubDate>Sat, 23 Sep 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/nvf8dmwq9f10qnlkmif81rzf6juu/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
