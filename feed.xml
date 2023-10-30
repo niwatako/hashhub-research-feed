@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>サブスクでブロックチェーンを作れる時代に！？ Avalancheのリリースしたノーコードブロックチェーン構築サービス 「AvaCloud」とは？</title>
+			<link>https://hashhub-research.com/articles/2023-10-30-avacloud-overview</link>
+			<guid isPermaLink="false">2023-10-30-avacloud-overview</guid>
+			<description>前提&lt;br /&gt;前提知識：Avalancheとは？&lt;br /&gt;AvaCloudとは？&lt;br /&gt;AvaCloudとAvalancheの展望&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Mon, 30 Oct 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8esc72h0ts2afejzuxx77j5bw2vc/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>NFT（Non-Fungible-Token）の動向 23年10月</title>
 			<link>https://hashhub-research.com/articles/2023-10-28-nft-market</link>
 			<guid isPermaLink="false">2023-10-28-nft-market</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Statelessnessの概要&lt;br /&gt;ユーザーとして注目すること&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Tue, 26 Sep 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2ll26n991s9cw39xeq49nhb6ww6v/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>EVM互換を実現する ビットコインのサイドチェーン「Spiderchain」とは？</title>
-			<link>https://hashhub-research.com/articles/2023-09-25-about-spiderchain</link>
-			<guid isPermaLink="false">2023-09-25-about-spiderchain</guid>
-			<description>前提&lt;br /&gt;ビットコインのサイドチェーン情報&lt;br /&gt;Spiderchainの概要&lt;br /&gt;Spiderchainの展望と考察&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Mon, 25 Sep 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/r6k0czrk06kp5xme1c5ezww5xnp3/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
