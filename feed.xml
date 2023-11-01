@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>中立性と透明性向上を目的とした保有暗号資産の財務情報の開示</title>
+			<link>https://hashhub-research.com/articles/portfolio-disclosure</link>
+			<guid isPermaLink="false">portfolio-disclosure</guid>
+			<description></description>
+			<pubDate>Wed, 01 Nov 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/akdevoawbe0aflk5qa74kfgmqrd7/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>INTMAXのWalletless Walletとは？</title>
 			<link>https://hashhub-research.com/articles/2023-10-31-intmax-walletless-wallet-overview</link>
 			<guid isPermaLink="false">2023-10-31-intmax-walletless-wallet-overview</guid>
@@ -141,14 +149,6 @@
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ic0q7l7tvc653bxagvm1y0jbgi4u/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		<item>
-			<title>中立性と透明性向上を目的とした保有暗号資産の財務情報の開示</title>
-			<link>https://hashhub-research.com/articles/portfolio-disclosure</link>
-			<guid isPermaLink="false">portfolio-disclosure</guid>
-			<description></description>
-			<pubDate>Thu, 05 Oct 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/akdevoawbe0aflk5qa74kfgmqrd7/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
 			<title>Optimismのエアドロップ戦略と二院制によるガバナンスモデル</title>
 			<link>https://hashhub-research.com/articles/2023-10-04-optimism-airdrop-strategy</link>
 			<guid isPermaLink="false">2023-10-04-optimism-airdrop-strategy</guid>
@@ -181,7 +181,7 @@
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2rebngkvgepyhe83l9cvjes8d62e/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		<item>
-			<title>週刊WEB3 SECURITY[23_0921~0927]｜サードパーティのセキュリティ侵害による被害報告etc.</title>
+			<title>週刊WEB3.0 SECURITY[23_0921~0927]｜サードパーティのセキュリティ侵害による被害報告etc.</title>
 			<link>https://hashhub-research.com/articles/2023-09-28-weekly-web3-security</link>
 			<guid isPermaLink="false">2023-09-28-weekly-web3-security</guid>
 			<description>[サードパーティのセキュリティ侵害による被害報告が相次ぐ]&lt;br /&gt;[取引所関連]&lt;br /&gt;[フィッシング]&lt;br /&gt;[価格操作]&lt;br /&gt;[Wallet関連]&lt;br /&gt;[その他]&lt;br /&gt;</description>
