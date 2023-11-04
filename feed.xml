@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>SUAVE｜ブロックビルダーの集権化へFlashbotsが提案する分散型ブロックビルディング</title>
+			<link>https://hashhub-research.com/articles/2023-11-04-suave-overview</link>
+			<guid isPermaLink="false">2023-11-04-suave-overview</guid>
+			<description>前提&lt;br /&gt;ブロックビルダー集権化が課題として認識された経緯&lt;br /&gt;ブロックビルダーが集権化する理由&lt;br /&gt;ブロックビルダー集権化に対する解決策の一つ、SUAVEとは&lt;br /&gt;既に集権化した競争力のあるブロックビルダーがSUAVEを利用する動機は何か？&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Sat, 04 Nov 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/r0ff5410fus8gh5mhjf8c1lzqesd/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>複数の強気材料に支えられるBitcoin 2024年の価格動向に関する論点</title>
 			<link>https://hashhub-research.com/articles/2022-11-03-bitcoin-market-keypoint</link>
 			<guid isPermaLink="false">2022-11-03-bitcoin-market-keypoint</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;今クリプト領域で起業するならどのようなテーマを選ぶか？ 10のアイデア&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Mon, 02 Oct 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/26sv5bru6qr6vqopdkl6copknyxy/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Coinbase創業者によるクリプトスタートアップ11のアイデアの解説</title>
-			<link>https://hashhub-research.com/articles/2023-9-28-startup-idea-by-coinbase-founder</link>
-			<guid isPermaLink="false">2023-9-28-startup-idea-by-coinbase-founder</guid>
-			<description>前提&lt;br /&gt;Coinbase創業者によるクリプトスタートアップ11のアイデア要約&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 29 Sep 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2rebngkvgepyhe83l9cvjes8d62e/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
