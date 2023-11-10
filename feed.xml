@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>5分でロールアップが立ち上がる Rollup as a Service(RaaS)の類型と考察</title>
+			<link>https://hashhub-research.com/articles/2023-11-10-rollup-as-a-service-overview</link>
+			<guid isPermaLink="false">2023-11-10-rollup-as-a-service-overview</guid>
+			<description>RaaSプロバイダーが登場した背景&lt;br /&gt;RaaSプロバイダーの類型とその概要&lt;br /&gt;今後の論点の考察&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Fri, 10 Nov 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/qdfut14kc2wfj82anmfflhi3jv44/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>週刊WEB3.0 SECURITY[23_1102~1108]｜マイクロソフトストアに登場した偽のLedger Liveアプリによる暗号資産盗難事件.etc</title>
 			<link>https://hashhub-research.com/articles/2023-11-09-weekly-web3-security</link>
 			<guid isPermaLink="false">2023-11-09-weekly-web3-security</guid>
@@ -187,14 +195,6 @@
 			<description>[23年度Q3の被害まとめ]&lt;br /&gt;[23年9月の被害]&lt;br /&gt;[秘密鍵漏えい]&lt;br /&gt;[フィッシング]&lt;br /&gt;[Discordトークン漏洩]&lt;br /&gt;[取引所関連]&lt;br /&gt;[マルウェア]&lt;br /&gt;[その他]&lt;br /&gt;[読み物]&lt;br /&gt;</description>
 			<pubDate>Thu, 05 Oct 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ic0q7l7tvc653bxagvm1y0jbgi4u/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Optimismのエアドロップ戦略と二院制によるガバナンスモデル</title>
-			<link>https://hashhub-research.com/articles/2023-10-04-optimism-airdrop-strategy</link>
-			<guid isPermaLink="false">2023-10-04-optimism-airdrop-strategy</guid>
-			<description>前提&lt;br /&gt;前提知識：Optimismとは？&lt;br /&gt;Optimismのエアドロップ情報&lt;br /&gt;Optimismのガバナンスモデル&lt;br /&gt;エアドロップが果たす役割&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Wed, 04 Oct 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/q42g0jvtw0wa4n9fey6zltbvuuif/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
