@@ -5,6 +5,15 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>週刊WEB3.0 SECURITY[23_1109~1115]｜EthereumのCreate2悪用、一部のBitcoinウォレットに潜在的なセキュリティリスク、Raft.fi悪用、Poloniexハッキング.etc</title>
+			<link>https://hashhub-research.com/articles/2023-11-16-weekly-web3-security</link>
+			<guid isPermaLink="false">2023-11-16-weekly-web3-security</guid>
+			<description>1.EthereumのCreate2機能悪用により約10万アドレスから$60M以上の被害&lt;br /&gt;2.2011年から2015年に生成されたBitcoinウォレットに潜在的なセキュリティリスク&lt;br /&gt;3.Raft.fiが悪用され$3.6M流出、攻撃者もしくじり盗んだ資金を失う
+&lt;br /&gt;4.[その他]&lt;br /&gt;</description>
+			<pubDate>Thu, 16 Nov 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/mrpwirls6038rvjgle1dagrkuulx/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ether.fiの概要 ステーカーの参入障壁の緩和とEigen Layerによるイールドの増幅</title>
 			<link>https://hashhub-research.com/articles/2023-11-15-ether-fi-overview</link>
 			<guid isPermaLink="false">2023-11-15-ether-fi-overview</guid>
@@ -187,14 +196,6 @@
 			<description>はじめに&lt;br /&gt;暗号資産やRWAを担保とするステーブルコイン&lt;br /&gt;イールド付きSCの登場背景とLST担保型SCの課題&lt;br /&gt;デルタニュートラルとは&lt;br /&gt;デルタニュートラル型ステーブルコインが抱える課題&lt;br /&gt;</description>
 			<pubDate>Wed, 11 Oct 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2cq9vmw9h1y08vsot7h6ylh0a4p3/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>タイのRWA（Real World Assets）の現状</title>
-			<link>https://hashhub-research.com/articles/2023-10-09-real-world-assetsin-thailand</link>
-			<guid isPermaLink="false">2023-10-09-real-world-assetsin-thailand</guid>
-			<description>免責事項&lt;br /&gt;要約&lt;br /&gt;RWAに関する規制状況の概要&lt;br /&gt;RealXの実例&lt;br /&gt;考察&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Mon, 09 Oct 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/84bkid2xav3mpccrrcmzlr8f29q8/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
