@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Polygon 2.0 徹底解説</title>
+			<link>https://hashhub-research.com/articles/2023-11-19-polygon-2-overview</link>
+			<guid isPermaLink="false">2023-11-19-polygon-2-overview</guid>
+			<description>はじめに&lt;br /&gt;Polygon zkEVM Validiumとは&lt;br /&gt;クロスチェーンブリッジ、ステーキングレイヤーとCDK&lt;br /&gt;新トークン$POLと旧トークン$MATIC&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Sun, 19 Nov 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/fyic3712y49apaxit8plwnjobo4b/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>週刊WEB3.0 SECURITY[23_1109~1115]｜EthereumのCreate2悪用、一部のBitcoinウォレットに潜在的なセキュリティリスク、Raft.fi悪用、Poloniexハッキング.etc</title>
 			<link>https://hashhub-research.com/articles/2023-11-16-weekly-web3-security</link>
 			<guid isPermaLink="false">2023-11-16-weekly-web3-security</guid>
@@ -188,14 +196,6 @@
 			<description>1.[Galxe、DNS攻撃により約1,120人のユーザーが被害を受け、~$270Kが盗まれる]&lt;br /&gt;2.[AvalancheのSocialFi ”Stars Arena”、リエントランシーアタックにより$2.9M流出 ]&lt;br /&gt;3.[その他]&lt;br /&gt;</description>
 			<pubDate>Thu, 12 Oct 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/k7i6aumrrzorrv7n4opnbpt09hd7/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>デルタニュートラル型ステーブルコイン: 登場背景と構造考察</title>
-			<link>https://hashhub-research.com/articles/2023-10-11-about-delta-neutral-stablecoin</link>
-			<guid isPermaLink="false">2023-10-11-about-delta-neutral-stablecoin</guid>
-			<description>はじめに&lt;br /&gt;暗号資産やRWAを担保とするステーブルコイン&lt;br /&gt;イールド付きSCの登場背景とLST担保型SCの課題&lt;br /&gt;デルタニュートラルとは&lt;br /&gt;デルタニュートラル型ステーブルコインが抱える課題&lt;br /&gt;</description>
-			<pubDate>Wed, 11 Oct 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2cq9vmw9h1y08vsot7h6ylh0a4p3/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
