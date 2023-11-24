@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Blastの概要 賛否が集まる「収益化に特化したレイヤー2」に関する考察</title>
+			<link>https://hashhub-research.com/articles/2021-11-24-about-blast-and-thought</link>
+			<guid isPermaLink="false">2021-11-24-about-blast-and-thought</guid>
+			<description>前提&lt;br /&gt;Blastの概要 &lt;br /&gt;特徴的なローンチ戦略&lt;br /&gt;X上で見られる批判や筆者考察&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Fri, 24 Nov 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/h6vbqqxqfhazdlx1r5hutj0bxaec/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>週刊WEB3.0 SECURITY[23_1116~1122]｜dYdXの保険基金が900万ドルの損失を被った市場操作攻撃、Kronosがハッキング被害に遭遇、約2600万ドルの損失を社内で補填.etc</title>
 			<link>https://hashhub-research.com/articles/2023-11-23-weekly-web3-security</link>
 			<guid isPermaLink="false">2023-11-23-weekly-web3-security</guid>
@@ -188,14 +196,6 @@
 			<description>1.前提&lt;br /&gt;2.EtherHidingの概要&lt;br /&gt;3.EtherHidingによる攻撃の流れ&lt;br /&gt;4.課題、対策、まとめ&lt;br /&gt;</description>
 			<pubDate>Wed, 18 Oct 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/9xk0g7is52invhxj42hh8j1y4r6s/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Intentsの利用イメージ｜意図した取引を可能にする仕組み</title>
-			<link>https://hashhub-research.com/articles/2023-10-16-about-intents</link>
-			<guid isPermaLink="false">2023-10-16-about-intents</guid>
-			<description>前提&lt;br /&gt;Intentsの概要&lt;br /&gt;CoW Swapの仕組み&lt;br /&gt;Uniswap Xの仕組み&lt;br /&gt;新興Intentsプラットフォーム&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Mon, 16 Oct 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/o82hw88oq62msh021w0s1yc7dl5a/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
