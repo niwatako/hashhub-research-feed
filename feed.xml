@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>NFT（Non-Fungible-Token）の動向 23年11月</title>
+			<link>https://hashhub-research.com/articles/2023-11-28-nft-market</link>
+			<guid isPermaLink="false">2023-11-28-nft-market</guid>
+			<description>前提&lt;br /&gt;NFTの数値情報&lt;br /&gt;海外のNFT関連ニュース&lt;br /&gt;国内のNFT関連ニュース&lt;br /&gt;主役交代の月？&lt;br /&gt;さいごに&lt;br /&gt;参照&lt;br /&gt;</description>
+			<pubDate>Tue, 28 Nov 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/125neeueg7qp1l95iwzo94073tiw/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>プログレッシブ・オーナーシップと既存のエアドロップカルチャーとその課題を考察する</title>
 			<link>https://hashhub-research.com/articles/2023-11-25-progressive-ownership-and-airdrop-culture</link>
 			<guid isPermaLink="false">2023-11-25-progressive-ownership-and-airdrop-culture</guid>
@@ -188,14 +196,6 @@
 			<description>前提&lt;br /&gt;RWAトレンドは波乱も内包する可能性&lt;br /&gt;DeFiプロトコルは流動性を引き付けるのが困難に&lt;br /&gt;それでもRWAトレンドはしばらく継続&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Fri, 20 Oct 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/15v1v7sere13b12e75illrm1j9ps/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>週刊WEB3.0 SECURITY[23_1012~1018]｜Fantom Foundation関連ウォレットから~$7M相当の資産流出etc.</title>
-			<link>https://hashhub-research.com/articles/2023-10-19-weekly-web3-security</link>
-			<guid isPermaLink="false">2023-10-19-weekly-web3-security</guid>
-			<description>1.Fantom Foundation関連ウォレットから$7M相当の資産流出&lt;br /&gt;2.sandwich attack&lt;br /&gt;3.秘密鍵漏えい&lt;br /&gt;4.マルウェア&lt;br /&gt;5.ブックマークレット攻撃&lt;br /&gt;6.価格操作etc….&lt;br /&gt;7.読み物&lt;br /&gt;</description>
-			<pubDate>Thu, 19 Oct 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/xn4evflenda1050dyyiuqtleh9js/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
