@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>2023年を象徴する重要トピックへのイントロダクション【後編】</title>
+			<link>https://hashhub-research.com/articles/2023-12-8-2023-primary-topics-2</link>
+			<guid isPermaLink="false">2023-12-8-2023-primary-topics-2</guid>
+			<description>前提&lt;br /&gt;２０２３年を象徴する１０のトピック&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Fri, 08 Dec 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/jhfpwmjvt63cu5hgqkjb5h3n2mr5/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>週刊WEB3.0 SECURITY[23_1130~1206]｜Safe Walletユーザー、アドレスポイズニング攻撃で$2Mの被害.etc</title>
 			<link>https://hashhub-research.com/articles/2023-12-07-weekly-web3-security</link>
 			<guid isPermaLink="false">2023-12-07-weekly-web3-security</guid>
@@ -188,14 +196,6 @@
 			<description>前提&lt;br /&gt;前提知識：INTMAXとは？&lt;br /&gt;Walletless Walletとは？&lt;br /&gt;INTMAX及びINTMAX Walletless Walletの展望&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Tue, 31 Oct 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/jz9u8uicuqm2unhpiswswboiymd4/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>サブスクでブロックチェーンを作れる時代に！？ Avalancheのリリースしたノーコードブロックチェーン構築サービス 「AvaCloud」とは？</title>
-			<link>https://hashhub-research.com/articles/2023-10-30-avacloud-overview</link>
-			<guid isPermaLink="false">2023-10-30-avacloud-overview</guid>
-			<description>前提&lt;br /&gt;前提知識：Avalancheとは？&lt;br /&gt;AvaCloudとは？&lt;br /&gt;AvaCloudとAvalancheの展望&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Mon, 30 Oct 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8esc72h0ts2afejzuxx77j5bw2vc/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
