@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>週刊WEB3.0 SECURITY[23_1207~1213]｜OKX DEXのProxy Admin Ownerの秘密鍵漏洩.etc</title>
+			<link>https://hashhub-research.com/articles/2023-12-14-weekly-web3-security</link>
+			<guid isPermaLink="false">2023-12-14-weekly-web3-security</guid>
+			<description>1.[23年12月07日~12月13日]のインシデントまとめ&lt;br /&gt;2.その他&lt;br /&gt;</description>
+			<pubDate>Thu, 14 Dec 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/gdky5e4wobsnxhy58y76egq1flyw/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Hivemapperの概要　Drive to Earnで稼げる分散型地図プロトコルの将来性の考察</title>
 			<link>https://hashhub-research.com/articles/2023-12-09-hivemapper-overview</link>
 			<guid isPermaLink="false">2023-12-09-hivemapper-overview</guid>
@@ -188,14 +196,6 @@
 			<description>1.[”Unibot”ルータコントラクトの侵害]&lt;br /&gt;2.昨年のLastPass情報漏洩の被害継続中&lt;br /&gt;3.[その他]&lt;br /&gt;</description>
 			<pubDate>Thu, 02 Nov 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/cbqsr3w9ugz1ijzer98sbrp77c89/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>中立性と透明性向上を目的とした保有暗号資産の財務情報の開示</title>
-			<link>https://hashhub-research.com/articles/portfolio-disclosure</link>
-			<guid isPermaLink="false">portfolio-disclosure</guid>
-			<description></description>
-			<pubDate>Wed, 01 Nov 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/akdevoawbe0aflk5qa74kfgmqrd7/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
