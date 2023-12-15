@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>DeFiマーケットレポート【2023年11月】</title>
+			<link>https://hashhub-research.com/articles/2023-12-15-defi-market-2023-11</link>
+			<guid isPermaLink="false">2023-12-15-defi-market-2023-11</guid>
+			<description>DeFi：定量分析&lt;br /&gt;DeFi：エコシステムの動向&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Fri, 15 Dec 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/mmdjuufoiow0gl38s4vbiv41etqx/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>週刊WEB3.0 SECURITY[23_1207~1213]｜OKX DEXのProxy Admin Ownerの秘密鍵漏洩.etc</title>
 			<link>https://hashhub-research.com/articles/2023-12-14-weekly-web3-security</link>
 			<guid isPermaLink="false">2023-12-14-weekly-web3-security</guid>
@@ -188,14 +196,6 @@
 			<description>前提&lt;br /&gt;ETF・半減期・利上げサイクル終了など複数の強気材料&lt;br /&gt;紛争がBitcoinに与える影響&lt;br /&gt;念頭に起きたいネガティブな要素&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Fri, 03 Nov 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/i9jm4pfyqoji1aw1lsny6lavue0y/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>週刊WEB3.0 SECURITY[23_1026~1101]｜”Unibot”ルータコントラクトの侵害、LastPass情報漏洩の被害継続中.etc</title>
-			<link>https://hashhub-research.com/articles/2023-11-02-weekly-web3-security</link>
-			<guid isPermaLink="false">2023-11-02-weekly-web3-security</guid>
-			<description>1.[”Unibot”ルータコントラクトの侵害]&lt;br /&gt;2.昨年のLastPass情報漏洩の被害継続中&lt;br /&gt;3.[その他]&lt;br /&gt;</description>
-			<pubDate>Thu, 02 Nov 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/cbqsr3w9ugz1ijzer98sbrp77c89/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
