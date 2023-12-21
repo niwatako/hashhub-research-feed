@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>週刊WEB3.0 SECURITY #13｜NFT Trader、Flooring Protocol、Ledger Connect Kit.etc</title>
+			<link>https://hashhub-research.com/articles/2023-12-21-weekly-web3-security</link>
+			<guid isPermaLink="false">2023-12-21-weekly-web3-security</guid>
+			<description>前提&lt;br /&gt;今週のインシデント解説（攻撃手法別）&lt;br /&gt;総括｜まとめ、過去4週の傾向&lt;br /&gt;</description>
+			<pubDate>Thu, 21 Dec 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/rkr7yc7rl1xkmugili1irjq9enyb/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Web3.0における最新資金調達トレンド分析 #0</title>
 			<link>https://hashhub-research.com/articles/2023-12-17-latest-funding-trends-in-web-3-0</link>
 			<guid isPermaLink="false">2023-12-17-latest-funding-trends-in-web-3-0</guid>
@@ -188,14 +196,6 @@
 			<description>1.[マイクロソフトストアに登場した偽のLedger Liveアプリによる暗号資産盗難事件]&lt;br /&gt;2.[BSC上のIDOプラットフォームTrustPadが侵害される]&lt;br /&gt;3.[その他]&lt;br /&gt;</description>
 			<pubDate>Thu, 09 Nov 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/imgqsbyzab87fu5gmx3bhkoth9v7/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>DeFiマーケットレポート【2023年10月】</title>
-			<link>https://hashhub-research.com/articles/2023-11-08-defi-market-2023-10</link>
-			<guid isPermaLink="false">2023-11-08-defi-market-2023-10</guid>
-			<description>TVL（Total Value Locked）&lt;br /&gt;DEX出来高&lt;br /&gt;プロトコル手数料&lt;br /&gt;ステーブルコイン・DeFi関連の規制 &lt;br /&gt;Layer 2&lt;br /&gt;総括 &lt;br /&gt;</description>
-			<pubDate>Wed, 08 Nov 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8xe3peagm7htvc9svlkayy2ssylr/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
