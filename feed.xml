@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>2024年のEthereumの発展・レイヤー2環境の動向に関する論考</title>
+			<link>https://hashhub-research.com/articles/2023-12-23-how-l2-ecosystem-will-look-like</link>
+			<guid isPermaLink="false">2023-12-23-how-l2-ecosystem-will-look-like</guid>
+			<description>前提&lt;br /&gt;名実ともにレイヤー2中心で発展するEthereumとETHへの影響&lt;br /&gt;乱立するレイヤー2の悲観的な側面&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Sat, 23 Dec 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/531n5kke12oh8j50a6grtqx414d1/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>月刊エアドロップガイド　2023年12月号ポイントを採用するプロジェクト特集｜ポイントプログラムが成長を歪ませる効用とは</title>
 			<link>https://hashhub-research.com/articles/2023-12-22-monthly-airdrop-guide</link>
 			<guid isPermaLink="false">2023-12-22-monthly-airdrop-guide</guid>
@@ -188,14 +196,6 @@
 			<description>背景&lt;br /&gt;調査結果&lt;br /&gt;総評&lt;br /&gt;</description>
 			<pubDate>Mon, 13 Nov 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/3narqm6mkqkzxmsfyjr56oeuruvf/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>5分でロールアップが立ち上がる Rollup as a Service(RaaS)の類型と考察</title>
-			<link>https://hashhub-research.com/articles/2023-11-10-rollup-as-a-service-overview</link>
-			<guid isPermaLink="false">2023-11-10-rollup-as-a-service-overview</guid>
-			<description>RaaSプロバイダーが登場した背景&lt;br /&gt;RaaSプロバイダーの類型とその概要&lt;br /&gt;今後の論点の考察&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 10 Nov 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/qdfut14kc2wfj82anmfflhi3jv44/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
