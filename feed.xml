@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>KYCに準拠した安全なDeFiを提供する 基盤L2ソリューション「Kinto」とは？</title>
+			<link>https://hashhub-research.com/articles/2023-12-27-about-kinto</link>
+			<guid isPermaLink="false">2023-12-27-about-kinto</guid>
+			<description>前提&lt;br /&gt;Kintoの概要&lt;br /&gt;Kintoの変遷&lt;br /&gt;Kintoの展望&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Wed, 27 Dec 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/y21hwzvn8fqmhs2hl8qw82vmpmtq/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Web3.0における最新資金調達トレンド分析 #1</title>
 			<link>https://hashhub-research.com/articles/2023-12-25-latest-funding-trends-in-web-3-0</link>
 			<guid isPermaLink="false">2023-12-25-latest-funding-trends-in-web-3-0</guid>
@@ -188,14 +196,6 @@
 &lt;br /&gt;4.[その他]&lt;br /&gt;</description>
 			<pubDate>Thu, 16 Nov 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/mrpwirls6038rvjgle1dagrkuulx/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ether.fiの概要 ステーカーの参入障壁の緩和とEigen Layerによるイールドの増幅</title>
-			<link>https://hashhub-research.com/articles/2023-11-15-ether-fi-overview</link>
-			<guid isPermaLink="false">2023-11-15-ether-fi-overview</guid>
-			<description>前提&lt;br /&gt;ether.fiの概要：ステーカーへのグラデーションのある選択肢&lt;br /&gt;ether.fiの仕組みとインセンティブ提供の取り組み&lt;br /&gt;投資家視点でのether.fiを利用する上でのポイント&lt;br /&gt;リスク&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Wed, 15 Nov 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/sl5bg54te4loh1jpksxwu3fh37je/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
