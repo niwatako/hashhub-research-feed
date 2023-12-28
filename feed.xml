@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>NFT（Non-Fungible-Token）の動向 23年12月 &lt;2023年の総括も&gt; </title>
+			<link>https://hashhub-research.com/articles/2023-12-28-nft-market</link>
+			<guid isPermaLink="false">2023-12-28-nft-market</guid>
+			<description>前提&lt;br /&gt;NFTの数値情報&lt;br /&gt;海外のNFT関連ニュース&lt;br /&gt;国内のNFT関連ニュース&lt;br /&gt;2023年の総括&lt;br /&gt;参照&lt;br /&gt;</description>
+			<pubDate>Thu, 28 Dec 2023 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/yjt3p8gwyvl8xujxcc7go1jsapgq/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>KYCに準拠した安全なDeFiを提供する 基盤L2ソリューション「Kinto」とは？</title>
 			<link>https://hashhub-research.com/articles/2023-12-27-about-kinto</link>
 			<guid isPermaLink="false">2023-12-27-about-kinto</guid>
@@ -187,15 +195,6 @@
 			<description>はじめに&lt;br /&gt;Polygon zkEVM Validiumとは&lt;br /&gt;クロスチェーンブリッジ、ステーキングレイヤーとCDK&lt;br /&gt;新トークン$POLと旧トークン$MATIC&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Sun, 19 Nov 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/fyic3712y49apaxit8plwnjobo4b/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>週刊WEB3.0 SECURITY[23_1109~1115]｜EthereumのCreate2悪用、一部のBitcoinウォレットに潜在的なセキュリティリスク、Raft.fi悪用、Poloniexハッキング.etc</title>
-			<link>https://hashhub-research.com/articles/2023-11-16-weekly-web3-security</link>
-			<guid isPermaLink="false">2023-11-16-weekly-web3-security</guid>
-			<description>1.EthereumのCreate2機能悪用により約10万アドレスから$60M以上の被害&lt;br /&gt;2.2011年から2015年に生成されたBitcoinウォレットに潜在的なセキュリティリスク&lt;br /&gt;3.Raft.fiが悪用され$3.6M流出、攻撃者もしくじり盗んだ資金を失う
-&lt;br /&gt;4.[その他]&lt;br /&gt;</description>
-			<pubDate>Thu, 16 Nov 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/mrpwirls6038rvjgle1dagrkuulx/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
