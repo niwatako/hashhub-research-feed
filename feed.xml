@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>「リサーチャーが選ぶ注目のレポート7選」特集</title>
+			<link>https://hashhub-research.com/articles/2024-01-01-researchers-recommend-reports-2024</link>
+			<guid isPermaLink="false">2024-01-01-researchers-recommend-reports-2024</guid>
+			<description>リサーチャーおすすめレポート特集&lt;br /&gt;【リサーチャーおすすめレポート一覧】&lt;br /&gt;</description>
+			<pubDate>Mon, 01 Jan 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/xda4nx68eghsl7a433rky6n2vx5v/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Bitcoin・暗号資産を巡る2023年の概況</title>
 			<link>https://hashhub-research.com/articles/2023-12-31-overview-of-crypto-assets-in-2023</link>
 			<guid isPermaLink="false">2023-12-31-overview-of-crypto-assets-in-2023</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Blastの概要 &lt;br /&gt;特徴的なローンチ戦略&lt;br /&gt;X上で見られる批判や筆者考察&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Fri, 24 Nov 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/h6vbqqxqfhazdlx1r5hutj0bxaec/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>週刊WEB3.0 SECURITY[23_1116~1122]｜dYdXの保険基金が900万ドルの損失を被った市場操作攻撃、Kronosがハッキング被害に遭遇、約2600万ドルの損失を社内で補填.etc</title>
-			<link>https://hashhub-research.com/articles/2023-11-23-weekly-web3-security</link>
-			<guid isPermaLink="false">2023-11-23-weekly-web3-security</guid>
-			<description>1.dYdXの保険基金が900万ドルの損失を被った市場操作攻撃&lt;br /&gt;2.暗号資産取引所Kronosがハッキング被害に遭遇、約2600万ドルの損失を社内で補填&lt;br /&gt;3.[その他]&lt;br /&gt;</description>
-			<pubDate>Thu, 23 Nov 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/au6g1hbotz25kbq5mpt6xlu8z7uv/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
