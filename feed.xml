@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>WEB3.0 SECURITY #14｜エスカレートするフィッシング詐欺、Orbit Chain悪用、Pine Protocol悪用.etc</title>
+			<link>https://hashhub-research.com/articles/2024-01-05-web3-security</link>
+			<guid isPermaLink="false">2024-01-05-web3-security</guid>
+			<description>前提&lt;br /&gt;1.エスカレートするフィッシング詐欺&lt;br /&gt;2.Orbit Chain、「withdraw」関数における脆弱な検証および署名検証の問題により攻撃を受ける&lt;br /&gt;3.Pine Protocol、スマートコントラクトの脆弱性を悪用され、約40ETHの損失&lt;br /&gt;4.セキュリティ関連の読み物&lt;br /&gt;</description>
+			<pubDate>Fri, 05 Jan 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/fkra61q4hgs4zm7igb48jmv9hzgr/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>2024年の暗号資産・Web3業界の8の予想</title>
 			<link>https://hashhub-research.com/articles/2024-01-03-prediction-2024</link>
 			<guid isPermaLink="false">2024-01-03-prediction-2024</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Zest Protocolとは？&lt;br /&gt;機能と仕組み&lt;br /&gt;Zest Protocolの展望は？&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Wed, 29 Nov 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/mevnjx1g66dfq72qhbpgp4wi45p8/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>NFT（Non-Fungible-Token）の動向 23年11月</title>
-			<link>https://hashhub-research.com/articles/2023-11-28-nft-market</link>
-			<guid isPermaLink="false">2023-11-28-nft-market</guid>
-			<description>前提&lt;br /&gt;NFTの数値情報&lt;br /&gt;海外のNFT関連ニュース&lt;br /&gt;国内のNFT関連ニュース&lt;br /&gt;主役交代の月？&lt;br /&gt;さいごに&lt;br /&gt;参照&lt;br /&gt;</description>
-			<pubDate>Tue, 28 Nov 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/125neeueg7qp1l95iwzo94073tiw/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
