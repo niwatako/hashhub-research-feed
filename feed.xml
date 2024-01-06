@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Manta Networkの概要 モジュールで構築されゼロ知識証明アプリケーションを展開できるレイヤー2</title>
+			<link>https://hashhub-research.com/articles/2024-01-06-manta-network-overview</link>
+			<guid isPermaLink="false">2024-01-06-manta-network-overview</guid>
+			<description>前提&lt;br /&gt;Manta Networkの基本概要&lt;br /&gt;エコシステムと成長戦略&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Sat, 06 Jan 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/uu9bsl2cfev12pz6dfl7qrspyuvy/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>WEB3.0 SECURITY #14｜エスカレートするフィッシング詐欺、Orbit Chain悪用、Pine Protocol悪用.etc</title>
 			<link>https://hashhub-research.com/articles/2024-01-05-web3-security</link>
 			<guid isPermaLink="false">2024-01-05-web3-security</guid>
@@ -187,14 +195,6 @@
 			<description>1.KyberSwapエクスプロイト&lt;br /&gt;2.HTX (fka Huobi)とHeco Chainが攻撃され、$113.3Mの被害&lt;br /&gt;3.[その他]&lt;br /&gt;</description>
 			<pubDate>Thu, 30 Nov 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/r8jz83n1eri7s864r1ccblzrjpzq/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ビットコインネイティブのレンディングプロトコル「Zest Protocol」とは？</title>
-			<link>https://hashhub-research.com/articles/2023-11-29-zest-protocol-overview</link>
-			<guid isPermaLink="false">2023-11-29-zest-protocol-overview</guid>
-			<description>前提&lt;br /&gt;Zest Protocolとは？&lt;br /&gt;機能と仕組み&lt;br /&gt;Zest Protocolの展望は？&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Wed, 29 Nov 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/mevnjx1g66dfq72qhbpgp4wi45p8/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
