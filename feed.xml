@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Web3.0における最新資金調達トレンド分析 #2</title>
+			<link>https://hashhub-research.com/articles/2024-01-08-latest-funding-trends-in-web3</link>
+			<guid isPermaLink="false">2024-01-08-latest-funding-trends-in-web3</guid>
+			<description>前提&lt;br /&gt;1.Mining($21.78M)&lt;br /&gt;2.Infra($9M)&lt;br /&gt;3.DeFi（$15.7M）&lt;br /&gt;4.Mining、Infra、DeFi以外のカテゴリー&lt;br /&gt;総括｜23年12月以降のトレンドを牽引している投資会社Top10&lt;br /&gt;</description>
+			<pubDate>Mon, 08 Jan 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/gmjzienf3v8jsw6n12cttntv24ci/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Manta Networkの概要 モジュールで構築されゼロ知識証明アプリケーションを展開できるレイヤー2</title>
 			<link>https://hashhub-research.com/articles/2024-01-06-manta-network-overview</link>
 			<guid isPermaLink="false">2024-01-06-manta-network-overview</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Connextの概要&lt;br /&gt;Connextのユースケース&lt;br /&gt;Connextの展望&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Fri, 01 Dec 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/fbplxdpsmb56osa5l6z4ugnz3r04/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>週刊WEB3.0 SECURITY[23_1123~1129]｜KyberSwapエクスプロイト、HTX (fka Huobi)とHeco Chainハッキング.etc</title>
-			<link>https://hashhub-research.com/articles/2023-11-30-weekly-web3-security</link>
-			<guid isPermaLink="false">2023-11-30-weekly-web3-security</guid>
-			<description>1.KyberSwapエクスプロイト&lt;br /&gt;2.HTX (fka Huobi)とHeco Chainが攻撃され、$113.3Mの被害&lt;br /&gt;3.[その他]&lt;br /&gt;</description>
-			<pubDate>Thu, 30 Nov 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/r8jz83n1eri7s864r1ccblzrjpzq/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
