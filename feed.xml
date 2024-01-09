@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>FHE:Fully Homomorphic Encryption｜パブリックブロックチェーンにおけるプライバシーの実装技術</title>
+			<link>https://hashhub-research.com/articles/2023-01-09-fully-homomorphic-encryption-overview</link>
+			<guid isPermaLink="false">2023-01-09-fully-homomorphic-encryption-overview</guid>
+			<description>前提&lt;br /&gt;FHE: Fully Homomorphic Encryptionとは&lt;br /&gt;FHEの具体的なユースケース&lt;br /&gt;ZKPとMPC、FHEの相違点&lt;br /&gt;FHEの課題&lt;br /&gt;総括&lt;br /&gt;リファレンス&lt;br /&gt;</description>
+			<pubDate>Tue, 09 Jan 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/9jsxa92e6819r77rmmn4zuulagyb/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Web3.0における最新資金調達トレンド分析 #2</title>
 			<link>https://hashhub-research.com/articles/2024-01-08-latest-funding-trends-in-web3</link>
 			<guid isPermaLink="false">2024-01-08-latest-funding-trends-in-web3</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Binanceへの巨額罰金・CEO CZの辞任が意味することとは&lt;br /&gt;「暗号資産業界にとってポジティブ」は本当か&lt;br /&gt;スタートアップからの視点&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Sat, 02 Dec 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/uj1cl9knu29i799792iynv7inazy/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>クロスチェーンDappsやNFTを実現する開発基盤を提供する「Connext」とは？</title>
-			<link>https://hashhub-research.com/articles/2023-12-01-connext-overview</link>
-			<guid isPermaLink="false">2023-12-01-connext-overview</guid>
-			<description>前提&lt;br /&gt;Connextの概要&lt;br /&gt;Connextのユースケース&lt;br /&gt;Connextの展望&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Fri, 01 Dec 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/fbplxdpsmb56osa5l6z4ugnz3r04/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
