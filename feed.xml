@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>WEB3.0 SECURITY #15｜X(twitter)侵害とDaaSの深刻化</title>
+			<link>https://hashhub-research.com/articles/2024-01-12-web3-security</link>
+			<guid isPermaLink="false">2024-01-12-web3-security</guid>
+			<description>前提&lt;br /&gt;1.X(twitter)侵害とDaaSの深刻化&lt;br /&gt;2.セキュリティ関連の読み物&lt;br /&gt;</description>
+			<pubDate>Fri, 12 Jan 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ojifkl0s2quqb3j2dhtwcrqov2iv/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>FHE:Fully Homomorphic Encryption｜パブリックブロックチェーンにおけるプライバシーの実装技術</title>
 			<link>https://hashhub-research.com/articles/2023-01-09-fully-homomorphic-encryption-overview</link>
 			<guid isPermaLink="false">2023-01-09-fully-homomorphic-encryption-overview</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;２０２３年を象徴する１０のトピック&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Mon, 04 Dec 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ll6g5f5hgu927mzr9zxyza2tz13c/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Binanceへの巨額罰金・CEO CZの辞任が意味することとは</title>
-			<link>https://hashhub-research.com/articles/2023-12-02-thought-on-sanction-to-binance</link>
-			<guid isPermaLink="false">2023-12-02-thought-on-sanction-to-binance</guid>
-			<description>前提&lt;br /&gt;Binanceへの巨額罰金・CEO CZの辞任が意味することとは&lt;br /&gt;「暗号資産業界にとってポジティブ」は本当か&lt;br /&gt;スタートアップからの視点&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Sat, 02 Dec 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/uj1cl9knu29i799792iynv7inazy/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
