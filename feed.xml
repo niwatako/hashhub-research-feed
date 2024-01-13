@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Ethereum spot ETFが米国SECから承認される可能性、時期、展望を考える</title>
+			<link>https://hashhub-research.com/articles/2024-01-13-ethereum-spot-etf-potential</link>
+			<guid isPermaLink="false">2024-01-13-ethereum-spot-etf-potential</guid>
+			<description>前提&lt;br /&gt;Bitcoin spot ETF承認後の状況と承認理由&lt;br /&gt;ブルームバーグアナリストによるEthereum spot ETFの承認予想&lt;br /&gt;ETHとBTCの資産としての性質の類似性の検討と考察 &lt;br /&gt;総括 &lt;br /&gt;</description>
+			<pubDate>Sat, 13 Jan 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0lzwfcm5qyk4ghvkf3ytpxc9p2pa/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>WEB3.0 SECURITY #15｜X(twitter)侵害とDaaSの深刻化</title>
 			<link>https://hashhub-research.com/articles/2024-01-12-web3-security</link>
 			<guid isPermaLink="false">2024-01-12-web3-security</guid>
@@ -187,14 +195,6 @@
 			<description>1.Safe Walletユーザー、アドレスポイズニング攻撃で$2Mの被害&lt;br /&gt;2.1,000人を超えるユーザーがStargateの投票に参加し、およそ$43K損失&lt;br /&gt;3.Beosinによる23年11月ブロックチェーンセキュリティ総括&lt;br /&gt;4.[その他]&lt;br /&gt;</description>
 			<pubDate>Thu, 07 Dec 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/lfvyaytcxl5rfebl52zd8ddo7c75/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>2023年を象徴する重要トピックへのイントロダクション【前編】</title>
-			<link>https://hashhub-research.com/articles/2023-12-4-2023-primary-topics-1</link>
-			<guid isPermaLink="false">2023-12-4-2023-primary-topics-1</guid>
-			<description>前提&lt;br /&gt;２０２３年を象徴する１０のトピック&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Mon, 04 Dec 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ll6g5f5hgu927mzr9zxyza2tz13c/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
