@@ -14,8 +14,8 @@
 		</item>
 		<item>
 			<title>FHE:Fully Homomorphic Encryption｜パブリックブロックチェーンにおけるプライバシーの実装技術</title>
-			<link>https://hashhub-research.com/articles/2023-01-09-fully-homomorphic-encryption-overview</link>
-			<guid isPermaLink="false">2023-01-09-fully-homomorphic-encryption-overview</guid>
+			<link>https://hashhub-research.com/articles/2024-01-09-fully-homomorphic-encryption-overview</link>
+			<guid isPermaLink="false">2024-01-09-fully-homomorphic-encryption-overview</guid>
 			<description>前提&lt;br /&gt;FHE: Fully Homomorphic Encryptionとは&lt;br /&gt;FHEの具体的なユースケース&lt;br /&gt;ZKPとMPC、FHEの相違点&lt;br /&gt;FHEの課題&lt;br /&gt;総括&lt;br /&gt;リファレンス&lt;br /&gt;</description>
 			<pubDate>Tue, 09 Jan 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/9jsxa92e6819r77rmmn4zuulagyb/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
