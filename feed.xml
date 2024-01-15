@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Web3.0における最新資金調達トレンド分析 #3</title>
+			<link>https://hashhub-research.com/articles/2024-01-15-latest-funding-trends-in-web3</link>
+			<guid isPermaLink="false">2024-01-15-latest-funding-trends-in-web3</guid>
+			<description>前提&lt;br /&gt;1.Mining($65M)&lt;br /&gt;2.Games($21M)&lt;br /&gt;3.NFT($2.5M)&lt;br /&gt;4.Others($34M)&lt;br /&gt;総括｜人工知能/機械学習とブロックチェーン&lt;br /&gt;</description>
+			<pubDate>Mon, 15 Jan 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1hl40p1lzvdmil52yqh6u9s2ntm9/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>イーサリアム ETFが米国SECから承認される可能性、時期、展望を考える</title>
 			<link>https://hashhub-research.com/articles/2024-01-13-ethereum-spot-etf-potential</link>
 			<guid isPermaLink="false">2024-01-13-ethereum-spot-etf-potential</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;２０２３年を象徴する１０のトピック&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Fri, 08 Dec 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/jhfpwmjvt63cu5hgqkjb5h3n2mr5/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>週刊WEB3.0 SECURITY[23_1130~1206]｜Safe Walletユーザー、アドレスポイズニング攻撃で$2Mの被害.etc</title>
-			<link>https://hashhub-research.com/articles/2023-12-07-weekly-web3-security</link>
-			<guid isPermaLink="false">2023-12-07-weekly-web3-security</guid>
-			<description>1.Safe Walletユーザー、アドレスポイズニング攻撃で$2Mの被害&lt;br /&gt;2.1,000人を超えるユーザーがStargateの投票に参加し、およそ$43K損失&lt;br /&gt;3.Beosinによる23年11月ブロックチェーンセキュリティ総括&lt;br /&gt;4.[その他]&lt;br /&gt;</description>
-			<pubDate>Thu, 07 Dec 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/lfvyaytcxl5rfebl52zd8ddo7c75/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
