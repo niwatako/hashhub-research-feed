@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Injectiveエコシステムランドスケープ｜急成長するIBC対応・DeFi/RWAに最適化したレイヤー1ブロックチェーンの概要</title>
+			<link>https://hashhub-research.com/articles/2024-01-16-injective-overview</link>
+			<guid isPermaLink="false">2024-01-16-injective-overview</guid>
+			<description>前提&lt;br /&gt;Injectiveの概要、注目された理由&lt;br /&gt;Injectiveの展望：リアルワールドアセットとCosmos系チェーンとの接続を可能にするVolanアップグレード&lt;br /&gt;エアドロップポテンシャルを背景にTVL、取引量を伸ばすプロジェクト&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Tue, 16 Jan 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1yz7rhhliiq0urr4o3ztq6wsn8wk/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Web3.0における最新資金調達トレンド分析 #3</title>
 			<link>https://hashhub-research.com/articles/2024-01-15-latest-funding-trends-in-web3</link>
 			<guid isPermaLink="false">2024-01-15-latest-funding-trends-in-web3</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Hivemapperの概要&lt;br /&gt;HONEYトークンの概要、トークンエコノミクス&lt;br /&gt;Hivemapperの将来性の考察&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Sat, 09 Dec 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/rtg0227n05b28kfjqmahv38w8u1u/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>2023年を象徴する重要トピックへのイントロダクション【後編】</title>
-			<link>https://hashhub-research.com/articles/2023-12-8-2023-primary-topics-2</link>
-			<guid isPermaLink="false">2023-12-8-2023-primary-topics-2</guid>
-			<description>前提&lt;br /&gt;２０２３年を象徴する１０のトピック&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 08 Dec 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/jhfpwmjvt63cu5hgqkjb5h3n2mr5/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
