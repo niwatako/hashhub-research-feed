@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Motoko Ghostsの概要 -  エアドロを切り口とした、ICP NFTの再考察 -</title>
+			<link>https://hashhub-research.com/articles/2024-01-16-motoko-ghosts</link>
+			<guid isPermaLink="false">2024-01-16-motoko-ghosts</guid>
+			<description>前提&lt;br /&gt;１．Motoko Ghostsの概要&lt;br /&gt;２．直近１年のICP界隈の動きと、$MOTOKOのエアドロの背景&lt;br /&gt;３．Motoko Ghostsの分析&lt;br /&gt;５．Motoko Ghostsの今後についての考察 (仮説)&lt;br /&gt;６．エアドロについて私見&lt;br /&gt;終わりに&lt;br /&gt;</description>
+			<pubDate>Tue, 16 Jan 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/v6xwkghwxkbs08ibdaqc6hyp8poi/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Injectiveエコシステムランドスケープ｜急成長するIBC対応・DeFi/RWAに最適化したレイヤー1ブロックチェーンの概要</title>
 			<link>https://hashhub-research.com/articles/2024-01-16-injective-overview</link>
 			<guid isPermaLink="false">2024-01-16-injective-overview</guid>
@@ -187,14 +195,6 @@
 			<description>1.[23年12月07日~12月13日]のインシデントまとめ&lt;br /&gt;2.その他&lt;br /&gt;</description>
 			<pubDate>Thu, 14 Dec 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/gdky5e4wobsnxhy58y76egq1flyw/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Hivemapperの概要　Drive to Earnで稼げる分散型地図プロトコルの将来性の考察</title>
-			<link>https://hashhub-research.com/articles/2023-12-09-hivemapper-overview</link>
-			<guid isPermaLink="false">2023-12-09-hivemapper-overview</guid>
-			<description>前提&lt;br /&gt;Hivemapperの概要&lt;br /&gt;HONEYトークンの概要、トークンエコノミクス&lt;br /&gt;Hivemapperの将来性の考察&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Sat, 09 Dec 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/rtg0227n05b28kfjqmahv38w8u1u/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
