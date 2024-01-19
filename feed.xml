@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>DeFiマーケットレポート【2023年12月】</title>
+			<link>https://hashhub-research.com/articles/2024-01-19-defi-market-report-2023-12</link>
+			<guid isPermaLink="false">2024-01-19-defi-market-report-2023-12</guid>
+			<description>DeFi：定量分析&lt;br /&gt;エコシステムの個別動向&lt;br /&gt;2023年全体の振り返りと総括&lt;br /&gt;</description>
+			<pubDate>Fri, 19 Jan 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/vicd3j7yatblyegks0v9da4njuw7/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Base現況 Coinbaseのレイヤー2の2024年の方向性</title>
 			<link>https://hashhub-research.com/articles/2024-01-18-base-2024-overview</link>
 			<guid isPermaLink="false">2024-01-18-base-2024-overview</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;DePINの概要およびそれがもらたらすもの&lt;br /&gt;DePINの主要プロジェクト&lt;br /&gt;DePINについて筆者考察&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Sat, 16 Dec 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/rxnmnnp3rixftryzbokly2eap5ym/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>DeFiマーケットレポート【2023年11月】</title>
-			<link>https://hashhub-research.com/articles/2023-12-15-defi-market-2023-11</link>
-			<guid isPermaLink="false">2023-12-15-defi-market-2023-11</guid>
-			<description>DeFi：定量分析&lt;br /&gt;DeFi：エコシステムの動向&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 15 Dec 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/mmdjuufoiow0gl38s4vbiv41etqx/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
