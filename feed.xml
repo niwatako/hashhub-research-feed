@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Web3.0における最新資金調達トレンド分析 #4</title>
+			<link>https://hashhub-research.com/articles/2024-01-22-latest-funding-trends-in-web3</link>
+			<guid isPermaLink="false">2024-01-22-latest-funding-trends-in-web3</guid>
+			<description>前提&lt;br /&gt;1.CeFi($176M)&lt;br /&gt;2.Infra($21.5M)&lt;br /&gt;3.Others($7.9M)&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Mon, 22 Jan 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/4e1p5yfguyoss0uq6mll45u3ki6b/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>DeFiマーケットレポート【2023年12月】</title>
 			<link>https://hashhub-research.com/articles/2024-01-19-defi-market-report-2023-12</link>
 			<guid isPermaLink="false">2024-01-19-defi-market-report-2023-12</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;資金調達活動の内訳&lt;br /&gt;総括｜過去4週間の資金調達トレンド&lt;br /&gt;</description>
 			<pubDate>Sun, 17 Dec 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ttshl2wc4an0aim6nsy6gfwg7u0g/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>DePINの概要  物理ネットワークをトークンでブートストラップするWeb3プロジェクト郡</title>
-			<link>https://hashhub-research.com/articles/2023-12-16-depin-overview</link>
-			<guid isPermaLink="false">2023-12-16-depin-overview</guid>
-			<description>前提&lt;br /&gt;DePINの概要およびそれがもらたらすもの&lt;br /&gt;DePINの主要プロジェクト&lt;br /&gt;DePINについて筆者考察&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Sat, 16 Dec 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/rxnmnnp3rixftryzbokly2eap5ym/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
