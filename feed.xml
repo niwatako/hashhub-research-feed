@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>不道徳なエアドロップガイド #0</title>
+			<link>https://hashhub-research.com/articles/2024-01-23-immoral-airdrop-guide</link>
+			<guid isPermaLink="false">2024-01-23-immoral-airdrop-guide</guid>
+			<description>前提&lt;br /&gt;1.$RouletteBOTのエアドロップ&lt;br /&gt;2.$DeFi Bitcoinのエアドロップ&lt;br /&gt;3.$MEME GroKのエアドロップ&lt;br /&gt;4.$BABYGROKEエアドロップ&lt;br /&gt;5~6.$DORK AIRDROPのエアドロップ&lt;br /&gt;7.$ZOOAのエアドロップ&lt;br /&gt;総括｜23年12月のエアドロップ実態調査&lt;br /&gt;</description>
+			<pubDate>Tue, 23 Jan 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/i4g55n7trr6qklu7tbajef4wn4ei/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Web3.0における最新資金調達トレンド分析 #4</title>
 			<link>https://hashhub-research.com/articles/2024-01-22-latest-funding-trends-in-web3</link>
 			<guid isPermaLink="false">2024-01-22-latest-funding-trends-in-web3</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;今週のインシデント解説（攻撃手法別）&lt;br /&gt;総括｜まとめ、過去4週の傾向&lt;br /&gt;</description>
 			<pubDate>Thu, 21 Dec 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/to0w28q6psk6cti1k2rgfvr9x85o/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Web3.0における最新資金調達トレンド分析 #0</title>
-			<link>https://hashhub-research.com/articles/2023-12-17-latest-funding-trends-in-web-3-0</link>
-			<guid isPermaLink="false">2023-12-17-latest-funding-trends-in-web-3-0</guid>
-			<description>前提&lt;br /&gt;資金調達活動の内訳&lt;br /&gt;総括｜過去4週間の資金調達トレンド&lt;br /&gt;</description>
-			<pubDate>Sun, 17 Dec 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ttshl2wc4an0aim6nsy6gfwg7u0g/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
