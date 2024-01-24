@@ -5,6 +5,15 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>大手企業が取り組むWeb3 -2023年の振り返り-</title>
+			<link>https://hashhub-research.com/articles/2024-01-24-leading-companies-work-on-web3-2023</link>
+			<guid isPermaLink="false">2024-01-24-leading-companies-work-on-web3-2023</guid>
+			<description>前提：Web3の思想から見ると企業との相性、Web3で重要な要素とは&lt;br /&gt;2023年に注目された分野&lt;br /&gt;大手企業とWeb3事業の課題&lt;br /&gt; 総括
+&lt;br /&gt;</description>
+			<pubDate>Wed, 24 Jan 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/zz1noh9219quddk7buyk37saqbkp/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>不道徳なエアドロップガイド #0</title>
 			<link>https://hashhub-research.com/articles/2024-01-23-immoral-airdrop-guide</link>
 			<guid isPermaLink="false">2024-01-23-immoral-airdrop-guide</guid>
@@ -187,14 +196,6 @@
 			<description>免責事項&lt;br /&gt;前提&lt;br /&gt;2023年12月現在、エアドロップの見込みがあるプロジェクト一覧（ポイントプログラム採用プロジェクト）&lt;br /&gt;ポイントプログラムの効用を考察する&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Fri, 22 Dec 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ma69z0ptvi5m6mkcuis1geu09ksx/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>週刊WEB3.0 SECURITY #13｜NFT Trader、Flooring Protocol、Ledger Connect Kit.etc</title>
-			<link>https://hashhub-research.com/articles/2023-12-21-weekly-web3-security</link>
-			<guid isPermaLink="false">2023-12-21-weekly-web3-security</guid>
-			<description>前提&lt;br /&gt;今週のインシデント解説（攻撃手法別）&lt;br /&gt;総括｜まとめ、過去4週の傾向&lt;br /&gt;</description>
-			<pubDate>Thu, 21 Dec 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/to0w28q6psk6cti1k2rgfvr9x85o/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
