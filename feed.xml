@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>期待されるweb3技術トレンド、なぜ注目が集まるのか？ -2024年編-【後編】</title>
+			<link>https://hashhub-research.com/articles/2024-01-26-web3-technical-trends-in-2024-2</link>
+			<guid isPermaLink="false">2024-01-26-web3-technical-trends-in-2024-2</guid>
+			<description>Introduction&lt;br /&gt;2024年注目される技術トレンド&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Fri, 26 Jan 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/hflowy2gju0k91v92k561fqrznyy/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>期待されるweb3技術トレンド、なぜ注目が集まるのか？ -2024年編-【前編】</title>
 			<link>https://hashhub-research.com/articles/2024-01-25-web3-technical-trends-in-2024-1</link>
 			<guid isPermaLink="false">2024-01-25-web3-technical-trends-in-2024-1</guid>
@@ -188,14 +196,6 @@
 			<description>前提&lt;br /&gt;資金調達活動の内訳&lt;br /&gt;1.Mining($125M)&lt;br /&gt;2.Games($102.3M)&lt;br /&gt;3.Infra（$15.7M）&lt;br /&gt;4.その他カテゴリー&lt;br /&gt;総括｜過去4週間の資金調達トレンド&lt;br /&gt;</description>
 			<pubDate>Mon, 25 Dec 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/cc9dp79s70z1vmrii2ib61rplbrx/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>2024年のEthereumの発展・レイヤー2環境の動向に関する論考</title>
-			<link>https://hashhub-research.com/articles/2023-12-23-how-l2-ecosystem-will-look-like</link>
-			<guid isPermaLink="false">2023-12-23-how-l2-ecosystem-will-look-like</guid>
-			<description>前提&lt;br /&gt;名実ともにレイヤー2中心で発展するEthereumとETHへの影響&lt;br /&gt;乱立するレイヤー2の悲観的な側面&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Sat, 23 Dec 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/531n5kke12oh8j50a6grtqx414d1/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
