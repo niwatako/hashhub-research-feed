@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>NFT（Non-Fungible-Token）の動向 24年1月 </title>
+			<link>https://hashhub-research.com/articles/2024-01-30-nft-market</link>
+			<guid isPermaLink="false">2024-01-30-nft-market</guid>
+			<description>前提&lt;br /&gt;NFTの数値情報&lt;br /&gt;海外のNFT関連ニュース&lt;br /&gt;国内のNFT関連ニュース&lt;br /&gt;参照&lt;br /&gt;</description>
+			<pubDate>Tue, 30 Jan 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/wcnlkj48it0ieawclb9y4i3r4886/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Web3.0における最新資金調達トレンド分析 #5</title>
 			<link>https://hashhub-research.com/articles/2024-01-29-latest-funding-trends-in-web3</link>
 			<guid isPermaLink="false">2024-01-29-latest-funding-trends-in-web3</guid>
@@ -188,14 +196,6 @@
 			<description>前提&lt;br /&gt;NFTの数値情報&lt;br /&gt;海外のNFT関連ニュース&lt;br /&gt;国内のNFT関連ニュース&lt;br /&gt;2023年の総括&lt;br /&gt;参照&lt;br /&gt;</description>
 			<pubDate>Thu, 28 Dec 2023 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/yjt3p8gwyvl8xujxcc7go1jsapgq/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>KYCに準拠した安全なDeFiを提供する 基盤L2ソリューション「Kinto」とは？</title>
-			<link>https://hashhub-research.com/articles/2023-12-27-about-kinto</link>
-			<guid isPermaLink="false">2023-12-27-about-kinto</guid>
-			<description>前提&lt;br /&gt;Kintoの概要&lt;br /&gt;Kintoの変遷&lt;br /&gt;Kintoの展望&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Wed, 27 Dec 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/y21hwzvn8fqmhs2hl8qw82vmpmtq/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
