@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>論考：レイヤー2運営、または独自ブロックチェーンの展開の方法・難しさに関わる考察</title>
+			<link>https://hashhub-research.com/articles/2024-02-02-how-to-operate-l2</link>
+			<guid isPermaLink="false">2024-02-02-how-to-operate-l2</guid>
+			<description>前提&lt;br /&gt;企業や起業家がレイヤー2に取り組む背景&lt;br /&gt;レイヤー2運営の収益とコスト構造&lt;br /&gt;ブロックチェーンまたはレイヤー2運営の難しさ&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Fri, 02 Feb 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/t3hlfl70m2jzj5u5zo4l8thrwl6l/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>なぜ、Pendleはイールドトークナイゼーションプロトコルの代表格となり得たのか？</title>
 			<link>https://hashhub-research.com/articles/2024-02-01-state-of-pendle</link>
 			<guid isPermaLink="false">2024-02-01-state-of-pendle</guid>
@@ -189,14 +197,6 @@
 			<description>リサーチャーおすすめレポート特集&lt;br /&gt;【リサーチャーおすすめレポート一覧】&lt;br /&gt;</description>
 			<pubDate>Mon, 01 Jan 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/xda4nx68eghsl7a433rky6n2vx5v/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Bitcoin・暗号資産を巡る2023年の概況</title>
-			<link>https://hashhub-research.com/articles/2023-12-31-overview-of-crypto-assets-in-2023</link>
-			<guid isPermaLink="false">2023-12-31-overview-of-crypto-assets-in-2023</guid>
-			<description>はじめに(視点の設定)&lt;br /&gt;</description>
-			<pubDate>Sun, 31 Dec 2023 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1t12zwc1toa2yrbzbofqr6b2in6u/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
