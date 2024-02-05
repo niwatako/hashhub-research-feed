@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Web3.0における最新資金調達トレンド分析 #6</title>
+			<link>https://hashhub-research.com/articles/2024-02-05-latest-funding-trends-in-web3</link>
+			<guid isPermaLink="false">2024-02-05-latest-funding-trends-in-web3</guid>
+			<description>前提&lt;br /&gt;1.DeFi($52.4M/12件)&lt;br /&gt;2.Infra($23.5M/8件)&lt;br /&gt;3.Games($22M/5件)&lt;br /&gt;4.CeFi($12M/2件)&lt;br /&gt;5.その他&lt;br /&gt;</description>
+			<pubDate>Mon, 05 Feb 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/zk6ulkci1xehyc8ignzu1ycipn0b/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>論考：レイヤー2運営、または独自ブロックチェーンの展開の方法・難しさに関わる考察</title>
 			<link>https://hashhub-research.com/articles/2024-02-02-how-to-operate-l2</link>
 			<guid isPermaLink="false">2024-02-02-how-to-operate-l2</guid>
@@ -189,14 +197,6 @@
 			<description>はじめに&lt;br /&gt;2024年HashHubリサーチチームがおすすめする書籍&lt;br /&gt;</description>
 			<pubDate>Tue, 02 Jan 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/cfm8m8pwd2j826nk0yq3q5dnqa3h/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>「リサーチャーが選ぶ注目のレポート7選」特集</title>
-			<link>https://hashhub-research.com/articles/2024-01-01-researchers-recommend-reports-2024</link>
-			<guid isPermaLink="false">2024-01-01-researchers-recommend-reports-2024</guid>
-			<description>リサーチャーおすすめレポート特集&lt;br /&gt;【リサーチャーおすすめレポート一覧】&lt;br /&gt;</description>
-			<pubDate>Mon, 01 Jan 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/xda4nx68eghsl7a433rky6n2vx5v/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
