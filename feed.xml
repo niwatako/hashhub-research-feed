@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ペライチで捉える「DID/SSI事業の近況」</title>
+			<link>https://hashhub-research.com/articles/2024-02-07-did-ssi-business-as-captured-by-peraich</link>
+			<guid isPermaLink="false">2024-02-07-did-ssi-business-as-captured-by-peraich</guid>
+			<description>前提&lt;br /&gt;</description>
+			<pubDate>Wed, 07 Feb 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/es6r1x7xxcej0wnc375rt6bkhin0/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Ethereumの重要アップグレード、Dencunの概要　投資家に与える影響は？</title>
 			<link>https://hashhub-research.com/articles/2024-02-06-ethereum-dencun-overview</link>
 			<guid isPermaLink="false">2024-02-06-ethereum-dencun-overview</guid>
@@ -189,14 +197,6 @@
 			<description>前提&lt;br /&gt;1.エスカレートするフィッシング詐欺&lt;br /&gt;2.Orbit Chain、「withdraw」関数における脆弱な検証および署名検証の問題により攻撃を受ける&lt;br /&gt;3.Pine Protocol、スマートコントラクトの脆弱性を悪用され、約40ETHの損失&lt;br /&gt;4.セキュリティ関連の読み物&lt;br /&gt;</description>
 			<pubDate>Fri, 05 Jan 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/hapwkkhmhxbw0q60zsfkkot3ps6z/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>2024年の暗号資産・Web3業界の8の予想</title>
-			<link>https://hashhub-research.com/articles/2024-01-03-prediction-2024</link>
-			<guid isPermaLink="false">2024-01-03-prediction-2024</guid>
-			<description>前提&lt;br /&gt;1.強気相場ではあっても、2017年、2021年のような派手なバブルは再現しない&lt;br /&gt;2.Bitcoin ETFの承認、次のETFへの期待&lt;br /&gt;3.Monolith（汎用型） vs レイヤー2 vs 特化型、プロジェクトの乱立&lt;br /&gt;4.業界企業への米国規制当局の制裁は継続&lt;br /&gt;5.規制されたレイヤー2やDeFiの登場&lt;br /&gt;6.AIとweb3&lt;br /&gt;7.UXの向上、ハイブリッドアプリケーションの増加&lt;br /&gt;8.オフショア取引所の役割をDeFiがリプレイスする&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Wed, 03 Jan 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/olmx3it5f8svz1t2d0ncwjmn0mpz/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
