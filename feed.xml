@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Blastから学ぶWeb3・暗号資産プロジェクトのローンチ戦略・マーケティング方法</title>
+			<link>https://hashhub-research.com/articles/2024-02-08-blast-marketing-strategy</link>
+			<guid isPermaLink="false">2024-02-08-blast-marketing-strategy</guid>
+			<description>前提&lt;br /&gt;Blastがローンチ直前に達成した計数やテストネット上のアプリケーション&lt;br /&gt;Blastのローンチ戦略・マーケティング方法を概観する&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Thu, 08 Feb 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/t4jn1rd6qk2ex2nv5fk7kli3hzgh/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ペライチで捉える「DID/SSI事業の近況」</title>
 			<link>https://hashhub-research.com/articles/2024-02-07-did-ssi-business-as-captured-by-peraich</link>
 			<guid isPermaLink="false">2024-02-07-did-ssi-business-as-captured-by-peraich</guid>
@@ -189,14 +197,6 @@
 			<description>前提&lt;br /&gt;Manta Networkの基本概要&lt;br /&gt;エコシステムと成長戦略&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Sat, 06 Jan 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/uu9bsl2cfev12pz6dfl7qrspyuvy/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>WEB3.0 SECURITY #14｜エスカレートするフィッシング詐欺、Orbit Chain悪用、Pine Protocol悪用.etc</title>
-			<link>https://hashhub-research.com/articles/2024-01-05-web3-security</link>
-			<guid isPermaLink="false">2024-01-05-web3-security</guid>
-			<description>前提&lt;br /&gt;1.エスカレートするフィッシング詐欺&lt;br /&gt;2.Orbit Chain、「withdraw」関数における脆弱な検証および署名検証の問題により攻撃を受ける&lt;br /&gt;3.Pine Protocol、スマートコントラクトの脆弱性を悪用され、約40ETHの損失&lt;br /&gt;4.セキュリティ関連の読み物&lt;br /&gt;</description>
-			<pubDate>Fri, 05 Jan 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/hapwkkhmhxbw0q60zsfkkot3ps6z/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
