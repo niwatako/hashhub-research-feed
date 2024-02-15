@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ペライチで捉える「Web3.0決済ビジネスの近況」</title>
+			<link>https://hashhub-research.com/articles/2024-02-15-web3-payment-as-captured-by-peraich</link>
+			<guid isPermaLink="false">2024-02-15-web3-payment-as-captured-by-peraich</guid>
+			<description></description>
+			<pubDate>Thu, 15 Feb 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/z4hrh8dsmk3i3hesglh4zz6ycq3m/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Farcasterエコシステムの現状｜なぜFarcasterはFramesによって爆発的にユーザー数を伸ばしたのか</title>
 			<link>https://hashhub-research.com/articles/2024-02-14-state-of-farcaster-and-frames</link>
 			<guid isPermaLink="false">2024-02-14-state-of-farcaster-and-frames</guid>
@@ -189,14 +197,6 @@
 			<description>前提&lt;br /&gt;Bitcoin spot ETF承認後の状況と承認理由&lt;br /&gt;ブルームバーグアナリストによるEthereum spot ETFの承認予想&lt;br /&gt;ETHとBTCの資産としての性質の相違点の検討と考察 &lt;br /&gt;総括 &lt;br /&gt;</description>
 			<pubDate>Sat, 13 Jan 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0lzwfcm5qyk4ghvkf3ytpxc9p2pa/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>WEB3.0 SECURITY #15｜X(twitter)侵害とDaaSの深刻化</title>
-			<link>https://hashhub-research.com/articles/2024-01-12-web3-security</link>
-			<guid isPermaLink="false">2024-01-12-web3-security</guid>
-			<description>前提&lt;br /&gt;1.X(twitter)侵害とDaaSの深刻化&lt;br /&gt;2.セキュリティ関連の読み物&lt;br /&gt;</description>
-			<pubDate>Fri, 12 Jan 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/qkadix0nnt3kc0mtd0ui5uwpjj6i/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
