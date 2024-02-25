@@ -5,6 +5,15 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Web3.0における最新資金調達トレンド分析 #9</title>
+			<link>https://hashhub-research.com/articles/2024-02-25-latest-funding-trends-in-web3</link>
+			<guid isPermaLink="false">2024-02-25-latest-funding-trends-in-web3</guid>
+			<description>前提&lt;br /&gt;1.[Infra]_$191.68M&lt;br /&gt;2.[Games]_$30.5M&lt;br /&gt;3.[DeFi]_$8.3M&lt;br /&gt;4.[Social]_$5.0M&lt;br /&gt;5.[CeFi]_$4.0M&lt;br /&gt;5.[その他]
+&lt;br /&gt;</description>
+			<pubDate>Sun, 25 Feb 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/reg8gfayfhf5vfalqedscik62kpr/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>【後編】ペライチで捉える「AI×Web3.0ビジネスの近況」</title>
 			<link>https://hashhub-research.com/articles/2024-02-22-ai-web3-business-as-captured-by-peraich-2</link>
 			<guid isPermaLink="false">2024-02-22-ai-web3-business-as-captured-by-peraich-2</guid>
@@ -189,14 +198,6 @@
 			<description>DeFi：定量分析&lt;br /&gt;エコシステムの個別動向&lt;br /&gt;2023年全体の振り返りと総括&lt;br /&gt;</description>
 			<pubDate>Fri, 19 Jan 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/vicd3j7yatblyegks0v9da4njuw7/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Base現況 Coinbaseのレイヤー2の2024年の方向性</title>
-			<link>https://hashhub-research.com/articles/2024-01-18-base-2024-overview</link>
-			<guid isPermaLink="false">2024-01-18-base-2024-overview</guid>
-			<description>前提&lt;br /&gt;各種数値からのBaseの現況概観と主要アプリケーション&lt;br /&gt;Baseの2024年の方向性&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 18 Jan 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/l80uo75x7z3ouanwrx8j4ij57syb/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
