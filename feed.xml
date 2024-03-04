@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Ethereumのレイヤー2のインターオペラビリティ 流動性断片化は将来的にどのように解決されるか</title>
+			<link>https://hashhub-research.com/articles/2024-03-04-interoperability-of-layer2-of-ethereum</link>
+			<guid isPermaLink="false">2024-03-04-interoperability-of-layer2-of-ethereum</guid>
+			<description>前提&lt;br /&gt;流動性断片化はなぜ大きな課題か&lt;br /&gt;Ethereumコミュニティで提案：Based Rollup&lt;br /&gt;PolygonのAggLayer &lt;br /&gt;Optimismが提唱するSuperChain&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Mon, 04 Mar 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/q9y5ndgscb9pjf3b9mpjo03s06rw/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Web3.0における最新資金調達トレンド分析 #10</title>
 			<link>https://hashhub-research.com/articles/2024-03-03--latest-funding-trends-in-web3</link>
 			<guid isPermaLink="false">2024-03-03--latest-funding-trends-in-web3</guid>
@@ -189,15 +197,6 @@
 			<description>Introduction&lt;br /&gt;2024年注目される技術トレンド&lt;br /&gt;後編にあたって&lt;br /&gt;</description>
 			<pubDate>Thu, 25 Jan 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/sv6x6zda2d1i70zz2vvgg0bdumr6/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>大手企業が取り組むWeb3 -2023年の振り返り-</title>
-			<link>https://hashhub-research.com/articles/2024-01-24-leading-companies-work-on-web3-2023</link>
-			<guid isPermaLink="false">2024-01-24-leading-companies-work-on-web3-2023</guid>
-			<description>前提：Web3の思想から見ると企業との相性、Web3で重要な要素とは&lt;br /&gt;2023年に注目された分野&lt;br /&gt;大手企業とWeb3事業の課題&lt;br /&gt; 総括
-&lt;br /&gt;</description>
-			<pubDate>Wed, 24 Jan 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/zz1noh9219quddk7buyk37saqbkp/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
