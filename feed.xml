@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>DeFiマーケットレポート【2024年2月】</title>
+			<link>https://hashhub-research.com/articles/2024-03-05-defi-market-report-2024-02</link>
+			<guid isPermaLink="false">2024-03-05-defi-market-report-2024-02</guid>
+			<description>TVL&lt;br /&gt;DEXの取引量&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Tue, 05 Mar 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/gvycvj4otq47z7a467vxifoapsqt/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Ethereumのレイヤー2のインターオペラビリティ 流動性断片化は将来的にどのように解決されるか</title>
 			<link>https://hashhub-research.com/articles/2024-03-04-interoperability-of-layer2-of-ethereum</link>
 			<guid isPermaLink="false">2024-03-04-interoperability-of-layer2-of-ethereum</guid>
@@ -189,14 +197,6 @@
 			<description>Introduction&lt;br /&gt;2024年注目される技術トレンド&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Fri, 26 Jan 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/hflowy2gju0k91v92k561fqrznyy/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>期待されるweb3技術トレンド、なぜ注目が集まるのか？ -2024年編-【前編】</title>
-			<link>https://hashhub-research.com/articles/2024-01-25-web3-technical-trends-in-2024-1</link>
-			<guid isPermaLink="false">2024-01-25-web3-technical-trends-in-2024-1</guid>
-			<description>Introduction&lt;br /&gt;2024年注目される技術トレンド&lt;br /&gt;後編にあたって&lt;br /&gt;</description>
-			<pubDate>Thu, 25 Jan 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/sv6x6zda2d1i70zz2vvgg0bdumr6/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
