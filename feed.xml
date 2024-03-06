@@ -5,6 +5,15 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ペライチで捉える「DePINの近況」_GEODNET/DIMO/PorwerPod/Silencio</title>
+			<link>https://hashhub-research.com/articles/2024-03-06-depin-business-as-captured-by-peraich</link>
+			<guid isPermaLink="false">2024-03-06-depin-business-as-captured-by-peraich</guid>
+			<description>1.GEODNET｜高精度位置情報サービスを提供する分散型RTKネットワーク&lt;br /&gt;2.DIMO｜自動車データの収集・閲覧を行う分散型ネットワーク
+&lt;br /&gt;3.PowerPod｜ブロックチェーン技術を用いた分散型EV充電ネットワーク&lt;br /&gt;4.Silencio｜騒音公害データを提供するユーザーに報酬を与えるネットワーク&lt;br /&gt;</description>
+			<pubDate>Wed, 06 Mar 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/vvzto0ejuyzqy1nq9o4v710aov3y/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>DeFiマーケットレポート【2024年2月】</title>
 			<link>https://hashhub-research.com/articles/2024-03-05-defi-market-report-2024-02</link>
 			<guid isPermaLink="false">2024-03-05-defi-market-report-2024-02</guid>
@@ -189,14 +198,6 @@
 			<description>前提&lt;br /&gt;1.Infra($61.7M/10件)&lt;br /&gt;2.CeFi($50M/5件)&lt;br /&gt;3.Games($6.15M/2件)&lt;br /&gt;4.DeFi($5.65M/6件)&lt;br /&gt;5.その他&lt;br /&gt;</description>
 			<pubDate>Mon, 29 Jan 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/t7928e76g3nhvsoo0hyxuvi17a10/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>期待されるweb3技術トレンド、なぜ注目が集まるのか？ -2024年編-【後編】</title>
-			<link>https://hashhub-research.com/articles/2024-01-26-web3-technical-trends-in-2024-2</link>
-			<guid isPermaLink="false">2024-01-26-web3-technical-trends-in-2024-2</guid>
-			<description>Introduction&lt;br /&gt;2024年注目される技術トレンド&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 26 Jan 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/hflowy2gju0k91v92k561fqrznyy/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
