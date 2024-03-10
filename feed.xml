@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Web3.0における最新資金調達トレンド分析 #11</title>
+			<link>https://hashhub-research.com/articles/2024-03-10-latest-funding-trends-in-web3</link>
+			<guid isPermaLink="false">2024-03-10-latest-funding-trends-in-web3</guid>
+			<description>前提&lt;br /&gt;1.[Infra]_$265.35M&lt;br /&gt;2.[CeFi]_$20M&lt;br /&gt;3.[DeFi]_$4.5M&lt;br /&gt;4.[Games]_$3M&lt;br /&gt;5.[Social]_$調達額非公開&lt;br /&gt;6.[その他]_$17.3M&lt;br /&gt;</description>
+			<pubDate>Sun, 10 Mar 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ke1vi5h7b59bci02qmy4t29kw96d/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Solanaの現状｜勢いを見せ独自に成長するエコシステムの基本概要</title>
 			<link>https://hashhub-research.com/articles/2024-03-08-state-of-solana-2023-2024-q1</link>
 			<guid isPermaLink="false">2024-03-08-state-of-solana-2023-2024-q1</guid>
@@ -190,14 +198,6 @@
 &lt;br /&gt;</description>
 			<pubDate>Wed, 31 Jan 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/tixovuwzvvlvtv800t9rnow161tv/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>NFT（Non-Fungible-Token）の動向 24年1月 </title>
-			<link>https://hashhub-research.com/articles/2024-01-30-nft-market</link>
-			<guid isPermaLink="false">2024-01-30-nft-market</guid>
-			<description>前提&lt;br /&gt;NFTの数値情報&lt;br /&gt;海外のNFT関連ニュース&lt;br /&gt;国内のNFT関連ニュース&lt;br /&gt;参照&lt;br /&gt;</description>
-			<pubDate>Tue, 30 Jan 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/wcnlkj48it0ieawclb9y4i3r4886/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
