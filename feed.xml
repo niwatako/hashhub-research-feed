@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>SolanaとDePINエコシステムの最前線 ~HivemapperとHeliumエコシステムのいま~</title>
+			<link>https://hashhub-research.com/articles/2024-03-11-solana-depin-ecosystem</link>
+			<guid isPermaLink="false">2024-03-11-solana-depin-ecosystem</guid>
+			<description>#1_Hivemapper（ハイブマッパー）&lt;br /&gt;#1-2_Net Emission（ネットエミッション）とは&lt;br /&gt;#2_Helium mobile（ヘリウムモバイル）&lt;br /&gt;#2-1_Helium（ヘリウム）エコシステムの変遷、現状の解説&lt;br /&gt;</description>
+			<pubDate>Mon, 11 Mar 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0716rlekn5fr69hwi4sdyooj8zyk/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Web3.0における最新資金調達トレンド分析 #11</title>
 			<link>https://hashhub-research.com/articles/2024-03-10-latest-funding-trends-in-web3</link>
 			<guid isPermaLink="false">2024-03-10-latest-funding-trends-in-web3</guid>
@@ -189,15 +197,6 @@
 			<description>概要&lt;br /&gt;導入&lt;br /&gt;考察：Pendleの成長要因と展望&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 01 Feb 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/vbhfaz144hicsxhvb6xv346ve1vm/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>大手企業が取り組むWeb3 -2024年の予測-</title>
-			<link>https://hashhub-research.com/articles/2024-01-31-leading-companies-work-on-web3-2024</link>
-			<guid isPermaLink="false">2024-01-31-leading-companies-work-on-web3-2024</guid>
-			<description>前提&lt;br /&gt;2024に流行する分野の予測&lt;br /&gt;Web3の特徴&lt;br /&gt; 総括
-&lt;br /&gt;</description>
-			<pubDate>Wed, 31 Jan 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/tixovuwzvvlvtv800t9rnow161tv/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
