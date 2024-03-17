@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Web3.0における最新資金調達トレンド分析 #12</title>
+			<link>https://hashhub-research.com/articles/2024-03-17-latest-funding-trends-in-web3</link>
+			<guid isPermaLink="false">2024-03-17-latest-funding-trends-in-web3</guid>
+			<description>前提&lt;br /&gt;1.[Infra]_$156M&lt;br /&gt;2.[Games]_$39M&lt;br /&gt;3.[CeFi]_$20M&lt;br /&gt;4.[NFT]_$19.9M&lt;br /&gt;5.[Tools]_$14.2M&lt;br /&gt;6.[DeFi]_$13.8M&lt;br /&gt;7.[Social]_$9M&lt;br /&gt;8.[その他]_$2M&lt;br /&gt;</description>
+			<pubDate>Sun, 17 Mar 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/qdbovieaa0z2cpcqgtoz8ypimrr8/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Avail｜モジュラーエコシステムへのカバレッジの広いソリューションの概要</title>
 			<link>https://hashhub-research.com/articles/2024-03-15-avail-overview</link>
 			<guid isPermaLink="false">2024-03-15-avail-overview</guid>
@@ -189,14 +197,6 @@
 			<description>前提&lt;br /&gt;Blastがローンチ直前に達成した計数やテストネット上のアプリケーション&lt;br /&gt;Blastのローンチ戦略・マーケティング方法を概観する&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 08 Feb 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/t4jn1rd6qk2ex2nv5fk7kli3hzgh/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ペライチで捉える「DID/SSI事業の近況」</title>
-			<link>https://hashhub-research.com/articles/2024-02-07-did-ssi-business-as-captured-by-peraich</link>
-			<guid isPermaLink="false">2024-02-07-did-ssi-business-as-captured-by-peraich</guid>
-			<description></description>
-			<pubDate>Wed, 07 Feb 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/3ou4lkmyor2eeusfluwxyqlxdzes/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
