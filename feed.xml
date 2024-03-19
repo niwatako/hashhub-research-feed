@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Moralis：クロスチェーンに対応するAPIの活用</title>
+			<link>https://hashhub-research.com/articles/2024-03-19-about-moralis</link>
+			<guid isPermaLink="false">2024-03-19-about-moralis</guid>
+			<description></description>
+			<pubDate>Tue, 19 Mar 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/7qjv1pr42a5wz1i7tj4poi523vhh/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>市場シェアから読み解くNFTマーケットプレイスの今 #0</title>
 			<link>https://hashhub-research.com/articles/2024-03-18-comparative-study-of-nft-marketplaces</link>
 			<guid isPermaLink="false">2024-03-18-comparative-study-of-nft-marketplaces</guid>
@@ -189,14 +197,6 @@
 			<description></description>
 			<pubDate>Tue, 13 Feb 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/78r68rf9itjax1gin74ymbpllpfm/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>DeFiマーケットレポート【2024年1月】</title>
-			<link>https://hashhub-research.com/articles/2024-02-09-defi-market-report-2024-01</link>
-			<guid isPermaLink="false">2024-02-09-defi-market-report-2024-01</guid>
-			<description>TVL&lt;br /&gt;DEXの取引量&lt;br /&gt;エコシステムの個別動向&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 09 Feb 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ruvc1vlulvsqeo0bxqa2dbfmzu6e/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
