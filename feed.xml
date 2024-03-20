@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>LRTエコシステムの躍進と把握すべきリスクとは -効率的なポイント獲得方法の要点-</title>
+			<link>https://hashhub-research.com/articles/2024-03-20-lrt-ecosystem-and-risks</link>
+			<guid isPermaLink="false">2024-03-20-lrt-ecosystem-and-risks</guid>
+			<description>前提&lt;br /&gt;免責事項&lt;br /&gt;リステーキングの基礎概要 &lt;br /&gt;LRTプロトコルのポイントシステムまとめ &lt;br /&gt;LRTプロトコルのリスク&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Wed, 20 Mar 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/4b9t39g2od8h7yom7iqyfmk3g812/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Moralis：クロスチェーンに対応するAPIの活用</title>
 			<link>https://hashhub-research.com/articles/2024-03-19-about-moralis</link>
 			<guid isPermaLink="false">2024-03-19-about-moralis</guid>
@@ -189,14 +197,6 @@
 			<description>導入&lt;br /&gt;Farcasterの概要&lt;br /&gt;Framesエコシステムの現状&lt;br /&gt;考察&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Wed, 14 Feb 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/y6x35q7qc12iol7qitw0upfy61ke/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Web3.0における最新資金調達トレンド分析 #7</title>
-			<link>https://hashhub-research.com/articles/2024-02-13-latest-funding-trends-in-web3</link>
-			<guid isPermaLink="false">2024-02-13-latest-funding-trends-in-web3</guid>
-			<description></description>
-			<pubDate>Tue, 13 Feb 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/78r68rf9itjax1gin74ymbpllpfm/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
