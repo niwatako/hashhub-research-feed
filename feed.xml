@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Web3.0における最新資金調達トレンド分析 #13</title>
+			<link>https://hashhub-research.com/articles/2024-03-25-latest-funding-trends-in-web3</link>
+			<guid isPermaLink="false">2024-03-25-latest-funding-trends-in-web3</guid>
+			<description>前提&lt;br /&gt;1.[Infra]_$156M&lt;br /&gt;2.[CeFi]_$82.7M&lt;br /&gt;3.[DeFi]_$14.6M&lt;br /&gt;4.[Games]_$12.1M&lt;br /&gt;5.[Tools]_$6M&lt;br /&gt;6.[Social]_$4.5M&lt;br /&gt;7.[NFT]_$2M&lt;br /&gt;8.[その他]_$2M&lt;br /&gt;10.当該期間の投資フローの可視化&lt;br /&gt;</description>
+			<pubDate>Mon, 25 Mar 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/7gp1fktm308razfckwo180w0nc5f/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ミームトークンの調査 #24_03_伝統から新興、危険区域まで</title>
 			<link>https://hashhub-research.com/articles/2024-03-21-meme-token-research</link>
 			<guid isPermaLink="false">2024-03-21-meme-token-research</guid>
@@ -189,14 +197,6 @@
 			<description>前提&lt;br /&gt;1.[Infra]&lt;br /&gt;2.[NFT]&lt;br /&gt;3.[DeFi]&lt;br /&gt;4.[Games]&lt;br /&gt;5.[CeFi]&lt;br /&gt;6.[その他]&lt;br /&gt;</description>
 			<pubDate>Sun, 18 Feb 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/hm54h7axi34idazx7vpa7ml534a7/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ペライチで捉える「Web3.0決済ビジネスの近況」</title>
-			<link>https://hashhub-research.com/articles/2024-02-15-web3-payment-as-captured-by-peraich</link>
-			<guid isPermaLink="false">2024-02-15-web3-payment-as-captured-by-peraich</guid>
-			<description></description>
-			<pubDate>Thu, 15 Feb 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/smv0742wrlipiar58axsly501x2x/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
