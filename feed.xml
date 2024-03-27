@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>NFT（Non-Fungible-Token）の動向 24年3月 </title>
+			<link>https://hashhub-research.com/articles/2024-03-27-nft-market</link>
+			<guid isPermaLink="false">2024-03-27-nft-market</guid>
+			<description>前提&lt;br /&gt;NFTの数値情報&lt;br /&gt;Ordinalsの躍進&lt;br /&gt;StarbacksがNFT活用のプログラムを終了へ&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Wed, 27 Mar 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/qq73u70v8aeigmgmssq0gc1shefr/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Web3.0における最新資金調達トレンド分析 #13</title>
 			<link>https://hashhub-research.com/articles/2024-03-25-latest-funding-trends-in-web3</link>
 			<guid isPermaLink="false">2024-03-25-latest-funding-trends-in-web3</guid>
@@ -189,14 +197,6 @@
 			<description>免責事項&lt;br /&gt;導入&lt;br /&gt;ステーキングだけで関連プロジェクトからのエアドロップを狙う&lt;br /&gt;リスク&lt;br /&gt;アクションアイデア&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Tue, 20 Feb 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/t0kad8jpfifk1ivkzwlc9zyplf3h/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Web3.0における最新資金調達トレンド分析 #8</title>
-			<link>https://hashhub-research.com/articles/2024-02-18-latest-funding-trends-in-web3</link>
-			<guid isPermaLink="false">2024-02-18-latest-funding-trends-in-web3</guid>
-			<description>前提&lt;br /&gt;1.[Infra]&lt;br /&gt;2.[NFT]&lt;br /&gt;3.[DeFi]&lt;br /&gt;4.[Games]&lt;br /&gt;5.[CeFi]&lt;br /&gt;6.[その他]&lt;br /&gt;</description>
-			<pubDate>Sun, 18 Feb 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/hm54h7axi34idazx7vpa7ml534a7/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
