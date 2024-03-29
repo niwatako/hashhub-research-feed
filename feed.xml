@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ロールアップインターオペラビリティに取り組むプロトコル、Polymer・Omni Networkのアプローチ比較と考察</title>
+			<link>https://hashhub-research.com/articles/2024-03-30-rollup-interoperability-polymer-and-omni</link>
+			<guid isPermaLink="false">2024-03-30-rollup-interoperability-polymer-and-omni</guid>
+			<description>前提&lt;br /&gt;ロールアップインターオペラビリティに取り組むプロトコル&lt;br /&gt;Polymer LabsとOmni Networkのアプローチ比較と考察&lt;br /&gt;総括&lt;br /&gt;リファレンス&lt;br /&gt;</description>
+			<pubDate>Sat, 30 Mar 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/zhtsq1vosew3ifj23cbfe511w73c/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>レイヤー2トークンモデル　現在見えているパターンを概観する</title>
 			<link>https://hashhub-research.com/articles/2024-03-29-l2token-model</link>
 			<guid isPermaLink="false">2024-03-29-l2token-model</guid>
@@ -189,14 +197,6 @@
 &lt;br /&gt;</description>
 			<pubDate>Sun, 25 Feb 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/reg8gfayfhf5vfalqedscik62kpr/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>【後編】ペライチで捉える「AI×Web3.0ビジネスの近況」</title>
-			<link>https://hashhub-research.com/articles/2024-02-22-ai-web3-business-as-captured-by-peraich-2</link>
-			<guid isPermaLink="false">2024-02-22-ai-web3-business-as-captured-by-peraich-2</guid>
-			<description></description>
-			<pubDate>Thu, 22 Feb 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/gahkxdjiv7q5rej9qw24qbovmn4o/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
