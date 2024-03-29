@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>レイヤー2トークンモデル　現在見えているパターンを概観する</title>
+			<link>https://hashhub-research.com/articles/2024-03-29-l2token-model</link>
+			<guid isPermaLink="false">2024-03-29-l2token-model</guid>
+			<description>前提&lt;br /&gt;ほとんど全てのレイヤー２に共有する基本的なビジネスモデル&lt;br /&gt;レイヤー2のトークンモデルとしてのパターン・潜在的に蓄積できる価値&lt;br /&gt;統括&lt;br /&gt;</description>
+			<pubDate>Fri, 29 Mar 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/jbovsmruvrim0y5kqzbyapv21agz/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Coinbase &amp; Baseの投資風景｜Sep,2023-Mar,2024</title>
 			<link>https://hashhub-research.com/articles/2024-03-28-coinbase-and-base-investments</link>
 			<guid isPermaLink="false">2024-03-28-coinbase-and-base-investments</guid>
@@ -189,14 +197,6 @@
 			<description></description>
 			<pubDate>Thu, 22 Feb 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/gahkxdjiv7q5rej9qw24qbovmn4o/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>【前編】ペライチで捉える「AI×Web3.0ビジネスの近況」</title>
-			<link>https://hashhub-research.com/articles/2024-02-21-ai-web3-business-as-captured-by-peraich</link>
-			<guid isPermaLink="false">2024-02-21-ai-web3-business-as-captured-by-peraich</guid>
-			<description></description>
-			<pubDate>Wed, 21 Feb 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/chi7swutnczky51mknh6qvcl05yx/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
