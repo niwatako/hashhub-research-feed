@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Web3.0における最新資金調達トレンド分析 #14</title>
+			<link>https://hashhub-research.com/articles/2024-04-01-latest-funding-trends-in-web3</link>
+			<guid isPermaLink="false">2024-04-01-latest-funding-trends-in-web3</guid>
+			<description>前提&lt;br /&gt;1.[Infra]&lt;br /&gt;2.[Games]&lt;br /&gt;3.[DeFi]&lt;br /&gt;4.[Tools]&lt;br /&gt;5.[NFT]&lt;br /&gt;6.[CeFi]&lt;br /&gt;</description>
+			<pubDate>Mon, 01 Apr 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/pp6rv0z34iamko5d1ms1zpuk26iu/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ロールアップインターオペラビリティに取り組むプロトコル、Polymer・Omni Networkのアプローチ比較と考察</title>
 			<link>https://hashhub-research.com/articles/2024-03-30-rollup-interoperability-polymer-and-omni</link>
 			<guid isPermaLink="false">2024-03-30-rollup-interoperability-polymer-and-omni</guid>
@@ -188,15 +196,6 @@
 			<description>Ethereum_NFT市場&lt;br /&gt;Polygon_NFT市場&lt;br /&gt;BSC_NFT市場&lt;br /&gt;Arbitrum_NFT市場&lt;br /&gt;Optimism_NFT市場&lt;br /&gt;Base_NFT市場&lt;br /&gt;Zora_NFT市場&lt;br /&gt;Avalanche_NFT市場&lt;br /&gt;</description>
 			<pubDate>Wed, 28 Feb 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/pv8ruv18fet7d4y7l8uxo8udv1zc/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Web3.0における最新資金調達トレンド分析 #9</title>
-			<link>https://hashhub-research.com/articles/2024-02-25-latest-funding-trends-in-web3</link>
-			<guid isPermaLink="false">2024-02-25-latest-funding-trends-in-web3</guid>
-			<description>前提&lt;br /&gt;1.[Infra]_$191.68M&lt;br /&gt;2.[Games]_$30.5M&lt;br /&gt;3.[DeFi]_$8.3M&lt;br /&gt;4.[Social]_$5.0M&lt;br /&gt;5.[CeFi]_$4.0M&lt;br /&gt;5.[その他]
-&lt;br /&gt;</description>
-			<pubDate>Sun, 25 Feb 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/reg8gfayfhf5vfalqedscik62kpr/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
