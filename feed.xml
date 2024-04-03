@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ETHによる経済的セキュリティをCosmosへ拡張する Ethosの概要</title>
+			<link>https://hashhub-research.com/articles/2024-04-03-ethos-overview</link>
+			<guid isPermaLink="false">2024-04-03-ethos-overview</guid>
+			<description>前提&lt;br /&gt;Ethosを採用するメリット - 主権コストの軽減&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Wed, 03 Apr 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/47wkwkf41nl8j28u9usakxbwt0ah/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>a16z cryptoの投資風景｜Sep,2023-Mar,2024</title>
 			<link>https://hashhub-research.com/articles/2024-04-02-a16z-crypto-investments</link>
 			<guid isPermaLink="false">2024-04-02-a16z-crypto-investments</guid>
@@ -188,14 +196,6 @@
 			<description>前提&lt;br /&gt;1.[Infra]_$76M&lt;br /&gt;2.[DeFi]_$26M&lt;br /&gt;3.[CeFi]_$18.73M&lt;br /&gt;4.[Games]_$5.5M&lt;br /&gt;5.[その他]_$9.0M&lt;br /&gt;</description>
 			<pubDate>Sun, 03 Mar 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/g3ezzf64crxyso3xw1hy3t05f45g/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>NFT（Non-Fungible-Token）の動向 24年2月 </title>
-			<link>https://hashhub-research.com/articles/2024-03-01-nft-market</link>
-			<guid isPermaLink="false">2024-03-01-nft-market</guid>
-			<description>前提&lt;br /&gt;NFTの数値情報&lt;br /&gt;海外のNFT関連ニュース&lt;br /&gt;国内のNFT関連ニュース&lt;br /&gt;参照&lt;br /&gt;</description>
-			<pubDate>Fri, 01 Mar 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ki1c2c92m5q8cgzit80qyatldf3j/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
