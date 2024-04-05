@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Web3ゲーム × The Spartan Groupの投資風景｜Jan,2024-Mar,2024</title>
+			<link>https://hashhub-research.com/articles/2024-04-05-investment-landscape-of-web3-games-the-spartan-group</link>
+			<guid isPermaLink="false">2024-04-05-investment-landscape-of-web3-games-the-spartan-group</guid>
+			<description>The Spartan Group 周りの投資風景&lt;br /&gt;当該期間にポートフォリオに追加されたWeb3ゲームプロジェクトの概要&lt;br /&gt;</description>
+			<pubDate>Fri, 05 Apr 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/v5rop5jnvo0rc14389zzx3h7qb7d/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ミームトークン調査 #24_04｜BASEにミームがやってきた</title>
 			<link>https://hashhub-research.com/articles/2024-04-04-base-meme-coins</link>
 			<guid isPermaLink="false">2024-04-04-base-meme-coins</guid>
@@ -188,14 +196,6 @@
 			<description>TVL&lt;br /&gt;DEXの取引量&lt;br /&gt;プロトコル手数料・収益&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Tue, 05 Mar 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/gvycvj4otq47z7a467vxifoapsqt/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Ethereumのレイヤー2のインターオペラビリティ 流動性断片化は将来的にどのように解決されるか</title>
-			<link>https://hashhub-research.com/articles/2024-03-04-interoperability-of-layer2-of-ethereum</link>
-			<guid isPermaLink="false">2024-03-04-interoperability-of-layer2-of-ethereum</guid>
-			<description>前提&lt;br /&gt;流動性断片化はなぜ大きな課題か&lt;br /&gt;Ethereumコミュニティで提案：Based Rollup&lt;br /&gt;PolygonのAggLayer &lt;br /&gt;Optimismが提唱するSuperChain&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Mon, 04 Mar 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/q9y5ndgscb9pjf3b9mpjo03s06rw/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
