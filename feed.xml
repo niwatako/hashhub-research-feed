@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Web3ゲーム × Animoca Brandsの投資風景｜Jan,2024-Mar,2024</title>
+			<link>https://hashhub-research.com/articles/2024-04-07-investment-landscape-of-web3-games-animoca-brands</link>
+			<guid isPermaLink="false">2024-04-07-investment-landscape-of-web3-games-animoca-brands</guid>
+			<description>Animoca Brands 周りの投資風景&lt;br /&gt;当該期間にポートフォリオに追加されたWeb3ゲームプロジェクトの概要&lt;br /&gt;</description>
+			<pubDate>Sun, 07 Apr 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/r729n8trf7fe0avjz1up2mclw3uf/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>コミュニティ主導のミームムーブメント　DEGEN・Degen Chainに見るミームから生まれるカルチャーの真髄と新たな兆候</title>
 			<link>https://hashhub-research.com/articles/2024-04-06-degen-memecoin-and-culture</link>
 			<guid isPermaLink="false">2024-04-06-degen-memecoin-and-culture</guid>
@@ -187,15 +195,6 @@
 			<description>前提&lt;br /&gt;1. Solanaが注目される理由&lt;br /&gt;2. 勢いに乗るSolanaエコシステムの現状&lt;br /&gt;3. Solanaの今後の展望&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Fri, 08 Mar 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/3970afz5j0tse6tmrir92q1zv3h1/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ペライチで捉える「DePINの近況」_GEODNET/DIMO/PorwerPod/Silencio</title>
-			<link>https://hashhub-research.com/articles/2024-03-06-depin-business-as-captured-by-peraich</link>
-			<guid isPermaLink="false">2024-03-06-depin-business-as-captured-by-peraich</guid>
-			<description>1.GEODNET｜高精度位置情報サービスを提供する分散型RTKネットワーク&lt;br /&gt;2.DIMO｜自動車データの収集・閲覧を行う分散型ネットワーク
-&lt;br /&gt;3.PowerPod｜ブロックチェーン技術を用いた分散型EV充電ネットワーク&lt;br /&gt;4.Silencio｜騒音公害データを提供するユーザーに報酬を与えるネットワーク&lt;br /&gt;</description>
-			<pubDate>Wed, 06 Mar 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/vvzto0ejuyzqy1nq9o4v710aov3y/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
