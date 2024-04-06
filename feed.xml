@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>コミュニティ主導のミームムーブメント　DEGEN・Degen Chainに見るミームから生まれるカルチャーの真髄と新たな兆候</title>
+			<link>https://hashhub-research.com/articles/2024-04-06-degen-memecoin-and-culture</link>
+			<guid isPermaLink="false">2024-04-06-degen-memecoin-and-culture</guid>
+			<description>前提&lt;br /&gt;Farcaster、Framesの概要 なぜ、これまでの分散型ソーシャルメディアに類を見ない急成長を見せたのか&lt;br /&gt;DEGEN ミームによって独自に発展を遂げたエコシステム&lt;br /&gt;DEGENの仕組み、DEGEN Chainの概要&lt;br /&gt;「分散型ソーシャルプロトコルを活用したアプリケーション」というビジネスの可能性&lt;br /&gt;結論&lt;br /&gt;</description>
+			<pubDate>Sat, 06 Apr 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/c79pi3uujv23sxsmhkgowokjg5eh/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Web3ゲーム × The Spartan Groupの投資風景｜Jan,2024-Mar,2024</title>
 			<link>https://hashhub-research.com/articles/2024-04-05-investment-landscape-of-web3-games-the-spartan-group</link>
 			<guid isPermaLink="false">2024-04-05-investment-landscape-of-web3-games-the-spartan-group</guid>
@@ -188,14 +196,6 @@
 &lt;br /&gt;3.PowerPod｜ブロックチェーン技術を用いた分散型EV充電ネットワーク&lt;br /&gt;4.Silencio｜騒音公害データを提供するユーザーに報酬を与えるネットワーク&lt;br /&gt;</description>
 			<pubDate>Wed, 06 Mar 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/vvzto0ejuyzqy1nq9o4v710aov3y/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>DeFiマーケットレポート【2024年2月】</title>
-			<link>https://hashhub-research.com/articles/2024-03-05-defi-market-report-2024-02</link>
-			<guid isPermaLink="false">2024-03-05-defi-market-report-2024-02</guid>
-			<description>TVL&lt;br /&gt;DEXの取引量&lt;br /&gt;プロトコル手数料・収益&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Tue, 05 Mar 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/gvycvj4otq47z7a467vxifoapsqt/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
