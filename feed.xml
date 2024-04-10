@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>DeFiマーケットレポート【2024年3月】</title>
+			<link>https://hashhub-research.com/articles/2024-04-10-defi-market-report-2024-03</link>
+			<guid isPermaLink="false">2024-04-10-defi-market-report-2024-03</guid>
+			<description>マーケットの概要&lt;br /&gt;主要DeFiプロトコルの動向&lt;br /&gt;スマートコントラクト監査とセキュリティ&lt;br /&gt;インターオペラビリティと流動性&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Wed, 10 Apr 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/a1kqnf9t29n6turyiwbrcicagk1b/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Web3ゲーム × Merit Circleの投資風景｜Jan,2024-Mar,2024</title>
 			<link>https://hashhub-research.com/articles/2024-04-09-investment-landscape-of-web3-games-merit-circle</link>
 			<guid isPermaLink="false">2024-04-09-investment-landscape-of-web3-games-merit-circle</guid>
@@ -187,14 +195,6 @@
 			<description>#1_Solana NFT市場の特徴&lt;br /&gt;#2_Solana NFTマーケットプレイス「Tensor」と「MagicEden」の市場分析&lt;br /&gt;</description>
 			<pubDate>Tue, 12 Mar 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/isa14w5vsp0yfkyhsba6kkpq4mgo/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>SolanaとDePINエコシステムの最前線 ~HivemapperとHeliumエコシステムのいま~</title>
-			<link>https://hashhub-research.com/articles/2024-03-11-solana-depin-ecosystem</link>
-			<guid isPermaLink="false">2024-03-11-solana-depin-ecosystem</guid>
-			<description>#1_Hivemapper（ハイブマッパー）&lt;br /&gt;#1-2_Net Emission（ネットエミッション）とは&lt;br /&gt;#2_Helium mobile（ヘリウムモバイル）&lt;br /&gt;#2-1_Helium（ヘリウム）エコシステムの変遷、現状の解説&lt;br /&gt;</description>
-			<pubDate>Mon, 11 Mar 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/m3uprvid3vwt5v9w153ypjfyefg2/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
