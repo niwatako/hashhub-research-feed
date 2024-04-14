@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Web3.0における最新資金調達トレンド分析 #16</title>
+			<link>https://hashhub-research.com/articles/2024-04-14-latest-funding-trends-in-web3</link>
+			<guid isPermaLink="false">2024-04-14-latest-funding-trends-in-web3</guid>
+			<description>前提&lt;br /&gt;1.[Infra]&lt;br /&gt;2.[Mining]&lt;br /&gt;3.[Games]&lt;br /&gt;4.[DeFi]&lt;br /&gt;5.[Social]&lt;br /&gt;6.[Tools]&lt;br /&gt;7.[その他]&lt;br /&gt;</description>
+			<pubDate>Sun, 14 Apr 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2hw1kceo0xye0q27uhx9jesvosnh/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>DeFiマーケットレポート【2024年3月】</title>
 			<link>https://hashhub-research.com/articles/2024-04-10-defi-market-report-2024-03</link>
 			<guid isPermaLink="false">2024-04-10-defi-market-report-2024-03</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;OpenSeaとNFT市場を表す様々なデータ（2024年3月時点）&lt;br /&gt;前提知識としてのNFTにおけるロイヤリティ&lt;br /&gt;OpenSeaが新興NFTマーケットプレイスとの競争の中でビジネスモデルが揺らいだ歴史&lt;br /&gt;OpenSeaはどのように対応するべきだったか&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Wed, 13 Mar 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/g6660hqeowszli5l3ndm2h3kzf0l/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Solana NFT市場の潮流~TensorとMagicEdenによる市場競争とその影響~</title>
-			<link>https://hashhub-research.com/articles/2024-03-12-solana-nft-market-trends</link>
-			<guid isPermaLink="false">2024-03-12-solana-nft-market-trends</guid>
-			<description>#1_Solana NFT市場の特徴&lt;br /&gt;#2_Solana NFTマーケットプレイス「Tensor」と「MagicEden」の市場分析&lt;br /&gt;</description>
-			<pubDate>Tue, 12 Mar 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/isa14w5vsp0yfkyhsba6kkpq4mgo/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
