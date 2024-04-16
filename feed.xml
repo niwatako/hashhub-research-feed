@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ミームコイン研究 #24_04｜新興と危険ミーム区域の「狭間」調査</title>
+			<link>https://hashhub-research.com/articles/2024-04-16-meme-coin-research</link>
+			<guid isPermaLink="false">2024-04-16-meme-coin-research</guid>
+			<description>【$1M~10M（24h取引高）区域】の現況&lt;br /&gt;</description>
+			<pubDate>Tue, 16 Apr 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/gqd9sl1ehkyqaiczfo2pgtvqg6pw/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Paradigmの投資風景｜Apr,2023-Apr,2024</title>
 			<link>https://hashhub-research.com/articles/2024-04-15-paradigm-investments</link>
 			<guid isPermaLink="false">2024-04-15-paradigm-investments</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Availの概要 - Avail Trinityの仕組み&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Fri, 15 Mar 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ioizv5t7oif8hw35facmogiha4r2/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Near Protocolの現状｜Near DA・Chain Abstraction・AIなど新たな生存戦略を展開するプロトコルの現在地</title>
-			<link>https://hashhub-research.com/articles/2024-03-14-state-of-near-2023-2024-q1</link>
-			<guid isPermaLink="false">2024-03-14-state-of-near-2023-2024-q1</guid>
-			<description>前提&lt;br /&gt;NEARの現状&lt;br /&gt;2024年のロードマップ&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 14 Mar 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/r9u2z7ho0jiilzpgctyh8krkw0ey/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
