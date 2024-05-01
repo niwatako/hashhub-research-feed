@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>【2024年GW選書】HashHubチームがこのGWに読んでいる、またはオススメの書籍</title>
+			<link>https://hashhub-research.com/articles/2024-05-01-members-select-recommendations</link>
+			<guid isPermaLink="false">2024-05-01-members-select-recommendations</guid>
+			<description>はじめに&lt;br /&gt;2023年HashHubメンバーがおすすめする書籍、コンテンツ&lt;br /&gt;</description>
+			<pubDate>Wed, 01 May 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/xnw416rjzn4j7dl6um4mvgxjj7xw/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>NFT（Non-Fungible-Token）の動向 24年4月 </title>
 			<link>https://hashhub-research.com/articles/2024-04-30-nft-market</link>
 			<guid isPermaLink="false">2024-04-30-nft-market</guid>
@@ -188,14 +196,6 @@
 			<description>前提&lt;br /&gt;ほとんど全てのレイヤー２に共有する基本的なビジネスモデル&lt;br /&gt;レイヤー2のトークンモデルとしてのパターン・潜在的に蓄積できる価値&lt;br /&gt;統括&lt;br /&gt;</description>
 			<pubDate>Fri, 29 Mar 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/jbovsmruvrim0y5kqzbyapv21agz/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Coinbase &amp; Baseの投資風景｜Sep,2023-Mar,2024</title>
-			<link>https://hashhub-research.com/articles/2024-03-28-coinbase-and-base-investments</link>
-			<guid isPermaLink="false">2024-03-28-coinbase-and-base-investments</guid>
-			<description>Coinbaseおよび、Base周りの投資風景&lt;br /&gt;当期間にポートフォリオに追加された各プロジェクトの概要&lt;br /&gt;</description>
-			<pubDate>Thu, 28 Mar 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/zyc7r76hbm9eju0zi84lsaex3cn0/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
