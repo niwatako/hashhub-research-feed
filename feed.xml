@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ビットコインの価格変動要因を理解する｜ETF承認・半減期・マクロ経済の影響から</title>
+			<link>https://hashhub-research.com/articles/2024-05-03-understanding-bitcoin-price-volatility-factors</link>
+			<guid isPermaLink="false">2024-05-03-understanding-bitcoin-price-volatility-factors</guid>
+			<description>前提&lt;br /&gt;ETF承認とビットコイン相場&lt;br /&gt;半減期とビットコイン相場&lt;br /&gt;半減期の需給バランスよりも、マクロ経済環境がビットコイン相場をけん引する可能性&lt;br /&gt;総括&lt;br /&gt;参考記事&lt;br /&gt;</description>
+			<pubDate>Fri, 03 May 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/9rhsjg6jzluxzlzi7rh7dp36vfug/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>あなたが知るべき7つのプロジェクト｜インフラ・DeFi・DePIN・ソーシャル編</title>
 			<link>https://hashhub-research.com/articles/2024-05-02-seven-projects-you-should-know-2024-q1</link>
 			<guid isPermaLink="false">2024-05-02-seven-projects-you-should-know-2024-q1</guid>
@@ -188,14 +196,6 @@
 			<description>前提&lt;br /&gt;1.[Infra]&lt;br /&gt;2.[Games]&lt;br /&gt;3.[DeFi]&lt;br /&gt;4.[Tools]&lt;br /&gt;5.[NFT]&lt;br /&gt;6.[CeFi]&lt;br /&gt;</description>
 			<pubDate>Mon, 01 Apr 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/pp6rv0z34iamko5d1ms1zpuk26iu/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ロールアップインターオペラビリティに取り組むプロトコル、Polymer・Omni Networkのアプローチ比較と考察</title>
-			<link>https://hashhub-research.com/articles/2024-03-30-rollup-interoperability-polymer-and-omni</link>
-			<guid isPermaLink="false">2024-03-30-rollup-interoperability-polymer-and-omni</guid>
-			<description>前提&lt;br /&gt;ロールアップインターオペラビリティに取り組むプロトコル&lt;br /&gt;Polymer LabsとOmni Networkのアプローチ比較と考察&lt;br /&gt;総括&lt;br /&gt;リファレンス&lt;br /&gt;</description>
-			<pubDate>Sat, 30 Mar 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/zhtsq1vosew3ifj23cbfe511w73c/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
