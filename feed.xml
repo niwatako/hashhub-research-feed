@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ミームコイン研究 #24_05｜過去30日間で急騰したミームコイン5選</title>
+			<link>https://hashhub-research.com/articles/2024-05-15-meme-coin-research</link>
+			<guid isPermaLink="false">2024-05-15-meme-coin-research</guid>
+			<description>過去30日間で急騰したミームコイン5選&lt;br /&gt;</description>
+			<pubDate>Wed, 15 May 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0zeevn55zrw88274mk73h9gpmm1i/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Web3.0における最新資金調達トレンド分析 #20｜ZKコプロセッサを開発する「Lagrange」、Bitcoin L2「Botanix Labs」など</title>
 			<link>https://hashhub-research.com/articles/2024-05-14-latest-funding-trends-in-web3</link>
 			<guid isPermaLink="false">2024-05-14-latest-funding-trends-in-web3</guid>
@@ -190,14 +198,6 @@
 			<description>前提&lt;br /&gt;Farcaster、Framesの概要 なぜ、これまでの分散型ソーシャルメディアに類を見ない急成長を見せたのか&lt;br /&gt;DEGEN ミームによって独自に発展を遂げたエコシステム&lt;br /&gt;DEGENの仕組み、DEGEN Chainの概要&lt;br /&gt;「分散型ソーシャルプロトコルを活用したアプリケーション」というビジネスの可能性&lt;br /&gt;結論&lt;br /&gt;</description>
 			<pubDate>Sat, 06 Apr 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/c79pi3uujv23sxsmhkgowokjg5eh/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Web3ゲーム × The Spartan Groupの投資風景｜Jan,2024-Mar,2024</title>
-			<link>https://hashhub-research.com/articles/2024-04-05-investment-landscape-of-web3-games-the-spartan-group</link>
-			<guid isPermaLink="false">2024-04-05-investment-landscape-of-web3-games-the-spartan-group</guid>
-			<description>The Spartan Group 周りの投資風景&lt;br /&gt;当該期間にポートフォリオに追加されたWeb3ゲームプロジェクトの概要&lt;br /&gt;</description>
-			<pubDate>Fri, 05 Apr 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/v5rop5jnvo0rc14389zzx3h7qb7d/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
