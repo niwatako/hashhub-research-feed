@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>DeFiマーケットレポート【2024年4月】</title>
+			<link>https://hashhub-research.com/articles/2024-05-16-defi-market-report-2024-04</link>
+			<guid isPermaLink="false">2024-05-16-defi-market-report-2024-04</guid>
+			<description>暗号資産相場の雑感について&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Thu, 16 May 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/tcivotdb47s7eua1hvay6mucvuob/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ミームコイン研究 #24_05｜過去30日間で急騰したミームコイン5選</title>
 			<link>https://hashhub-research.com/articles/2024-05-15-meme-coin-research</link>
 			<guid isPermaLink="false">2024-05-15-meme-coin-research</guid>
@@ -190,14 +198,6 @@
 			<description>Animoca Brands 周りの投資風景&lt;br /&gt;当該期間にポートフォリオに追加されたWeb3ゲームプロジェクトの概要&lt;br /&gt;</description>
 			<pubDate>Sun, 07 Apr 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/r729n8trf7fe0avjz1up2mclw3uf/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>コミュニティ主導のミームムーブメント　DEGEN・Degen Chainに見るミームから生まれるカルチャーの真髄と新たな兆候</title>
-			<link>https://hashhub-research.com/articles/2024-04-06-degen-memecoin-and-culture</link>
-			<guid isPermaLink="false">2024-04-06-degen-memecoin-and-culture</guid>
-			<description>前提&lt;br /&gt;Farcaster、Framesの概要 なぜ、これまでの分散型ソーシャルメディアに類を見ない急成長を見せたのか&lt;br /&gt;DEGEN ミームによって独自に発展を遂げたエコシステム&lt;br /&gt;DEGENの仕組み、DEGEN Chainの概要&lt;br /&gt;「分散型ソーシャルプロトコルを活用したアプリケーション」というビジネスの可能性&lt;br /&gt;結論&lt;br /&gt;</description>
-			<pubDate>Sat, 06 Apr 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/c79pi3uujv23sxsmhkgowokjg5eh/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
