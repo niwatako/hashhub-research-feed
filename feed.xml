@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>WEB3.0 SECURITY #17｜過去1ヶ月のインシデント分析（2024年05月20日時点）</title>
+			<link>https://hashhub-research.com/articles/2024-05-22-web3-security</link>
+			<guid isPermaLink="false">2024-05-22-web3-security</guid>
+			<description>月間インシデント発生数の推移とその内訳_Mar,2013-May 20,2024&lt;br /&gt;攻撃別被害額_過去1ヶ月（May 20,2024時点）&lt;br /&gt;影響が大きかった3つの事件_過去1ヶ月（May 20,2024時点）&lt;br /&gt;</description>
+			<pubDate>Wed, 22 May 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/pzs503ryiimfga6zvq1v8fytpnge/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Dragonfly Capitalの投資風景｜Jan,2024-May,2024</title>
 			<link>https://hashhub-research.com/articles/2024-05-21-union-dragonfly-capital-investments</link>
 			<guid isPermaLink="false">2024-05-21-union-dragonfly-capital-investments</guid>
@@ -191,14 +199,6 @@
 			<description>前提&lt;br /&gt;1.[Infra]&lt;br /&gt;2.[Mining]&lt;br /&gt;3.[Games]&lt;br /&gt;4.[DeFi]&lt;br /&gt;5.[Social]&lt;br /&gt;6.[Tools]&lt;br /&gt;7.[その他]&lt;br /&gt;</description>
 			<pubDate>Sun, 14 Apr 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2hw1kceo0xye0q27uhx9jesvosnh/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>DeFiマーケットレポート【2024年3月】</title>
-			<link>https://hashhub-research.com/articles/2024-04-10-defi-market-report-2024-03</link>
-			<guid isPermaLink="false">2024-04-10-defi-market-report-2024-03</guid>
-			<description>マーケットの概要&lt;br /&gt;主要DeFiプロトコルの動向&lt;br /&gt;スマートコントラクト監査とセキュリティ&lt;br /&gt;インターオペラビリティと流動性&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Wed, 10 Apr 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/a1kqnf9t29n6turyiwbrcicagk1b/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
