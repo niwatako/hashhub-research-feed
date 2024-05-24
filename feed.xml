@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Ethena/USDeの概要 合成ステーブルコインの急性成長要因と潜在リスク</title>
+			<link>https://hashhub-research.com/articles/2024-5-24-ethena-usde-overview-and-risks</link>
+			<guid isPermaLink="false">2024-5-24-ethena-usde-overview-and-risks</guid>
+			<description>前提&lt;br /&gt;Ethena（USDe）の仕組み、USTアルゴリズム型ステーブルコイン等との違い&lt;br /&gt;Ethenaの成長要因の考察&lt;br /&gt;リスク要因と懸念事項をまとめる&lt;br /&gt;ガバナンストークンENAへの今後のエアドロップ資格&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Fri, 24 May 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ng6mvo0nknjfn4yna29lukww8uz4/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>WEB3.0 SECURITY #17｜過去1ヶ月のインシデント分析（2024年05月20日時点）</title>
 			<link>https://hashhub-research.com/articles/2024-05-22-web3-security</link>
 			<guid isPermaLink="false">2024-05-22-web3-security</guid>
@@ -191,14 +199,6 @@
 			<description>Paradigm周りの投資風景&lt;br /&gt;当該期間にポートフォリオに追加されたプロジェクトの概要&lt;br /&gt;</description>
 			<pubDate>Mon, 15 Apr 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/f278qcj0fvucmctdl5oiv6k42nkd/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Web3.0における最新資金調達トレンド分析 #16</title>
-			<link>https://hashhub-research.com/articles/2024-04-14-latest-funding-trends-in-web3</link>
-			<guid isPermaLink="false">2024-04-14-latest-funding-trends-in-web3</guid>
-			<description>前提&lt;br /&gt;1.[Infra]&lt;br /&gt;2.[Mining]&lt;br /&gt;3.[Games]&lt;br /&gt;4.[DeFi]&lt;br /&gt;5.[Social]&lt;br /&gt;6.[Tools]&lt;br /&gt;7.[その他]&lt;br /&gt;</description>
-			<pubDate>Sun, 14 Apr 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2hw1kceo0xye0q27uhx9jesvosnh/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
