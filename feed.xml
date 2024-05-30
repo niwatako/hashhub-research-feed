@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>RWAトークン5銘柄の概況｜『時価総額・30d_価格上昇率』上位5銘柄</title>
+			<link>https://hashhub-research.com/articles/2024-05-31-overview-of-the-five-rwa-tokens</link>
+			<guid isPermaLink="false">2024-05-31-overview-of-the-five-rwa-tokens</guid>
+			<description>時価総額上位のRWA銘柄3選&lt;br /&gt;過去30日間に高騰したRWA銘柄上位3選（※1.と重複のため2銘柄）&lt;br /&gt;</description>
+			<pubDate>Fri, 31 May 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/34mx3k6gi14nlbp1b0b4tih759lr/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Telegram 9億ユーザーへのアプローチによる躍進と優位性　TON(The Open Network) エコシステムの現状</title>
 			<link>https://hashhub-research.com/articles/2024-05-29-the-open-network-overview</link>
 			<guid isPermaLink="false">2024-05-29-the-open-network-overview</guid>
@@ -191,14 +199,6 @@
 			<description>前提&lt;br /&gt;1.[DeFi]&lt;br /&gt;2.[Infra]&lt;br /&gt;3.[Games]&lt;br /&gt;4.[Tools]&lt;br /&gt;5.[Social]&lt;br /&gt;6.[NFT]&lt;br /&gt;</description>
 			<pubDate>Sun, 21 Apr 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/6xk3n0bxuty4k6mllfy9qjuf0d30/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ビットコイン L2解剖　定義の曖昧さとリスクへの理解</title>
-			<link>https://hashhub-research.com/articles/2024-4-19-bitcoin-l2-definitions-and-risks</link>
-			<guid isPermaLink="false">2024-4-19-bitcoin-l2-definitions-and-risks</guid>
-			<description>導入&lt;br /&gt;ビットコイン L2の定義&lt;br /&gt;ビットコイン L2エコシステムの現状&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 19 Apr 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/kbbey1mwcqapkhrtd4snz4k1ztv6/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
