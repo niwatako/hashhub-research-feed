@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>2024年米国大統領選挙とミームコイン</title>
+			<link>https://hashhub-research.com/articles/2024-05-31-2024-us-presidential-election-and-meme-coin</link>
+			<guid isPermaLink="false">2024-05-31-2024-us-presidential-election-and-meme-coin</guid>
+			<description>調査時点のPolitiFiコイン分布&lt;br /&gt;時価総額上位のトランプ氏とバイデン氏に関連する2銘柄&lt;br /&gt;</description>
+			<pubDate>Fri, 31 May 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/bppsezkk2jywtjyh11ff0fr3eb19/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>2024年米国大統領選挙とビットコイン</title>
 			<link>https://hashhub-research.com/articles/2024-5-31-2024-us-presidential-election-and-bitcoin</link>
 			<guid isPermaLink="false">2024-5-31-2024-us-presidential-election-and-bitcoin</guid>
@@ -191,14 +199,6 @@
 			<description>月間インシデント発生数の推移とその内訳_Mar,2013-Apr,2024&lt;br /&gt;攻撃別被害額_Jan,2024-Apr,2024&lt;br /&gt;影響が大きかった3つの事件_Jan,2024~Apr,2024&lt;br /&gt;</description>
 			<pubDate>Tue, 23 Apr 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/czuhl6mpi42vf2fayatiy8pc8rho/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Pantera Capitalの投資風景｜Oct,2023-Apr,2024</title>
-			<link>https://hashhub-research.com/articles/2024-04-22-pantera-capital-investments</link>
-			<guid isPermaLink="false">2024-04-22-pantera-capital-investments</guid>
-			<description>Pantera Capital周りの投資風景&lt;br /&gt;当該期間にポートフォリオに追加されたプロジェクトの概要&lt;br /&gt;</description>
-			<pubDate>Mon, 22 Apr 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/rqb4fodk5f47xoqg3mxsvs8n6e3w/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
