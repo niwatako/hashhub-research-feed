@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Aptosの概要 Move言語・高速スループットが特徴のレイヤー1ブロックチェーン</title>
+			<link>https://hashhub-research.com/articles/2024-06-01-aptos-overview</link>
+			<guid isPermaLink="false">2024-06-01-aptos-overview</guid>
+			<description>前提&lt;br /&gt;Aptosの概要&lt;br /&gt;APT トークミクスの概要&lt;br /&gt;Aptosのエコシステム&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Sat, 01 Jun 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2hesb25puxvncsjea74ibz7144hh/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>2024年米国大統領選挙とミームコイン</title>
 			<link>https://hashhub-research.com/articles/2024-05-31-2024-us-presidential-election-and-meme-coin</link>
 			<guid isPermaLink="false">2024-05-31-2024-us-presidential-election-and-meme-coin</guid>
@@ -191,14 +199,6 @@
 			<description>導入&lt;br /&gt;Zircuitの概要&lt;br /&gt;短期間で20億ドルものTVLを集めた理由を考察する&lt;br /&gt;懸念点とリスク&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 25 Apr 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/59h8wbse970sj2te794rpidw6uix/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>WEB3.0 SECURITY #16｜Jan~Apr,2024</title>
-			<link>https://hashhub-research.com/articles/2024-04-23-web3-security</link>
-			<guid isPermaLink="false">2024-04-23-web3-security</guid>
-			<description>月間インシデント発生数の推移とその内訳_Mar,2013-Apr,2024&lt;br /&gt;攻撃別被害額_Jan,2024-Apr,2024&lt;br /&gt;影響が大きかった3つの事件_Jan,2024~Apr,2024&lt;br /&gt;</description>
-			<pubDate>Tue, 23 Apr 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/czuhl6mpi42vf2fayatiy8pc8rho/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
