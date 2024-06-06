@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>2024年下期に向けたEthereum (ETH)への投資スタンス</title>
+			<link>https://hashhub-research.com/articles/2024-06-06-ethereum-marketview</link>
+			<guid isPermaLink="false">2024-06-06-ethereum-marketview</guid>
+			<description>前提&lt;br /&gt;投資家視点で重要なETHに関連する動向&lt;br /&gt;ETHのファンダメンタルズを営利企業のように分析する&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Thu, 06 Jun 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/s0ppmttn86696lx70hjvyzrwnxz6/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>市場シェアから読み解くNFTマーケットプレイスの今 # 1_2024年06月</title>
 			<link>https://hashhub-research.com/articles/2024-06-05-comparative-study-of-nft-marketplaces</link>
 			<guid isPermaLink="false">2024-06-05-comparative-study-of-nft-marketplaces</guid>
@@ -190,14 +198,6 @@
 			<description>導入&lt;br /&gt;インフラストラクチャ &lt;br /&gt;DePIN&lt;br /&gt;DeFi&lt;br /&gt;ソーシャル&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 02 May 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/sv62r9r9hg8ygg51dae41g2dxjp0/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>【2024年GW選書】HashHubチームがこのGWに読んでいる、またはオススメの書籍</title>
-			<link>https://hashhub-research.com/articles/2024-05-01-members-select-recommendations</link>
-			<guid isPermaLink="false">2024-05-01-members-select-recommendations</guid>
-			<description>はじめに&lt;br /&gt;2024年HashHubメンバーがおすすめする書籍、コンテンツ&lt;br /&gt;</description>
-			<pubDate>Wed, 01 May 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/xnw416rjzn4j7dl6um4mvgxjj7xw/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
