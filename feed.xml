@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>DeFiマーケットレポート【2024年5月】</title>
+			<link>https://hashhub-research.com/articles/2024-06-08-defi-market-report-2024-05</link>
+			<guid isPermaLink="false">2024-06-08-defi-market-report-2024-05</guid>
+			<description>マーケット概況&lt;br /&gt;ステーブルコインの発行総量と市場占有率&lt;br /&gt;TVL10億ドルを超える主要DeFiプロトコルの1ヶ月変動率昇順&lt;br /&gt;主要プロトコルの動向&lt;br /&gt;結論&lt;br /&gt;</description>
+			<pubDate>Sat, 08 Jun 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/3oyxijs99tn4315mslp5w8iol9wo/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>暗号資産のセキュリティリスクからビジネスを守る　Fireblocksを企業に導入する前に知るべきこと</title>
 			<link>https://hashhub-research.com/articles/2024-06-07-fireblocks-overview</link>
 			<guid isPermaLink="false">2024-06-07-fireblocks-overview</guid>
@@ -190,14 +198,6 @@
 &lt;br /&gt;</description>
 			<pubDate>Tue, 07 May 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2guypo47p2eubgfz322d9k4102g0/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ビットコインの価格変動要因を理解する｜ETF承認・半減期・マクロ経済の影響から</title>
-			<link>https://hashhub-research.com/articles/2024-05-03-understanding-bitcoin-price-volatility-factors</link>
-			<guid isPermaLink="false">2024-05-03-understanding-bitcoin-price-volatility-factors</guid>
-			<description>前提&lt;br /&gt;ETF承認とビットコイン相場&lt;br /&gt;半減期とビットコイン相場&lt;br /&gt;半減期の需給バランスよりも、マクロ経済環境がビットコイン相場をけん引する可能性&lt;br /&gt;総括&lt;br /&gt;参考記事&lt;br /&gt;</description>
-			<pubDate>Fri, 03 May 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/9rhsjg6jzluxzlzi7rh7dp36vfug/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
