@@ -13,6 +13,14 @@
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/jin03paghdhfr4mz38qzj24ape1n/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		<item>
+			<title>パブリックブロックチェーンの基礎の基礎</title>
+			<link>https://hashhub-research.com/articles/2020-02-01-the-basics-of-public-blockchain</link>
+			<guid isPermaLink="false">2020-02-01-the-basics-of-public-blockchain</guid>
+			<description>前提&lt;br /&gt;暗号資産とブロックチェーンは何を指している？&lt;br /&gt;Q「誰もが、と言っても結局のところ誰が運営しているの？」&lt;br /&gt;Q「そのようなコストを支払ってまでマイニングに参入する意味は？」&lt;br /&gt;Q「それだけの報酬が得られるなら世界中の人がマイニングに参加したいはず。ブロックを生成する権利は、どのマイナーに割り当てられるのか？」&lt;br /&gt;Q「Bitcoinのブロックチェーンを継続させるために、経済インセンティブとして使えるネイティブコインが本当に必要なのか？胡散臭い」&lt;br /&gt;Q「ネイティブコインが必要なのは分かった。でもこのネイティブコインに価値があるかは別の話では？」&lt;br /&gt;Q「BTCの価格付けが市場に委ねられているのであれば、BTCが今から1万円になることもありえる。そうなるとセキュリティは弱くなるのでは？」&lt;br /&gt;</description>
+			<pubDate>Wed, 12 Jun 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/x6s1xl36a20lrpn7qpkdrwb1qjp2/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Web3.0における最新資金調達トレンド分析 #24</title>
 			<link>https://hashhub-research.com/articles/2024-06-11-latest-funding-trends-in-web3</link>
 			<guid isPermaLink="false">2024-06-11-latest-funding-trends-in-web3</guid>
@@ -189,14 +197,6 @@
 &lt;br /&gt;</description>
 			<pubDate>Tue, 14 May 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/m64bu7ubtpd07175dx97pamr3ki2/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Union Square Venturesの投資風景｜May,2022-May,2024</title>
-			<link>https://hashhub-research.com/articles/2024-05-09-union-square-ventures-investments</link>
-			<guid isPermaLink="false">2024-05-09-union-square-ventures-investments</guid>
-			<description>Union Square Ventures周りの投資風景&lt;br /&gt;当該期間にポートフォリオに追加されたプロジェクトの概要&lt;br /&gt;</description>
-			<pubDate>Thu, 09 May 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/003bc3hrv1c2fhc8fdl8ivmlr1f5/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
