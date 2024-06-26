@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ゼロ知識証明（zk-SNARKs）実装の感覚を掴みたい｜Circom</title>
+			<link>https://hashhub-research.com/articles/2024-06-26-zksnarks-circrom-overview</link>
+			<guid isPermaLink="false">2024-06-26-zksnarks-circrom-overview</guid>
+			<description>前提&lt;br /&gt;zk-SNARKsの全体図&lt;br /&gt;Circomの概要&lt;br /&gt;circuitを実装&lt;br /&gt;アプリケーションを考えてみよう&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Wed, 26 Jun 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/j0qo4efnnnzivuas7489tcm9dzew/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>週刊『トレンド銘柄』定点観測｜1.TON_2.NOT_3.ZK</title>
 			<link>https://hashhub-research.com/articles/2024-06-24-weekly-trending-crypto-assets</link>
 			<guid isPermaLink="false">2024-06-24-weekly-trending-crypto-assets</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;NFTの数値情報&lt;br /&gt;EVM系L2のNFT動向&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Sun, 02 Jun 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/cpdfpu4jojz81487cb2mubix0p0m/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Aptosの概要 Move言語・高速スループットが特徴のレイヤー1ブロックチェーン</title>
-			<link>https://hashhub-research.com/articles/2024-06-01-aptos-overview</link>
-			<guid isPermaLink="false">2024-06-01-aptos-overview</guid>
-			<description>前提&lt;br /&gt;Aptosの概要&lt;br /&gt;APT トークミクスの概要&lt;br /&gt;Aptosのエコシステム&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Sat, 01 Jun 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2hesb25puxvncsjea74ibz7144hh/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
