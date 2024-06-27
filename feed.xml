@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ポートフォリオ構築の考え方　株式・暗号資産・その他アセットクラスのバランスのさせ方</title>
+			<link>https://hashhub-research.com/articles/2024-06-27-asset-management-approach</link>
+			<guid isPermaLink="false">2024-06-27-asset-management-approach</guid>
+			<description>前提&lt;br /&gt;基本的な考え方&lt;br /&gt;アセットクラスの集中が正当化されるケース&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Thu, 27 Jun 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ljuqu65bn0whfayhqic9cxrhcapj/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ゼロ知識証明（zk-SNARKs）実装の感覚を掴みたい｜Circom</title>
 			<link>https://hashhub-research.com/articles/2024-06-26-zksnarks-circrom-overview</link>
 			<guid isPermaLink="false">2024-06-26-zksnarks-circrom-overview</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;#23_資金調達の潮流&lt;br /&gt;</description>
 			<pubDate>Mon, 03 Jun 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ytp5nkhjzh9x828ovfof27twe87r/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>NFT（Non-Fungible-Token）の動向 24年5月 </title>
-			<link>https://hashhub-research.com/articles/2024-06-02-nft-market</link>
-			<guid isPermaLink="false">2024-06-02-nft-market</guid>
-			<description>前提&lt;br /&gt;NFTの数値情報&lt;br /&gt;EVM系L2のNFT動向&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Sun, 02 Jun 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/cpdfpu4jojz81487cb2mubix0p0m/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
