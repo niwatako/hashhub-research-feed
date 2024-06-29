@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>TVLトップのレイヤー2をトランザクションを基点にアクティビティを概観する</title>
+			<link>https://hashhub-research.com/articles/2024-06-29-top-tier-l2-activity-comparison</link>
+			<guid isPermaLink="false">2024-06-29-top-tier-l2-activity-comparison</guid>
+			<description>前提&lt;br /&gt;トランザクション数&lt;br /&gt;デイリー平均トランザクション手数料の比較&lt;br /&gt;アクティブユーザーと新規ユーザーの動向&lt;br /&gt;総括&lt;br /&gt;参考&lt;br /&gt;</description>
+			<pubDate>Sat, 29 Jun 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/5tchcy76hfsosaa3f2q3zjgpovoh/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Delphi Venturesの投資風景｜Jan,2024-Jun,2024</title>
 			<link>https://hashhub-research.com/articles/2024-06-28-delphi-ventures-investments</link>
 			<guid isPermaLink="false">2024-06-28-delphi-ventures-investments</guid>
@@ -187,14 +195,6 @@
 			<description></description>
 			<pubDate>Wed, 05 Jun 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/zl8pbtaciqub3m0vhivbe29okt2k/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>週刊『トレンド銘柄』定点観測｜1.GALA,2.Habibi,3.Notcoin</title>
-			<link>https://hashhub-research.com/articles/2024-06-04-weekly-trending-crypto-assets</link>
-			<guid isPermaLink="false">2024-06-04-weekly-trending-crypto-assets</guid>
-			<description>今週のトレンド銘柄｜1.GALA,2.Habibi,3.Notcoin&lt;br /&gt;</description>
-			<pubDate>Tue, 04 Jun 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/6mumxvbgmxckfqg6k3ihykerrin6/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
