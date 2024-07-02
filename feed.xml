@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>最近それなりに話題のNFTプロジェクトをおさえるためだけの記事_24-30 June,2024</title>
+			<link>https://hashhub-research.com/articles/2024-07-02-following-the-nft-projects</link>
+			<guid isPermaLink="false">2024-07-02-following-the-nft-projects</guid>
+			<description>1.最近のNFT市場の傾向をざっくり掴む&lt;br /&gt;2.みんなの検索履歴から流行りものNFTを捕まえる&lt;br /&gt;</description>
+			<pubDate>Tue, 02 Jul 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8fxj97tjzmz17x7kk2yolcuneehx/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>検索トレンドから暗号資産の潮流を読み解く｜24-30 June, 2024</title>
 			<link>https://hashhub-research.com/articles/2024-07-01-weekly-trending-crypto-assets</link>
 			<guid isPermaLink="false">2024-07-01-weekly-trending-crypto-assets</guid>
@@ -187,14 +195,6 @@
 			<description>マーケット概況&lt;br /&gt;ステーブルコインの発行総量と市場占有率&lt;br /&gt;TVL10億ドルを超える主要DeFiプロトコルの1ヶ月変動率昇順&lt;br /&gt;主要プロトコルの動向&lt;br /&gt;結論&lt;br /&gt;</description>
 			<pubDate>Sat, 08 Jun 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/3oyxijs99tn4315mslp5w8iol9wo/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>暗号資産のセキュリティリスクからビジネスを守る　Fireblocksを企業に導入する前に知るべきこと</title>
-			<link>https://hashhub-research.com/articles/2024-06-07-fireblocks-overview</link>
-			<guid isPermaLink="false">2024-06-07-fireblocks-overview</guid>
-			<description>前提&lt;br /&gt;Fireblocksの概要&lt;br /&gt;Fireblocksの特徴 - セキュリティ技術の仕組み&lt;br /&gt;Fireblocksの具体的な導入事例&lt;br /&gt;Fireblocksのデメリットおよび懸念事項&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 07 Jun 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/17n2lr55vu07bd4lw73zv6gzlw5r/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
