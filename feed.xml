@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>リステーキングエコシステムの構造とピボットしたMellow Protocolのアプローチ</title>
+			<link>https://hashhub-research.com/articles/2024-07-05-restaking-ecosystem-and-mellow-protocol</link>
+			<guid isPermaLink="false">2024-07-05-restaking-ecosystem-and-mellow-protocol</guid>
+			<description>前提&lt;br /&gt;既存のリステーキングエコシステムの構造&lt;br /&gt;Mellow Protocolの概要&lt;br /&gt;投資家が取りうるアクションプラン&lt;br /&gt;Lidoのアライアンスの目的、Mellow Protocolの評価を考察する&lt;br /&gt;結論&lt;br /&gt;</description>
+			<pubDate>Fri, 05 Jul 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/j08szb8kkoaeo3jtk06mgmwg0q13/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Bitlayerの概要　Bitcoinを利用するスマートコントラクトレイヤーのエコシステム概観と成長要因の分析</title>
 			<link>https://hashhub-research.com/articles/2024-07-04-bitlayer-overview</link>
 			<guid isPermaLink="false">2024-07-04-bitlayer-overview</guid>
@@ -187,14 +195,6 @@
 			<description>はじめに&lt;br /&gt;Fungibility（代替可能性）を設計することと実際に使われること&lt;br /&gt;NFTについて&lt;br /&gt;NFTになり得るものと実はNFTではないもの&lt;br /&gt;NFTとRMTとトークンプラットフォームの話&lt;br /&gt;これからのトークン化&lt;br /&gt;</description>
 			<pubDate>Wed, 12 Jun 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0trn7qd8dwo5ad8slo5lwwbcqfmf/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>パブリックブロックチェーンの基礎の基礎</title>
-			<link>https://hashhub-research.com/articles/2020-02-01-the-basics-of-public-blockchain</link>
-			<guid isPermaLink="false">2020-02-01-the-basics-of-public-blockchain</guid>
-			<description>前提&lt;br /&gt;暗号資産とブロックチェーンは何を指している？&lt;br /&gt;Q「誰もが、と言っても結局のところ誰が運営しているの？」&lt;br /&gt;Q「そのようなコストを支払ってまでマイニングに参入する意味は？」&lt;br /&gt;Q「それだけの報酬が得られるなら世界中の人がマイニングに参加したいはず。ブロックを生成する権利は、どのマイナーに割り当てられるのか？」&lt;br /&gt;Q「Bitcoinのブロックチェーンを継続させるために、経済インセンティブとして使えるネイティブコインが本当に必要なのか？胡散臭い」&lt;br /&gt;Q「ネイティブコインが必要なのは分かった。でもこのネイティブコインに価値があるかは別の話では？」&lt;br /&gt;Q「BTCの価格付けが市場に委ねられているのであれば、BTCが今から1万円になることもありえる。そうなるとセキュリティは弱くなるのでは？」&lt;br /&gt;</description>
-			<pubDate>Wed, 12 Jun 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/x6s1xl36a20lrpn7qpkdrwb1qjp2/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
