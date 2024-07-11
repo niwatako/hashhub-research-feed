@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ペライチで捉えるDePIN向けレイヤー1 ブロックチェーン｜「IoTeX」および「peaq」の概要</title>
+			<link>https://hashhub-research.com/articles/2024-07-11-about-iotex-peaq</link>
+			<guid isPermaLink="false">2024-07-11-about-iotex-peaq</guid>
+			<description>1.IoTeX｜L1ブロックチェーン「IoTeX Network」とオフチェーン計算プロトコル「W3bstream」を組み合わせたIoT向けWeb3インフラ&lt;br /&gt;2.peaq｜AI・ジョブオートメーション時代のDePINおよびMachine RWAs向けに設計されたブロックチェーン&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Thu, 11 Jul 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/wa19kh6p10o835aljgvnutszweye/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>DeFiマーケットレポート【2024年6月】</title>
 			<link>https://hashhub-research.com/articles/2024-07-10-defi-market-report-2024-06</link>
 			<guid isPermaLink="false">2024-07-10-defi-market-report-2024-06</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;セレブリティによるミームコイン&lt;br /&gt;pump.funの概要、仕組み&lt;br /&gt;セレブリティトークンとpump.funに関する懸念事項&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 13 Jun 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/84hcxpcfmyxzpxx6kzorlx0glutf/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>週刊『トレンド銘柄』定点観測｜1.MANTRA_2.Dynex_3.MUMU THE BULL</title>
-			<link>https://hashhub-research.com/articles/2024-06-12-weekly-trending-crypto-assets</link>
-			<guid isPermaLink="false">2024-06-12-weekly-trending-crypto-assets</guid>
-			<description>先週トレンド銘柄との比較&lt;br /&gt;今週のトレンド銘柄｜1.MANTRA_2.Dynex_3.MUMU THE BULL&lt;br /&gt;</description>
-			<pubDate>Wed, 12 Jun 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/jin03paghdhfr4mz38qzj24ape1n/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
