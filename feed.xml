@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ゼロから始めるzkEVMの比較</title>
+			<link>https://hashhub-research.com/articles/2024-07-16-zkevm-101-and-comparison</link>
+			<guid isPermaLink="false">2024-07-16-zkevm-101-and-comparison</guid>
+			<description>前提&lt;br /&gt;Ethereumの課題と改善策&lt;br /&gt;zkEVMの概要&lt;br /&gt;zkEVMの分類&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Tue, 16 Jul 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/80bzey7k476a7dnlh1yb0ykp5k4b/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Web3.0における最新資金調達トレンド分析 #29</title>
 			<link>https://hashhub-research.com/articles/2024-07-15-latest-funding-trends-in-web3</link>
 			<guid isPermaLink="false">2024-07-15-latest-funding-trends-in-web3</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;#25_資金調達の潮流&lt;br /&gt;</description>
 			<pubDate>Mon, 17 Jun 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/vfg7qdxsdnvkf23a5qzwz7r7tlxr/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ジパングコインの概要 Bitcoin投資家が金をポートフォリオに組み込むことの検討</title>
-			<link>https://hashhub-research.com/articles/2024-06-14-zpg-overview</link>
-			<guid isPermaLink="false">2024-06-14-zpg-overview</guid>
-			<description>前提&lt;br /&gt;ジパングコインの概要&lt;br /&gt;Bitcoin投資家が金をポートフォリオに組み込むことの検討&lt;br /&gt;金へのエクスポージャー手段&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 14 Jun 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/feep1431onfc87vsbqi1f68jkwj4/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
