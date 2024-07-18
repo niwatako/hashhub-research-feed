@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Sanctumの概要｜Solana DeFiの中心的リキッドステーキングトークンのプラットフォーム</title>
+			<link>https://hashhub-research.com/articles/2024-07-18-sanctum-overview</link>
+			<guid isPermaLink="false">2024-07-18-sanctum-overview</guid>
+			<description>前提&lt;br /&gt;Sanctumの概要&lt;br /&gt;INFトークン：Sanctumの核心&lt;br /&gt;Sanctumのセキュリティ保護体制とリスク評価&lt;br /&gt;Sanctumの実績、狙いと将来的な懸念を考察する&lt;br /&gt;</description>
+			<pubDate>Thu, 18 Jul 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2chpm8yep1emj460wxy4sm0er59s/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>最近それなりに話題のNFTプロジェクトをおさえるためだけの記事_【七月前半】</title>
 			<link>https://hashhub-research.com/articles/2024-07-17-following-the-nft-projects</link>
 			<guid isPermaLink="false">2024-07-17-following-the-nft-projects</guid>
@@ -187,14 +195,6 @@
 			<description>はじめに&lt;br /&gt;DEX（分散型取引所）&lt;br /&gt;デリバティブ&lt;br /&gt;レンディング&lt;br /&gt;リキッドステーキング&lt;br /&gt;リステーキング&lt;br /&gt;ステーブルコイン&lt;br /&gt;RWA (Real World Assets)&lt;br /&gt;合成資産 (Synthetic Assets)&lt;br /&gt;イールド (Yield)&lt;br /&gt;クロスチェーン、ブリッジ (Cross-Chain, Bridges)&lt;br /&gt;アグリゲーター (Aggregators)&lt;br /&gt;オプション&lt;br /&gt;オラクル&lt;br /&gt;保険&lt;br /&gt;サービス&lt;br /&gt;</description>
 			<pubDate>Wed, 19 Jun 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/v501rrink3ylc3aadp2spvzz82h7/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>週刊『トレンド銘柄』定点観測｜1.ANDY ETH_2.Toncoin_3.MAGA</title>
-			<link>https://hashhub-research.com/articles/2024-06-18-weekly-trending-crypto-assets</link>
-			<guid isPermaLink="false">2024-06-18-weekly-trending-crypto-assets</guid>
-			<description>先週トレンド銘柄との比較&lt;br /&gt;今週のトレンド銘柄｜1.ANDY ETH_2.Toncoin_3.MAGA&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Tue, 18 Jun 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/phc026riwxxosqmueozrn42b55ih/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
