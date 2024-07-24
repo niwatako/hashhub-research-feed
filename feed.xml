@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ペライチで捉える不動産トークン化事例</title>
+			<link>https://hashhub-research.com/articles/2024-07-24-real-estate-tokenization-as-captured-by-peraich</link>
+			<guid isPermaLink="false">2024-07-24-real-estate-tokenization-as-captured-by-peraich</guid>
+			<description>1.時価総額上位6銘柄の時価総額推移｜24年01月01日〜24年07月23日&lt;br /&gt;2.取引高推移とその内訳｜24年01月01日〜24年07月23日&lt;br /&gt;3.Propy、ELYSIA、Parclのペライチ解説&lt;br /&gt;</description>
+			<pubDate>Wed, 24 Jul 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/pxgqh07g27a6vjhebj3jheqfdm7m/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>検索トレンドから暗号資産の潮流を読み解く｜08-21 July, 2024</title>
 			<link>https://hashhub-research.com/articles/2024-07-23-trending-crypto-assets</link>
 			<guid isPermaLink="false">2024-07-23-trending-crypto-assets</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;基本的な考え方&lt;br /&gt;アセットクラスの集中が正当化されるケース&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 27 Jun 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ljuqu65bn0whfayhqic9cxrhcapj/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ゼロ知識証明（zk-SNARKs）実装の感覚を掴みたい｜Circom</title>
-			<link>https://hashhub-research.com/articles/2024-06-26-zksnarks-circrom-overview</link>
-			<guid isPermaLink="false">2024-06-26-zksnarks-circrom-overview</guid>
-			<description>前提&lt;br /&gt;zk-SNARKsの全体図&lt;br /&gt;Circomの概要&lt;br /&gt;circuitを実装&lt;br /&gt;アプリケーションを考えてみよう&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Wed, 26 Jun 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/j0qo4efnnnzivuas7489tcm9dzew/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
