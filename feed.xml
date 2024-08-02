@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>DeFiマーケットレポート【2024年7月】</title>
+			<link>https://hashhub-research.com/articles/2024-08-02-defi-market-report-2024-07</link>
+			<guid isPermaLink="false">2024-08-02-defi-market-report-2024-07</guid>
+			<description>マーケット概況&lt;br /&gt;新興DeFiプロトコルの現状&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Fri, 02 Aug 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0gs2y9u5d6mmzj7w41xk14ygw55h/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>最近それなりに話題のNFTプロジェクトをおさえるためだけの記事_【七月後半】</title>
 			<link>https://hashhub-research.com/articles/2024-07-31-following-the-nft-projects</link>
 			<guid isPermaLink="false">2024-07-31-following-the-nft-projects</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Coinbase（2024 Q1）の決算&lt;br /&gt;筆者のCoinbase評価と、同社の次の成長ストーリー&lt;br /&gt;ETFはCoinbaseに成長ストーリを妨げるか&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Wed, 03 Jul 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/jsutftibmbsx7etxdi5hto0agcwx/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>最近それなりに話題のNFTプロジェクトをおさえるためだけの記事_24-30 June,2024</title>
-			<link>https://hashhub-research.com/articles/2024-07-02-following-the-nft-projects</link>
-			<guid isPermaLink="false">2024-07-02-following-the-nft-projects</guid>
-			<description>1.最近のNFT市場の傾向をざっくり掴む&lt;br /&gt;2.みんなの検索履歴から流行りものNFTを捕まえる&lt;br /&gt;</description>
-			<pubDate>Tue, 02 Jul 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8fxj97tjzmz17x7kk2yolcuneehx/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
