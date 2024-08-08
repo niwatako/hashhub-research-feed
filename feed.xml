@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ElixirとdeUSDの概要　USDeとの比較、Basis Trading型ステーブルコインの成長余地の検討</title>
+			<link>https://hashhub-research.com/articles/2024-08-08-elixir-deusd-usde-comparison</link>
+			<guid isPermaLink="false">2024-08-08-elixir-deusd-usde-comparison</guid>
+			<description>前提&lt;br /&gt;ElixirのdeUSDの概要&lt;br /&gt;USDeとdeUSDの比較、デペグ・利回り低下シナリオの検討&lt;br /&gt;USDeとdeUSD：Basis Trading型ステーブルコインの成長余地&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Thu, 08 Aug 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/kflrql0azty86gjb8kdnjejck9x0/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>キャリー投資家が暗号資産市場に与える影響、今後の予想</title>
 			<link>https://hashhub-research.com/articles/2024-08-07-carry-trade-and-crypto-market</link>
 			<guid isPermaLink="false">2024-08-07-carry-trade-and-crypto-market</guid>
@@ -187,14 +195,6 @@
 			<description>検索トレンド銘柄の調査[01-07 July, 2024]&lt;br /&gt;検索トレンド「カテゴリー」の調査[01-07 July, 2024]&lt;br /&gt;</description>
 			<pubDate>Mon, 08 Jul 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/qoxvgy97cg1gxvsk97ekwgq1ihqp/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Web3.0における最新資金調達トレンド分析 #28</title>
-			<link>https://hashhub-research.com/articles/2024-07-08-latest-funding-trends-in-web3</link>
-			<guid isPermaLink="false">2024-07-08-latest-funding-trends-in-web3</guid>
-			<description>前提&lt;br /&gt;#28_資金調達の潮流&lt;br /&gt;</description>
-			<pubDate>Mon, 08 Jul 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/kk8m8r8v27mmar0oj14wymbmbem7/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
