@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>最近それなりに話題のNFTプロジェクトをおさえるためだけの記事_【8月前半】</title>
+			<link>https://hashhub-research.com/articles/2024-08-12-following-the-nft-projects</link>
+			<guid isPermaLink="false">2024-08-12-following-the-nft-projects</guid>
+			<description>1.最近のNFT市場の傾向をざっくり掴む&lt;br /&gt;2.みんなの検索履歴から流行りものNFTを捕まえる&lt;br /&gt;</description>
+			<pubDate>Mon, 12 Aug 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/u3h04y1cj9n94ygtj2gehn7yw9lh/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Web3.0における最新資金調達トレンド分析 #33</title>
 			<link>https://hashhub-research.com/articles/2024-08-11-latest-funding-trends-in-web3</link>
 			<guid isPermaLink="false">2024-08-11-latest-funding-trends-in-web3</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;2024年前半のトークン市場&lt;br /&gt;現在の運用方針&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Sat, 13 Jul 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/xt3er5ny2qcponwt956srrpf5tn9/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ペライチで捉えるDePIN向けレイヤー1 ブロックチェーン｜「IoTeX」および「peaq」の概要</title>
-			<link>https://hashhub-research.com/articles/2024-07-11-about-iotex-peaq</link>
-			<guid isPermaLink="false">2024-07-11-about-iotex-peaq</guid>
-			<description>1.IoTeX｜L1ブロックチェーン「IoTeX Network」とオフチェーン計算プロトコル「W3bstream」を組み合わせたIoT向けWeb3インフラ&lt;br /&gt;2.peaq｜AI・ジョブオートメーション時代のDePINおよびMachine RWAs向けに設計されたブロックチェーン&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 11 Jul 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/wa19kh6p10o835aljgvnutszweye/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
