@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>レイヤー2におけるレベニューシェアとユニオン｜Superchainのインターオペラビリティを軸に考察</title>
+			<link>https://hashhub-research.com/articles/2024-08-15-l2-superchain-interoperability-and-blockchain-union</link>
+			<guid isPermaLink="false">2024-08-15-l2-superchain-interoperability-and-blockchain-union</guid>
+			<description>前提&lt;br /&gt;Superchainのビジョンとレベニューシェア&lt;br /&gt;Superchainのインターオペラビリティの概要&lt;br /&gt;Superchainインターオペラビリティのロードマップ&lt;br /&gt;考察：L2エコシステムの成長は、インターオペラビリティを備えたブロックチェーンユニオンが鍵を握る&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Thu, 15 Aug 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0syh6e0qmwpy0089cto1gx3ejnc8/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Visaの投資風景｜2015-Aug 2024</title>
 			<link>https://hashhub-research.com/articles/2024-08-14-visa-investments</link>
 			<guid isPermaLink="false">2024-08-14-visa-investments</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Ethereumの課題と改善策&lt;br /&gt;zkEVMの概要&lt;br /&gt;zkEVMの分類&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Tue, 16 Jul 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/80bzey7k476a7dnlh1yb0ykp5k4b/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Web3.0における最新資金調達トレンド分析 #29</title>
-			<link>https://hashhub-research.com/articles/2024-07-15-latest-funding-trends-in-web3</link>
-			<guid isPermaLink="false">2024-07-15-latest-funding-trends-in-web3</guid>
-			<description>前提&lt;br /&gt;#29_資金調達の潮流&lt;br /&gt;</description>
-			<pubDate>Mon, 15 Jul 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/od7do0wsf3t4efmu3jbkwq0en438/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
