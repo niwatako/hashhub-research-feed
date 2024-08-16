@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>WBTCおよびBTC代替トークンの現状</title>
+			<link>https://hashhub-research.com/articles/2024-08-16-state-of-wbtc-and-other-wrapped-tokens</link>
+			<guid isPermaLink="false">2024-08-16-state-of-wbtc-and-other-wrapped-tokens</guid>
+			<description>前提&lt;br /&gt;WBTCの現状、そもそもラッピング資産に潜むリスクとは&lt;br /&gt;BTC代替トークンの現状&lt;br /&gt;WBTCおよびBTC代替トークンの方向性を考察する&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Fri, 16 Aug 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/aew3mzjuo0ykuuwhlmq03ghsnh50/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>XRP Ledger経済圏の現在（2024年8月版）</title>
 			<link>https://hashhub-research.com/articles/2024-08-16-about-xrp-ledger</link>
 			<guid isPermaLink="false">2024-08-16-about-xrp-ledger</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Sanctumの概要&lt;br /&gt;INFトークン：Sanctumの核心&lt;br /&gt;Sanctumのセキュリティ保護体制とリスク評価&lt;br /&gt;Sanctumの実績、狙いと将来的な懸念を考察する&lt;br /&gt;</description>
 			<pubDate>Thu, 18 Jul 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2chpm8yep1emj460wxy4sm0er59s/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>最近それなりに話題のNFTプロジェクトをおさえるためだけの記事_【七月前半】</title>
-			<link>https://hashhub-research.com/articles/2024-07-17-following-the-nft-projects</link>
-			<guid isPermaLink="false">2024-07-17-following-the-nft-projects</guid>
-			<description>1.最近のNFT市場の傾向をざっくり掴む&lt;br /&gt;2.みんなの検索履歴から流行りものNFTを捕まえる&lt;br /&gt;</description>
-			<pubDate>Wed, 17 Jul 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/o3ny0y3bw92arixqcnkyumkruovg/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
