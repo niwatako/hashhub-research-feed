@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>zkVM技術の比較とユースケース｜zkEVM、zkWasm、RISC Zero</title>
+			<link>https://hashhub-research.com/articles/2024-08-21-zkvm-overview-and-zkevm-zkwasm-risczero</link>
+			<guid isPermaLink="false">2024-08-21-zkvm-overview-and-zkevm-zkwasm-risczero</guid>
+			<description>前提&lt;br /&gt;zkVMの概要&lt;br /&gt;zkVMの種類&lt;br /&gt;zkEVM&lt;br /&gt;RISC ZERO&lt;br /&gt;zkWASM&lt;br /&gt;各zkVMの比較と評価&lt;br /&gt;ブロックチェーン上でのzkVMの使用例&lt;br /&gt;まとめ&lt;br /&gt;</description>
+			<pubDate>Wed, 21 Aug 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/bcbpf5iy4twc1esrifs8h1gmkqqs/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>DeFiのリスク・今後の発展に向けてあるべき取り組みなど運用者・実務者視点での考え方</title>
 			<link>https://hashhub-research.com/articles/2024-08-20-defi-risks-how-improve-defi-sector</link>
 			<guid isPermaLink="false">2024-08-20-defi-risks-how-improve-defi-sector</guid>
@@ -187,14 +195,6 @@
 			<description>1.時価総額上位6銘柄の時価総額推移｜24年01月01日〜24年07月23日&lt;br /&gt;2.取引高推移とその内訳｜24年01月01日〜24年07月23日&lt;br /&gt;3.Propy、ELYSIA、Parclのペライチ解説&lt;br /&gt;</description>
 			<pubDate>Wed, 24 Jul 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/pxgqh07g27a6vjhebj3jheqfdm7m/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>検索トレンドから暗号資産の潮流を読み解く｜08-21 July, 2024</title>
-			<link>https://hashhub-research.com/articles/2024-07-23-trending-crypto-assets</link>
-			<guid isPermaLink="false">2024-07-23-trending-crypto-assets</guid>
-			<description>検索トレンド銘柄の調査[08-21 July, 2024]&lt;br /&gt;検索トレンド「カテゴリー」の調査[08-21 July, 2024]&lt;br /&gt;</description>
-			<pubDate>Tue, 23 Jul 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/r332ductf05g5wqzxxa3av9qb0xe/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
