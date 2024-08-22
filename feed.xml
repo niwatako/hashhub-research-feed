@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>今さら聞けない「ミームコイン」の概況と可能性、注意点などを網羅的に解説</title>
+			<link>https://hashhub-research.com/articles/2024-08-22-about-meme-coin</link>
+			<guid isPermaLink="false">2024-08-22-about-meme-coin</guid>
+			<description>前提&lt;br /&gt;ミームコインとは何か&lt;br /&gt;ミームコインがクリプト市場にもたらす可能性&lt;br /&gt;ミームコインのリスクと注意点&lt;br /&gt;規制と将来の展望&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Thu, 22 Aug 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/6oojch26az9wcslisa9k97q2m5uo/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>zkVM技術の比較とユースケース｜zkEVM、zkWasm、RISC Zero</title>
 			<link>https://hashhub-research.com/articles/2024-08-21-zkvm-overview-and-zkevm-zkwasm-risczero</link>
 			<guid isPermaLink="false">2024-08-21-zkvm-overview-and-zkevm-zkwasm-risczero</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;市場の期待とセンチメント&lt;br /&gt;オンチェーンデータからみるSOLファンダメンタルズ&lt;br /&gt;懸念材料は何か？&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 25 Jul 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/xbdm03vv1h8749vhe9x3a4lqb84y/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ペライチで捉える不動産トークン化事例</title>
-			<link>https://hashhub-research.com/articles/2024-07-24-real-estate-tokenization-as-captured-by-peraich</link>
-			<guid isPermaLink="false">2024-07-24-real-estate-tokenization-as-captured-by-peraich</guid>
-			<description>1.時価総額上位6銘柄の時価総額推移｜24年01月01日〜24年07月23日&lt;br /&gt;2.取引高推移とその内訳｜24年01月01日〜24年07月23日&lt;br /&gt;3.Propy、ELYSIA、Parclのペライチ解説&lt;br /&gt;</description>
-			<pubDate>Wed, 24 Jul 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/pxgqh07g27a6vjhebj3jheqfdm7m/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
