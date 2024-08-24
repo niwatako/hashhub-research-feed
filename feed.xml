@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Azukiのこれまでの活動内容と、最近の目立った活動内容についての概況</title>
+			<link>https://hashhub-research.com/articles/2024-08-24-about-azuki</link>
+			<guid isPermaLink="false">2024-08-24-about-azuki</guid>
+			<description>前提&lt;br /&gt;これまでの活動内容&lt;br /&gt;最近の目立った活動内容&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Sat, 24 Aug 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/r0qa6zhciwhlb2v9p3frao930pk0/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>pump.funがクリプト市場に与えた影響や成功要因、さらに最近のネガティブなニュースを含めた考察</title>
 			<link>https://hashhub-research.com/articles/2024-08-23-about-pump-fun</link>
 			<guid isPermaLink="false">2024-08-23-about-pump-fun</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;#31_資金調達の潮流&lt;br /&gt;</description>
 			<pubDate>Mon, 29 Jul 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2ds2aeh2st0qqwwwsxnqp96ahkm2/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>大統領選挙開票までのマーケットへの向き合い方</title>
-			<link>https://hashhub-research.com/articles/2024-07-26-market-run-up-to-election</link>
-			<guid isPermaLink="false">2024-07-26-market-run-up-to-election</guid>
-			<description>前提&lt;br /&gt;大統領選挙開票までのマーケットへの向き合い方&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 26 Jul 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/989wgxsjfb48c42b2ok4m06s4byb/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
