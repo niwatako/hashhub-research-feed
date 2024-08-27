@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>GameFiに特化したブロックチェーンOasys（OAS）の概要</title>
+			<link>https://hashhub-research.com/articles/2024-08-27-about-oasys</link>
+			<guid isPermaLink="false">2024-08-27-about-oasys</guid>
+			<description>1.Oasys及びOASの概要&lt;br /&gt;2.Oasysゲーム経済圏の概要および現状整理&lt;br /&gt;</description>
+			<pubDate>Tue, 27 Aug 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/bqpy71sljelvyc8gfxygk66bbfog/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Pudgy PenguinsがNFT業界を牽引する理由と、NFTからリアルビジネスへ飛躍するブランド戦略</title>
 			<link>https://hashhub-research.com/articles/2024-08-26-about-pudgy-penguins</link>
 			<guid isPermaLink="false">2024-08-26-about-pudgy-penguins</guid>
@@ -187,14 +195,6 @@
 			<description>マーケット概況&lt;br /&gt;新興DeFiプロトコルの現状&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Fri, 02 Aug 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0gs2y9u5d6mmzj7w41xk14ygw55h/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>最近それなりに話題のNFTプロジェクトをおさえるためだけの記事_【七月後半】</title>
-			<link>https://hashhub-research.com/articles/2024-07-31-following-the-nft-projects</link>
-			<guid isPermaLink="false">2024-07-31-following-the-nft-projects</guid>
-			<description>1.最近のNFT市場の傾向をざっくり掴む&lt;br /&gt;2.みんなの検索履歴から流行りものNFTを捕まえる&lt;br /&gt;</description>
-			<pubDate>Wed, 31 Jul 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/h84ypj73bukwib4i93mbmwclkx5p/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
