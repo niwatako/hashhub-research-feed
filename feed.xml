@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>最近それなりに話題のNFTプロジェクトをおさえるためだけの記事_【8月後半】</title>
+			<link>https://hashhub-research.com/articles/2024-08-29-following-the-nft-projects</link>
+			<guid isPermaLink="false">2024-08-29-following-the-nft-projects</guid>
+			<description>1.最近のNFT市場の傾向をざっくり掴む&lt;br /&gt;2.みんなの検索履歴から流行りものNFTを捕まえる&lt;br /&gt;</description>
+			<pubDate>Thu, 29 Aug 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/gp3hl87hw1kro61bwzl0ad2vwn7w/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Tap to Earnゲームの代表格「Hamster Kombat」の概要と新たなマネタイズモデルの可能性について</title>
 			<link>https://hashhub-research.com/articles/2024-08-28-about-hamster-kombat</link>
 			<guid isPermaLink="false">2024-08-28-about-hamster-kombat</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;#32_資金調達の潮流&lt;br /&gt;</description>
 			<pubDate>Mon, 05 Aug 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/rs044z6h6w93y7czetxeibgjor91/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>WEB3.0 SECURITY #19｜24年7月のインシデント分析</title>
-			<link>https://hashhub-research.com/articles/2024-08-03-web3-security</link>
-			<guid isPermaLink="false">2024-08-03-web3-security</guid>
-			<description>月間インシデント発生数の推移とその内訳&lt;br /&gt;攻撃別被害額_2024年7月&lt;br /&gt;影響が大きかった5つの事件_2024年7月&lt;br /&gt;</description>
-			<pubDate>Sat, 03 Aug 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/9es47ejrv981wjta37rmlqdape20/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
