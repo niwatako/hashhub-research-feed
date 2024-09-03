@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Doodlesの歴史と背景、最近の取り組みやニュースについて網羅的に解説</title>
+			<link>https://hashhub-research.com/articles/2024-09-03-about-doodles</link>
+			<guid isPermaLink="false">2024-09-03-about-doodles</guid>
+			<description>前提&lt;br /&gt;Doodlesの歴史と背景&lt;br /&gt;Doodlesに関する最近の取り組みやニュース&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Tue, 03 Sep 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/i1b5sur844rdmwum9jgoxdtyhaux/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>zkEVMプロジェクトの課題と展望｜Scroll vs Linea</title>
 			<link>https://hashhub-research.com/articles/2024-09-02-scroll-vs-linea</link>
 			<guid isPermaLink="false">2024-09-02-scroll-vs-linea</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;#33_資金調達の潮流&lt;br /&gt;</description>
 			<pubDate>Sun, 11 Aug 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1fe0kzj4xu4qrg1thojtc5p3eqe4/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Jupiter／JLPの概要　JLPの仕組みとリスクヘッジした運用アイデア</title>
-			<link>https://hashhub-research.com/articles/2024-08-10-jupiter-and-jlp-strategy</link>
-			<guid isPermaLink="false">2024-08-10-jupiter-and-jlp-strategy</guid>
-			<description>前提&lt;br /&gt;Jupiter／JLPの概要&lt;br /&gt;JLPを利用した運用方法&lt;br /&gt;リスクについて&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Sat, 10 Aug 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/sb47bqj2twoc9nuefh4e0z765yrn/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
