@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>時間トークナイゼーションプラットフォーム「time.fun」の概要と、個人の金融商品化に対する懸念を考察</title>
+			<link>https://hashhub-research.com/articles/2024-09-04-about-time-fun</link>
+			<guid isPermaLink="false">2024-09-04-about-time-fun</guid>
+			<description>前提&lt;br /&gt;概要&lt;br /&gt;今後の展開を注視する必要性&lt;br /&gt;個人的な見解&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Wed, 04 Sep 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/b1rsno8s14a3wgyra08minq3v5hf/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Doodlesの歴史と背景、最近の取り組みやニュースについて網羅的に解説</title>
 			<link>https://hashhub-research.com/articles/2024-09-03-about-doodles</link>
 			<guid isPermaLink="false">2024-09-03-about-doodles</guid>
@@ -187,14 +195,6 @@
 			<description>1.最近のNFT市場の傾向をざっくり掴む&lt;br /&gt;2.みんなの検索履歴から流行りものNFTを捕まえる&lt;br /&gt;</description>
 			<pubDate>Mon, 12 Aug 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/u3h04y1cj9n94ygtj2gehn7yw9lh/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Web3.0における最新資金調達トレンド分析 #33</title>
-			<link>https://hashhub-research.com/articles/2024-08-11-latest-funding-trends-in-web3</link>
-			<guid isPermaLink="false">2024-08-11-latest-funding-trends-in-web3</guid>
-			<description>前提&lt;br /&gt;#33_資金調達の潮流&lt;br /&gt;</description>
-			<pubDate>Sun, 11 Aug 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1fe0kzj4xu4qrg1thojtc5p3eqe4/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
