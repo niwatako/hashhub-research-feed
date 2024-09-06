@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Monadの概要：EVM互換のスケーラビリティを再定義する新世代のレイヤー1ブロックチェーン</title>
+			<link>https://hashhub-research.com/articles/2024-09-06-monad-overview</link>
+			<guid isPermaLink="false">2024-09-06-monad-overview</guid>
+			<description>前提&lt;br /&gt;なぜEVM互換のあるハイパフォーマンスレイヤー1、なぜMonadに注目するのか？&lt;br /&gt;Monadの概要&lt;br /&gt;Monadのエコシステムの概要&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Fri, 06 Sep 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/yha3zd2e2d0yl2mii9zr8pu9akwm/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>TRONの躍進、Sun.pumpによる儲けのからくりを解説</title>
 			<link>https://hashhub-research.com/articles/2024-09-05-profitable-scheme-by-sun-pump</link>
 			<guid isPermaLink="false">2024-09-05-profitable-scheme-by-sun-pump</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Superchainのビジョンとレベニューシェア&lt;br /&gt;Superchainのインターオペラビリティの概要&lt;br /&gt;Superchainインターオペラビリティのロードマップ&lt;br /&gt;考察：L2エコシステムの成長は、インターオペラビリティを備えたブロックチェーンユニオンが鍵を握る&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 15 Aug 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0syh6e0qmwpy0089cto1gx3ejnc8/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Visaの投資風景｜2015-Aug 2024</title>
-			<link>https://hashhub-research.com/articles/2024-08-14-visa-investments</link>
-			<guid isPermaLink="false">2024-08-14-visa-investments</guid>
-			<description>Visa周りの投資風景&lt;br /&gt;当該期間にポートフォリオに追加されたプロジェクトの概要&lt;br /&gt;</description>
-			<pubDate>Wed, 14 Aug 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/nxa6l7tfhnyjhy1yek0z6qpg7ax4/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
