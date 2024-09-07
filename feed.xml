@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Moshicam｜なぜユーザーはそのNFTをミントするのか？について再考</title>
+			<link>https://hashhub-research.com/articles/2024-09-07-about-moshicam</link>
+			<guid isPermaLink="false">2024-09-07-about-moshicam</guid>
+			<description>前提&lt;br /&gt;Moshicamの概要&lt;br /&gt;Moshicam誕生の背景&lt;br /&gt;成功要因は既存コミュニティの活用&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Sat, 07 Sep 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/5pbfb2d14p2dekq213w8mcq6edoy/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Monadの概要：EVM互換のスケーラビリティを再定義する新世代のレイヤー1ブロックチェーン</title>
 			<link>https://hashhub-research.com/articles/2024-09-06-monad-overview</link>
 			<guid isPermaLink="false">2024-09-06-monad-overview</guid>
@@ -187,14 +195,6 @@
 			<description>1.XRP及びXRP Ledgerの概要&lt;br /&gt;2.XRPLの主要機能と技術的側面の解説&lt;br /&gt;3.XRPLエコシステムの現状&lt;br /&gt;4.ロードマップと将来展望「機関投資家向けDeFi基盤としてのXRPL」&lt;br /&gt;</description>
 			<pubDate>Fri, 16 Aug 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ywlpjnnqo5njla390wxe0ixtl8ib/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>レイヤー2におけるレベニューシェアとユニオン｜Superchainのインターオペラビリティを軸に考察</title>
-			<link>https://hashhub-research.com/articles/2024-08-15-l2-superchain-interoperability-and-blockchain-union</link>
-			<guid isPermaLink="false">2024-08-15-l2-superchain-interoperability-and-blockchain-union</guid>
-			<description>前提&lt;br /&gt;Superchainのビジョンとレベニューシェア&lt;br /&gt;Superchainのインターオペラビリティの概要&lt;br /&gt;Superchainインターオペラビリティのロードマップ&lt;br /&gt;考察：L2エコシステムの成長は、インターオペラビリティを備えたブロックチェーンユニオンが鍵を握る&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 15 Aug 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0syh6e0qmwpy0089cto1gx3ejnc8/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
