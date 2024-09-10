@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>WEB3.0 SECURITY #20｜24年8月のインシデント分析</title>
+			<link>https://hashhub-research.com/articles/2024-09-10-web3-security</link>
+			<guid isPermaLink="false">2024-09-10-web3-security</guid>
+			<description>1.月間インシデント発生数の推移とその内訳&lt;br /&gt;2.攻撃別被害額_2024年8月｜従来の「ラグプル」から「Account Compromise→ラグプル」へ&lt;br /&gt;3.影響が大きかった2つの事件_2024年8月&lt;br /&gt;</description>
+			<pubDate>Tue, 10 Sep 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/b3mo7bxi5oatconlxarreezqvwrb/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>クリプトウォレットの安全性と利便性の両立を目指す「Capsule」について</title>
 			<link>https://hashhub-research.com/articles/2024-09-09-about-capsule</link>
 			<guid isPermaLink="false">2024-09-09-about-capsule</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;#34_資金調達の潮流&lt;br /&gt;</description>
 			<pubDate>Sun, 18 Aug 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/njo2gz8dwn6qvf670ku5cco604i8/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Rippleのエンタープライズブロックチェーン事業の現在（2024年8月版）</title>
-			<link>https://hashhub-research.com/articles/2024-08-17-ripple-enterprise-blockchain-business</link>
-			<guid isPermaLink="false">2024-08-17-ripple-enterprise-blockchain-business</guid>
-			<description>1.Ripple社の概要&lt;br /&gt;2.法人向け事業の解説&lt;br /&gt;3.Ripple社のカストディ事業拡大とステーブルコイン導入の考察&lt;br /&gt;</description>
-			<pubDate>Sat, 17 Aug 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1yshsv7weonx9qr2ld910d298uyo/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
