@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Story Protocol　インターネットのコラボ文化の発展を支えるオンチェーンでの知的財産(IP)管理の仕組み</title>
+			<link>https://hashhub-research.com/articles/2024-09-10-story-protocol-overview</link>
+			<guid isPermaLink="false">2024-09-10-story-protocol-overview</guid>
+			<description>前提&lt;br /&gt;Story Protocolの概要&lt;br /&gt;実際のIP活用例：クリエイター同士のコラボレーション&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Tue, 10 Sep 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/oxb76aiycgl8wl6dclyk8zsh3wqc/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>WEB3.0 SECURITY #20｜24年8月のインシデント分析</title>
 			<link>https://hashhub-research.com/articles/2024-09-10-web3-security</link>
 			<guid isPermaLink="false">2024-09-10-web3-security</guid>
@@ -187,14 +195,6 @@
 			<description>検索トレンド銘柄の調査[05-17 August, 2024]&lt;br /&gt;検索トレンド「カテゴリー」の調査[05-17 August, 2024]&lt;br /&gt;</description>
 			<pubDate>Mon, 19 Aug 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/jfdozmottwla9csel1p4i30id7db/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Web3.0における最新資金調達トレンド分析 #34</title>
-			<link>https://hashhub-research.com/articles/2024-08-18-latest-funding-trends-in-web3</link>
-			<guid isPermaLink="false">2024-08-18-latest-funding-trends-in-web3</guid>
-			<description>前提&lt;br /&gt;#34_資金調達の潮流&lt;br /&gt;</description>
-			<pubDate>Sun, 18 Aug 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/njo2gz8dwn6qvf670ku5cco604i8/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
