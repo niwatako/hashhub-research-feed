@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Starknetの仕組みを活用した新たなオンチェーン投票システム「Snapshot X」について解説</title>
+			<link>https://hashhub-research.com/articles/2024-09-13-about-snapshot-x</link>
+			<guid isPermaLink="false">2024-09-13-about-snapshot-x</guid>
+			<description>前提&lt;br /&gt;Snapshot Xの概要&lt;br /&gt;Snapshot Xの特徴&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Fri, 13 Sep 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/5kdpjdmpm8c9gjdaigdb9rghfq5p/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>トークン市場が長期停滞するリスクの検討、VCファンドの懸念</title>
 			<link>https://hashhub-research.com/articles/2024-09-12-risk-of-a-prolonged-stagnation-crypto-market</link>
 			<guid isPermaLink="false">2024-09-12-risk-of-a-prolonged-stagnation-crypto-market</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;zkVMの概要&lt;br /&gt;zkVMの種類&lt;br /&gt;zkEVM&lt;br /&gt;RISC ZERO&lt;br /&gt;zkWASM&lt;br /&gt;各zkVMの比較と評価&lt;br /&gt;ブロックチェーン上でのzkVMの使用例&lt;br /&gt;まとめ&lt;br /&gt;</description>
 			<pubDate>Wed, 21 Aug 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/bcbpf5iy4twc1esrifs8h1gmkqqs/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>DeFiのリスク・今後の発展に向けてあるべき取り組みなど運用者・実務者視点での考え方</title>
-			<link>https://hashhub-research.com/articles/2024-08-20-defi-risks-how-improve-defi-sector</link>
-			<guid isPermaLink="false">2024-08-20-defi-risks-how-improve-defi-sector</guid>
-			<description>前提&lt;br /&gt;DeFiの需要はまだあるのか？&lt;br /&gt;DeFiの最大のボトルネック&lt;br /&gt;今後の発展に向けてあるべき取り組み、期待したい規制&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Tue, 20 Aug 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/6l216tc8ccl0orpf06fr9epygdon/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
