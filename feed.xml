@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>検索トレンドから暗号資産の潮流を読み解く｜巷で一瞬話題になったPump Fun of ETH「Ethervista」概説.etc｜01-13 Sep ,2024</title>
+			<link>https://hashhub-research.com/articles/2024-09-14-trending-crypto-assets</link>
+			<guid isPermaLink="false">2024-09-14-trending-crypto-assets</guid>
+			<description>検索トレンド銘柄の調査[01-13 Sep ,2024]&lt;br /&gt;1.中長期トレンドを形成する銘柄&lt;br /&gt;2.ここ最近、検索数が増えている銘柄&lt;br /&gt;</description>
+			<pubDate>Sat, 14 Sep 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/brlckwprhatvk5os0rwjeyifr813/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Starknetの仕組みを活用した新たなオンチェーン投票システム「Snapshot X」について解説</title>
 			<link>https://hashhub-research.com/articles/2024-09-13-about-snapshot-x</link>
 			<guid isPermaLink="false">2024-09-13-about-snapshot-x</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;ミームコインとは何か&lt;br /&gt;ミームコインがクリプト市場にもたらす可能性&lt;br /&gt;ミームコインのリスクと注意点&lt;br /&gt;規制と将来の展望&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 22 Aug 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/6oojch26az9wcslisa9k97q2m5uo/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>zkVM技術の比較とユースケース｜zkEVM、zkWasm、RISC Zero</title>
-			<link>https://hashhub-research.com/articles/2024-08-21-zkvm-overview-and-zkevm-zkwasm-risczero</link>
-			<guid isPermaLink="false">2024-08-21-zkvm-overview-and-zkevm-zkwasm-risczero</guid>
-			<description>前提&lt;br /&gt;zkVMの概要&lt;br /&gt;zkVMの種類&lt;br /&gt;zkEVM&lt;br /&gt;RISC ZERO&lt;br /&gt;zkWASM&lt;br /&gt;各zkVMの比較と評価&lt;br /&gt;ブロックチェーン上でのzkVMの使用例&lt;br /&gt;まとめ&lt;br /&gt;</description>
-			<pubDate>Wed, 21 Aug 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/bcbpf5iy4twc1esrifs8h1gmkqqs/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
