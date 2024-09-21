@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Web3.0における最新資金調達トレンド分析 #39</title>
+			<link>https://hashhub-research.com/articles/2024-09-22-latest-funding-trends-in-web3</link>
+			<guid isPermaLink="false">2024-09-22-latest-funding-trends-in-web3</guid>
+			<description>前提&lt;br /&gt;#39_資金調達の潮流&lt;br /&gt;1.「2024年9月」&lt;br /&gt;2.「直近1週間」&lt;br /&gt;3.「2024年度Q3」&lt;br /&gt;4.投資会社(投資家)の動向&lt;br /&gt;5.補足資料&lt;br /&gt;</description>
+			<pubDate>Sun, 22 Sep 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/aesuw9zq5ak5wqntplk22bkghhob/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>オンチェーンゲームのオンボーディングを簡素化する「Cartridge」の概要と、パスキー導入のメリットや課題について</title>
 			<link>https://hashhub-research.com/articles/2024-09-21-about-cartridge</link>
 			<guid isPermaLink="false">2024-09-21-about-cartridge</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Farcasterの全体動向&lt;br /&gt;主なアップデートニュース&lt;br /&gt;ラウンドの追加とは&lt;br /&gt;「sponsored signer approvals（スポンサー付き署名者の承認）」の導入&lt;br /&gt;Farcasterの新機能「Explore」&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Fri, 30 Aug 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/opn9769r00uuvdhrccrtbxuflw61/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>最近それなりに話題のNFTプロジェクトをおさえるためだけの記事_【8月後半】</title>
-			<link>https://hashhub-research.com/articles/2024-08-29-following-the-nft-projects</link>
-			<guid isPermaLink="false">2024-08-29-following-the-nft-projects</guid>
-			<description>1.最近のNFT市場の傾向をざっくり掴む&lt;br /&gt;2.みんなの検索履歴から流行りものNFTを捕まえる&lt;br /&gt;</description>
-			<pubDate>Thu, 29 Aug 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/gp3hl87hw1kro61bwzl0ad2vwn7w/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
