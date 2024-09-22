@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Suiエコシステムの現状　Move言語レイヤー1の特徴とその課題</title>
+			<link>https://hashhub-research.com/articles/2024-09-23-state-of-sui-2024</link>
+			<guid isPermaLink="false">2024-09-23-state-of-sui-2024</guid>
+			<description>導入&lt;br /&gt;Suiの概要&lt;br /&gt;Suiの現状 2024年9月&lt;br /&gt;Suiエコシステムを取り巻く環境：価格とオンチェーンアクティビティに影響を与える要因&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Mon, 23 Sep 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/02frlmga8qvguvng8kswea3jbpy9/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Web3.0における最新資金調達トレンド分析 #39</title>
 			<link>https://hashhub-research.com/articles/2024-09-22-latest-funding-trends-in-web3</link>
 			<guid isPermaLink="false">2024-09-22-latest-funding-trends-in-web3</guid>
@@ -187,14 +195,6 @@
 			<description>はじめに&lt;br /&gt;なぜSkyにリブランドされるのか？&lt;br /&gt;これは単なるリブランドなのか？&lt;br /&gt;どのような変化がMakerDAOのエコシステムに起きるのか？&lt;br /&gt;今後の発展と課題&lt;br /&gt;DeFi規制強化の世界線で市場のニーズを掴むSky・USDS&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Sat, 31 Aug 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ft4ti0sevikndaxw49exoraa1g5l/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>web3ソーシャル領域の代表格の一つであるFarcasterエコシステムの動向24年8月</title>
-			<link>https://hashhub-research.com/articles/2024-08-30-about-farcaster-ecosystem</link>
-			<guid isPermaLink="false">2024-08-30-about-farcaster-ecosystem</guid>
-			<description>前提&lt;br /&gt;Farcasterの全体動向&lt;br /&gt;主なアップデートニュース&lt;br /&gt;ラウンドの追加とは&lt;br /&gt;「sponsored signer approvals（スポンサー付き署名者の承認）」の導入&lt;br /&gt;Farcasterの新機能「Explore」&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 30 Aug 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/opn9769r00uuvdhrccrtbxuflw61/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
