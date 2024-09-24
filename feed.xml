@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Robot Venturesのシード投資風景｜Aug-Sep 2024</title>
+			<link>https://hashhub-research.com/articles/2024-09-25-about-robot-ventures</link>
+			<guid isPermaLink="false">2024-09-25-about-robot-ventures</guid>
+			<description>Robot Ventures周りの投資風景&lt;br /&gt;Robot Venturesのシード投資風景｜Aug-Sep 2024&lt;br /&gt;当該期間にシード投資したプロジェクト概要&lt;br /&gt;</description>
+			<pubDate>Wed, 25 Sep 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/fh8etgc3y4c7ja7zxmr6o1hy8pm2/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Suiエコシステムの現状　Move言語レイヤー1の特徴とその課題</title>
 			<link>https://hashhub-research.com/articles/2024-09-23-state-of-sui-2024</link>
 			<guid isPermaLink="false">2024-09-23-state-of-sui-2024</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;#36_資金調達の潮流&lt;br /&gt;</description>
 			<pubDate>Sun, 01 Sep 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/a90703pjndbgt3il1y5ran7edwiy/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>MakerDAOからSkyへ　リブランド背景と今後の影響</title>
-			<link>https://hashhub-research.com/articles/2024-08-31-makerdao-sky</link>
-			<guid isPermaLink="false">2024-08-31-makerdao-sky</guid>
-			<description>はじめに&lt;br /&gt;なぜSkyにリブランドされるのか？&lt;br /&gt;これは単なるリブランドなのか？&lt;br /&gt;どのような変化がMakerDAOのエコシステムに起きるのか？&lt;br /&gt;今後の発展と課題&lt;br /&gt;DeFi規制強化の世界線で市場のニーズを掴むSky・USDS&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Sat, 31 Aug 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ft4ti0sevikndaxw49exoraa1g5l/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
