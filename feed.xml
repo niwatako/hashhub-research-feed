@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Ethereumの大型アップグレード、Pectraの概要　投資家に与える影響は？</title>
+			<link>https://hashhub-research.com/articles/2024-10-01-ethereum-pectra-overview</link>
+			<guid isPermaLink="false">2024-10-01-ethereum-pectra-overview</guid>
+			<description>前提&lt;br /&gt;Pectra アップグレードの概要&lt;br /&gt;技術的に影響の大きいEIP&lt;br /&gt;投資家に影響の大きいEIP&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Tue, 01 Oct 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/sh6lcw5eigypaeuydu3wlap77fly/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>WEB3.0 SECURITY #21｜24年9月のインシデント分析</title>
 			<link>https://hashhub-research.com/articles/2024-09-30-web3-security</link>
 			<guid isPermaLink="false">2024-09-30-web3-security</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;なぜEVM互換のあるハイパフォーマンスレイヤー1、なぜMonadに注目するのか？&lt;br /&gt;Monadの概要&lt;br /&gt;Monadのエコシステムの概要&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Fri, 06 Sep 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/yha3zd2e2d0yl2mii9zr8pu9akwm/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>TRONの躍進、Sun.pumpによる儲けのからくりを解説</title>
-			<link>https://hashhub-research.com/articles/2024-09-05-profitable-scheme-by-sun-pump</link>
-			<guid isPermaLink="false">2024-09-05-profitable-scheme-by-sun-pump</guid>
-			<description>1.Sun.pumpによるTRX需要増はどのように引き起こされたのか&lt;br /&gt;</description>
-			<pubDate>Thu, 05 Sep 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/keftudgpev1t73e1qpie6kvh1wt7/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
