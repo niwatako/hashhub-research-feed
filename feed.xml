@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Active Validated Services　Eigenlayerの期待と失望、あるいは希望に関する考察</title>
+			<link>https://hashhub-research.com/articles/2024-10-02-avs-restaking-eigenlayer</link>
+			<guid isPermaLink="false">2024-10-02-avs-restaking-eigenlayer</guid>
+			<description>導入&lt;br /&gt;Shared Securityプロトコルの目的とEigenLayerの役割&lt;br /&gt;AVSの現状と課題&lt;br /&gt;EigenLayerの「AWSモーメント」アナロジーとその課題&lt;br /&gt;AVSの多様化と具体的なユースケースの必要性&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Wed, 02 Oct 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/l54y01g7uw5wufz4hbxrww2g64rl/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Ethereumの大型アップグレード、Pectraの概要　投資家に与える影響は？</title>
 			<link>https://hashhub-research.com/articles/2024-10-01-ethereum-pectra-overview</link>
 			<guid isPermaLink="false">2024-10-01-ethereum-pectra-overview</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Moshicamの概要&lt;br /&gt;Moshicam誕生の背景&lt;br /&gt;成功要因は既存コミュニティの活用&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Sat, 07 Sep 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/5pbfb2d14p2dekq213w8mcq6edoy/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Monadの概要：EVM互換のスケーラビリティを再定義する新世代のレイヤー1ブロックチェーン</title>
-			<link>https://hashhub-research.com/articles/2024-09-06-monad-overview</link>
-			<guid isPermaLink="false">2024-09-06-monad-overview</guid>
-			<description>前提&lt;br /&gt;なぜEVM互換のあるハイパフォーマンスレイヤー1、なぜMonadに注目するのか？&lt;br /&gt;Monadの概要&lt;br /&gt;Monadのエコシステムの概要&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 06 Sep 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/yha3zd2e2d0yl2mii9zr8pu9akwm/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
