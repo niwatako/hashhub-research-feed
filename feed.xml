@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ウォレットアドレスの力を最大化するサービス「Daylight」の概要と、主要プロトコルとの統合について</title>
+			<link>https://hashhub-research.com/articles/2024-10-08-about-daylight</link>
+			<guid isPermaLink="false">2024-10-08-about-daylight</guid>
+			<description>前提&lt;br /&gt;Daylightの概要&lt;br /&gt;Daylightの資金調達に関する情報&lt;br /&gt;Daylightがもたらす新たなweb3ユーザー体験&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Tue, 08 Oct 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/er5thsmtf1cwe5psiw7wm3t82880/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Web3.0における最新資金調達トレンド分析 #41</title>
 			<link>https://hashhub-research.com/articles/2024-10-07-latest-funding-trends-in-web3</link>
 			<guid isPermaLink="false">2024-10-07-latest-funding-trends-in-web3</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Snapshot Xの概要&lt;br /&gt;Snapshot Xの特徴&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Fri, 13 Sep 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/5kdpjdmpm8c9gjdaigdb9rghfq5p/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>トークン市場が長期停滞するリスクの検討、VCファンドの懸念</title>
-			<link>https://hashhub-research.com/articles/2024-09-12-risk-of-a-prolonged-stagnation-crypto-market</link>
-			<guid isPermaLink="false">2024-09-12-risk-of-a-prolonged-stagnation-crypto-market</guid>
-			<description>前提&lt;br /&gt;クリプトファンド（VC）及びエアドロップが将来的にマーケットに与えうる影響&lt;br /&gt;出口流動性は個人投資家か、クリプトファンドか、健全な成長化しかいずれかのみ&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 12 Sep 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/c59hgmvuo6zvrd5qac034fq9qkpk/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
