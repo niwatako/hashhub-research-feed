@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>オープンファイナンスの急成長プロダクト、Ondo FinanceのUSDYとOUSGの概要</title>
+			<link>https://hashhub-research.com/articles/2024-10-09-ondo-usdy-ousg</link>
+			<guid isPermaLink="false">2024-10-09-ondo-usdy-ousg</guid>
+			<description>導入&lt;br /&gt;Ondo Financeの概要&lt;br /&gt;Ondo Financeがユーザーへ提供する価値と将来性に関する考察&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Wed, 09 Oct 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/d8iti410wlflu7yr9padd4t95d3i/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ウォレットアドレスの力を最大化するサービス「Daylight」の概要と、主要プロトコルとの統合について</title>
 			<link>https://hashhub-research.com/articles/2024-10-08-about-daylight</link>
 			<guid isPermaLink="false">2024-10-08-about-daylight</guid>
@@ -187,14 +195,6 @@
 			<description>検索トレンド銘柄の調査[01-13 Sep ,2024]&lt;br /&gt;1.中長期トレンドを形成する銘柄&lt;br /&gt;2.ここ最近、検索数が増えている銘柄&lt;br /&gt;</description>
 			<pubDate>Sat, 14 Sep 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/brlckwprhatvk5os0rwjeyifr813/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Starknetの仕組みを活用した新たなオンチェーン投票システム「Snapshot X」について解説</title>
-			<link>https://hashhub-research.com/articles/2024-09-13-about-snapshot-x</link>
-			<guid isPermaLink="false">2024-09-13-about-snapshot-x</guid>
-			<description>前提&lt;br /&gt;Snapshot Xの概要&lt;br /&gt;Snapshot Xの特徴&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 13 Sep 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/5kdpjdmpm8c9gjdaigdb9rghfq5p/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
