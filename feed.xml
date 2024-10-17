@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>最近それなりに話題のNFTプロジェクトをおさえるためだけの記事_【10月前半】</title>
+			<link>https://hashhub-research.com/articles/2024-10-17-following-the-nft-projects</link>
+			<guid isPermaLink="false">2024-10-17-following-the-nft-projects</guid>
+			<description>1.最近のNFT市場の傾向をざっくり掴む&lt;br /&gt;2.みんなの検索履歴から流行りものNFTを捕まえる&lt;br /&gt;3.十月前半の国内NFT事例&lt;br /&gt;</description>
+			<pubDate>Thu, 17 Oct 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/9nm0kzvzs92jwz62parey41wyhkz/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>数式なしで理解するBittensor(TAO)｜LLMのスケーリング限界を超える、AIとブロックチェーンの未来</title>
 			<link>https://hashhub-research.com/articles/2024-10-16-bittensor-tao-overview</link>
 			<guid isPermaLink="false">2024-10-16-bittensor-tao-overview</guid>
@@ -188,14 +196,6 @@
 			<description>前提&lt;br /&gt;Cartridgeの概要&lt;br /&gt;資金調達の内容&lt;br /&gt;Cartridgeが採用する「パスキー」には課題も&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Sat, 21 Sep 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/cogwt7ryhpwpstt74x4962du1wze/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>DeFiマーケットレポート【2024年8月】</title>
-			<link>https://hashhub-research.com/articles/2024-09-20-defi-market-report-2024-08</link>
-			<guid isPermaLink="false">2024-09-20-defi-market-report-2024-08</guid>
-			<description>マーケット概況&lt;br /&gt;DEX（分散型取引所）の取引量&lt;br /&gt;ステーブルコインの総発行時価総額と市場占有率の動向&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 20 Sep 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/rbkkcy8rdrvatwp125d5hqpyfsoc/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
