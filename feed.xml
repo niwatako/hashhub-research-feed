@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Solanaチェーン上のクリエイターエンゲージメントプラットフォーム「DRiP」の概要と、ブルーチップNFTでの採用事例について</title>
+			<link>https://hashhub-research.com/articles/2024-10-19-about-drip</link>
+			<guid isPermaLink="false">2024-10-19-about-drip</guid>
+			<description>前提&lt;br /&gt;概要&lt;br /&gt;資金調達に関する情報&lt;br /&gt;ブルーチップNFTでの採用事例も&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Sat, 19 Oct 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/rpaupw1884wmf2usoz1w2shjhuxo/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>DeFiマーケットレポート【2024年9月】</title>
 			<link>https://hashhub-research.com/articles/2024-10-18-defi-market-report-2024-09</link>
 			<guid isPermaLink="false">2024-10-18-defi-market-report-2024-09</guid>
@@ -188,14 +196,6 @@
 			<description>Robot Ventures周りの投資風景&lt;br /&gt;Robot Venturesのシード投資風景｜Aug-Sep 2024&lt;br /&gt;当該期間にシード投資したプロジェクト概要&lt;br /&gt;</description>
 			<pubDate>Wed, 25 Sep 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/fh8etgc3y4c7ja7zxmr6o1hy8pm2/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Suiエコシステムの現状　Move言語レイヤー1の特徴とその課題</title>
-			<link>https://hashhub-research.com/articles/2024-09-23-state-of-sui-2024</link>
-			<guid isPermaLink="false">2024-09-23-state-of-sui-2024</guid>
-			<description>導入&lt;br /&gt;Suiの概要&lt;br /&gt;Suiの現状 2024年9月&lt;br /&gt;Suiエコシステムを取り巻く環境：価格とオンチェーンアクティビティに影響を与える要因&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Mon, 23 Sep 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/02frlmga8qvguvng8kswea3jbpy9/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
