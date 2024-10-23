@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Abstractの概要　コンシューマー特化のレイヤー2、Pudgy Penguinsを擁するIgloo社の挑戦</title>
+			<link>https://hashhub-research.com/articles/2024-10-23-abstract-l2-overview</link>
+			<guid isPermaLink="false">2024-10-23-abstract-l2-overview</guid>
+			<description>前提&lt;br /&gt;Abstractの概要&lt;br /&gt;Abstractの狙い、エコシステムの方向性&lt;br /&gt;Panoramic Governance (PG) とは&lt;br /&gt;考察：あくまで想定ユーザーがいるかどうか、強力な競合はBase&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Wed, 23 Oct 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/7i8j1guu1upq8rrdy1izl9qjvj1g/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Polychain Capitalのポートフォリオを形成する3つの投資視点｜Jul-Oct 2024｜1.分散型コンピューティング、2.Bitcoin DeFi、3.決済ビジネス（アフリカ）</title>
 			<link>https://hashhub-research.com/articles/2024-10-22-polychain-capital-investments</link>
 			<guid isPermaLink="false">2024-10-22-polychain-capital-investments</guid>
@@ -189,14 +197,6 @@
 			<description>1.月間インシデント発生数の推移とその内訳&lt;br /&gt;2.攻撃別被害額_2024年9月&lt;br /&gt;3.影響が大きかった事件3件＋その他注目の1件_2024年9月&lt;br /&gt;</description>
 			<pubDate>Mon, 30 Sep 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/7k1vxedyrjqxb9gzr5d3o9bdi5qr/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Web3.0における最新資金調達トレンド分析 #40</title>
-			<link>https://hashhub-research.com/articles/2024-09-28-latest-funding-trends-in-web3</link>
-			<guid isPermaLink="false">2024-09-28-latest-funding-trends-in-web3</guid>
-			<description>前提&lt;br /&gt;#40_資金調達の潮流&lt;br /&gt;1.「2024年9月」&lt;br /&gt;2.「直近1週間」&lt;br /&gt;3.「2024年度Q3」&lt;br /&gt;4.投資会社(投資家)の動向&lt;br /&gt;5.補足資料&lt;br /&gt;</description>
-			<pubDate>Sat, 28 Sep 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/52c307vrunxlhiuigvsbps2a3x62/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
