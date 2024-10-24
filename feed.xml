@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ペライチで捉えるCBDCの近況_2024年4月〜10月下旬の報告</title>
+			<link>https://hashhub-research.com/articles/2024-10-24-cbdc-as-captured-by-peraich</link>
+			<guid isPermaLink="false">2024-10-24-cbdc-as-captured-by-peraich</guid>
+			<description>1.国際的なCBDC・DLTプロジェクトの進展&lt;br /&gt;2.各国のCBDC進展と実証実験&lt;br /&gt;3.欧州におけるCBDCとDLTの取り組み&lt;br /&gt;</description>
+			<pubDate>Thu, 24 Oct 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/78lnea9ynbh21wyvzi5ed9ca69ov/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Abstractの概要　コンシューマー特化のレイヤー2、Pudgy Penguinsを擁するIgloo社の挑戦</title>
 			<link>https://hashhub-research.com/articles/2024-10-23-abstract-l2-overview</link>
 			<guid isPermaLink="false">2024-10-23-abstract-l2-overview</guid>
@@ -189,14 +197,6 @@
 			<description>前提&lt;br /&gt;Pectra アップグレードの概要&lt;br /&gt;技術的に影響の大きいEIP&lt;br /&gt;投資家に影響の大きいEIP&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Tue, 01 Oct 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/sh6lcw5eigypaeuydu3wlap77fly/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>WEB3.0 SECURITY #21｜24年9月のインシデント分析</title>
-			<link>https://hashhub-research.com/articles/2024-09-30-web3-security</link>
-			<guid isPermaLink="false">2024-09-30-web3-security</guid>
-			<description>1.月間インシデント発生数の推移とその内訳&lt;br /&gt;2.攻撃別被害額_2024年9月&lt;br /&gt;3.影響が大きかった事件3件＋その他注目の1件_2024年9月&lt;br /&gt;</description>
-			<pubDate>Mon, 30 Sep 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/7k1vxedyrjqxb9gzr5d3o9bdi5qr/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
