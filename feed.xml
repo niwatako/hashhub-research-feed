@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ICP NFTの2024年の動きを概観する -「2年前と比べて、如何なる進化を遂げたか？」-</title>
+			<link>https://hashhub-research.com/articles/2024-10-29-about-icp-nft</link>
+			<guid isPermaLink="false">2024-10-29-about-icp-nft</guid>
+			<description>前提&lt;br /&gt;１．データの分析と考察&lt;br /&gt;２．Motoko：「ICPの象徴として、どのような積み重ねが為されたのか？」&lt;br /&gt;３．Poked Bots：「大幅な値下がりを回避した要因は何か？」&lt;br /&gt;４．BTC Flower (Flower Power)：「価格から価値への転換には、如何なる条件が必要か？」&lt;br /&gt;５．おわりに 「ICPの今後についての雑感」&lt;br /&gt;</description>
+			<pubDate>Tue, 29 Oct 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/vk34fzqx28lozrup4ng37fwqicau/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>検索トレンドから暗号資産の潮流を読み解く｜16-28 Oct ,2024｜AIエージェントがミリオネアになる未来</title>
 			<link>https://hashhub-research.com/articles/2024-10-28-trending-crypto-assets</link>
 			<guid isPermaLink="false">2024-10-28-trending-crypto-assets</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Rodeoとは何か&lt;br /&gt;Rodeoの始め方&lt;br /&gt;「いいね」の代わりとなる「NFTミント」の概念&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Sat, 05 Oct 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ihldx9z6hpus2gchtfd1d7da7bld/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>利下げ局面の暗号資産・DeFi市場の考え方</title>
-			<link>https://hashhub-research.com/articles/2024-10-04-crypto-assets--in-the-phase-of-interest-rate-cuts</link>
-			<guid isPermaLink="false">2024-10-04-crypto-assets--in-the-phase-of-interest-rate-cuts</guid>
-			<description>利下げ局面の暗号資産の考え方&lt;br /&gt;利下げ局面のDeFi市場の考え方&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 04 Oct 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/9rcrwkijdwsz0mrfluc4799w09zz/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
