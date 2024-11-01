@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>WEB3.0 SECURITY #22｜24年10月のインシデント分析</title>
+			<link>https://hashhub-research.com/articles/2024-11-02-web3-security</link>
+			<guid isPermaLink="false">2024-11-02-web3-security</guid>
+			<description>1.月間インシデント発生数の推移とその内訳&lt;br /&gt;2.攻撃別被害額_2024年10月&lt;br /&gt;3.被害額の大きな事件2件_2024年10月&lt;br /&gt;4.最近のWeb3や暗号資産詐欺の傾向解説&lt;br /&gt;</description>
+			<pubDate>Sat, 02 Nov 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1w3gtogqeitu5tvsc1h28u69ap9c/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>web3ソーシャル領域の代表格の一つであるFarcasterエコシステムの動向 24年10月</title>
 			<link>https://hashhub-research.com/articles/2024-10-31-about-farcaster-ecosystem</link>
 			<guid isPermaLink="false">2024-10-31-about-farcaster-ecosystem</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Daylightの概要&lt;br /&gt;Daylightの資金調達に関する情報&lt;br /&gt;Daylightがもたらす新たなweb3ユーザー体験&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Tue, 08 Oct 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/er5thsmtf1cwe5psiw7wm3t82880/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Web3.0における最新資金調達トレンド分析 #41</title>
-			<link>https://hashhub-research.com/articles/2024-10-07-latest-funding-trends-in-web3</link>
-			<guid isPermaLink="false">2024-10-07-latest-funding-trends-in-web3</guid>
-			<description>前提&lt;br /&gt;#41_資金調達の潮流&lt;br /&gt;1.「2024年10月」&lt;br /&gt;2.「直近1週間」&lt;br /&gt;3.「2024年度Q4」&lt;br /&gt;4.投資会社(投資家)の動向&lt;br /&gt;5.補足資料&lt;br /&gt;</description>
-			<pubDate>Mon, 07 Oct 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/fj5ikpatx5154gqrp99motgpvfp5/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
