@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Coinbase 2024年Q3決算　取引手数料に依存しない収益源をめぐる試行錯誤</title>
+			<link>https://hashhub-research.com/articles/2024-11-03-analysis-coinbase-2024q3</link>
+			<guid isPermaLink="false">2024-11-03-analysis-coinbase-2024q3</guid>
+			<description>Coinbase 2024年Q3決算の概要&lt;br /&gt;取引収益以外の収益源の成績と今後の見通し&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Sun, 03 Nov 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/tl2v6ze32hax7wku09m5a96wu7aq/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>WEB3.0 SECURITY #22｜24年10月のインシデント分析</title>
 			<link>https://hashhub-research.com/articles/2024-11-02-web3-security</link>
 			<guid isPermaLink="false">2024-11-02-web3-security</guid>
@@ -187,14 +195,6 @@
 			<description>導入&lt;br /&gt;Ondo Financeの概要&lt;br /&gt;Ondo Financeがユーザーへ提供する価値と将来性に関する考察&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Wed, 09 Oct 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/d8iti410wlflu7yr9padd4t95d3i/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ウォレットアドレスの力を最大化するサービス「Daylight」の概要と、主要プロトコルとの統合について</title>
-			<link>https://hashhub-research.com/articles/2024-10-08-about-daylight</link>
-			<guid isPermaLink="false">2024-10-08-about-daylight</guid>
-			<description>前提&lt;br /&gt;Daylightの概要&lt;br /&gt;Daylightの資金調達に関する情報&lt;br /&gt;Daylightがもたらす新たなweb3ユーザー体験&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Tue, 08 Oct 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/er5thsmtf1cwe5psiw7wm3t82880/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
