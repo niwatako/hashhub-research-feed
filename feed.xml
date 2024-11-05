@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>なぜ今、Oasysなのか　新たな体験価値と投資概念をもたらすブロックチェーンゲームインフラ</title>
+			<link>https://hashhub-research.com/articles/2024-11-05-state-of-oasys-2024</link>
+			<guid isPermaLink="false">2024-11-05-state-of-oasys-2024</guid>
+			<description>前提&lt;br /&gt;Oasys（レイヤー1）の現状&lt;br /&gt;OASトークンの可能性&lt;br /&gt;主なVerseの現状&lt;br /&gt;競合ブロックチェーンとOasysの比較&lt;br /&gt;Web3エコシステムにおけるゲーム領域の現状から考えるOasysの展望&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Tue, 05 Nov 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/o8d232drkd6rivizkus2ns5eyycy/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>最近それなりに話題のNFTプロジェクトをおさえるためだけの記事_【10月後半】｜ヴィンテージNFTの世界</title>
 			<link>https://hashhub-research.com/articles/2024-11-05-following-the-nft-projects</link>
 			<guid isPermaLink="false">2024-11-05-following-the-nft-projects</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;#42_資金調達の潮流&lt;br /&gt;1.「2024年10月」&lt;br /&gt;2.「直近1週間」&lt;br /&gt;3.「2024年度Q4」&lt;br /&gt;4.投資会社(投資家)の動向&lt;br /&gt;5.補足資料&lt;br /&gt;</description>
 			<pubDate>Mon, 14 Oct 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/kgbddkyuvs3ovidfh1kqdj3i8wrz/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Unichainの概要 DeFi取引の最適化とL2インターオペラビリティにおける役割</title>
-			<link>https://hashhub-research.com/articles/2024-10-12-unichain-overview</link>
-			<guid isPermaLink="false">2024-10-12-unichain-overview</guid>
-			<description>前提&lt;br /&gt;Unichainの概要&lt;br /&gt;Verifiable Block Building&lt;br /&gt;Unichain Validation Network (UVN)&lt;br /&gt;ロードマップ&lt;br /&gt;SuperchainにおけるUnichainの役割と課題を考察&lt;br /&gt;総括&lt;br /&gt;参考文献&lt;br /&gt;</description>
-			<pubDate>Sat, 12 Oct 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/38rxu20gh7gywq7qew2rnea3s1cx/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
