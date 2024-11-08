@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>マイクロストラテジー（MSTR）2024年Q3 決算分析、株価のプレミアムは適正評価か過大評価か？</title>
+			<link>https://hashhub-research.com/articles/2024-11-09-analysis-microstrategy-2024q3</link>
+			<guid isPermaLink="false">2024-11-09-analysis-microstrategy-2024q3</guid>
+			<description>MSTR 2024年Q3決算概要&lt;br /&gt;投資家の観点で見るMSTRのリスクとは&lt;br /&gt;MSTRの評価と懸念にまつわる現状整理、株価プレミアを正当化するロジック&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Sat, 09 Nov 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/exdvx6vmkaz9g2s0cj58085wskpi/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>毎日の歩数目標と金銭的インセンティブを組み合わせたSolanaベースのフィットネスアプリ「Moonwalk」について</title>
 			<link>https://hashhub-research.com/articles/2024-11-08-about-moonwalk</link>
 			<guid isPermaLink="false">2024-11-08-about-moonwalk</guid>
@@ -187,14 +195,6 @@
 			<description>1.最近のNFT市場の傾向をざっくり掴む&lt;br /&gt;2.みんなの検索履歴から流行りものNFTを捕まえる&lt;br /&gt;3.十月前半の国内NFT事例&lt;br /&gt;</description>
 			<pubDate>Thu, 17 Oct 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/9nm0kzvzs92jwz62parey41wyhkz/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>数式なしで理解するBittensor(TAO)｜LLMのスケーリング限界を超える、AIとブロックチェーンの未来</title>
-			<link>https://hashhub-research.com/articles/2024-10-16-bittensor-tao-overview</link>
-			<guid isPermaLink="false">2024-10-16-bittensor-tao-overview</guid>
-			<description>前提&lt;br /&gt;AI開発における課題&lt;br /&gt;Bittensorの仕組み&lt;br /&gt;TAOトークンによるインセンティブ設計&lt;br /&gt;Bittensorを支える技術&lt;br /&gt;課題&lt;br /&gt;将来の展望・考察&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Wed, 16 Oct 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2huj4qrs510rye1m6wm5qgjnumub/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
