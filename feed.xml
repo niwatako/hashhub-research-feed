@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>毎日の歩数目標と金銭的インセンティブを組み合わせたSolanaベースのフィットネスアプリ「Moonwalk」について</title>
+			<link>https://hashhub-research.com/articles/2024-11-08-about-moonwalk</link>
+			<guid isPermaLink="false">2024-11-08-about-moonwalk</guid>
+			<description>前提&lt;br /&gt;背景&lt;br /&gt;概要&lt;br /&gt;資金調達とオンチェーンデータの状況&lt;br /&gt;考察・総括&lt;br /&gt;</description>
+			<pubDate>Fri, 08 Nov 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/5cpnvhvm5yyn13ojfsxn9lp9d96n/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>CMS Holdingsの2つの投資風景｜Jul-Nov 2024｜1.LSD（Monadエコシステム...etc）、2.Stablecoin（BTC-Fi...etc）</title>
 			<link>https://hashhub-research.com/articles/2024-11-07-cms-holdings-investments</link>
 			<guid isPermaLink="false">2024-11-07-cms-holdings-investments</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;AI開発における課題&lt;br /&gt;Bittensorの仕組み&lt;br /&gt;TAOトークンによるインセンティブ設計&lt;br /&gt;Bittensorを支える技術&lt;br /&gt;課題&lt;br /&gt;将来の展望・考察&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Wed, 16 Oct 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2huj4qrs510rye1m6wm5qgjnumub/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>検索トレンドから暗号資産の潮流を読み解く｜01-15 Oct ,2024｜コビトカバのMOODENG関連ミームコイン...etc</title>
-			<link>https://hashhub-research.com/articles/2024-10-15-trending-crypto-assets</link>
-			<guid isPermaLink="false">2024-10-15-trending-crypto-assets</guid>
-			<description>検索トレンド銘柄の調査[01-14 Sep ,2024]&lt;br /&gt;1.トレンド上位6銘柄の簡易調査&lt;br /&gt;2.過去14日間の急騰トレンド銘柄&lt;br /&gt;2.1.MOO DENG/$MOODENG&lt;br /&gt;2.2.SPX6900/$SPX&lt;br /&gt;2.3.Degen (Base)&lt;br /&gt;</description>
-			<pubDate>Tue, 15 Oct 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/x9z8ifc4wplijjqsjzeep0xpho3f/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
