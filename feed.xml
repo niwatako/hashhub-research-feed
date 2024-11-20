@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>CORE Chainの概要、BTCからインカムゲインを得るためのリスク分析</title>
+			<link>https://hashhub-research.com/articles/2024-11-20-core-risk-analysis</link>
+			<guid isPermaLink="false">2024-11-20-core-risk-analysis</guid>
+			<description>Core chain(CORE)の概要&lt;br /&gt;Core Chainのリスク要素の考察&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Wed, 20 Nov 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/pv3yn61jw6x16lu23uls1xu38738/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Ethereumの2025年以降のロードマップの概観｜The Merge &amp; The Surge</title>
 			<link>https://hashhub-research.com/articles/2024-11-19-ethereum-roadmap-after-2025-the-merge-and-the-surge</link>
 			<guid isPermaLink="false">2024-11-19-ethereum-roadmap-after-2025-the-merge-and-the-surge</guid>
@@ -34,7 +42,7 @@
 			<guid isPermaLink="false">2024-11-15-should-you-be-holding-bitcoin-or-mining-stocks</guid>
 			<description>1.BTC vs マイニング株、どちらのパフォーマンスが高いのか？&lt;br /&gt;2.なぜマイニング株が短期的にBTCをアウトパフォームできるのか？&lt;br /&gt;3.そもそもマイニング株は果たしてBTC市場のエクスポージャーを得られているのか？&lt;br /&gt;4.で、結局$BTCと比較してどれくらい高いリターンを期待できたのか&lt;br /&gt;</description>
 			<pubDate>Fri, 15 Nov 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/hyuyjj8p6ndj4650brcwe8iisple/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/rm1v9elr4ry09mr7144074dhjlol/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		<item>
 			<title>トランプが当選してからのBitcoin相場の雑感（11月12日）</title>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;概要&lt;br /&gt;ネットワーク国家について&lt;br /&gt;資金調達情報&lt;br /&gt;ビジョンと今後の展望&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Fri, 25 Oct 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/yzz5njr4a1rnury3q0h8md2u0z8n/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ペライチで捉えるCBDCの近況_2024年4月〜10月下旬の報告</title>
-			<link>https://hashhub-research.com/articles/2024-10-24-cbdc-as-captured-by-peraich</link>
-			<guid isPermaLink="false">2024-10-24-cbdc-as-captured-by-peraich</guid>
-			<description>1.国際的なCBDC・DLTプロジェクトの進展&lt;br /&gt;2.各国のCBDC進展と実証実験&lt;br /&gt;3.欧州におけるCBDCとDLTの取り組み&lt;br /&gt;</description>
-			<pubDate>Thu, 24 Oct 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/78lnea9ynbh21wyvzi5ed9ca69ov/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
