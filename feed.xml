@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>AIを活用したパーソナライズされた健康管理プラットフォーム「Pulse」の概要と発展可能性について考察</title>
+			<link>https://hashhub-research.com/articles/2024-11-22-about-health-management-platform-pulse</link>
+			<guid isPermaLink="false">2024-11-22-about-health-management-platform-pulse</guid>
+			<description>前提&lt;br /&gt;概要&lt;br /&gt;資金調達について&lt;br /&gt;「AI×パーソナル」の潮流と、自動と自律の違い&lt;br /&gt;Pulseの今後の発展可能性&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Fri, 22 Nov 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8alh53gdpij28naz2xhuwkvfc8vs/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>CORE Chainの概要、BTCからインカムゲインを得るためのリスク分析</title>
 			<link>https://hashhub-research.com/articles/2024-11-20-core-risk-analysis</link>
 			<guid isPermaLink="false">2024-11-20-core-risk-analysis</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;#44_資金調達の潮流&lt;br /&gt;1.「2024年10月」&lt;br /&gt;2.「直近1週間」&lt;br /&gt;3.「2024年度Q4」&lt;br /&gt;4.投資会社(投資家)の動向&lt;br /&gt;5.補足資料&lt;br /&gt;</description>
 			<pubDate>Sat, 26 Oct 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/md1o1dy7m2c725kfmsk4tzem9n8n/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>$525Mの資金調達発表で話題のネットワーク国家プロジェクト「Praxis」の概要と今後の展望</title>
-			<link>https://hashhub-research.com/articles/2024-10-25-about-praxis-nation</link>
-			<guid isPermaLink="false">2024-10-25-about-praxis-nation</guid>
-			<description>前提&lt;br /&gt;概要&lt;br /&gt;ネットワーク国家について&lt;br /&gt;資金調達情報&lt;br /&gt;ビジョンと今後の展望&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 25 Oct 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/yzz5njr4a1rnury3q0h8md2u0z8n/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
