@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Babylon技術アーキテクチャの概要、ノンカストディアルBTCステーキングにあたってのリスク要素とは</title>
+			<link>https://hashhub-research.com/articles/2024-11-23-babylon-risk-analysis</link>
+			<guid isPermaLink="false">2024-11-23-babylon-risk-analysis</guid>
+			<description>Babylonのテクノロジーアーキテクチャの概要&lt;br /&gt;Bitcoin Stakingバックエンドデプロイメント&lt;br /&gt;Babylonの監査状況&lt;br /&gt;セキュリティリスクに関する考察&lt;br /&gt;今後のロードマップについて&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Sat, 23 Nov 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/x08i52qz1ppssj5hn2de0rxs3rmw/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>AIを活用したパーソナライズされた健康管理プラットフォーム「Pulse」の概要と発展可能性について考察</title>
 			<link>https://hashhub-research.com/articles/2024-11-22-about-health-management-platform-pulse</link>
 			<guid isPermaLink="false">2024-11-22-about-health-management-platform-pulse</guid>
@@ -187,14 +195,6 @@
 			<description>検索トレンド銘柄の調査[01-14 Sep ,2024]&lt;br /&gt;1.トレンド上位5銘柄の簡易調査&lt;br /&gt;2.過去14日間の急騰トレンド銘柄&lt;br /&gt;【コラム】フローエンジニアリング×ミームコイン生成、というシナリオ&lt;br /&gt;2.1.Goatseus Maximus/$GOAT&lt;br /&gt;2.2.Virtuals Protocol/$VIRTUAL&lt;br /&gt;</description>
 			<pubDate>Mon, 28 Oct 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/zmz5m4dro08yzr89gevegxmtl2yr/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Web3.0における最新資金調達トレンド分析 #44</title>
-			<link>https://hashhub-research.com/articles/2024-10-26-latest-funding-trends-in-web3</link>
-			<guid isPermaLink="false">2024-10-26-latest-funding-trends-in-web3</guid>
-			<description>前提&lt;br /&gt;#44_資金調達の潮流&lt;br /&gt;1.「2024年10月」&lt;br /&gt;2.「直近1週間」&lt;br /&gt;3.「2024年度Q4」&lt;br /&gt;4.投資会社(投資家)の動向&lt;br /&gt;5.補足資料&lt;br /&gt;</description>
-			<pubDate>Sat, 26 Oct 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/md1o1dy7m2c725kfmsk4tzem9n8n/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
