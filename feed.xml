@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Web3.0における最新資金調達トレンド分析 #48｜Base上の予測市場プロトコル「Truemarkets」がNFT販売で約403万ドルを調達。Vitalik Buterinもセールに参加するなどで話題に…etc</title>
+			<link>https://hashhub-research.com/articles/2024-11-24-latest-funding-trends-in-web3</link>
+			<guid isPermaLink="false">2024-11-24-latest-funding-trends-in-web3</guid>
+			<description>前提&lt;br /&gt;#48_資金調達の潮流&lt;br /&gt;1.「2024年11月」&lt;br /&gt;2.「直近1週間」&lt;br /&gt;3.「2024年度Q4」&lt;br /&gt;4.投資会社(投資家)の動向&lt;br /&gt;5.補足資料&lt;br /&gt;</description>
+			<pubDate>Sun, 24 Nov 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/gisj0ipuv9472v9nitq4d8h11dtj/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Babylon技術アーキテクチャの概要、ノンカストディアルBTCステーキングにあたってのリスク要素とは</title>
 			<link>https://hashhub-research.com/articles/2024-11-23-babylon-risk-analysis</link>
 			<guid isPermaLink="false">2024-11-23-babylon-risk-analysis</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;１．データの分析と考察&lt;br /&gt;２．Motoko：「ICPの象徴として、どのような積み重ねが為されたのか？」&lt;br /&gt;３．Poked Bots：「大幅な値下がりを回避した要因は何か？」&lt;br /&gt;４．BTC Flower (Flower Power)：「価格から価値への転換には、如何なる条件が必要か？」&lt;br /&gt;５．おわりに 「ICPの今後についての雑感」&lt;br /&gt;</description>
 			<pubDate>Tue, 29 Oct 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/vk34fzqx28lozrup4ng37fwqicau/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>検索トレンドから暗号資産の潮流を読み解く｜16-28 Oct ,2024｜AIエージェントがミリオネアになる未来</title>
-			<link>https://hashhub-research.com/articles/2024-10-28-trending-crypto-assets</link>
-			<guid isPermaLink="false">2024-10-28-trending-crypto-assets</guid>
-			<description>検索トレンド銘柄の調査[01-14 Sep ,2024]&lt;br /&gt;1.トレンド上位5銘柄の簡易調査&lt;br /&gt;2.過去14日間の急騰トレンド銘柄&lt;br /&gt;【コラム】フローエンジニアリング×ミームコイン生成、というシナリオ&lt;br /&gt;2.1.Goatseus Maximus/$GOAT&lt;br /&gt;2.2.Virtuals Protocol/$VIRTUAL&lt;br /&gt;</description>
-			<pubDate>Mon, 28 Oct 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/zmz5m4dro08yzr89gevegxmtl2yr/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
