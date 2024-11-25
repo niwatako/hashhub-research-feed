@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>先日1,000万ドルの資金調達を発表したAnimoca Brandsが主導するWeb3プロジェクト「Mocaverse」の概要と、東洋と西洋の価値観の違いから生まれるプロダクトの差異について</title>
+			<link>https://hashhub-research.com/articles/2024-11-25-mocaverse</link>
+			<guid isPermaLink="false">2024-11-25-mocaverse</guid>
+			<description>前提&lt;br /&gt;概要&lt;br /&gt;資金調達に関する情報&lt;br /&gt;考察・総括&lt;br /&gt;</description>
+			<pubDate>Mon, 25 Nov 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/uirrla3mok5i2m70ttqwmq9mr73v/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Web3.0における最新資金調達トレンド分析 #48｜Base上の予測市場プロトコル「Truemarkets」がNFT販売で約403万ドルを調達。Vitalik Buterinもセールに参加するなどで話題に…etc</title>
 			<link>https://hashhub-research.com/articles/2024-11-24-latest-funding-trends-in-web3</link>
 			<guid isPermaLink="false">2024-11-24-latest-funding-trends-in-web3</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;市場背景とGPUリソースの課題&lt;br /&gt;io.netのソリューション&lt;br /&gt;トークンエコノミクス&lt;br /&gt;パフォーマンス&lt;br /&gt;ユースケース&lt;br /&gt;課題&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Wed, 30 Oct 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/7tm7emeqvnhmkedflwu9a917mw8f/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ICP NFTの2024年の動きを概観する -「2年前と比べて、如何なる進化を遂げたか？」-</title>
-			<link>https://hashhub-research.com/articles/2024-10-29-about-icp-nft</link>
-			<guid isPermaLink="false">2024-10-29-about-icp-nft</guid>
-			<description>前提&lt;br /&gt;１．データの分析と考察&lt;br /&gt;２．Motoko：「ICPの象徴として、どのような積み重ねが為されたのか？」&lt;br /&gt;３．Poked Bots：「大幅な値下がりを回避した要因は何か？」&lt;br /&gt;４．BTC Flower (Flower Power)：「価格から価値への転換には、如何なる条件が必要か？」&lt;br /&gt;５．おわりに 「ICPの今後についての雑感」&lt;br /&gt;</description>
-			<pubDate>Tue, 29 Oct 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/vk34fzqx28lozrup4ng37fwqicau/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
