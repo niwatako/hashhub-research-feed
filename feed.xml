@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>NFT周りの最近のアップデート情報まとめ 24年11月</title>
+			<link>https://hashhub-research.com/articles/2024-11-27-summary-of-recent-updates-around-nft</link>
+			<guid isPermaLink="false">2024-11-27-summary-of-recent-updates-around-nft</guid>
+			<description>前提&lt;br /&gt;マクドナルド×Doodlesのコラボ&lt;br /&gt;Moonbirdsコレクションを手がけたPROOF Collectiveが閉鎖を発表&lt;br /&gt;OpenSeaの新デザインが公開間近&lt;br /&gt;サントリー、Avalanche上でNFT付きプレミアムモルツビールを販売&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Wed, 27 Nov 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/6dbs5iqjt53vtn943gek6bsm8hpj/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>SecuritizeとElixirの提携、機関投資家のDeFi参入を促進するdeUSD RWA Institutional Programの概要とその影響</title>
 			<link>https://hashhub-research.com/articles/2024-11-26-securitize-elixir-deusd-with-rwa-institutional-program</link>
 			<guid isPermaLink="false">2024-11-26-securitize-elixir-deusd-with-rwa-institutional-program</guid>
@@ -187,14 +195,6 @@
 			<description>1.月間インシデント発生数の推移とその内訳&lt;br /&gt;2.攻撃別被害額_2024年10月&lt;br /&gt;3.被害額の大きな事件2件_2024年10月&lt;br /&gt;4.最近のWeb3や暗号資産詐欺の傾向解説&lt;br /&gt;</description>
 			<pubDate>Sat, 02 Nov 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1w3gtogqeitu5tvsc1h28u69ap9c/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>web3ソーシャル領域の代表格の一つであるFarcasterエコシステムの動向 24年10月</title>
-			<link>https://hashhub-research.com/articles/2024-10-31-about-farcaster-ecosystem</link>
-			<guid isPermaLink="false">2024-10-31-about-farcaster-ecosystem</guid>
-			<description>前提&lt;br /&gt;Farcasterの全体動向&lt;br /&gt;主なアップデートニュース&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 31 Oct 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0iy4mvqic06y5w394t225ubvg6nf/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
