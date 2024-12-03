@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>WEB3.0 SECURITY #23｜24年11月のインシデント分析｜電話詐欺対策に特化した「AIおばあちゃん」現る</title>
+			<link>https://hashhub-research.com/articles/2024-12-04-web3-security</link>
+			<guid isPermaLink="false">2024-12-04-web3-security</guid>
+			<description>1.暗号資産詐欺・犯罪絡みの主なニュース_2024年11月編&lt;br /&gt;2.月間インシデント発生数の推移とその内訳&lt;br /&gt;3.攻撃別被害額_2024年11月&lt;br /&gt;4.被害額の大きな事件_2024年11月&lt;br /&gt;</description>
+			<pubDate>Tue, 03 Dec 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/r9j8zo8rezk5ihjgubs83lwtb77u/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Ethereumの2025年以降のロードマップの概観｜The Scourge &amp; The Verge</title>
 			<link>https://hashhub-research.com/articles/2024-12-02-ethereum-roadmap-after-2025-the-scourge-and-the-verge</link>
 			<guid isPermaLink="false">2024-12-02-ethereum-roadmap-after-2025-the-scourge-and-the-verge</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Oasys（レイヤー1）の現状&lt;br /&gt;OASトークンの可能性&lt;br /&gt;主なVerseの現状&lt;br /&gt;競合ブロックチェーンとOasysの比較&lt;br /&gt;Web3エコシステムにおけるゲーム領域の現状から考えるOasysの展望&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Tue, 05 Nov 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/o8d232drkd6rivizkus2ns5eyycy/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>最近それなりに話題のNFTプロジェクトをおさえるためだけの記事_【10月後半】｜ヴィンテージNFTの世界</title>
-			<link>https://hashhub-research.com/articles/2024-11-05-following-the-nft-projects</link>
-			<guid isPermaLink="false">2024-11-05-following-the-nft-projects</guid>
-			<description>1.最近のNFT市場の傾向をざっくり掴む&lt;br /&gt;2.みんなの検索履歴から流行りものNFTを捕まえる&lt;br /&gt;3.ヴィンテージNFTの世界&lt;br /&gt;4.十月後半の国内NFT事例&lt;br /&gt;</description>
-			<pubDate>Tue, 05 Nov 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/wfu7xirx6ferd3skww6y8x2fvdgy/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
