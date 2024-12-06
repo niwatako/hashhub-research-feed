@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>従来の銀行口座と非カストディアルウォレットを統合する「Deblock」の概要と、ファットウォレット理論について考察</title>
+			<link>https://hashhub-research.com/articles/2024-12-06-about-deblock</link>
+			<guid isPermaLink="false">2024-12-06-about-deblock</guid>
+			<description>前提&lt;br /&gt;概要&lt;br /&gt;資金調達の内容&lt;br /&gt;考察と総括｜ファットウォレット理論について&lt;br /&gt;</description>
+			<pubDate>Fri, 06 Dec 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ir5w1v0lvv50yxbcow0e0hgstmt9/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Hyperliquid｜DeFiデリバティブ市場シェアNo.1の成長要因と懸念されるリスク</title>
 			<link>https://hashhub-research.com/articles/2024-12-05-hyperliquid-overview</link>
 			<guid isPermaLink="false">2024-12-05-hyperliquid-overview</guid>
@@ -187,14 +195,6 @@
 			<description>MSTR 2024年Q3決算概要&lt;br /&gt;投資家の観点で見るMSTRのリスクとは&lt;br /&gt;MSTRの評価と懸念にまつわる現状整理、株価プレミアを正当化するロジック&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Sat, 09 Nov 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/exdvx6vmkaz9g2s0cj58085wskpi/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>毎日の歩数目標と金銭的インセンティブを組み合わせたSolanaベースのフィットネスアプリ「Moonwalk」について</title>
-			<link>https://hashhub-research.com/articles/2024-11-08-about-moonwalk</link>
-			<guid isPermaLink="false">2024-11-08-about-moonwalk</guid>
-			<description>前提&lt;br /&gt;背景&lt;br /&gt;概要&lt;br /&gt;資金調達とオンチェーンデータの状況&lt;br /&gt;考察・総括&lt;br /&gt;</description>
-			<pubDate>Fri, 08 Nov 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/5cpnvhvm5yyn13ojfsxn9lp9d96n/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
