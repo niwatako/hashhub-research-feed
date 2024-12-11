@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>SolvBTCの利回り獲得戦略、Solv Protocolのメカニズムとリスクの総評</title>
+			<link>https://hashhub-research.com/articles/2024-12-11-solv-protocol-overview</link>
+			<guid isPermaLink="false">2024-12-11-solv-protocol-overview</guid>
+			<description>Solv Protocolの概要&lt;br /&gt;Solv Protocolに関わる主なリスク要素&lt;br /&gt;Solv Protocolを利用したBTC運用とポイント獲得戦略&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Wed, 11 Dec 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8tz5xe1f0wmnpjcmgs5jtzw9d0sb/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>中国などの国家は、米国に追随してBitcoinの戦略備蓄を実行するか否か </title>
 			<link>https://hashhub-research.com/articles/2024-12-11-implementing-a-strategic-stockpile-of-bitcoin</link>
 			<guid isPermaLink="false">2024-12-11-implementing-a-strategic-stockpile-of-bitcoin</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;トランプのBitcoin関連の公約、予想される影響&lt;br /&gt;ゴールドの価格が下落している要因&lt;br /&gt;台頭する米国株の成長鈍化シナリオ&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Wed, 13 Nov 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/9k21vmdtcuuusphow9pwh8ilysm5/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>プレシードラウンドで$1.75Mの資金調達を実施したBase上のミームコインローンチパッド「Trendies」の概要</title>
-			<link>https://hashhub-research.com/articles/2024-11-12-about-memecoin-launchpad-trendies</link>
-			<guid isPermaLink="false">2024-11-12-about-memecoin-launchpad-trendies</guid>
-			<description>前提&lt;br /&gt;概要&lt;br /&gt;資金調達に関する情報&lt;br /&gt;使用方法と留意点&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Tue, 12 Nov 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/46racuj4b7cb46pkl7jgzxvw80fo/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
