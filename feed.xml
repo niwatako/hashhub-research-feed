@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Berachain上のvape-to-earnモデルの実現を目指す「Puffpaw」の概要と、健康的な嗜好品の未来像やアルコール業界からの学びについて考察</title>
+			<link>https://hashhub-research.com/articles/2024-12-18-about-puffpaw</link>
+			<guid isPermaLink="false">2024-12-18-about-puffpaw</guid>
+			<description>前提&lt;br /&gt;概要&lt;br /&gt;資金調達の内容&lt;br /&gt;ロードマップ&lt;br /&gt;現状の課題&lt;br /&gt;考察・総括&lt;br /&gt;</description>
+			<pubDate>Wed, 18 Dec 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/n3oqfvujkv8a60s31kkc9oq8ne3i/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>暗号資産の強気相場における5つの心得</title>
 			<link>https://hashhub-research.com/articles/2024-12-17-mindset-in-bullmarket</link>
 			<guid isPermaLink="false">2024-12-17-mindset-in-bullmarket</guid>
@@ -187,14 +195,6 @@
 			<description>Babylonのテクノロジーアーキテクチャの概要&lt;br /&gt;Bitcoin Stakingバックエンドデプロイメント&lt;br /&gt;Babylonの監査状況&lt;br /&gt;セキュリティリスクに関する考察&lt;br /&gt;今後のロードマップについて&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Sat, 23 Nov 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/x08i52qz1ppssj5hn2de0rxs3rmw/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>AIを活用したパーソナライズされた健康管理プラットフォーム「Pulse」の概要と発展可能性について考察</title>
-			<link>https://hashhub-research.com/articles/2024-11-22-about-health-management-platform-pulse</link>
-			<guid isPermaLink="false">2024-11-22-about-health-management-platform-pulse</guid>
-			<description>前提&lt;br /&gt;概要&lt;br /&gt;資金調達について&lt;br /&gt;「AI×パーソナル」の潮流と、自動と自律の違い&lt;br /&gt;Pulseの今後の発展可能性&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 22 Nov 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8alh53gdpij28naz2xhuwkvfc8vs/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
