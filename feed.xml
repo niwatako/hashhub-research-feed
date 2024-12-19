@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Ethereumの2025年以降のロードマップの概観｜The Purge &amp; The Splurge</title>
+			<link>https://hashhub-research.com/articles/2024-12-19-ethereum-roadmap-after-2025-the-purge-and-the-splurge</link>
+			<guid isPermaLink="false">2024-12-19-ethereum-roadmap-after-2025-the-purge-and-the-splurge</guid>
+			<description>前提&lt;br /&gt;The Purge&lt;br /&gt;The Splurge&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Thu, 19 Dec 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/6760havuzl428am44elp4f0dp2v8/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Berachain上のvape-to-earnモデルの実現を目指す「Puffpaw」の概要と、健康的な嗜好品の未来像やアルコール業界からの学びについて考察</title>
 			<link>https://hashhub-research.com/articles/2024-12-18-about-puffpaw</link>
 			<guid isPermaLink="false">2024-12-18-about-puffpaw</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;#48_資金調達の潮流&lt;br /&gt;1.「2024年11月」&lt;br /&gt;2.「直近1週間」&lt;br /&gt;3.「2024年度Q4」&lt;br /&gt;4.投資会社(投資家)の動向&lt;br /&gt;5.補足資料&lt;br /&gt;</description>
 			<pubDate>Sun, 24 Nov 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/gisj0ipuv9472v9nitq4d8h11dtj/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Babylon技術アーキテクチャの概要、ノンカストディアルBTCステーキングにあたってのリスク要素とは</title>
-			<link>https://hashhub-research.com/articles/2024-11-23-babylon-risk-analysis</link>
-			<guid isPermaLink="false">2024-11-23-babylon-risk-analysis</guid>
-			<description>Babylonのテクノロジーアーキテクチャの概要&lt;br /&gt;Bitcoin Stakingバックエンドデプロイメント&lt;br /&gt;Babylonの監査状況&lt;br /&gt;セキュリティリスクに関する考察&lt;br /&gt;今後のロードマップについて&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Sat, 23 Nov 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/x08i52qz1ppssj5hn2de0rxs3rmw/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
