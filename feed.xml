@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>【特集：年越し選書】HashHubチームがこの年末年始に読んでいる、またはオススメの書籍</title>
+			<link>https://hashhub-research.com/articles/2024-12-28-members-select-recommendations</link>
+			<guid isPermaLink="false">2024-12-28-members-select-recommendations</guid>
+			<description>はじめに&lt;br /&gt;【特集：年越し選書】HashHubメンバーがおすすめする書籍、コンテンツ&lt;br /&gt;</description>
+			<pubDate>Sat, 28 Dec 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/dmea9nyyzz4cilpxo0m5ph9vl16x/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>2024年を象徴する重要トピックへのイントロダクション</title>
 			<link>https://hashhub-research.com/articles/2024-12-26-2024-primary-topics</link>
 			<guid isPermaLink="false">2024-12-26-2024-primary-topics</guid>
@@ -187,14 +195,6 @@
 			<description>1.暗号資産詐欺・犯罪絡みの主なニュース_2024年11月編&lt;br /&gt;2.月間インシデント発生数の推移とその内訳&lt;br /&gt;3.攻撃別被害額_2024年11月&lt;br /&gt;4.被害額の大きな事件_2024年11月&lt;br /&gt;</description>
 			<pubDate>Tue, 03 Dec 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/r9j8zo8rezk5ihjgubs83lwtb77u/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Ethereumの2025年以降のロードマップの概観｜The Scourge &amp; The Verge</title>
-			<link>https://hashhub-research.com/articles/2024-12-02-ethereum-roadmap-after-2025-the-scourge-and-the-verge</link>
-			<guid isPermaLink="false">2024-12-02-ethereum-roadmap-after-2025-the-scourge-and-the-verge</guid>
-			<description>前提&lt;br /&gt;MEVの概要&lt;br /&gt;The Scourge&lt;br /&gt;The Verge&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Mon, 02 Dec 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/j0mo0r3eccepcl0870pved0p15s0/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
