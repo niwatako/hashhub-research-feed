@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Bitcoinを巡る2024年の概況</title>
+			<link>https://hashhub-research.com/articles/2024-12-31-overview-of-bitcoin-in-2024</link>
+			<guid isPermaLink="false">2024-12-31-overview-of-bitcoin-in-2024</guid>
+			<description>はじめに（視点の設定）&lt;br /&gt;</description>
+			<pubDate>Tue, 31 Dec 2024 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/e07uf25fxf2c3utmct5lse9m8ypg/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>【期間限定無料レポート特集】暗号資産やブロックチェーンが地政学や投資手法、テクノロジーの側面で既存の概念をどう塗り替えていくのか</title>
 			<link>https://hashhub-research.com/articles/2024-12-30-cryptocurrencies-and-blockchain-redefining-geopolitics-investments-and-technology</link>
 			<guid isPermaLink="false">2024-12-30-cryptocurrencies-and-blockchain-redefining-geopolitics-investments-and-technology</guid>
@@ -187,14 +195,6 @@
 			<description>Hyperliquidの概要&lt;br /&gt;HYPEのトークンエコノミクス&lt;br /&gt;Hyperliquidの成長要因と現状評価、懸念事項への考察&lt;br /&gt;Hyperliquidのリスクを抑えた利用方法&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 05 Dec 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/x081tawmnhxeye4n22lhqjnmf5q5/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>「BTCにとってゴールドの時価総額を超えることは通過点に過ぎない」というナラティブが生まれる理由</title>
-			<link>https://hashhub-research.com/articles/2024-12-04-btc-exceed-market-capitalisation-of-gold</link>
-			<guid isPermaLink="false">2024-12-04-btc-exceed-market-capitalisation-of-gold</guid>
-			<description>前提&lt;br /&gt;「BTCにとってゴールドの時価総額を超えることは通過点に過ぎない」というナラティブが生まれる理由&lt;br /&gt;2.Bitcoinの方が敵対する国家から凍結や没収を回避しやすい&lt;br /&gt;3.Bitcoinの方が準備資産としての透明性が高い&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Wed, 04 Dec 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/qm337g0a9h79zqy0w5txipgzb0pc/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
