@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>zkTLSの可能性と課題｜次世代暗号技術で実現するデータポータビリティとプライバシー</title>
+			<link>https://hashhub-research.com/articles/2024-01-05-zktls-overview</link>
+			<guid isPermaLink="false">2024-01-05-zktls-overview</guid>
+			<description>前提&lt;br /&gt;zkTLSの概要&lt;br /&gt;zkTLSのユースケース&lt;br /&gt;zkTLSの限界・課題&lt;br /&gt;今後の展望&lt;br /&gt;結論&lt;br /&gt;</description>
+			<pubDate>Sun, 05 Jan 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/mxn34x9fko50838x5z0qrlaz1psy/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>2025年の年初所感（マーケット・注目トピック・リスク）</title>
 			<link>https://hashhub-research.com/articles/2025-01-04-2025-newyear-thought</link>
 			<guid isPermaLink="false">2025-01-04-2025-newyear-thought</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;#50_資金調達の潮流&lt;br /&gt;1.「直近1週間」の資金調達トレンド&lt;br /&gt;2.セクター別資金調達トレンド&lt;br /&gt;3.「2024年度Q4」&lt;br /&gt;</description>
 			<pubDate>Sat, 07 Dec 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/gp0gwckultdnvphd76yv59b24y8d/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>従来の銀行口座と非カストディアルウォレットを統合する「Deblock」の概要と、ファットウォレット理論について考察</title>
-			<link>https://hashhub-research.com/articles/2024-12-06-about-deblock</link>
-			<guid isPermaLink="false">2024-12-06-about-deblock</guid>
-			<description>前提&lt;br /&gt;概要&lt;br /&gt;資金調達の内容&lt;br /&gt;考察と総括｜ファットウォレット理論について&lt;br /&gt;</description>
-			<pubDate>Fri, 06 Dec 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ir5w1v0lvv50yxbcow0e0hgstmt9/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
