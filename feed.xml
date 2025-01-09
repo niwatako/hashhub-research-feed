@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>10分でわかる「Keke Terminal」｜“機械がアーティストになる”とき——ReActエージェントが生み出す次世代アート</title>
+			<link>https://hashhub-research.com/articles/2025-01-09-about-keke-terminal</link>
+			<guid isPermaLink="false">2025-01-09-about-keke-terminal</guid>
+			<description>1. 自律型クリエイティブAI「Keke Terminal」の概要&lt;br /&gt;2. 創作の流れとエージェントの仕組み&lt;br /&gt;3. トークンエコノミーと収益モデル（予想含む）&lt;br /&gt;4.総括＆所感&lt;br /&gt;</description>
+			<pubDate>Thu, 09 Jan 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/07hkrmjocqkwbgl3hvtvac5yal8m/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>15分でわかる「MiCA準拠のICOプラットフォーム“Legion ”」の概要｜なぜ“ICO回帰”が期待されるのか</title>
 			<link>https://hashhub-research.com/articles/2025-01-08-about-legion</link>
 			<guid isPermaLink="false">2025-01-08-about-legion</guid>
@@ -187,14 +195,6 @@
 			<description>1.Animoca Brandsの投資風景｜2018年~&lt;br /&gt;2.Animoca Brandsの投資風景｜Q4 2024&lt;br /&gt;3.AI（人工知能）×ブロックチェーン関連の出資先&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 12 Dec 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/nf12r1yl82zavao1ucovefsm6v8b/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>SolvBTCの利回り獲得戦略、Solv Protocolのメカニズムとリスクの総評</title>
-			<link>https://hashhub-research.com/articles/2024-12-11-solv-protocol-overview</link>
-			<guid isPermaLink="false">2024-12-11-solv-protocol-overview</guid>
-			<description>Solv Protocolの概要&lt;br /&gt;Solv Protocolに関わる主なリスク要素&lt;br /&gt;Solv Protocolを利用したBTC運用とポイント獲得戦略&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Wed, 11 Dec 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8tz5xe1f0wmnpjcmgs5jtzw9d0sb/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
