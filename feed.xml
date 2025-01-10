@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Web2とWeb3をつなぐTelegramベースのキャッシュバックプラットフォーム「TONCASH」について</title>
+			<link>https://hashhub-research.com/articles/2025-01-10-about-toncash</link>
+			<guid isPermaLink="false">2025-01-10-about-toncash</guid>
+			<description>概要&lt;br /&gt;特徴的なポイントを整理&lt;br /&gt;Web2・Web3対応の買い物アプリ&lt;br /&gt;資金調達に関する情報&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Fri, 10 Jan 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2mm1tpamr84yf5ikkhi5ymsx14xx/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>10分でわかる「Keke Terminal」｜“機械がアーティストになる”とき——ReActエージェントが生み出す次世代アート</title>
 			<link>https://hashhub-research.com/articles/2025-01-09-about-keke-terminal</link>
 			<guid isPermaLink="false">2025-01-09-about-keke-terminal</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;背景と理論的枠組み&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Fri, 13 Dec 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/rlqo0w0a4ffvz84gecwmozva4aph/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ブロックチェーン×AI（人工知能）｜Animoca Brandsの投資風景（Q4 2024）</title>
-			<link>https://hashhub-research.com/articles/2024-12-12-investment-landscape-of-ai-animoca-brands</link>
-			<guid isPermaLink="false">2024-12-12-investment-landscape-of-ai-animoca-brands</guid>
-			<description>1.Animoca Brandsの投資風景｜2018年~&lt;br /&gt;2.Animoca Brandsの投資風景｜Q4 2024&lt;br /&gt;3.AI（人工知能）×ブロックチェーン関連の出資先&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 12 Dec 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/nf12r1yl82zavao1ucovefsm6v8b/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
