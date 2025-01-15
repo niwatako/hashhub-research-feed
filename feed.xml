@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Web3×AIエージェント、開発フレームワークElizaOSから考えるAIエージェントがWeb3にもたらす可能性と課題</title>
+			<link>https://hashhub-research.com/articles/2025-01-15-ai-agent-elizaos-overview</link>
+			<guid isPermaLink="false">2025-01-15-ai-agent-elizaos-overview</guid>
+			<description>Web3におけるAIエージェント開発フレームワークElizaOS&lt;br /&gt;課題&lt;br /&gt;今後の展望&lt;br /&gt;総括&lt;br /&gt;参考文献&lt;br /&gt;</description>
+			<pubDate>Wed, 15 Jan 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/5n3ubvirap6jbzamrazx1aqz6n0l/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Web3.0における最新資金調達トレンド分析｜#01,Q1 2025</title>
 			<link>https://hashhub-research.com/articles/2025-01-13-latest-funding-trends-in-web3</link>
 			<guid isPermaLink="false">2025-01-13-latest-funding-trends-in-web3</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;概要&lt;br /&gt;資金調達の内容&lt;br /&gt;ロードマップ&lt;br /&gt;現状の課題&lt;br /&gt;考察・総括&lt;br /&gt;</description>
 			<pubDate>Wed, 18 Dec 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/n3oqfvujkv8a60s31kkc9oq8ne3i/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>暗号資産の強気相場における5つの心得</title>
-			<link>https://hashhub-research.com/articles/2024-12-17-mindset-in-bullmarket</link>
-			<guid isPermaLink="false">2024-12-17-mindset-in-bullmarket</guid>
-			<description>前提&lt;br /&gt;暗号資産の強気相場における5つの心得&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Tue, 17 Dec 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/mieutiqlwop2932de1aw3gqm8pn8/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
