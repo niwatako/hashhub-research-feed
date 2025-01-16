@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>REI NetworkとRei_00の解説｜学習履歴をブロックチェーンに書き込み、検証するフレームワークの全貌</title>
+			<link>https://hashhub-research.com/articles/2025-01-16-about-rei-network</link>
+			<guid isPermaLink="false">2025-01-16-about-rei-network</guid>
+			<description>1. 前提&lt;br /&gt;2. REI Networkの技術的特徴&lt;br /&gt;3.REI_00: Reiフレームワークを体現するAIエージェント&lt;br /&gt;4. ユースケースを広げるRei_00のアプローチ&lt;br /&gt;5.$REIのTokenomics&lt;br /&gt;6. 総括&amp;所感&lt;br /&gt;</description>
+			<pubDate>Thu, 16 Jan 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/zcnpxlibuo2tiipgi5tdo16u2lur/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Web3×AIエージェント、開発フレームワークElizaOSから考えるAIエージェントがWeb3にもたらす可能性と課題</title>
 			<link>https://hashhub-research.com/articles/2025-01-15-ai-agent-elizaos-overview</link>
 			<guid isPermaLink="false">2025-01-15-ai-agent-elizaos-overview</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;The Purge&lt;br /&gt;The Splurge&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Thu, 19 Dec 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/6760havuzl428am44elp4f0dp2v8/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Berachain上のvape-to-earnモデルの実現を目指す「Puffpaw」の概要と、健康的な嗜好品の未来像やアルコール業界からの学びについて考察</title>
-			<link>https://hashhub-research.com/articles/2024-12-18-about-puffpaw</link>
-			<guid isPermaLink="false">2024-12-18-about-puffpaw</guid>
-			<description>前提&lt;br /&gt;概要&lt;br /&gt;資金調達の内容&lt;br /&gt;ロードマップ&lt;br /&gt;現状の課題&lt;br /&gt;考察・総括&lt;br /&gt;</description>
-			<pubDate>Wed, 18 Dec 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/n3oqfvujkv8a60s31kkc9oq8ne3i/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
