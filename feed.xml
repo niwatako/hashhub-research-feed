@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>zkVMの市場動向2025</title>
+			<link>https://hashhub-research.com/articles/2025-01-20-zkvm-market-trends</link>
+			<guid isPermaLink="false">2025-01-20-zkvm-market-trends</guid>
+			<description>はじめに&lt;br /&gt;zkVMの基本概念&lt;br /&gt;zkVMプロジェクト&lt;br /&gt;市場トレンドとなる分野&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Mon, 20 Jan 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/gs2gj8sd117ycb3f1raocpama8lk/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ユーザーを制御、または検閲可能なレイヤー2の是非</title>
 			<link>https://hashhub-research.com/articles/2025-01-18-layer2-pros-and-cons-where-users-can-be-controlled-or-censored</link>
 			<guid isPermaLink="false">2025-01-18-layer2-pros-and-cons-where-users-can-be-controlled-or-censored</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;#52_資金調達の潮流&lt;br /&gt;1.「直近1週間」の資金調達トレンド&lt;br /&gt;2.セクター別資金調達トレンド&lt;br /&gt;3.「2024年度Q4」&lt;br /&gt;</description>
 			<pubDate>Sun, 22 Dec 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/wmqidqacn4bsmzixosi9pmmcae5q/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>AIエージェントプラットフォームVirtuals Protocolの概要　AIエージェントトークンへの投資評価を考える</title>
-			<link>https://hashhub-research.com/articles/2024-12-21-virtuals-protocols-ai-agent</link>
-			<guid isPermaLink="false">2024-12-21-virtuals-protocols-ai-agent</guid>
-			<description>Virtuals Protocolの概要&lt;br /&gt;Parallel Hypersynchronicityとは&lt;br /&gt;Modular Consensus FrameworkとImmutable Contribution Vault&lt;br /&gt;Virtuals Protocol AIエージェントによるコンシューマーアプリのエコシステム&lt;br /&gt;VIRTUALトークンのトークンエコノミクス&lt;br /&gt;トップAIエージェントの現状&lt;br /&gt;その他のAIエージェント関連プロトコル：分散型AIエージェント投資ファンド ai16z&lt;br /&gt;AIエージェント関連トークンに対する筆者の印象&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Sat, 21 Dec 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/kkyby1y99fgtp66pselq19f4yw1w/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
