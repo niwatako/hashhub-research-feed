@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Reclaim Protocolの概要とzkTLSを用いた多彩なユースケース</title>
+			<link>https://hashhub-research.com/articles/2024-01-22-zktls-reclaim-protocol-overview-and-usecases</link>
+			<guid isPermaLink="false">2024-01-22-zktls-reclaim-protocol-overview-and-usecases</guid>
+			<description>前提&lt;br /&gt;zkTLSの概要&lt;br /&gt;Reclaim Protocolの提供するソリューション：zkFetch&lt;br /&gt;ユースケース&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Wed, 22 Jan 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/wqdzn5yhefbtittvgaht8cg3b5v7/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>EigenLayer上で稼働するAVSとして立ち上げられた「OpenLayer」の概要と、個人データの価値を再定義する可能性について</title>
 			<link>https://hashhub-research.com/articles/2025-01-21-about-openlayer</link>
 			<guid isPermaLink="false">2025-01-21-about-openlayer</guid>
@@ -187,14 +195,6 @@
 			<description>Kaito AIとは&lt;br /&gt;Kaito AIの競合ツールとの比較&lt;br /&gt;Yaps リーダボード&lt;br /&gt;Yapsポイントプログラムの概要&lt;br /&gt;Kaito AIのGenesis NFTの概要&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Wed, 25 Dec 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/6pv1mi33xufcqbs5tq6cnuw5a8se/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>web3ソーシャル領域の代表格の一つであるFarcasterエコシステムの動向 24年12月</title>
-			<link>https://hashhub-research.com/articles/2024-12-24-about-farcaster-ecosystem</link>
-			<guid isPermaLink="false">2024-12-24-about-farcaster-ecosystem</guid>
-			<description>前提&lt;br /&gt;Farcasterの全体動向&lt;br /&gt;主なアップデートニュース&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Tue, 24 Dec 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ud23098660fz9npz5cdd26s3lsay/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
