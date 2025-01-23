@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Morpho：パーミッションレスVaultとキュレーターの役割の考察</title>
+			<link>https://hashhub-research.com/articles/2025-01-23-morpho-overview-and-permissionless-vault-risks</link>
+			<guid isPermaLink="false">2025-01-23-morpho-overview-and-permissionless-vault-risks</guid>
+			<description>Morphoの概要&lt;br /&gt;Morphoのリスク分析&lt;br /&gt;AaveやCompoundにないリスクエクスポージャーとキュレーターの存在を考察&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Thu, 23 Jan 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/tz73hoq65x23dlk54br63bjsp0h9/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Reclaim Protocolの概要とzkTLSを用いた多彩なユースケース</title>
 			<link>https://hashhub-research.com/articles/2024-01-22-zktls-reclaim-protocol-overview-and-usecases</link>
 			<guid isPermaLink="false">2024-01-22-zktls-reclaim-protocol-overview-and-usecases</guid>
@@ -187,14 +195,6 @@
 			<description>2024年を象徴する8のトピック&lt;br /&gt;米国がもたらした暗号資産市場への影響：BTC／ETHのETP承認、米国大統領選挙とPolymarket、トランプ大統領復帰&lt;br /&gt;Dencunアップグレード（EIP-4844 Proto-danksharding）によるL2の発展&lt;br /&gt;ハイパフォーマンス、目的特化のレイヤー1の台頭&lt;br /&gt;DeFiでのポイントプログラムの流行&lt;br /&gt;分散型ソーシャルの成長&lt;br /&gt;Bitcoin L2／BTCFi&lt;br /&gt;ミームコイントレードとPump.fun&lt;br /&gt;機関投資家とトラスト要素を持つDeFi&lt;br /&gt;</description>
 			<pubDate>Thu, 26 Dec 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/up0vpkmcr37apcyw61fk7e9i9n60/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Kaito AI｜web3特化のAI搭載リサーチツール、Yapsプログラムの概要</title>
-			<link>https://hashhub-research.com/articles/2024-12-24-kaito-ai-and-yaps-overview</link>
-			<guid isPermaLink="false">2024-12-24-kaito-ai-and-yaps-overview</guid>
-			<description>Kaito AIとは&lt;br /&gt;Kaito AIの競合ツールとの比較&lt;br /&gt;Yaps リーダボード&lt;br /&gt;Yapsポイントプログラムの概要&lt;br /&gt;Kaito AIのGenesis NFTの概要&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Wed, 25 Dec 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/6pv1mi33xufcqbs5tq6cnuw5a8se/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
