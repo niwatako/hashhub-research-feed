@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>多くの手数料分配形アプリケーショントークンは収益をあげていたとしても、なぜ中期でパフォーマンスが優れないか</title>
+			<link>https://hashhub-research.com/articles/2025-01-24-why-low-perforemance-cashflow-token</link>
+			<guid isPermaLink="false">2025-01-24-why-low-perforemance-cashflow-token</guid>
+			<description>前提&lt;br /&gt;多くの収益分配形トークンは収益をあげていたとしても、なぜ中期でパフォーマンスが優れないか&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Fri, 24 Jan 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1cu04jyez0eaos0c0lasv3j4oe1m/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Morpho：パーミッションレスVaultとキュレーターの役割の考察</title>
 			<link>https://hashhub-research.com/articles/2025-01-23-morpho-overview-and-permissionless-vault-risks</link>
 			<guid isPermaLink="false">2025-01-23-morpho-overview-and-permissionless-vault-risks</guid>
@@ -187,14 +195,6 @@
 			<description>はじめに&lt;br /&gt;【特集：年越し選書】HashHubメンバーがおすすめする書籍、コンテンツ&lt;br /&gt;</description>
 			<pubDate>Sat, 28 Dec 2024 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/yc6nmp9886hugeiq0irr1h8nius7/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>2024年を象徴する重要トピックへのイントロダクション</title>
-			<link>https://hashhub-research.com/articles/2024-12-26-2024-primary-topics</link>
-			<guid isPermaLink="false">2024-12-26-2024-primary-topics</guid>
-			<description>2024年を象徴する8のトピック&lt;br /&gt;米国がもたらした暗号資産市場への影響：BTC／ETHのETP承認、米国大統領選挙とPolymarket、トランプ大統領復帰&lt;br /&gt;Dencunアップグレード（EIP-4844 Proto-danksharding）によるL2の発展&lt;br /&gt;ハイパフォーマンス、目的特化のレイヤー1の台頭&lt;br /&gt;DeFiでのポイントプログラムの流行&lt;br /&gt;分散型ソーシャルの成長&lt;br /&gt;Bitcoin L2／BTCFi&lt;br /&gt;ミームコイントレードとPump.fun&lt;br /&gt;機関投資家とトラスト要素を持つDeFi&lt;br /&gt;</description>
-			<pubDate>Thu, 26 Dec 2024 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/up0vpkmcr37apcyw61fk7e9i9n60/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
