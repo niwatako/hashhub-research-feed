@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Solana（SOL）概要マーケットレポート 2025年1月</title>
+			<link>https://hashhub-research.com/articles/2025-01-30-state-of-solana-2025-01</link>
+			<guid isPermaLink="false">2025-01-30-state-of-solana-2025-01</guid>
+			<description>はじめに&lt;br /&gt;Solanaとは&lt;br /&gt;SOLの価格動向&lt;br /&gt;Solanaブロックチェーン上の現状&lt;br /&gt;今後の注目ポイントと展望&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Thu, 30 Jan 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/zecw3blbuzs0ak5u5zd6l9ha9a41/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>SoSoValue｜無料web3リサーチツール、インデックス・トークン投資ができるプラットフォームの概要</title>
 			<link>https://hashhub-research.com/articles/2025-01-29-sosovalue-overview</link>
 			<guid isPermaLink="false">2025-01-29-sosovalue-overview</guid>
@@ -187,14 +195,6 @@
 			<description>1.3BerasCapital（3BC）の概要&lt;br /&gt;2. 競合よりどう優れているのか&lt;br /&gt;3. 誰が支援しているのか？&lt;br /&gt;4. TVL／財務などの指標&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Mon, 06 Jan 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/tpy0063hz5nmuov16v6kzuq6foto/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>zkTLSの可能性と課題｜次世代暗号技術で実現するデータポータビリティとプライバシー</title>
-			<link>https://hashhub-research.com/articles/2024-01-05-zktls-overview</link>
-			<guid isPermaLink="false">2024-01-05-zktls-overview</guid>
-			<description>前提&lt;br /&gt;zkTLSの概要&lt;br /&gt;zkTLSのユースケース&lt;br /&gt;zkTLSの限界・課題&lt;br /&gt;今後の展望&lt;br /&gt;結論&lt;br /&gt;</description>
-			<pubDate>Sun, 05 Jan 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/mxn34x9fko50838x5z0qrlaz1psy/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
