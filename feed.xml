@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>web3ソーシャル領域の代表格の一つであるFarcasterエコシステムの動向 25年1月</title>
+			<link>https://hashhub-research.com/articles/2025-01-30-about-farcaster-ecosystem</link>
+			<guid isPermaLink="false">2025-01-30-about-farcaster-ecosystem</guid>
+			<description>前提&lt;br /&gt;Farcasterの全体動向&lt;br /&gt;</description>
+			<pubDate>Thu, 30 Jan 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/wylk7rcei77fp8qi4ozv4od9kthz/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Solana（SOL）概要マーケットレポート 2025年1月</title>
 			<link>https://hashhub-research.com/articles/2025-01-30-state-of-solana-2025-01</link>
 			<guid isPermaLink="false">2025-01-30-state-of-solana-2025-01</guid>
@@ -187,14 +195,6 @@
 			<description>1. なぜ「AI×DeFi」が必要なのか？&lt;br /&gt;2. Almanakとは｜AIエージェントによる「自動投資・戦略最適化」&lt;br /&gt;3.【トークノミクス】&lt;br /&gt;4.総括&amp;所感&lt;br /&gt;</description>
 			<pubDate>Tue, 07 Jan 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/wsm3ejzwtx0ujvxl296kvatzyfu8/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>5分でわかる「3BerasCapitalの概要」｜NFT AIエージェント群が運営するBerachainベース投資DAO</title>
-			<link>https://hashhub-research.com/articles/2025-01-06-about-3-beras-capital</link>
-			<guid isPermaLink="false">2025-01-06-about-3-beras-capital</guid>
-			<description>1.3BerasCapital（3BC）の概要&lt;br /&gt;2. 競合よりどう優れているのか&lt;br /&gt;3. 誰が支援しているのか？&lt;br /&gt;4. TVL／財務などの指標&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Mon, 06 Jan 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/tpy0063hz5nmuov16v6kzuq6foto/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
