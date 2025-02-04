@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Baseチェーン上のAIエージェント関連プロジェクト「Virtuals Protocol」のSolanaチェーンへの拡張発表とその狙いについて</title>
+			<link>https://hashhub-research.com/articles/2025-02-05-virtuals-protocol-solana-expansion</link>
+			<guid isPermaLink="false">2025-02-05-virtuals-protocol-solana-expansion</guid>
+			<description>前提&lt;br /&gt;Virtuals Protocolの概要をおさらい&lt;br /&gt;Solana拡張の発表とその狙い&lt;br /&gt;課題＆総括&lt;br /&gt;</description>
+			<pubDate>Wed, 05 Feb 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/vhqjpjsjxfxmcb6uwk8h0w0juunf/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Worldプロジェクトの現状とビジネス活用の考察｜人間証明の必要性とAI・ブロックチェーン投資の潮流から</title>
 			<link>https://hashhub-research.com/articles/2025-02-03-state-of-world-and-business-usecases</link>
 			<guid isPermaLink="false">2025-02-03-state-of-world-and-business-usecases</guid>
@@ -187,14 +195,6 @@
 			<description>概要&lt;br /&gt;特徴的なポイントを整理&lt;br /&gt;Web2・Web3対応の買い物アプリ&lt;br /&gt;資金調達に関する情報&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Fri, 10 Jan 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2mm1tpamr84yf5ikkhi5ymsx14xx/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>10分でわかる「Keke Terminal」｜“機械がアーティストになる”とき——ReActエージェントが生み出す次世代アート</title>
-			<link>https://hashhub-research.com/articles/2025-01-09-about-keke-terminal</link>
-			<guid isPermaLink="false">2025-01-09-about-keke-terminal</guid>
-			<description>1. 自律型クリエイティブAI「Keke Terminal」の概要&lt;br /&gt;2. 創作の流れとエージェントの仕組み&lt;br /&gt;3. トークンエコノミーと収益モデル&lt;br /&gt;4.総括＆所感&lt;br /&gt;</description>
-			<pubDate>Thu, 09 Jan 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/07hkrmjocqkwbgl3hvtvac5yal8m/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
