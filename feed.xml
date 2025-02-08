@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>国家債務を理解して、今なぜ無国籍通貨（ゴールド・BTC）が求められるかを読み解く</title>
+			<link>https://hashhub-research.com/articles/2025-02-08-understanding-national-debt-why-btc</link>
+			<guid isPermaLink="false">2025-02-08-understanding-national-debt-why-btc</guid>
+			<description>前提&lt;br /&gt;米国の国家債務&lt;br /&gt;ヨーロッパの国家債務&lt;br /&gt;日本の国家債務&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Sat, 08 Feb 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/rd468s25odk5rmogejx4vqr038ct/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Alliance DAOによってインキュベートされたSolanaベースの注目SocialFiプロトコル「Tribe.run」について</title>
 			<link>https://hashhub-research.com/articles/2025-02-07-about-tribe-run</link>
 			<guid isPermaLink="false">2025-02-07-about-tribe-run</guid>
@@ -21,7 +29,7 @@
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/f3kludpfiotg4u4qba3c21pya5fl/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		<item>
-			<title>感情の振り子が導く未来：XRPのリスクと長期成長の展望</title>
+			<title>XRPのリスクと長期成長の展望（2025年2月時点）</title>
 			<link>https://hashhub-research.com/articles/2025-02-06-future-of-xrp-market-risks-and-long-term-growth</link>
 			<guid isPermaLink="false">2025-02-06-future-of-xrp-market-risks-and-long-term-growth</guid>
 			<description>1. はじめに&lt;br /&gt;2.XRPの現状（2025年2月5日時点）&lt;br /&gt;3. 過去1年間のXRP価格変動要因の考察&lt;br /&gt;4.総括｜リスク要因と今後の見通し&lt;br /&gt;</description>
@@ -187,14 +195,6 @@
 			<description>Web3におけるAIエージェント開発フレームワークElizaOS&lt;br /&gt;課題&lt;br /&gt;今後の展望&lt;br /&gt;総括&lt;br /&gt;参考文献&lt;br /&gt;</description>
 			<pubDate>Wed, 15 Jan 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/5n3ubvirap6jbzamrazx1aqz6n0l/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Web3.0における最新資金調達トレンド分析｜#01,Q1 2025</title>
-			<link>https://hashhub-research.com/articles/2025-01-13-latest-funding-trends-in-web3</link>
-			<guid isPermaLink="false">2025-01-13-latest-funding-trends-in-web3</guid>
-			<description>#01_Q1 2025年「資金調達の潮流」&lt;br /&gt;1.「2024年12月23日〜2025年1月12日」の資金調達トレンド&lt;br /&gt;2.セクター別資金調達トレンド&lt;br /&gt;3.総括&amp;所感&lt;br /&gt;</description>
-			<pubDate>Mon, 13 Jan 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0h1qhkcxilzi9g3keghiv0ljodcv/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
