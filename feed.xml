@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>低迷するETH｜アンダーパフォーム市場の実態分析と今後の展望</title>
+			<link>https://hashhub-research.com/articles/2025-02-11-eth-market-underperformance-analysis-2025</link>
+			<guid isPermaLink="false">2025-02-11-eth-market-underperformance-analysis-2025</guid>
+			<description>前提&lt;br /&gt;ETHの停滞——ビットコインETF承認後の市場変化とその影響&lt;br /&gt;ETHの市場変動：デフレからインフレへの逆転が投資家心理に与えた影響&lt;br /&gt;DencunアップグレードとETH供給増加の関係&lt;br /&gt;</description>
+			<pubDate>Tue, 11 Feb 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/yss39pe96iglx47rp86xh5cjog3y/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>MegaETH｜リアルタイムブロックチェーンを標榜するEthereumレイヤー2の概要とエコシステムの現状</title>
 			<link>https://hashhub-research.com/articles/2025-02-10-megaeth-overview</link>
 			<guid isPermaLink="false">2025-02-10-megaeth-overview</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;概要&lt;br /&gt;資金調達に関する情報&lt;br /&gt;Libraroで記事を投稿する方法&lt;br /&gt;懸念と今後の焦点&lt;br /&gt;コラム＆総括：AI時代のコンテンツ制作に必要なディストビューション力&lt;br /&gt;</description>
 			<pubDate>Fri, 17 Jan 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/k4l940wjnb4pp2e4vdx9jlaxw1w1/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>REI NetworkとRei_00の解説｜学習履歴をブロックチェーンに書き込み、検証するフレームワークの全貌</title>
-			<link>https://hashhub-research.com/articles/2025-01-16-about-rei-network</link>
-			<guid isPermaLink="false">2025-01-16-about-rei-network</guid>
-			<description>1. 前提&lt;br /&gt;2. REI Networkの技術的特徴&lt;br /&gt;3.REI_00: Reiフレームワークを体現するAIエージェント&lt;br /&gt;4. ユースケースを広げるRei_00のアプローチ&lt;br /&gt;5.$REIのTokenomics&lt;br /&gt;6. 総括&amp;所感&lt;br /&gt;</description>
-			<pubDate>Thu, 16 Jan 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/zcnpxlibuo2tiipgi5tdo16u2lur/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
