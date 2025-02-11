@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>オン・オフチェーンデータ分析で捉えるBitcoin（BTC）市場の現在</title>
+			<link>https://hashhub-research.com/articles/2025-02-12-bitcoin-market-current-analysis</link>
+			<guid isPermaLink="false">2025-02-12-bitcoin-market-current-analysis</guid>
+			<description>前提&lt;br /&gt;主要イベントがどのようにビットコイン市場に影響を与えたのか&lt;br /&gt;2025年のビットコイン市場の展望：成熟化と機関投資家の支配&lt;br /&gt;</description>
+			<pubDate>Wed, 12 Feb 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/9rm5diodddps2zdof7d447uef2dk/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>低迷するETH｜アンダーパフォーム市場の実態分析と今後の展望</title>
 			<link>https://hashhub-research.com/articles/2025-02-11-eth-market-underperformance-analysis-2025</link>
 			<guid isPermaLink="false">2025-02-11-eth-market-underperformance-analysis-2025</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;ユーザーを制御、または検閲可能なレイヤー2の是非&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Sat, 18 Jan 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/7grizp1bh87rth8i1z9ma5bf78ib/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>作家・読者・出版社をつなぐweb3出版プラットフォーム「Libraro」の概要と、作家のためのディストリビューション戦略について</title>
-			<link>https://hashhub-research.com/articles/2025-01-17-about-libraro</link>
-			<guid isPermaLink="false">2025-01-17-about-libraro</guid>
-			<description>前提&lt;br /&gt;概要&lt;br /&gt;資金調達に関する情報&lt;br /&gt;Libraroで記事を投稿する方法&lt;br /&gt;懸念と今後の焦点&lt;br /&gt;コラム＆総括：AI時代のコンテンツ制作に必要なディストビューション力&lt;br /&gt;</description>
-			<pubDate>Fri, 17 Jan 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/k4l940wjnb4pp2e4vdx9jlaxw1w1/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
