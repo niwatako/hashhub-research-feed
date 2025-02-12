@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>RWAエコシステムマーケットレポート【2025年2月】：主要プレイヤーの取り組みと収益モデルの整理（前編）</title>
+			<link>https://hashhub-research.com/articles/2025-02-13-rwa-market-report-2025-2-and-categorize-business-model</link>
+			<guid isPermaLink="false">2025-02-13-rwa-market-report-2025-2-and-categorize-business-model</guid>
+			<description>Executive Summary&lt;br /&gt;RWA市場の市場動向【2025年2月】&lt;br /&gt;主要プレイヤーの動向&lt;br /&gt;ビジネスモデルの類型と収益構造の現状&lt;br /&gt;特にRWA領域で注目されるビジネスモデルと、将来的なエコシステム像は何かを考察する&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Thu, 13 Feb 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ua6oj9zorxl1hecge6ywqp2s56ij/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>オン・オフチェーンデータ分析で捉えるBitcoin（BTC）市場の現在</title>
 			<link>https://hashhub-research.com/articles/2025-02-12-bitcoin-market-current-analysis</link>
 			<guid isPermaLink="false">2025-02-12-bitcoin-market-current-analysis</guid>
@@ -187,14 +195,6 @@
 			<description>はじめに&lt;br /&gt;zkVMの基本概念&lt;br /&gt;zkVMプロジェクト&lt;br /&gt;市場トレンドとなる分野&lt;br /&gt;総論&lt;br /&gt;</description>
 			<pubDate>Mon, 20 Jan 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/gs2gj8sd117ycb3f1raocpama8lk/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ユーザーを制御、または検閲可能なレイヤー2の是非</title>
-			<link>https://hashhub-research.com/articles/2025-01-18-layer2-pros-and-cons-where-users-can-be-controlled-or-censored</link>
-			<guid isPermaLink="false">2025-01-18-layer2-pros-and-cons-where-users-can-be-controlled-or-censored</guid>
-			<description>前提&lt;br /&gt;ユーザーを制御、または検閲可能なレイヤー2の是非&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Sat, 18 Jan 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/7grizp1bh87rth8i1z9ma5bf78ib/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
