@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ゴールド（金）の輸送遅延問題。投資家が学べること。</title>
+			<link>https://hashhub-research.com/articles/2025-02-20-gold-transport-delay</link>
+			<guid isPermaLink="false">2025-02-20-gold-transport-delay</guid>
+			<description>前提：ゴールド（金）の取り付け騒ぎの懸念&lt;br /&gt;2025年2月・ロンドン金現物引き渡し遅延問題&lt;br /&gt;投資家が学べること&lt;br /&gt;</description>
+			<pubDate>Thu, 20 Feb 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0l3qf7739xin59bimwid4jribbq5/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Coinbase（2024 Q4）の決算を踏また同社の評価と次の成長シナリオの考察</title>
 			<link>https://hashhub-research.com/articles/2025-02-19-analysis-coinbase-2024q3</link>
 			<guid isPermaLink="false">2025-02-19-analysis-coinbase-2024q3</guid>
@@ -187,14 +195,6 @@
 			<description>Morphoの概要&lt;br /&gt;Morphoのリスク分析&lt;br /&gt;AaveやCompoundにないリスクエクスポージャーとキュレーターの存在を考察&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 23 Jan 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/tz73hoq65x23dlk54br63bjsp0h9/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Reclaim Protocolの概要とzkTLSを用いた多彩なユースケース</title>
-			<link>https://hashhub-research.com/articles/2024-01-22-zktls-reclaim-protocol-overview-and-usecases</link>
-			<guid isPermaLink="false">2024-01-22-zktls-reclaim-protocol-overview-and-usecases</guid>
-			<description>前提&lt;br /&gt;zkTLSの概要&lt;br /&gt;Reclaim Protocolの提供するソリューション：zkFetch&lt;br /&gt;ユースケース&lt;br /&gt;総論&lt;br /&gt;</description>
-			<pubDate>Wed, 22 Jan 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/wqdzn5yhefbtittvgaht8cg3b5v7/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
