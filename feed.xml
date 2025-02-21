@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Avalancheの概要、今後の動向：エコシステムマーケットレポート【2025年2月】</title>
+			<link>https://hashhub-research.com/articles/2025-02-21-state-of-avalanche-2025-02</link>
+			<guid isPermaLink="false">2025-02-21-state-of-avalanche-2025-02</guid>
+			<description>はじめに&lt;br /&gt;Avalancheの概要&lt;br /&gt;主要指標と市場動向&lt;br /&gt;主要な技術アップグレードについて&lt;br /&gt;DeFiエコシステムの現状&lt;br /&gt;Avalancheのエコシステムの主要動向&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Fri, 21 Feb 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/z5adfoscz656l6w978qs3l3womco/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ゴールド（金）の輸送遅延問題。投資家が学べること。</title>
 			<link>https://hashhub-research.com/articles/2025-02-20-gold-transport-delay</link>
 			<guid isPermaLink="false">2025-02-20-gold-transport-delay</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;多くの収益分配形トークンは収益をあげていたとしても、なぜ中期でパフォーマンスが優れないか&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Fri, 24 Jan 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1cu04jyez0eaos0c0lasv3j4oe1m/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Morpho：パーミッションレスVaultとキュレーターの役割の考察</title>
-			<link>https://hashhub-research.com/articles/2025-01-23-morpho-overview-and-permissionless-vault-risks</link>
-			<guid isPermaLink="false">2025-01-23-morpho-overview-and-permissionless-vault-risks</guid>
-			<description>Morphoの概要&lt;br /&gt;Morphoのリスク分析&lt;br /&gt;AaveやCompoundにないリスクエクスポージャーとキュレーターの存在を考察&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 23 Jan 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/tz73hoq65x23dlk54br63bjsp0h9/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
