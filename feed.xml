@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Berachainメインネットローンチ後の現状分析</title>
+			<link>https://hashhub-research.com/articles/2025-02-25-state-of-berachain-2025-02</link>
+			<guid isPermaLink="false">2025-02-25-state-of-berachain-2025-02</guid>
+			<description>前提&lt;br /&gt;PoLの概要と現状&lt;br /&gt;EVM互換性の拡張と開発者向け機能強化&lt;br /&gt;Beraborrowが発行する$NECTステーブルコイン：エコシステムにおける新たな選択肢&lt;br /&gt;Boycoプラットフォームの役割と成果&lt;br /&gt;エコシステム拡大の現状分析&lt;br /&gt;リスク要因の最新分析&lt;br /&gt;今後の展望&lt;br /&gt;総論&lt;br /&gt;</description>
+			<pubDate>Tue, 25 Feb 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/hm9pw1axsdh0s9652o5rxfkg3ma4/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Avalancheの概要、今後の動向：エコシステムマーケットレポート【2025年2月】</title>
 			<link>https://hashhub-research.com/articles/2025-02-21-state-of-avalanche-2025-02</link>
 			<guid isPermaLink="false">2025-02-21-state-of-avalanche-2025-02</guid>
@@ -187,14 +195,6 @@
 			<description>#03_Q1 2025年「資金調達の潮流」&lt;br /&gt;1.「2025年1月20日〜2025年1月26日」の資金調達トレンド&lt;br /&gt;2.セクター別資金調達トレンド&lt;br /&gt;3.総括&amp;所感&lt;br /&gt;</description>
 			<pubDate>Mon, 27 Jan 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/psdi82382n7we8nw6mmdmq43mbac/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>多くの手数料分配形アプリケーショントークンは収益をあげていたとしても、なぜ中期でパフォーマンスが優れないか</title>
-			<link>https://hashhub-research.com/articles/2025-01-24-why-low-perforemance-cashflow-token</link>
-			<guid isPermaLink="false">2025-01-24-why-low-perforemance-cashflow-token</guid>
-			<description>前提&lt;br /&gt;多くの収益分配形トークンは収益をあげていたとしても、なぜ中期でパフォーマンスが優れないか&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 24 Jan 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1cu04jyez0eaos0c0lasv3j4oe1m/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
