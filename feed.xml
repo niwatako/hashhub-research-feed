@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>web3ソーシャル領域の代表格の一つであるFarcasterエコシステムの動向 25年2月</title>
+			<link>https://hashhub-research.com/articles/2025-03-02-about-farcaster-ecosystem</link>
+			<guid isPermaLink="false">2025-03-02-about-farcaster-ecosystem</guid>
+			<description>前提&lt;br /&gt;Farcasterの全体動向&lt;br /&gt;Coinbase WalletがFarcasterフィードを統合&lt;br /&gt;Superが、Dan RomeroとVarun Srinivasanと協力し、Farcasterの発展に貢献するためWarpcastに統合される&lt;br /&gt;その他&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Sun, 02 Mar 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ea3ghp3jzl0s8n6mf08fd6732ukb/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Hyperliquidの現状、HyperEVM展開・Unit Protocol統合を踏まえた今後の課題とは</title>
 			<link>https://hashhub-research.com/articles/2025-03-01-state-of-hyperliquid-with-hyperevm-and-unitprotocol</link>
 			<guid isPermaLink="false">2025-03-01-state-of-hyperliquid-with-hyperevm-and-unitprotocol</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Farcasterの全体動向&lt;br /&gt;</description>
 			<pubDate>Thu, 30 Jan 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/wylk7rcei77fp8qi4ozv4od9kthz/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Solana（SOL）概要マーケットレポート 2025年1月</title>
-			<link>https://hashhub-research.com/articles/2025-01-30-state-of-solana-2025-01</link>
-			<guid isPermaLink="false">2025-01-30-state-of-solana-2025-01</guid>
-			<description>はじめに&lt;br /&gt;Solanaとは&lt;br /&gt;SOLの価格動向&lt;br /&gt;Solanaブロックチェーン上の現状&lt;br /&gt;今後の注目ポイントと展望&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 30 Jan 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/zecw3blbuzs0ak5u5zd6l9ha9a41/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
