@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Believe &amp; LAUNCHCOIN：ソーシャルメディアから生まれる新しいデジタルアセットの創出メカニズム</title>
+			<link>https://hashhub-research.com/articles/2025-05-18-socialfi-believe-launchcoin</link>
+			<guid isPermaLink="false">2025-05-18-socialfi-believe-launchcoin</guid>
+			<description></description>
+			<pubDate>Sun, 18 May 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/fqx0sklapslxbbbf2qmqoucs82qp/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>VanEck Onchain Economy ETF ($NODE) 上場：アクティブ運用型暗号資産ETFの概要と投資戦略</title>
 			<link>https://hashhub-research.com/articles/2025-05-16-vaneck-node-etf-listing-active-crypto-overview-strategy</link>
 			<guid isPermaLink="false">2025-05-16-vaneck-node-etf-listing-active-crypto-overview-strategy</guid>
@@ -187,14 +195,6 @@
 			<description></description>
 			<pubDate>Thu, 17 Apr 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ypxha6tzecg86oxz0k89pu0l7k34/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>取引所ユーザーのためのUSDC DeFi運用入門：高利回りの可能性と知っておくべきリスク</title>
-			<link>https://hashhub-research.com/articles/2025-04-16-usdc-defi-for-beginners</link>
-			<guid isPermaLink="false">2025-04-16-usdc-defi-for-beginners</guid>
-			<description></description>
-			<pubDate>Wed, 16 Apr 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/hvbebqdwoe9rhtk14d0se3lzjtd8/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
