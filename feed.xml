@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>イーサリアム公共財の持続的資金調達：Gitcoin Rekhan氏の3段階ロードマップをを読み解く</title>
+			<link>https://hashhub-research.com/articles/2025-05-19-gitcoin-rekhani-funding</link>
+			<guid isPermaLink="false">2025-05-19-gitcoin-rekhani-funding</guid>
+			<description></description>
+			<pubDate>Mon, 19 May 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/eivrpy3eotyjiozdswm99878l30r/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Believe &amp; LAUNCHCOIN：ソーシャルメディアから生まれる新しいデジタルアセットの創出メカニズム</title>
 			<link>https://hashhub-research.com/articles/2025-05-18-socialfi-believe-launchcoin</link>
 			<guid isPermaLink="false">2025-05-18-socialfi-believe-launchcoin</guid>
@@ -187,14 +195,6 @@
 			<description></description>
 			<pubDate>Fri, 18 Apr 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/zezkfhz0baf0edsp8jy8s1b6wy0j/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Solana統合を発表したOpenSea「OS2」の狙いと、マルチチェーン化が生む恩恵と摩擦</title>
-			<link>https://hashhub-research.com/articles/2025-04-17-opensea-os2-solana-multichain</link>
-			<guid isPermaLink="false">2025-04-17-opensea-os2-solana-multichain</guid>
-			<description></description>
-			<pubDate>Thu, 17 Apr 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ypxha6tzecg86oxz0k89pu0l7k34/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
