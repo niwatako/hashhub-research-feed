@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>暗号資産ハッキング被害トレーダーのための『緊急措置＆復旧ガイド』</title>
+			<link>https://hashhub-research.com/articles/2025-05-20-crypto-hacking-emergency-recovery-guide</link>
+			<guid isPermaLink="false">2025-05-20-crypto-hacking-emergency-recovery-guide</guid>
+			<description></description>
+			<pubDate>Tue, 20 May 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0n6j3tifo3dg2ucurvs3g2zvm2it/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>イーサリアム公共財の持続的資金調達：Gitcoin Rekhan氏の3段階ロードマップをを読み解く</title>
 			<link>https://hashhub-research.com/articles/2025-05-19-gitcoin-rekhani-funding</link>
 			<guid isPermaLink="false">2025-05-19-gitcoin-rekhani-funding</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Circleの主要なビジネス数値&lt;br /&gt;Circleへの筆者の評価&lt;br /&gt;結論&lt;br /&gt;</description>
 			<pubDate>Mon, 21 Apr 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/p0b75e552odr8p1z3b1vyei16b3c/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>都市の駐車場問題を解決するスマートパーキングとブロックチェーンの融合：グローバル事例から見る実装可能性と今後の方向性</title>
-			<link>https://hashhub-research.com/articles/2025-04-18-smart-parking-blockchain</link>
-			<guid isPermaLink="false">2025-04-18-smart-parking-blockchain</guid>
-			<description></description>
-			<pubDate>Fri, 18 Apr 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/zezkfhz0baf0edsp8jy8s1b6wy0j/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
