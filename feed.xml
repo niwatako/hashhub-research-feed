@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Solana「Alpenglow」とは？PoH廃止とVotor/Rotorがもたらす次世代ブロックチェーン体験と競争優位性</title>
+			<link>https://hashhub-research.com/articles/2025-05-22-solana-alpenglow-next-generation-blockchain</link>
+			<guid isPermaLink="false">2025-05-22-solana-alpenglow-next-generation-blockchain</guid>
+			<description></description>
+			<pubDate>Thu, 22 May 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/wdqlqr07vsit22ljcepzp206b4r8/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Suiエコシステムの現状 マーケットレポート 2025年Q1</title>
 			<link>https://hashhub-research.com/articles/2025-05-22-state-of-sui-2025-q1</link>
 			<guid isPermaLink="false">2025-05-22-state-of-sui-2025-q1</guid>
@@ -187,14 +195,6 @@
 			<description></description>
 			<pubDate>Thu, 24 Apr 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/k2alitx7v62vvrtbhuilqdmdf6i2/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Solanaチェーンにも進出したことで注目の元祖PayFiプラットフォーム「Huma.Finance」の概要や資金調達情報、ユースケースなどについて概観</title>
-			<link>https://hashhub-research.com/articles/2025-04-23-huma-finance-overview-solana-payfi</link>
-			<guid isPermaLink="false">2025-04-23-huma-finance-overview-solana-payfi</guid>
-			<description></description>
-			<pubDate>Wed, 23 Apr 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/jzcrxi636erv5p4pewebo5soo0ix/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
