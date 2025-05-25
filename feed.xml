@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>REV（実質経済価値）を理解する：ブロックチェーンの経済的健全性を評価する新基準</title>
+			<link>https://hashhub-research.com/articles/2025-05-26-understanding-rev-blockchain-economic-health</link>
+			<guid isPermaLink="false">2025-05-26-understanding-rev-blockchain-economic-health</guid>
+			<description></description>
+			<pubDate>Mon, 26 May 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/vvdctf3vyd1o0idz2in07l00akwu/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Bitget Walletは、なぜMetaMaskよりも新規ユーザーを獲得できたのか？</title>
 			<link>https://hashhub-research.com/articles/2025-05-23-why-bitget-wallet-acquired-more-new-users-than-metamask</link>
 			<guid isPermaLink="false">2025-05-23-why-bitget-wallet-acquired-more-new-users-than-metamask</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;暗号資産関連の上場企業のバリエーションを見直す&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Mon, 28 Apr 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/35sc0une3z1jlhebnovdlp3ijfac/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>EVMからRISC-Vへの長期的な移行提案の概要と背景、その是非を考察する</title>
-			<link>https://hashhub-research.com/articles/2025-04-25-replace-evm-with-riscv</link>
-			<guid isPermaLink="false">2025-04-25-replace-evm-with-riscv</guid>
-			<description>はじめに&lt;br /&gt;提案の核心と根拠：なぜEVMをRISC-Vに置き換えるのか？ &lt;br /&gt;実現への課題：技術論争と戦略的ジレンマ&lt;br /&gt;</description>
-			<pubDate>Fri, 25 Apr 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ahgy1lafvv9mu9fpde75kidntcop/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
