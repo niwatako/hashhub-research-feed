@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>BTC保有量の最大化を財務戦略とする会社のブームがどのように収束するか考える</title>
+			<link>https://hashhub-research.com/articles/2025-06-02-consider-how-the-boom-in-companies-whose-financial-strategy</link>
+			<guid isPermaLink="false">2025-06-02-consider-how-the-boom-in-companies-whose-financial-strategy</guid>
+			<description>前提&lt;br /&gt;BTC保有量最大化のためには、株価が保有BTC量に対してプレミアムがついていることが重要&lt;br /&gt;プレミアムが剥落してブームが収束するのはどんなときか&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Mon, 02 Jun 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/47vu1uwcnst1gagf1o8ftv220drw/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Base(ETHレイヤー2) エコシステム入門 2025</title>
 			<link>https://hashhub-research.com/articles/2025-05-30-state-of-base-2025-05-for-entry</link>
 			<guid isPermaLink="false">2025-05-30-state-of-base-2025-05-for-entry</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;4月2日の関税発表から米国から流入した資金はどこに流れたか&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Wed, 07 May 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/bx3llppzt227hndhpigmj0a7hm9e/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>【2025年GW選書】HashHubチームが選ぶ、知的好奇心を刺激する推薦図書</title>
-			<link>https://hashhub-research.com/articles/2025-05-02-gw-book-picks</link>
-			<guid isPermaLink="false">2025-05-02-gw-book-picks</guid>
-			<description>1.金融・経済・地政学に強くなる本&lt;br /&gt;2.ブロックチェーン・暗号資産の未来を考える本&lt;br /&gt;3.AI・テクノロジーが変える社会とビジネス&lt;br /&gt;4.仕事・戦略に効く思考法／組織論／哲学&lt;br /&gt;</description>
-			<pubDate>Fri, 02 May 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/k9oew7qvi33kgkwnbqlm7hics3dj/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
