@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>はじめての「DeFiにおける無期限先物取引」｜基本概念・仕組み・種類・攻撃対策まで一挙解説</title>
+			<link>https://hashhub-research.com/articles/2025-06-03-perpetual-derivatives-complete-guide</link>
+			<guid isPermaLink="false">2025-06-03-perpetual-derivatives-complete-guide</guid>
+			<description>I. 無期限先物取引（パーペチュアル・デリバティブ）とは？&lt;br /&gt;II. 無期限先物取引を理解するための重要キーワード解説&lt;br /&gt;III. 無期限先物取引プロトコルの種類と特徴&lt;br /&gt;IV. 無期限先物取引プロトコルにおける攻撃事例とその対策&lt;br /&gt;V. 総括&lt;br /&gt;</description>
+			<pubDate>Tue, 03 Jun 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/uh90yddn5lpmf7e4zcc2r0ssa90f/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>BTC保有量の最大化を財務戦略とする会社のブームがどのように収束するか考える</title>
 			<link>https://hashhub-research.com/articles/2025-06-02-consider-how-the-boom-in-companies-whose-financial-strategy</link>
 			<guid isPermaLink="false">2025-06-02-consider-how-the-boom-in-companies-whose-financial-strategy</guid>
@@ -187,14 +195,6 @@
 			<description></description>
 			<pubDate>Thu, 08 May 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/oh26kfubq96vriqae5j7wcelw7lf/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>4月2日の関税発表から米国から流入した資金はどこに流れたか</title>
-			<link>https://hashhub-research.com/articles/2025-05-07-money-flow-april</link>
-			<guid isPermaLink="false">2025-05-07-money-flow-april</guid>
-			<description>前提&lt;br /&gt;4月2日の関税発表から米国から流入した資金はどこに流れたか&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Wed, 07 May 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/bx3llppzt227hndhpigmj0a7hm9e/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
