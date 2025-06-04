@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Web3.0最新資金調達トレンド分析 - 2025年5月レポート</title>
+			<link>https://hashhub-research.com/articles/2025-06-04-latest-funding-trends-in-web3</link>
+			<guid isPermaLink="false">2025-06-04-latest-funding-trends-in-web3</guid>
+			<description>2025年5月の資金調達件数と調達額の推移&lt;br /&gt;カテゴリー別の資金調達動向&lt;br /&gt;ラウンド別の特徴&lt;br /&gt;総括：【2025年5月】資金調達トレンドのまとめ&lt;br /&gt;</description>
+			<pubDate>Wed, 04 Jun 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/er5saslll8jfz6bb33gowxrsho2y/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>はじめての「DeFiにおける無期限先物取引」｜基本概念・仕組み・種類・攻撃対策まで一挙解説</title>
 			<link>https://hashhub-research.com/articles/2025-06-03-perpetual-derivatives-complete-guide</link>
 			<guid isPermaLink="false">2025-06-03-perpetual-derivatives-complete-guide</guid>
@@ -187,14 +195,6 @@
 			<description>市場概況とETH価格動向&lt;br /&gt;技術的進展：Pectraアップグレードと展望&lt;br /&gt;主要エコシステムの動向&lt;br /&gt;考察と今後の展望&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 08 May 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/p3jbto2etu374sql3ntzau0wjg0u/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Visa Intelligent CommerceとMastercard Agent Payが示すAI決済の行方：ステーブルコイン連携による事業機会の考察</title>
-			<link>https://hashhub-research.com/articles/2025-05-08-visa-mastercard-ai-payment-stablecoin</link>
-			<guid isPermaLink="false">2025-05-08-visa-mastercard-ai-payment-stablecoin</guid>
-			<description></description>
-			<pubDate>Thu, 08 May 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/oh26kfubq96vriqae5j7wcelw7lf/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
