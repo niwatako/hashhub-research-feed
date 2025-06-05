@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>NFT周りの最近のアップデート情報まとめ 25年5月</title>
+			<link>https://hashhub-research.com/articles/2025-06-05-summary-of-recent-updates-around-nft</link>
+			<guid isPermaLink="false">2025-06-05-summary-of-recent-updates-around-nft</guid>
+			<description>前提&lt;br /&gt;1.NFT周りの最近のアップデート情報&lt;br /&gt;2.NFT市場定点観測【2025年5月】&lt;br /&gt;</description>
+			<pubDate>Thu, 05 Jun 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/3rtduiwuo3is0vuj089mh9np2qdq/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Web3.0最新資金調達トレンド分析 - 2025年5月レポート</title>
 			<link>https://hashhub-research.com/articles/2025-06-04-latest-funding-trends-in-web3</link>
 			<guid isPermaLink="false">2025-06-04-latest-funding-trends-in-web3</guid>
@@ -187,14 +195,6 @@
 			<description></description>
 			<pubDate>Fri, 09 May 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/06jnhbhe150civ5ybuhaysw0wvgv/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ETHエコシステムマーケットレポート2025Q1</title>
-			<link>https://hashhub-research.com/articles/2025-05-08-state-of-eth-2025-q1</link>
-			<guid isPermaLink="false">2025-05-08-state-of-eth-2025-q1</guid>
-			<description>市場概況とETH価格動向&lt;br /&gt;技術的進展：Pectraアップグレードと展望&lt;br /&gt;主要エコシステムの動向&lt;br /&gt;考察と今後の展望&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 08 May 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/p3jbto2etu374sql3ntzau0wjg0u/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
