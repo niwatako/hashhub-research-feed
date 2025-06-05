@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Solana（SOL）エコシステムマーケットレポート2025 Q1・Q2</title>
+			<link>https://hashhub-research.com/articles/2025-06-06-state-of-solana-2025-q1-q2</link>
+			<guid isPermaLink="false">2025-06-06-state-of-solana-2025-q1-q2</guid>
+			<description>Solana（SOL）の市場パフォーマンス&lt;br /&gt;Solanaネットワークファンダメンタルズ：アクティビティとパフォーマンス分析&lt;br /&gt;Solanaエコシステムの詳細分析：DeFi、NFT、主要プロジェクト開発&lt;br /&gt;技術的進歩とロードマップ&lt;br /&gt;規制および機関投資家の動向&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Fri, 06 Jun 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/xfzs7g1exwcq0sakmfdu6l8nv817/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>NFT周りの最近のアップデート情報まとめ 25年5月</title>
 			<link>https://hashhub-research.com/articles/2025-06-05-summary-of-recent-updates-around-nft</link>
 			<guid isPermaLink="false">2025-06-05-summary-of-recent-updates-around-nft</guid>
@@ -187,14 +195,6 @@
 			<description></description>
 			<pubDate>Mon, 12 May 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/an8sl51lpr9bmcylyaly21r9kixy/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>AIエージェントとWeb3エコシステムの統合に潜む希望とリスク——「自律性 × 分散性」がもたらす新しい可能性と課題</title>
-			<link>https://hashhub-research.com/articles/2025-05-09-ai-agents-web3-autonomy-decentral</link>
-			<guid isPermaLink="false">2025-05-09-ai-agents-web3-autonomy-decentral</guid>
-			<description></description>
-			<pubDate>Fri, 09 May 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/06jnhbhe150civ5ybuhaysw0wvgv/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
