@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>デルタを取らないHYPEの運用戦略とエアドロップの考察</title>
+			<link>https://hashhub-research.com/articles/2025-06-11-hype-strategy-and-airdrop</link>
+			<guid isPermaLink="false">2025-06-11-hype-strategy-and-airdrop</guid>
+			<description>なぜHYPEなのか？&lt;br /&gt;デルタリスクを取らない戦略の分類&lt;br /&gt;エアドロップ戦略とシミュレーション&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Wed, 11 Jun 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/08bdi2wt1riv02wxj7oorpvgsfv9/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>MEVとサンドイッチ攻撃の基礎知識：歴史から学ぶ個人投資家のための入門ガイド</title>
 			<link>https://hashhub-research.com/articles/2025-06-10-mev-sandwich-attack-defense-manual</link>
 			<guid isPermaLink="false">2025-06-10-mev-sandwich-attack-defense-manual</guid>
@@ -187,14 +195,6 @@
 			<description>導入&lt;br /&gt;レポートサマリー（概要）&lt;br /&gt;詳細&lt;br /&gt;課題&lt;br /&gt;今後の展望&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 15 May 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/dlkyidxg6tolgz2s5x6lvrl73dao/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>信頼失墜からの再生：ジンバブエのブロックチェーン炭素市場、再構築の行方</title>
-			<link>https://hashhub-research.com/articles/2025-05-14-zimbabwe-blockchain-carbon</link>
-			<guid isPermaLink="false">2025-05-14-zimbabwe-blockchain-carbon</guid>
-			<description></description>
-			<pubDate>Wed, 14 May 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2pqvtnrm41587wu40wxoyqo1psmp/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
