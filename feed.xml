@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>なぜ投資家は複数の種類の無国籍アセット（BTC・ゴールド・シルバー・プラチナ）を保有するべきなのか</title>
+			<link>https://hashhub-research.com/articles/2025-06-13-diverse-stateless-assets</link>
+			<guid isPermaLink="false">2025-06-13-diverse-stateless-assets</guid>
+			<description>前提&lt;br /&gt;なぜ投資家は複数の種類の無国籍アセット（BTC・ゴールド・シルバー・プラチナ）を保有するべきなのか&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Fri, 13 Jun 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/b02imxpnoovzo6k9w67o3isggdxj/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>偽装された親切心の罠: PoisonSeed攻撃による暗号資産業界の新たなセキュリティリスク</title>
 			<link>https://hashhub-research.com/articles/2025-06-12-poisonseed-threat-analysis-crypto-security</link>
 			<guid isPermaLink="false">2025-06-12-poisonseed-threat-analysis-crypto-security</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Hyperliquidの新しい料金体系・HYPEトークンの需要&lt;br /&gt;投資妙味の検討&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 15 May 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ksqsy1ia710f4tyku5vo1uhxzw99/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>不確実な時代を生き抜く：レイ・ダリオが示す「5つの巨大な力」と賢明な投資戦略</title>
-			<link>https://hashhub-research.com/articles/2025-05-15-ray-dalio-5forces-investment</link>
-			<guid isPermaLink="false">2025-05-15-ray-dalio-5forces-investment</guid>
-			<description></description>
-			<pubDate>Thu, 15 May 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8yzwtx0336mp8my7p1urd6bwyokh/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
