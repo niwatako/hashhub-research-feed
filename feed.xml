@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>J.P.モルガンが預金トークン「JPMD」をパブリックブロックチェーンに展開する背景</title>
+			<link>https://hashhub-research.com/articles/2025-06-20-jpmd-on-base-overview</link>
+			<guid isPermaLink="false">2025-06-20-jpmd-on-base-overview</guid>
+			<description>伝統金融とデジタル資産の融合：JPMD on Base&lt;br /&gt;J.P.モルガンのブロックチェーン戦略と技術的基盤&lt;br /&gt;預金トークンという選択：JPMDの革新性とパブリックL2「Base」採用の戦略的意図&lt;br /&gt;JPMDが直面するシステミックリスクと規制の壁&lt;br /&gt;金融市場の構造変革とトークン化経済&lt;br /&gt;総括&lt;br /&gt;参考文献&lt;br /&gt;</description>
+			<pubDate>Fri, 20 Jun 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/hhamz372ws3p74bmo79fmpwarvtv/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>9,000万ドルがサイバー空間に“焼却”された日――ついに「軍事標的」と化した暗号資産取引所、イスラエル・イラン金融サイバー戦争の全貌</title>
 			<link>https://hashhub-research.com/articles/2025-06-19-cyber-war-cryptocurrency-exchange-nobitex-israel-iran-90-million-burned</link>
 			<guid isPermaLink="false">2025-06-19-cyber-war-cryptocurrency-exchange-nobitex-israel-iran-90-million-burned</guid>
@@ -187,14 +195,6 @@
 			<description></description>
 			<pubDate>Wed, 21 May 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ydn43ge49ggdva5nyjvg5xq3depb/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>暗号資産ハッキング被害トレーダーのための『緊急措置＆復旧ガイド』</title>
-			<link>https://hashhub-research.com/articles/2025-05-20-crypto-hacking-emergency-recovery-guide</link>
-			<guid isPermaLink="false">2025-05-20-crypto-hacking-emergency-recovery-guide</guid>
-			<description></description>
-			<pubDate>Tue, 20 May 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0n6j3tifo3dg2ucurvs3g2zvm2it/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
