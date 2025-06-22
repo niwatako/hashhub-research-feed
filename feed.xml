@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>アテステーションサービスの市場概観、デジタル・トラストを構築する基盤技術の現在（EAS・SASの比較）</title>
+			<link>https://hashhub-research.com/articles/2025-06-23-state-of-attestation-services-eas-sas</link>
+			<guid isPermaLink="false">2025-06-23-state-of-attestation-services-eas-sas</guid>
+			<description>デジタル・トラストの基礎レイヤー：アテステーションの概要&lt;br /&gt;イーサリアム・アテステーション・サービス（EAS）&lt;br /&gt;Solanaアテステーション・サービス（SAS）&lt;br /&gt;比較分析｜ターゲット市場と採用戦略：草の根 対 機関投資家&lt;br /&gt;市場の牽引役とビジネス応用&lt;br /&gt;中核的課題、将来の解決策&lt;br /&gt;総括：アテステーションレイヤーとトラストウェブの展望&lt;br /&gt;</description>
+			<pubDate>Mon, 23 Jun 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ha1ug77q7i07ajide65qwiou2l4p/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>J.P.モルガンが預金トークン「JPMD」をパブリックブロックチェーンに展開する背景</title>
 			<link>https://hashhub-research.com/articles/2025-06-20-jpmd-on-base-overview</link>
 			<guid isPermaLink="false">2025-06-20-jpmd-on-base-overview</guid>
@@ -187,14 +195,6 @@
 			<description>I. SuiブロックチェーンとSUIトークンの概要&lt;br /&gt;II. 2025年Q1～5月15日のSUI市場分析&lt;br /&gt;III. Suiエコシステムの成長と投資機会&lt;br /&gt;IV. 投資家が注目すべき主要トピックと洞察&lt;br /&gt;V. 投資リスクと懸念事項：投資家が警戒すべきポイント&lt;br /&gt;VII. 結論&lt;br /&gt;参考文献&lt;br /&gt;</description>
 			<pubDate>Thu, 22 May 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/wqoc2xi9snht7y5fos6bousk19n6/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>スマートコントラクトと現実世界のデータ：オラクルの隠れたリスクを読み解く</title>
-			<link>https://hashhub-research.com/articles/2025-05-21-smart-contracts-real-world-data-oracle-hidden-risks</link>
-			<guid isPermaLink="false">2025-05-21-smart-contracts-real-world-data-oracle-hidden-risks</guid>
-			<description></description>
-			<pubDate>Wed, 21 May 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ydn43ge49ggdva5nyjvg5xq3depb/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
