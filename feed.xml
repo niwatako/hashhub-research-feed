@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Web3チケット革命：「Fan3」がAvalancheで描くファンエコノミー再構築戦略</title>
+			<link>https://hashhub-research.com/articles/2025-06-30-fan3-avalanche-web3-ticket</link>
+			<guid isPermaLink="false">2025-06-30-fan3-avalanche-web3-ticket</guid>
+			<description></description>
+			<pubDate>Mon, 30 Jun 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/30vnxu5xz3coyox5pa19yv6rxcky/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ドージコイン（DOGE）マーケットレポート【2025年6月】</title>
 			<link>https://hashhub-research.com/articles/2025-06-27--state-of-doge-2025-06</link>
 			<guid isPermaLink="false">2025-06-27--state-of-doge-2025-06</guid>
@@ -187,14 +195,6 @@
 			<description></description>
 			<pubDate>Wed, 28 May 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ijkj19s3yvah7kf09kkndtxloi1d/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>AI×NFTの交差点：「CryptoAgents」が拓くAIエージェント×フルオンチェーンPFP NFTの可能性</title>
-			<link>https://hashhub-research.com/articles/2025-05-27-ai-nft-cryptoagents-intersection</link>
-			<guid isPermaLink="false">2025-05-27-ai-nft-cryptoagents-intersection</guid>
-			<description></description>
-			<pubDate>Tue, 27 May 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/je5nxgb1if2evfesao60k83th47r/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
