@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>オンチェーン株式取引マーケットxStocksの概要、金融機関における活用可能性</title>
+			<link>https://hashhub-research.com/articles/2025-07-02-xstocks-overview</link>
+			<guid isPermaLink="false">2025-07-02-xstocks-overview</guid>
+			<description>はじめに&lt;br /&gt;xStocksの技術的・運用的仕組み：オンチェーン株式の裏側&lt;br /&gt;リスク分析&lt;br /&gt;金融機関におけるユースケースと考察&lt;br /&gt;結論：xStocksの将来性と金融市場へのインパクト&lt;br /&gt;</description>
+			<pubDate>Wed, 02 Jul 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/rguzknsb58funke6z9w6mzj56z6a/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>XRPマーケットレポート【2025年6月】｜裁判は終結へ、機関投資家向け拡充の狙いとは</title>
 			<link>https://hashhub-research.com/articles/2025-07-02-state-of-xrp-2025-q2</link>
 			<guid isPermaLink="false">2025-07-02-state-of-xrp-2025-q2</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;BTC保有量最大化のためには、株価が保有BTC量に対してプレミアムがついていることが重要&lt;br /&gt;プレミアムが剥落してブームが収束するのはどんなときか&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Mon, 02 Jun 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/47vu1uwcnst1gagf1o8ftv220drw/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Base(ETHレイヤー2) エコシステム入門 2025</title>
-			<link>https://hashhub-research.com/articles/2025-05-30-state-of-base-2025-05-for-entry</link>
-			<guid isPermaLink="false">2025-05-30-state-of-base-2025-05-for-entry</guid>
-			<description>Baseの概要と開発背景&lt;br /&gt;投資家が注目すべきBaseの主な利点&lt;br /&gt;Baseの現状：2025年5月時点の利用状況と市場での位置付け&lt;br /&gt;Baseエコシステムの探求：具体的なユースケースと注目プロジェクト&lt;br /&gt;Coinbaseのオンチェーン戦略とBaseの役割&lt;br /&gt;投資家向けガイド：Baseへの関与を深める第一歩&lt;br /&gt;結論：Baseが拓く、より身近なオンチェーン経済&lt;br /&gt;</description>
-			<pubDate>Fri, 30 May 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/q8i5y2hxhj10zq28x10ngnbqs4av/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
