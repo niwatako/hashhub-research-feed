@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>予測市場におけるPump.funとして注目されている「XO Market」の概要と、「群衆の知恵」によって本当に集合知を引き出せるのかについて考察</title>
+			<link>https://hashhub-research.com/articles/2025-07-09-xo-market</link>
+			<guid isPermaLink="false">2025-07-09-xo-market</guid>
+			<description></description>
+			<pubDate>Wed, 09 Jul 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/xswabsjtmv2obxbae888rwve7hw3/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>HyperliquidのHIP-3は、分散型金融の新たな市場基盤を拓く</title>
 			<link>https://hashhub-research.com/articles/2025-07-08-hyperliquid-hip-3</link>
 			<guid isPermaLink="false">2025-07-08-hyperliquid-hip-3</guid>
@@ -187,14 +195,6 @@
 			<description>1.サンドイッチMEVの進化：攻撃手法の変遷に見る歴史&lt;br /&gt;2. 投資家への影響：サンドイッチ攻撃がもたらすリスク&lt;br /&gt;3. 自衛のために：サンドイッチ攻撃から身を守る知識&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Tue, 10 Jun 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/d8fx9rohx44v2alz79ztqnucql8m/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>DeFiレンディングの現在｜アダプティブサプライモデルは次世代の標準か？MorphoとAave V3、論文「A Curationary Tale」が示す理論的優位性と現実の課題</title>
-			<link>https://hashhub-research.com/articles/2025-06-09-defi-lending-adaptive-supply-models</link>
-			<guid isPermaLink="false">2025-06-09-defi-lending-adaptive-supply-models</guid>
-			<description>1. はじめに：DeFiレンディングの進化と本レポートの意義&lt;br /&gt;2. 論文：「A Curationary Tale」の主張 – なぜアダプティブモデルは優れているのか？&lt;br /&gt;3. 主要プロトコルの詳細解説&lt;br /&gt;4. 収益性と金利の比較：理論と現実&lt;br /&gt;5. リスクプロファイルの比較&lt;br /&gt;6. 他のアダプティブなアプローチとDeFiレンディングの将来的展望&lt;br /&gt;7. 結論&lt;br /&gt;</description>
-			<pubDate>Mon, 09 Jun 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/dgbt56f3kbdxk6gvu3vp9cgggr1y/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
