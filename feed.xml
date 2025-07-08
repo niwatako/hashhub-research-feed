@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>HyperliquidのHIP-3は、分散型金融の新たな市場基盤を拓く</title>
+			<link>https://hashhub-research.com/articles/2025-07-08-hyperliquid-hip-3</link>
+			<guid isPermaLink="false">2025-07-08-hyperliquid-hip-3</guid>
+			<description>HIP-3 の概要&lt;br /&gt;今後の展望：パーペチュアルDEXから金融インフラ層へ&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Tue, 08 Jul 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/6emmi3zppx0h5imii28lmzlaswzk/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>あらゆる非金融商品（コレクション資産）の値上がりを経験したコロナ禍のその後、今何を学ぶか</title>
 			<link>https://hashhub-research.com/articles/2025-07-07-collectives-after-bubble</link>
 			<guid isPermaLink="false">2025-07-07-collectives-after-bubble</guid>
@@ -187,14 +195,6 @@
 			<description>1. はじめに：DeFiレンディングの進化と本レポートの意義&lt;br /&gt;2. 論文：「A Curationary Tale」の主張 – なぜアダプティブモデルは優れているのか？&lt;br /&gt;3. 主要プロトコルの詳細解説&lt;br /&gt;4. 収益性と金利の比較：理論と現実&lt;br /&gt;5. リスクプロファイルの比較&lt;br /&gt;6. 他のアダプティブなアプローチとDeFiレンディングの将来的展望&lt;br /&gt;7. 結論&lt;br /&gt;</description>
 			<pubDate>Mon, 09 Jun 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/dgbt56f3kbdxk6gvu3vp9cgggr1y/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Solana（SOL）エコシステムマーケットレポート2025 Q1・Q2</title>
-			<link>https://hashhub-research.com/articles/2025-06-06-state-of-solana-2025-q1-q2</link>
-			<guid isPermaLink="false">2025-06-06-state-of-solana-2025-q1-q2</guid>
-			<description>Solana（SOL）の市場パフォーマンス&lt;br /&gt;Solanaネットワークファンダメンタルズ：アクティビティとパフォーマンス分析&lt;br /&gt;Solanaエコシステムの詳細分析：DeFi、NFT、主要プロジェクト開発&lt;br /&gt;技術的進歩とロードマップ&lt;br /&gt;規制および機関投資家の動向&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 06 Jun 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/xfzs7g1exwcq0sakmfdu6l8nv817/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
