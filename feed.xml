@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>BTC市場の現在：オンチェーンアクティビティ、BTC保有数別アドレス数の推移、BTC ETFなど</title>
+			<link>https://hashhub-research.com/articles/2025-07-22-bitcoin-2025-onchain-address-etf</link>
+			<guid isPermaLink="false">2025-07-22-bitcoin-2025-onchain-address-etf</guid>
+			<description></description>
+			<pubDate>Tue, 22 Jul 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2bzb32k3wnsve0x04y6qo2n4wgxz/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>米国の3大法案がもたらす暗号資産規制の不確実性の終焉とアルトコインシーズンの到来</title>
 			<link>https://hashhub-research.com/articles/2025-07-18-us-regulations-and-altcoin-seasons</link>
 			<guid isPermaLink="false">2025-07-18-us-regulations-and-altcoin-seasons</guid>
@@ -187,14 +195,6 @@
 			<description>デジタル・トラストの基礎レイヤー：アテステーションの概要&lt;br /&gt;イーサリアム・アテステーション・サービス（EAS）&lt;br /&gt;Solanaアテステーション・サービス（SAS）&lt;br /&gt;比較分析｜ターゲット市場と採用戦略：草の根 対 機関投資家&lt;br /&gt;市場の牽引役とビジネス応用&lt;br /&gt;中核的課題、将来の解決策&lt;br /&gt;総括：アテステーションレイヤーとトラストウェブの展望&lt;br /&gt;</description>
 			<pubDate>Mon, 23 Jun 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ha1ug77q7i07ajide65qwiou2l4p/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>J.P.モルガンが預金トークン「JPMD」をパブリックブロックチェーンに展開する背景</title>
-			<link>https://hashhub-research.com/articles/2025-06-20-jpmd-on-base-overview</link>
-			<guid isPermaLink="false">2025-06-20-jpmd-on-base-overview</guid>
-			<description>伝統金融とデジタル資産の融合：JPMD on Base&lt;br /&gt;J.P.モルガンのブロックチェーン戦略と技術的基盤&lt;br /&gt;預金トークンという選択：JPMDの革新性とパブリックL2「Base」採用の戦略的意図&lt;br /&gt;JPMDが直面するシステミックリスクと規制の壁&lt;br /&gt;金融市場の構造変革とトークン化経済&lt;br /&gt;総括&lt;br /&gt;参考文献&lt;br /&gt;</description>
-			<pubDate>Fri, 20 Jun 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/hhamz372ws3p74bmo79fmpwarvtv/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
