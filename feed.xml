@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>株式・債券の60/40モデルが揺らぐ時代、レイダリオ氏は15%の金・BTC組入を推奨</title>
+			<link>https://hashhub-research.com/articles/2025-07-31-big-shift-from-60-40-model</link>
+			<guid isPermaLink="false">2025-07-31-big-shift-from-60-40-model</guid>
+			<description>前提&lt;br /&gt;株式・債券の60/40モデルが揺らぐ時代&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Thu, 31 Jul 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/prd52t6y79rj5zrqi0pthh1hgw9c/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>主要アルトコイン価格に影響する最大要因：アルトコイン・トレジャリーの現状と懸念リスクとは</title>
 			<link>https://hashhub-research.com/articles/2025-07-30-altcoin-treasury-overview</link>
 			<guid isPermaLink="false">2025-07-30-altcoin-treasury-overview</guid>
@@ -187,14 +195,6 @@
 			<description>SEC訴訟の終結がもたらす影響の全貌&lt;br /&gt;XRP Ledger（XRPL）の現状&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Wed, 02 Jul 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/whbqhc5lkcw758735srmqp4xn4ag/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Chainlink（LINK）マーケットレポート【2025年6月】</title>
-			<link>https://hashhub-research.com/articles/2025-07-01-state-of-chainlink-2025-06</link>
-			<guid isPermaLink="false">2025-07-01-state-of-chainlink-2025-06</guid>
-			<description></description>
-			<pubDate>Tue, 01 Jul 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/phkwrd9vb5poit1iky79hqfxl4qh/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
