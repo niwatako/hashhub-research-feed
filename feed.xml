@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>【2025年夏の選書】HashHubチームがこの夏読んでいる、またはオススメの書籍</title>
+			<link>https://hashhub-research.com/articles/2025-08-15-summer-book-recommendations</link>
+			<guid isPermaLink="false">2025-08-15-summer-book-recommendations</guid>
+			<description></description>
+			<pubDate>Fri, 15 Aug 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/b8xu6k1ci6duhksl13m5c4lavz0n/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Google出資で急成長するAptos採用のeスポーツNFTプラットフォーム「STAN」について</title>
 			<link>https://hashhub-research.com/articles/2025-08-14-aptos-esports-nft-stan-google-investment</link>
 			<guid isPermaLink="false">2025-08-14-aptos-esports-nft-stan-google-investment</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;EthereumからSolanaへの拡張をおこなったWeb3プロジェクト事例を概観&lt;br /&gt;EthereumからSolanaへの拡張をおこなう意義とは&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Tue, 15 Jul 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/kjovjplgfxyacxb1dlmnawsaunso/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>2025年上半期 暗号資産・ブロックチェーンM&amp;A動向分析</title>
-			<link>https://hashhub-research.com/articles/2025-07-14-crypto-ma-report-2025h1</link>
-			<guid isPermaLink="false">2025-07-14-crypto-ma-report-2025h1</guid>
-			<description></description>
-			<pubDate>Mon, 14 Jul 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ys8uz16yjp7fbzbf8zyea0vijnm8/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
