@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>AIエージェントのコラボレーションを可能にするEthereumの新提案「ERC-8004」の概要とトラストレス・エージェントの可能性について</title>
+			<link>https://hashhub-research.com/articles/2025-08-27-ethereum-erc8004-trustless-agents</link>
+			<guid isPermaLink="false">2025-08-27-ethereum-erc8004-trustless-agents</guid>
+			<description>前提&lt;br /&gt;ERC-8004の概要&lt;br /&gt;AIやNFTとの接点&lt;br /&gt;既存の事例やユースケース&lt;br /&gt;考察＆総括&lt;br /&gt;</description>
+			<pubDate>Wed, 27 Aug 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/5pvybc9k7os2vt2t25nzzt6fb7yc/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>なぜステーブルコイン発行事業体はレイヤー1ブロックチェーンを開発するのか？｜Tron収益の実態オンチェーン検証、USDTが大部分を占める背景とは</title>
 			<link>https://hashhub-research.com/articles/2025-08-25-why-stablecoin-issuers-build-l1</link>
 			<guid isPermaLink="false">2025-08-25-why-stablecoin-issuers-build-l1</guid>
@@ -187,14 +195,6 @@
 			<description>1.中央銀行デジタル通貨（CBDC）「デジタルルピー」の導入状況&lt;br /&gt;2.トークナイゼーションに関する取り組み&lt;br /&gt;3.国際送金・貿易金融など、金融サービス分野におけるブロックチェーン活用事例&lt;br /&gt;4.総括&lt;br /&gt;</description>
 			<pubDate>Thu, 24 Jul 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/6tq9v5gm2i80x42dah0wd9v6xj4q/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>GENIUS法時代の勝者を探る：StablecoinX Inc.とENA投資戦略</title>
-			<link>https://hashhub-research.com/articles/2025-07-23-stablecoinx-ena-investment-strategy</link>
-			<guid isPermaLink="false">2025-07-23-stablecoinx-ena-investment-strategy</guid>
-			<description>StablecoinXの事業戦略とEthena財団がもつ拒否権&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Wed, 23 Jul 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/t3cgjipqj3163mz1bgm36toyiapp/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
