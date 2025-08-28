@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Ripple USD（RLUSD）の概要｜ユースケース、発行体と裏付け資産、市場規模・流通量の推移などを整理</title>
+			<link>https://hashhub-research.com/articles/2025-08-28-ripple-usd-overview</link>
+			<guid isPermaLink="false">2025-08-28-ripple-usd-overview</guid>
+			<description>Executive Summary&lt;br /&gt;RLUSDの概要&lt;br /&gt;裏付け資産と発行体&lt;br /&gt;市場規模・流通量の推移&lt;br /&gt;ブロックチェーン別の流通とユーザープロファイル&lt;br /&gt;国内でのRLUSDの流通可能性について&lt;br /&gt;リスク要因&lt;br /&gt;総括&lt;br /&gt;参考文献&lt;br /&gt;</description>
+			<pubDate>Thu, 28 Aug 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/y9ulc3xecd95107fcirg23ch6j3f/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>AIエージェントのコラボレーションを可能にするEthereumの新提案「ERC-8004」の概要とトラストレス・エージェントの可能性について</title>
 			<link>https://hashhub-research.com/articles/2025-08-27-ethereum-erc8004-trustless-agents</link>
 			<guid isPermaLink="false">2025-08-27-ethereum-erc8004-trustless-agents</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;低成長、あるいは偽の成長の時代の投資思考&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Fri, 25 Jul 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1b8dv8ekl98nkzrgcqhrp86wb4vc/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>インドにおけるブロックチェーン技術の進化と主要動向（2018年～2025年7月）──CBDCから資産トークン化まで</title>
-			<link>https://hashhub-research.com/articles/2025-07-24-india-dlt-policy-trends-2018-2025</link>
-			<guid isPermaLink="false">2025-07-24-india-dlt-policy-trends-2018-2025</guid>
-			<description>1.中央銀行デジタル通貨（CBDC）「デジタルルピー」の導入状況&lt;br /&gt;2.トークナイゼーションに関する取り組み&lt;br /&gt;3.国際送金・貿易金融など、金融サービス分野におけるブロックチェーン活用事例&lt;br /&gt;4.総括&lt;br /&gt;</description>
-			<pubDate>Thu, 24 Jul 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/6tq9v5gm2i80x42dah0wd9v6xj4q/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
