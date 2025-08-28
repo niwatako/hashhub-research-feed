@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ETHドミナンス上昇は循環か構造変化か</title>
+			<link>https://hashhub-research.com/articles/2025-08-29-eth-dominance-trend-2025-8</link>
+			<guid isPermaLink="false">2025-08-29-eth-dominance-trend-2025-8</guid>
+			<description>BTC・ETH、現状の俯瞰&lt;br /&gt;①ドミナンスの推移（ETH.D／BTC.D）&lt;br /&gt;②ETF／機関投資家のフロー&lt;br /&gt;③供給サイド（取引所在庫・発行・ステーキング）&lt;br /&gt;④クジラ・企業トレジャリー・デリバティブの厚み&lt;br /&gt;総括：「市場シナリオは循環か、構造か」&lt;br /&gt;</description>
+			<pubDate>Fri, 29 Aug 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/snzy5c348139q71d1zj64qowwjoe/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Ripple USD（RLUSD）の概要｜ユースケース、発行体と裏付け資産、市場規模・流通量の推移などを整理</title>
 			<link>https://hashhub-research.com/articles/2025-08-28-ripple-usd-overview</link>
 			<guid isPermaLink="false">2025-08-28-ripple-usd-overview</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;プロジェクトの概要&lt;br /&gt;資金調達の内容&lt;br /&gt;Trendsの目指すものと懸念について&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Mon, 28 Jul 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ki43wb7d1bs11yioe4pqlxo59lwf/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>低成長、あるいは偽の成長の時代の投資思考</title>
-			<link>https://hashhub-research.com/articles/2025-07-25-invest-mind-in-low-grow-era</link>
-			<guid isPermaLink="false">2025-07-25-invest-mind-in-low-grow-era</guid>
-			<description>前提&lt;br /&gt;低成長、あるいは偽の成長の時代の投資思考&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 25 Jul 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1b8dv8ekl98nkzrgcqhrp86wb4vc/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
