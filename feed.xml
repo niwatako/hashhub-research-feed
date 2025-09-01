@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>連載：Ethereum L2の事業性と未来｜第1回｜L2の収益モデルと限界</title>
+			<link>https://hashhub-research.com/articles/2025-09-01-ethereum-l2-business-future-episode-1-revenue-model-limits</link>
+			<guid isPermaLink="false">2025-09-01-ethereum-l2-business-future-episode-1-revenue-model-limits</guid>
+			<description></description>
+			<pubDate>Mon, 01 Sep 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ihqeryxawdioz4cb7v8zmbmha664/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ETHドミナンス上昇は循環か構造変化か</title>
 			<link>https://hashhub-research.com/articles/2025-08-29-eth-dominance-trend-2025-8</link>
 			<guid isPermaLink="false">2025-08-29-eth-dominance-trend-2025-8</guid>
@@ -187,14 +195,6 @@
 			<description></description>
 			<pubDate>Tue, 29 Jul 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/893i6da5stbq6yjxaz2gzdyw0jf9/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Solanaブロックチェーン上で展開されるツイートのトークン化プロトコル「Trends」の概要と可能性、懸念などについて考察</title>
-			<link>https://hashhub-research.com/articles/2025-07-28-solana-trends-tweet-protocol</link>
-			<guid isPermaLink="false">2025-07-28-solana-trends-tweet-protocol</guid>
-			<description>前提&lt;br /&gt;プロジェクトの概要&lt;br /&gt;資金調達の内容&lt;br /&gt;Trendsの目指すものと懸念について&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Mon, 28 Jul 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ki43wb7d1bs11yioe4pqlxo59lwf/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
