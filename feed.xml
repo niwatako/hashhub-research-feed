@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>連載：Ethereum L2の事業性と未来｜第2回｜Shared Sequencerの理想と現実</title>
+			<link>https://hashhub-research.com/articles/2025-09-03-ethereum-l2-business-future-episode-2-l2-sequencer-business-models</link>
+			<guid isPermaLink="false">2025-09-03-ethereum-l2-business-future-episode-2-l2-sequencer-business-models</guid>
+			<description></description>
+			<pubDate>Wed, 03 Sep 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/6kqjzohbikfjguqfv4vweffef7xw/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>8月以降のBitcoinとゴールドの値動きから得られるインプリケーション</title>
 			<link>https://hashhub-research.com/articles/2025-09-02-implications-from-the-price-movements-of-bitcoin-and-gold</link>
 			<guid isPermaLink="false">2025-09-02-implications-from-the-price-movements-of-bitcoin-and-gold</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;株式・債券の60/40モデルが揺らぐ時代&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 31 Jul 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/prd52t6y79rj5zrqi0pthh1hgw9c/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>主要アルトコイン価格に影響する最大要因：アルトコイン・トレジャリーの現状と懸念リスクとは</title>
-			<link>https://hashhub-research.com/articles/2025-07-30-altcoin-treasury-overview</link>
-			<guid isPermaLink="false">2025-07-30-altcoin-treasury-overview</guid>
-			<description>はじめに&lt;br /&gt;マルチチェーンでのアルトコイン・トレジャリーがすすむ&lt;br /&gt;アルトコイン・トレジャリーの波及効果 - 市場構造、機会、そしてシステミックリスク&lt;br /&gt;規制の視点 - CLARITY法と将来の市場展望&lt;br /&gt;総括&lt;br /&gt;参考文献&lt;br /&gt;</description>
-			<pubDate>Wed, 30 Jul 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/31h420gzwwqizav89tnnmjwngbei/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
