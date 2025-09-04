@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Roninが開始した「Builder Revenue Share Program（ビルダー収益共有プログラム）」の概要と、日本企業向けWeb3施策について考察</title>
+			<link>https://hashhub-research.com/articles/2025-09-05-ronin-builder-revenue-share-program-japan</link>
+			<guid isPermaLink="false">2025-09-05-ronin-builder-revenue-share-program-japan</guid>
+			<description>前提（導入文）&lt;br /&gt;「Builder Revenue Share Program」の概要&lt;br /&gt;日本市場で効きそうな打ち手を考える&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Fri, 05 Sep 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/bdkvfjq1m02ndqmcmostjv80yrzr/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>連載：カードRWAで読み解く「新しい資産化のフロンティア」｜第1回：なぜ“カードRWA”が急拡大しているのか</title>
 			<link>https://hashhub-research.com/articles/2025-09-04-card-rwa-frontier-1</link>
 			<guid isPermaLink="false">2025-09-04-card-rwa-frontier-1</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;NFT周りの最近のアップデート情報まとめ【2025年7月】&lt;br /&gt;NFT市場定点観測【2025年7月】&lt;br /&gt;</description>
 			<pubDate>Mon, 04 Aug 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ohyfu46pchf4qw37ypnidekby0e7/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>「Base App」とFarcasterの「Collectibles」を比較し、クリエイターが日々収益を得るための異なるアプローチについて考える</title>
-			<link>https://hashhub-research.com/articles/2025-08-01-base-app-and-farcaster-collectibles</link>
-			<guid isPermaLink="false">2025-08-01-base-app-and-farcaster-collectibles</guid>
-			<description>前提&lt;br /&gt;Base Appの概要：プロダクト体験と収益モデル&lt;br /&gt;Farcaster Collectiblesの概要：機能と価値循環の仕組み&lt;br /&gt;クリエイター収益モデルのアプローチ比較&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 01 Aug 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/zbosua1lgph8pdir1oc1r2i26g8u/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
