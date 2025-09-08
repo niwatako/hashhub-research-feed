@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>米国株式トークン化市場、Ondo Global Marketsのビジネスモデルの構造・コンプライアンス体制を読み解く</title>
+			<link>https://hashhub-research.com/articles/2025-09-08-ondo-global-markets-overview</link>
+			<guid isPermaLink="false">2025-09-08-ondo-global-markets-overview</guid>
+			<description>はじめに&lt;br /&gt;Ondo Global Marketsの概要&lt;br /&gt;スマートコントラクトと技術的基盤&lt;br /&gt;コンプライアンス体制と投資家保護&lt;br /&gt;総括&lt;br /&gt;参考文献&lt;br /&gt;</description>
+			<pubDate>Mon, 08 Sep 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/k3dnclb3835wkzd9p1h88yg8x0d5/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>NASDAQが暗号資産を大量に保有する企業への監視強化。暗号資産マーケットへの影響について。</title>
 			<link>https://hashhub-research.com/articles/2025-09-05-nasdaq-annance-impact</link>
 			<guid isPermaLink="false">2025-09-05-nasdaq-annance-impact</guid>
@@ -187,14 +195,6 @@
 			<description>Kinetiqのコアメカニズム：kHYPEとStakeHub&lt;br /&gt;Kinetiqのプロダクトスイートと多層的なターゲットユーザー&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Wed, 06 Aug 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/nmvbbqxxpndvd4u1jeewoo6i0x7l/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>暗号資産/ブロックチェーン業界の資金調達トレンド分析 - 2025年7月レポート</title>
-			<link>https://hashhub-research.com/articles/2025-08-05-latest-funding-trends-in-crypto</link>
-			<guid isPermaLink="false">2025-08-05-latest-funding-trends-in-crypto</guid>
-			<description>1.2025年7月の資金調達件数と調達額の推移&lt;br /&gt;2.カテゴリー別の資金調達動向&lt;br /&gt;3.投資活動の活発な上位投資会社とその出資傾向&lt;br /&gt;総括：【2025年7月】資金調達トレンドのまとめ&lt;br /&gt;</description>
-			<pubDate>Tue, 05 Aug 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/hzzyqhs5vaq79g6c6qqpwql0py2g/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
