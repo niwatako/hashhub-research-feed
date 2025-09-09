@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>連載：カードRWAで読み解く「新しい資産化のフロンティア」｜第2回：トレカRWA✖️ガチャ事業「Collector Crypt」のビジネスモデルを徹底解剖する</title>
+			<link>https://hashhub-research.com/articles/2025-09-09-card-rwa-frontier-2</link>
+			<guid isPermaLink="false">2025-09-09-card-rwa-frontier-2</guid>
+			<description></description>
+			<pubDate>Tue, 09 Sep 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/74tdvbyn4zp61v61psgux4wqbfiv/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>米国株式トークン化市場、Ondo Global Marketsのビジネスモデルの構造・コンプライアンス体制を読み解く</title>
 			<link>https://hashhub-research.com/articles/2025-09-08-ondo-global-markets-overview</link>
 			<guid isPermaLink="false">2025-09-08-ondo-global-markets-overview</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;昨今のZORA全体の状況を概観&lt;br /&gt;$ZORAの暴騰について&lt;br /&gt;考察＆総括｜ZORAの軌跡から振り返るWeb3スタートアップの厳しさについて&lt;br /&gt;</description>
 			<pubDate>Thu, 07 Aug 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2g8uavf1g189v8b23fblt2znwwyj/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Kinetiqの概要｜Exchange-as-a-Service(EaaS)を標榜するHyperliquidリキッドステーキングプロトコル</title>
-			<link>https://hashhub-research.com/articles/2025-08-06-kinetiq-overview-eaas</link>
-			<guid isPermaLink="false">2025-08-06-kinetiq-overview-eaas</guid>
-			<description>Kinetiqのコアメカニズム：kHYPEとStakeHub&lt;br /&gt;Kinetiqのプロダクトスイートと多層的なターゲットユーザー&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Wed, 06 Aug 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/nmvbbqxxpndvd4u1jeewoo6i0x7l/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
