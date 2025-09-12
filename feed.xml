@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>「ブロックの戦争」8年目の総括 —— BCHの理想と現実を振り返る</title>
+			<link>https://hashhub-research.com/articles/2025-09-12-bch-ideals-vs-reality-8years</link>
+			<guid isPermaLink="false">2025-09-12-bch-ideals-vs-reality-8years</guid>
+			<description></description>
+			<pubDate>Fri, 12 Sep 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/vwexv5chv99ggmuvpn2bs0j4m7us/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>電子決済手段・暗号資産サービス仲介業の概要と暗号資産ビジネスへの影響等</title>
 			<link>https://hashhub-research.com/articles/2025-09-11-crypto-intermediary-regulation-business-impact</link>
 			<guid isPermaLink="false">2025-09-11-crypto-intermediary-regulation-business-impact</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Solsniperについて概観&lt;br /&gt;今回の買収の内容&lt;br /&gt;考察＆総括｜買収の戦略的意図とファットウォレット理論について&lt;br /&gt;</description>
 			<pubDate>Mon, 11 Aug 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ba0ox9fhswt254t37o0v5dbkj2x8/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>RWAエコシステムマーケットレポート【2025年8月】</title>
-			<link>https://hashhub-research.com/articles/2025-08-09-rwa-market-report-2025-8</link>
-			<guid isPermaLink="false">2025-08-09-rwa-market-report-2025-8</guid>
-			<description>Executive Summary&lt;br /&gt;RWAの市場動向【2025年8月】&lt;br /&gt;主要プレイヤーの動向&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Sat, 09 Aug 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/bu0ayhviugjdq6yjjqi9aetlz3es/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
