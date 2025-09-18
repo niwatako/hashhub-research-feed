@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ApeCoinのSolanaへの拡張の意義とその背景、トークンホルダーへの影響などについて</title>
+			<link>https://hashhub-research.com/articles/2025-09-19-apecoin-solana-expansion</link>
+			<guid isPermaLink="false">2025-09-19-apecoin-solana-expansion</guid>
+			<description>前提&lt;br /&gt;ApeCoinのSolana展開についての情報を整理&lt;br /&gt;過去にBaseからSolanaに拡張・移行した主要プロジェクト主要事例を概観&lt;br /&gt;Solanaに拡張する構造的理由とApeCoinがSolanaを選んだ背景&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Fri, 19 Sep 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/daeu184rtzla243jtb98wm18woz4/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Tetherの米国戦略を読み解く：「USAT」は“USDCを倒すため”ではないと考える理由</title>
 			<link>https://hashhub-research.com/articles/2025-09-18-tehter-usat</link>
 			<guid isPermaLink="false">2025-09-18-tehter-usat</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;概要&lt;br /&gt;資金調達の内容&lt;br /&gt;考察&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 14 Aug 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1htrw2p0cqy5oyr045gasv7ks838/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>へデラの歴史を辿る：ブロックチェーン時代の異端児は、なぜ大企業に選ばれたのか？</title>
-			<link>https://hashhub-research.com/articles/2025-08-13-hedera-history-blockchain-rebel-enterprise-choice</link>
-			<guid isPermaLink="false">2025-08-13-hedera-history-blockchain-rebel-enterprise-choice</guid>
-			<description></description>
-			<pubDate>Wed, 13 Aug 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8uk9oa9mghrsb8xilb0ho44k95a0/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
