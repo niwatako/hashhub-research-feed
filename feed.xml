@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Solanaの供給構造を読み解く：FTX残高とクジラ、企業・ETF/ETP保有、高ステーキング率</title>
+			<link>https://hashhub-research.com/articles/2025-09-24-solana-supply-structure</link>
+			<guid isPermaLink="false">2025-09-24-solana-supply-structure</guid>
+			<description></description>
+			<pubDate>Wed, 24 Sep 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/7c9qu0wari2plsmld4pojytuyey1/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ApeCoinのSolanaへの拡張の意義とその背景、トークンホルダーへの影響などについて</title>
 			<link>https://hashhub-research.com/articles/2025-09-19-apecoin-solana-expansion</link>
 			<guid isPermaLink="false">2025-09-19-apecoin-solana-expansion</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;概要&lt;br /&gt;資金調達の内容&lt;br /&gt;考察&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 14 Aug 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1htrw2p0cqy5oyr045gasv7ks838/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>へデラの歴史を辿る：ブロックチェーン時代の異端児は、なぜ大企業に選ばれたのか？</title>
-			<link>https://hashhub-research.com/articles/2025-08-13-hedera-history-blockchain-rebel-enterprise-choice</link>
-			<guid isPermaLink="false">2025-08-13-hedera-history-blockchain-rebel-enterprise-choice</guid>
-			<description></description>
-			<pubDate>Wed, 13 Aug 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8uk9oa9mghrsb8xilb0ho44k95a0/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
