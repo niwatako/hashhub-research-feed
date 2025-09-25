@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Ethereum Foundationが創設した新AIチーム「dAI Team」の概要と、彼らが描く基盤戦略とネットワーク効果を考える</title>
+			<link>https://hashhub-research.com/articles/2025-09-25-ethereum-foundation-dai-team-ai-infra-network-effects</link>
+			<guid isPermaLink="false">2025-09-25-ethereum-foundation-dai-team-ai-infra-network-effects</guid>
+			<description>前提&lt;br /&gt;dAI Team創設の背景と目的&lt;br /&gt;主要な技術的進展&lt;br /&gt;考察｜基盤に賭けるという戦略&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Thu, 25 Sep 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/09irz0roib9u37xzu7nsfwjsl22i/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Solanaの供給構造を読み解く：FTX残高とクジラ、企業・ETF/ETP保有、高ステーキング率</title>
 			<link>https://hashhub-research.com/articles/2025-09-24-solana-supply-structure</link>
 			<guid isPermaLink="false">2025-09-24-solana-supply-structure</guid>
@@ -187,14 +195,6 @@
 			<description></description>
 			<pubDate>Fri, 15 Aug 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/b8xu6k1ci6duhksl13m5c4lavz0n/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Google出資で急成長するAptos採用のeスポーツNFTプラットフォーム「STAN」について</title>
-			<link>https://hashhub-research.com/articles/2025-08-14-aptos-esports-nft-stan-google-investment</link>
-			<guid isPermaLink="false">2025-08-14-aptos-esports-nft-stan-google-investment</guid>
-			<description>前提&lt;br /&gt;概要&lt;br /&gt;資金調達の内容&lt;br /&gt;考察&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 14 Aug 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1htrw2p0cqy5oyr045gasv7ks838/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
