@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>BNB 価格動向とトークノミクス #1</title>
+			<link>https://hashhub-research.com/articles/2025-09-27-bnb-2025-q1-q2-no1</link>
+			<guid isPermaLink="false">2025-09-27-bnb-2025-q1-q2-no1</guid>
+			<description>ユーティリティ&lt;br /&gt;四半期ごとのBNBバーンと市場の反応、リアルタイムバーンの規模&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Sat, 27 Sep 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/w9r1z9k1qsauqlqgh4lf0ufd36br/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>トレジャリー企業が模索するビットコインインカム事業について論考</title>
 			<link>https://hashhub-research.com/articles/2025-09-25-bitcoin-operations-at-treasury-companies</link>
 			<guid isPermaLink="false">2025-09-25-bitcoin-operations-at-treasury-companies</guid>
@@ -187,14 +195,6 @@
 			<description>JPYCをはじめとした資金移動業者のステーブルコイン承認における所感&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Wed, 20 Aug 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/agdtc8iba24cdx3dx4xzohgktij9/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>EIP-7702の二つの顔──“賢いウォレット”という希望と、詐欺師が狙う“盲点”の物語</title>
-			<link>https://hashhub-research.com/articles/2025-08-19-ethereum-smart-wallet-blindspot</link>
-			<guid isPermaLink="false">2025-08-19-ethereum-smart-wallet-blindspot</guid>
-			<description></description>
-			<pubDate>Tue, 19 Aug 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/a12ucbatodatg4e0y48w5bpe4euz/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
