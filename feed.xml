@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>BNB 価格動向とトークノミクス #2</title>
+			<link>https://hashhub-research.com/articles/2025-10-02-bnb-2025-q1-q2-no2</link>
+			<guid isPermaLink="false">2025-10-02-bnb-2025-q1-q2-no2</guid>
+			<description>機関投資家による需要の増加&lt;br /&gt;マクロ動向&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Thu, 02 Oct 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/qc1psipxhwonf37nmdj3g4wf8f4x/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>米予測プラットフォームKalshiの概要やSolana・Baseとの連携、Polymarketとの競争・展望について考察</title>
 			<link>https://hashhub-research.com/articles/2025-10-01-kalshi-solana-base-polymarket-overview-competition</link>
 			<guid isPermaLink="false">2025-10-01-kalshi-solana-base-polymarket-overview-competition</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;ERC-8004の概要&lt;br /&gt;AIやNFTとの接点&lt;br /&gt;既存の事例やユースケース&lt;br /&gt;考察＆総括&lt;br /&gt;</description>
 			<pubDate>Wed, 27 Aug 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/5pvybc9k7os2vt2t25nzzt6fb7yc/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>なぜステーブルコイン発行事業体はレイヤー1ブロックチェーンを開発するのか？｜Tron収益の実態オンチェーン検証、USDTが大部分を占める背景とは</title>
-			<link>https://hashhub-research.com/articles/2025-08-25-why-stablecoin-issuers-build-l1</link>
-			<guid isPermaLink="false">2025-08-25-why-stablecoin-issuers-build-l1</guid>
-			<description>Tron収益の仕組み&lt;br /&gt;経済的帰結：発行体にとってのインセンティブ&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Mon, 25 Aug 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/bxi0jub9vbh8yfreh3ykynvlbvi5/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
