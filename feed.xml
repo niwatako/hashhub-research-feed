@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>DAT戦略を掲げた45社を検証：株価が伸び悩む理由</title>
+			<link>https://hashhub-research.com/articles/2025-10-03-dat-45-companies-stock-performance</link>
+			<guid isPermaLink="false">2025-10-03-dat-45-companies-stock-performance</guid>
+			<description></description>
+			<pubDate>Fri, 03 Oct 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/2dzpj19ymbswthb51no21p6yan8m/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>BNB 価格動向とトークノミクス #2</title>
 			<link>https://hashhub-research.com/articles/2025-10-02-bnb-2025-q1-q2-no2</link>
 			<guid isPermaLink="false">2025-10-02-bnb-2025-q1-q2-no2</guid>
@@ -187,14 +195,6 @@
 			<description>Executive Summary&lt;br /&gt;RLUSDの概要&lt;br /&gt;裏付け資産と発行体&lt;br /&gt;市場規模・流通量の推移&lt;br /&gt;ブロックチェーン別の流通とユーザープロファイル&lt;br /&gt;国内でのRLUSDの流通可能性について&lt;br /&gt;リスク要因&lt;br /&gt;総括&lt;br /&gt;参考文献&lt;br /&gt;</description>
 			<pubDate>Thu, 28 Aug 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/y9ulc3xecd95107fcirg23ch6j3f/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>AIエージェントのコラボレーションを可能にするEthereumの新提案「ERC-8004」の概要とトラストレス・エージェントの可能性について</title>
-			<link>https://hashhub-research.com/articles/2025-08-27-ethereum-erc8004-trustless-agents</link>
-			<guid isPermaLink="false">2025-08-27-ethereum-erc8004-trustless-agents</guid>
-			<description>前提&lt;br /&gt;ERC-8004の概要&lt;br /&gt;AIやNFTとの接点&lt;br /&gt;既存の事例やユースケース&lt;br /&gt;考察＆総括&lt;br /&gt;</description>
-			<pubDate>Wed, 27 Aug 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/5pvybc9k7os2vt2t25nzzt6fb7yc/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
