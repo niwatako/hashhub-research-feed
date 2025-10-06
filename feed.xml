@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ステーブルコインのホワイトラベルビジネス（Stablecoin as a Service）、PaxosとEthenaの比較</title>
+			<link>https://hashhub-research.com/articles/2025-10-06-stablecoin-whitelabel</link>
+			<guid isPermaLink="false">2025-10-06-stablecoin-whitelabel</guid>
+			<description>ホワイトラベル型ステーブルコインとは&lt;br /&gt;Paxosのホワイトラベル型ステーブルコイン・ビジネスモデル&lt;br /&gt;Ethenaのホワイトラベル型ステーブルコイン・ビジネスモデル&lt;br /&gt;ホワイトラベル型ステーブルコインの実装比較&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Mon, 06 Oct 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/zihmiv0qsc3792w83kyxysqfb1ny/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>DAT戦略を掲げた45社を簡易調査：株価が伸び悩む理由</title>
 			<link>https://hashhub-research.com/articles/2025-10-03-dat-45-companies-stock-performance</link>
 			<guid isPermaLink="false">2025-10-03-dat-45-companies-stock-performance</guid>
@@ -187,14 +195,6 @@
 			<description>BTC・ETH、現状の俯瞰&lt;br /&gt;①ドミナンスの推移（ETH.D／BTC.D）&lt;br /&gt;②ETF／機関投資家のフロー&lt;br /&gt;③供給サイド（取引所在庫・発行・ステーキング）&lt;br /&gt;④クジラ・企業トレジャリー・デリバティブの厚み&lt;br /&gt;総括：「市場シナリオは循環か、構造か」&lt;br /&gt;</description>
 			<pubDate>Fri, 29 Aug 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/snzy5c348139q71d1zj64qowwjoe/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Ripple USD（RLUSD）の概要｜ユースケース、発行体と裏付け資産、市場規模・流通量の推移などを整理</title>
-			<link>https://hashhub-research.com/articles/2025-08-28-ripple-usd-overview</link>
-			<guid isPermaLink="false">2025-08-28-ripple-usd-overview</guid>
-			<description>Executive Summary&lt;br /&gt;RLUSDの概要&lt;br /&gt;裏付け資産と発行体&lt;br /&gt;市場規模・流通量の推移&lt;br /&gt;ブロックチェーン別の流通とユーザープロファイル&lt;br /&gt;国内でのRLUSDの流通可能性について&lt;br /&gt;リスク要因&lt;br /&gt;総括&lt;br /&gt;参考文献&lt;br /&gt;</description>
-			<pubDate>Thu, 28 Aug 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/y9ulc3xecd95107fcirg23ch6j3f/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
