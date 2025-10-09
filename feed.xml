@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>連載：カードRWAで読み解く「新しい資産化のフロンティア」｜第3回：「Collector Crypt」のビジネスモデルにおける課題とそれを踏まえての展望考察</title>
+			<link>https://hashhub-research.com/articles/2025-10-09-card-rwa-frontier-3</link>
+			<guid isPermaLink="false">2025-10-09-card-rwa-frontier-3</guid>
+			<description>成長を制約する現物カード調達のジレンマ&lt;br /&gt;ガチャモデルの持続可能性と熱狂依存&lt;br /&gt;裏付け資産の信頼性とカストディリスク&lt;br /&gt;RWAビジネス全体へのインサイトと今後の展望&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Thu, 09 Oct 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/e1i6766cktfs1lqb5t489h92ezbv/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>NFT周りの最近のアップデート情報まとめ 25年9月</title>
 			<link>https://hashhub-research.com/articles/2025-10-08-summary-of-recent-updates-around-nft</link>
 			<guid isPermaLink="false">2025-10-08-summary-of-recent-updates-around-nft</guid>
@@ -187,14 +195,6 @@
 			<description></description>
 			<pubDate>Wed, 03 Sep 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/6kqjzohbikfjguqfv4vweffef7xw/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>8月以降のBitcoinとゴールドの値動きから得られるインプリケーション</title>
-			<link>https://hashhub-research.com/articles/2025-09-02-implications-from-the-price-movements-of-bitcoin-and-gold</link>
-			<guid isPermaLink="false">2025-09-02-implications-from-the-price-movements-of-bitcoin-and-gold</guid>
-			<description>前提&lt;br /&gt;8月以降のBitcoinとゴールドの値動きから得られるインプリケーション&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Tue, 02 Sep 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0q1z17aed37exevaha4xwplc7l19/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
