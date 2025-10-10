@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>【10分でわかる】Cardano（ADA）の今とこれから</title>
+			<link>https://hashhub-research.com/articles/2025-10-10-cardano-ada-now-future</link>
+			<guid isPermaLink="false">2025-10-10-cardano-ada-now-future</guid>
+			<description></description>
+			<pubDate>Fri, 10 Oct 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/j8l9dif30h457dv0uhxk710i4749/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>連載：カードRWAで読み解く「新しい資産化のフロンティア」｜第3回：「Collector Crypt」のビジネスモデルにおける課題とそれを踏まえての展望考察</title>
 			<link>https://hashhub-research.com/articles/2025-10-09-card-rwa-frontier-3</link>
 			<guid isPermaLink="false">2025-10-09-card-rwa-frontier-3</guid>
@@ -187,14 +195,6 @@
 			<description></description>
 			<pubDate>Thu, 04 Sep 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ekqfxklbhtn4mag4v4tw35catw9d/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>連載：Ethereum L2の事業性と未来｜第2回｜Shared Sequencerの理想と現実</title>
-			<link>https://hashhub-research.com/articles/2025-09-03-ethereum-l2-business-future-episode-2-l2-sequencer-business-models</link>
-			<guid isPermaLink="false">2025-09-03-ethereum-l2-business-future-episode-2-l2-sequencer-business-models</guid>
-			<description></description>
-			<pubDate>Wed, 03 Sep 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/6kqjzohbikfjguqfv4vweffef7xw/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
