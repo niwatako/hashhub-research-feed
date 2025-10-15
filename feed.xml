@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Figureの米国IPOの意義と成長構造：RWA金融インフラ実装の現実解</title>
+			<link>https://hashhub-research.com/articles/2025-10-16-figure-ipo-business-model-in-rwa</link>
+			<guid isPermaLink="false">2025-10-16-figure-ipo-business-model-in-rwa</guid>
+			<description>S-1（2025年8月）のサマリー&lt;br /&gt;Figure社のビジネスモデル概要&lt;br /&gt;</description>
+			<pubDate>Thu, 16 Oct 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/170al0gxsv8vl51xbs6nqokw6slw/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>安全資産としてゴールドの方がビットコインより優位性がある理由を、BIS規制や担保価値の観点から理解する</title>
 			<link>https://hashhub-research.com/articles/2025-10-15-why-gold-is-better-safe-asset</link>
 			<guid isPermaLink="false">2025-10-15-why-gold-is-better-safe-asset</guid>
@@ -187,14 +195,6 @@
 			<description>はじめに&lt;br /&gt;Ondo Global Marketsの概要&lt;br /&gt;スマートコントラクトと技術的基盤&lt;br /&gt;コンプライアンス体制と投資家保護&lt;br /&gt;総括&lt;br /&gt;参考文献&lt;br /&gt;</description>
 			<pubDate>Mon, 08 Sep 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/k3dnclb3835wkzd9p1h88yg8x0d5/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>NASDAQが暗号資産を大量に保有する企業への監視強化。暗号資産マーケットへの影響について。</title>
-			<link>https://hashhub-research.com/articles/2025-09-05-nasdaq-annance-impact</link>
-			<guid isPermaLink="false">2025-09-05-nasdaq-annance-impact</guid>
-			<description>前提&lt;br /&gt;NASDAQ取引所による、暗号資産を大量に保有する企業への監視を強化の影響について&lt;br /&gt;暗号資産マーケットへの需要減退インパクト&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 05 Sep 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/7igh097vm3vzmks93ij40wffl744/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
