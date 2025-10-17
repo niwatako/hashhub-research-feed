@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ケーススタディで読み解くDAT戦略「経営破綻寸前からのDAT転換―HyperionDeFiのケース前編」</title>
+			<link>https://hashhub-research.com/articles/2025-10-17-case-study-dat-hyperiondefi-part1</link>
+			<guid isPermaLink="false">2025-10-17-case-study-dat-hyperiondefi-part1</guid>
+			<description></description>
+			<pubDate>Fri, 17 Oct 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/orxzqqod3a3gx9jx9307rl9uw4mk/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Figureの米国IPOの意義と成長構造：RWA金融インフラ実装の現実解</title>
 			<link>https://hashhub-research.com/articles/2025-10-16-figure-ipo-business-model-in-rwa</link>
 			<guid isPermaLink="false">2025-10-16-figure-ipo-business-model-in-rwa</guid>
@@ -187,14 +195,6 @@
 			<description></description>
 			<pubDate>Tue, 09 Sep 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/74tdvbyn4zp61v61psgux4wqbfiv/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>米国株式トークン化市場、Ondo Global Marketsのビジネスモデルの構造・コンプライアンス体制を読み解く</title>
-			<link>https://hashhub-research.com/articles/2025-09-08-ondo-global-markets-overview</link>
-			<guid isPermaLink="false">2025-09-08-ondo-global-markets-overview</guid>
-			<description>はじめに&lt;br /&gt;Ondo Global Marketsの概要&lt;br /&gt;スマートコントラクトと技術的基盤&lt;br /&gt;コンプライアンス体制と投資家保護&lt;br /&gt;総括&lt;br /&gt;参考文献&lt;br /&gt;</description>
-			<pubDate>Mon, 08 Sep 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/k3dnclb3835wkzd9p1h88yg8x0d5/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
