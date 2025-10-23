@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Ethereumの未来スケーリング：GKRプロトコルが拓く新たな地平</title>
+			<link>https://hashhub-research.com/articles/2025-10-23-ethereum-outlook-gkr-scaling-impact</link>
+			<guid isPermaLink="false">2025-10-23-ethereum-outlook-gkr-scaling-impact</guid>
+			<description>前提&lt;br /&gt;GKRプロトコルとは何か&lt;br /&gt;他のスケーリング技術との比較&lt;br /&gt;Ethereumへの応用と影響&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Thu, 23 Oct 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/yklj9pp44ngvl5rjh0795rv2xqzs/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Visa戦略考察：ステーブルコインによるオンチェーン信用レイヤーの主導権とDeFiの制度接続</title>
 			<link>https://hashhub-research.com/articles/2025-10-22-visa-onchain-finance-stablecoins-oppotunity</link>
 			<guid isPermaLink="false">2025-10-22-visa-onchain-finance-stablecoins-oppotunity</guid>
@@ -187,14 +195,6 @@
 			<description></description>
 			<pubDate>Tue, 16 Sep 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0naqkd55yam25f6utd2cjxlycq3i/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>電子決済手段・暗号資産サービス仲介業の概要と暗号資産ビジネスへの影響等</title>
-			<link>https://hashhub-research.com/articles/2025-09-11-crypto-intermediary-regulation-business-impact</link>
-			<guid isPermaLink="false">2025-09-11-crypto-intermediary-regulation-business-impact</guid>
-			<description></description>
-			<pubDate>Thu, 11 Sep 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/uer8oxipvmn935kd5iklv1qdalib/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
