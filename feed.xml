@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Ethereumアップグレード Fusakaの全体像：PeerDASのスケーラビリティと新たなUX</title>
+			<link>https://hashhub-research.com/articles/2025-10-30-ethereum-fusaka-overview</link>
+			<guid isPermaLink="false">2025-10-30-ethereum-fusaka-overview</guid>
+			<description>Fusaka アップグレードの概要&lt;br /&gt;主要EIPの詳細&lt;br /&gt;スケジュール&lt;br /&gt;投資家への影響&lt;br /&gt;開発者への影響&lt;br /&gt;総括&lt;br /&gt;参考文献&lt;br /&gt;</description>
+			<pubDate>Thu, 30 Oct 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/kh7cnpfldovmd7v6cvud9cec1rl4/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Zcash特集：10分で理解する最新トレンド【2025年10月版】</title>
 			<link>https://hashhub-research.com/articles/2025-10-29-trending-crypto-assets</link>
 			<guid isPermaLink="false">2025-10-29-trending-crypto-assets</guid>
@@ -187,14 +195,6 @@
 			<description></description>
 			<pubDate>Wed, 24 Sep 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/7c9qu0wari2plsmld4pojytuyey1/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ApeCoinのSolanaへの拡張の意義とその背景、トークンホルダーへの影響などについて</title>
-			<link>https://hashhub-research.com/articles/2025-09-19-apecoin-solana-expansion</link>
-			<guid isPermaLink="false">2025-09-19-apecoin-solana-expansion</guid>
-			<description>前提&lt;br /&gt;ApeCoinのSolana展開についての情報を整理&lt;br /&gt;過去にBaseからSolanaに拡張・移行した主要プロジェクト主要事例を概観&lt;br /&gt;Solanaに拡張する構造的理由とApeCoinがSolanaを選んだ背景&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 19 Sep 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/daeu184rtzla243jtb98wm18woz4/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
