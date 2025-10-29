@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Zcash特集：10分で理解する最新トレンド【2025年10月版】</title>
+			<link>https://hashhub-research.com/articles/2025-10-29-trending-crypto-assets</link>
+			<guid isPermaLink="false">2025-10-29-trending-crypto-assets</guid>
+			<description></description>
+			<pubDate>Wed, 29 Oct 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8n5d63r23f4c93lpj0rgehv5qwod/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>CoinbaseがEchoとUpOnlyに4億ドル投資｜ICO2.0とRWA戦略の全体像を考える</title>
 			<link>https://hashhub-research.com/articles/2025-10-28-coinbase-echo-acquisition</link>
 			<guid isPermaLink="false">2025-10-28-coinbase-echo-acquisition</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;ApeCoinのSolana展開についての情報を整理&lt;br /&gt;過去にBaseからSolanaに拡張・移行した主要プロジェクト主要事例を概観&lt;br /&gt;Solanaに拡張する構造的理由とApeCoinがSolanaを選んだ背景&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Fri, 19 Sep 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/daeu184rtzla243jtb98wm18woz4/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Tetherの米国戦略を読み解く：「USAT」は“USDCを倒すため”ではないと考える理由</title>
-			<link>https://hashhub-research.com/articles/2025-09-18-tehter-usat</link>
-			<guid isPermaLink="false">2025-09-18-tehter-usat</guid>
-			<description>概要&lt;br /&gt;Tetherの米国戦略を読み解く&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 18 Sep 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/uhhoqstbi6i2qgv7zkiduo9lar9z/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
