@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ステーブルコイン・決済特化型レイヤー1ブロックチェーンTempoの狙い：決済大手StripeとクリプトVC Paradigmの共同プロジェクト</title>
+			<link>https://hashhub-research.com/articles/2025-10-31-tempo-overview-with-stripe-and-paradigm</link>
+			<guid isPermaLink="false">2025-10-31-tempo-overview-with-stripe-and-paradigm</guid>
+			<description>Tempoの技術概要と設計思想&lt;br /&gt;StripeおよびParadigmがTempoを立ち上げた狙いと役割&lt;br /&gt;Tempoのユースケースと連携企業&lt;br /&gt;ブロックチェーン基盤としてのTempoの競合優位性（他のレイヤー1との比較）&lt;br /&gt;投資家構成と出資の戦略的背景と今後の展望&lt;br /&gt;総括&lt;br /&gt;参考文献&lt;br /&gt;</description>
+			<pubDate>Fri, 31 Oct 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/jlmssv6eet8ax10933gahq4hz5ws/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Ethereumアップグレード Fusakaの全体像：PeerDASのスケーラビリティと新たなUX</title>
 			<link>https://hashhub-research.com/articles/2025-10-30-ethereum-fusaka-overview</link>
 			<guid isPermaLink="false">2025-10-30-ethereum-fusaka-overview</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;dAI Team創設の背景と目的&lt;br /&gt;主要な技術的進展&lt;br /&gt;考察｜基盤に賭けるという戦略&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 25 Sep 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/09irz0roib9u37xzu7nsfwjsl22i/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Solanaの供給構造を読み解く：FTX残高とクジラ、企業・ETF/ETP保有、高ステーキング率</title>
-			<link>https://hashhub-research.com/articles/2025-09-24-solana-supply-structure</link>
-			<guid isPermaLink="false">2025-09-24-solana-supply-structure</guid>
-			<description></description>
-			<pubDate>Wed, 24 Sep 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/7c9qu0wari2plsmld4pojytuyey1/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
