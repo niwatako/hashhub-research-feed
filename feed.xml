@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ビットコイン（BTC）、過去1週間でTradFi主要指数を凌駕 – 金に対する優位性が復活か</title>
+			<link>https://hashhub-research.com/articles/2025-11-01-btc-weekly-outperformance-tradfi</link>
+			<guid isPermaLink="false">2025-11-01-btc-weekly-outperformance-tradfi</guid>
+			<description>前提&lt;br /&gt;全体像を整理&lt;br /&gt;考えられる要因&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Sat, 01 Nov 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/4a0dkpq0ak1zrcdhslqfgnbdhnht/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ステーブルコイン・決済特化型レイヤー1ブロックチェーンTempoの狙い：決済大手StripeとクリプトVC Paradigmの共同プロジェクト</title>
 			<link>https://hashhub-research.com/articles/2025-10-31-tempo-overview-with-stripe-and-paradigm</link>
 			<guid isPermaLink="false">2025-10-31-tempo-overview-with-stripe-and-paradigm</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;</description>
 			<pubDate>Thu, 25 Sep 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0bm3zmmu4vdh2gms6e40iyubzu3w/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Ethereum Foundationが創設した新AIチーム「dAI Team」の概要と、彼らが描く基盤戦略とネットワーク効果を考える</title>
-			<link>https://hashhub-research.com/articles/2025-09-25-ethereum-foundation-dai-team-ai-infra-network-effects</link>
-			<guid isPermaLink="false">2025-09-25-ethereum-foundation-dai-team-ai-infra-network-effects</guid>
-			<description>前提&lt;br /&gt;dAI Team創設の背景と目的&lt;br /&gt;主要な技術的進展&lt;br /&gt;考察｜基盤に賭けるという戦略&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 25 Sep 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/09irz0roib9u37xzu7nsfwjsl22i/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
