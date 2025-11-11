@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>x402プロトコルの現状、AIエージェント時代のweb3ウォレットの再定義：ウォレット市場動向【25年11月】</title>
+			<link>https://hashhub-research.com/articles/2025-11-11-x402-overview</link>
+			<guid isPermaLink="false">2025-11-11-x402-overview</guid>
+			<description>web3ウォレットはAIエージェントの時代において再定義される可能性があると考える理由&lt;br /&gt;x402プロトコル・エコシステムの市場動向&lt;br /&gt;ウォレット事業者・開発者はいかにモート（参入障壁）を築くか&lt;br /&gt;x402 サーバー ユースケースの例&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Tue, 11 Nov 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/x4v206lzuuw5najutzr6mnten1g4/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>トークン化金融 週次レポート｜2025年11月第1週｜ステーブルコインが金融インフラの共通レイヤーに定着し始めた局面</title>
 			<link>https://hashhub-research.com/articles/2025-11-10-tokenized-finance-weekly</link>
 			<guid isPermaLink="false">2025-11-10-tokenized-finance-weekly</guid>
@@ -187,14 +195,6 @@
 			<description>ホワイトラベル型ステーブルコインとは&lt;br /&gt;Paxosのホワイトラベル型ステーブルコイン・ビジネスモデル&lt;br /&gt;Ethenaのホワイトラベル型ステーブルコイン・ビジネスモデル&lt;br /&gt;ホワイトラベル型ステーブルコインの実装比較&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Mon, 06 Oct 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/zihmiv0qsc3792w83kyxysqfb1ny/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>DAT戦略を掲げた45社を簡易調査：株価が伸び悩む理由</title>
-			<link>https://hashhub-research.com/articles/2025-10-03-dat-45-companies-stock-performance</link>
-			<guid isPermaLink="false">2025-10-03-dat-45-companies-stock-performance</guid>
-			<description></description>
-			<pubDate>Fri, 03 Oct 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/0egy80ioi32i84j6mdlh4snrzz7w/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
