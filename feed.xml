@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ポルカドット/Polkadotは何に敗れたのか──“固定費モデル”が生んだ限界と再起の構図</title>
+			<link>https://hashhub-research.com/articles/2025-11-13-polkadot-structural-reset</link>
+			<guid isPermaLink="false">2025-11-13-polkadot-structural-reset</guid>
+			<description>【論点①】なぜPolkadotは存在感を失ったのか？要因は競合か、構造要因か&lt;br /&gt;【論点②】衰退要因に対して、今何をしているのか？つまり、復帰する兆しはあるのか？&lt;br /&gt;総括：Polkadotは「撤退」ではなく「構造的リセット」フェーズにある&lt;br /&gt;</description>
+			<pubDate>Thu, 13 Nov 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1uhb1lbc3tbpjjxrn5uiw7o7fek7/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>連載：予測市場の国内事業化を考える｜第1回：予測市場プラットフォームの現在地と到達点</title>
 			<link>https://hashhub-research.com/articles/2025-11-12-prediction-markets-japan-domestic-business-01</link>
 			<guid isPermaLink="false">2025-11-12-prediction-markets-japan-domestic-business-01</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;NFT市場定点観測【2025年9月】&lt;br /&gt;月刊NFTユースケース【2025年9月】&lt;br /&gt;NFT周りの最近のアップデート情報まとめ【2025年9月】&lt;br /&gt;</description>
 			<pubDate>Wed, 08 Oct 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1ik97ljwjjjs4syjz703iye4ib4y/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Mirrorの閉鎖とParagraphとの統合について整理しつつ、クリプト関連企業やVCがニュースレター発信をやる意義を考える</title>
-			<link>https://hashhub-research.com/articles/2025-10-07-web3-newsletter-strategy-mirror-paragraph</link>
-			<guid isPermaLink="false">2025-10-07-web3-newsletter-strategy-mirror-paragraph</guid>
-			<description>前提&lt;br /&gt;Mirrorの閉鎖とParagraphとの統合について整理&lt;br /&gt;過去のParagraphによるMirrorの買収について整理&lt;br /&gt;コラム｜クリプト関連企業やVCがニュースレター発信をやる意義とは&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Tue, 07 Oct 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/idl82rno9k8719qiqleaqfsjgmjz/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
