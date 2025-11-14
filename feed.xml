@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Solana上のDeFiプロトコル「ORE」の台頭と展望｜Solana市場動向から見えるゲーム化トークノミクスの実像</title>
+			<link>https://hashhub-research.com/articles/2025-11-15-solana-ore-gamified-tokenomics-trends</link>
+			<guid isPermaLink="false">2025-11-15-solana-ore-gamified-tokenomics-trends</guid>
+			<description>前提&lt;br /&gt;SolanaのDeFiエコシステム概観&lt;br /&gt;DeFi領域で際立つ「ORE」の存在感&lt;br /&gt;OREの概要と仕組み&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Sat, 15 Nov 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/y0l00ou2x6k8jo1jw328icfybcg3/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>論考：ビットコインは無国籍アセットであるが、米国の色が強い資産である</title>
 			<link>https://hashhub-research.com/articles/2025-11-14-bitcoin-us-shadow</link>
 			<guid isPermaLink="false">2025-11-14-bitcoin-us-shadow</guid>
@@ -187,14 +195,6 @@
 			<description>Cardano（ADA）とは ― 学術主導の「第三世代」ブロックチェーン&lt;br /&gt;直近の価格動向と見通し&lt;br /&gt;投資家から見た今の姿&lt;br /&gt;今後の展望と課題&lt;br /&gt;統括 ― 投資判断のための注目指標&lt;br /&gt;</description>
 			<pubDate>Fri, 10 Oct 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/wz94kdmjls04zqdhq2neha4wgs65/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>連載：カードRWAで読み解く「新しい資産化のフロンティア」｜第3回：「Collector Crypt」のビジネスモデルにおける課題とそれを踏まえての展望考察</title>
-			<link>https://hashhub-research.com/articles/2025-10-09-card-rwa-frontier-3</link>
-			<guid isPermaLink="false">2025-10-09-card-rwa-frontier-3</guid>
-			<description>成長を制約する現物カード調達のジレンマ&lt;br /&gt;ガチャモデルの持続可能性と熱狂依存&lt;br /&gt;裏付け資産の信頼性とカストディリスク&lt;br /&gt;RWAビジネス全体へのインサイトと今後の展望&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 09 Oct 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/e1i6766cktfs1lqb5t489h92ezbv/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
