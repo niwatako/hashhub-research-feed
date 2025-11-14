@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>論考：ビットコインは無国籍アセットであるが、米国の色が強い資産である</title>
+			<link>https://hashhub-research.com/articles/2025-11-14-bitcoin-us-shadow</link>
+			<guid isPermaLink="false">2025-11-14-bitcoin-us-shadow</guid>
+			<description>前提&lt;br /&gt;複数観点で見る近年強化された米国の影響力&lt;br /&gt;非西側の諸国のビットコインへの態度&lt;br /&gt;結論&lt;br /&gt;</description>
+			<pubDate>Fri, 14 Nov 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/wowq1ut42ep63c8b9ru2h4fgoo1o/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ポルカドット/Polkadotは何に敗れたのか──“固定費モデル”が生んだ限界と再起の構図</title>
 			<link>https://hashhub-research.com/articles/2025-11-13-polkadot-structural-reset</link>
 			<guid isPermaLink="false">2025-11-13-polkadot-structural-reset</guid>
@@ -187,14 +195,6 @@
 			<description>成長を制約する現物カード調達のジレンマ&lt;br /&gt;ガチャモデルの持続可能性と熱狂依存&lt;br /&gt;裏付け資産の信頼性とカストディリスク&lt;br /&gt;RWAビジネス全体へのインサイトと今後の展望&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 09 Oct 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/e1i6766cktfs1lqb5t489h92ezbv/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>NFT周りの最近のアップデート情報まとめ 25年9月</title>
-			<link>https://hashhub-research.com/articles/2025-10-08-summary-of-recent-updates-around-nft</link>
-			<guid isPermaLink="false">2025-10-08-summary-of-recent-updates-around-nft</guid>
-			<description>前提&lt;br /&gt;NFT市場定点観測【2025年9月】&lt;br /&gt;月刊NFTユースケース【2025年9月】&lt;br /&gt;NFT周りの最近のアップデート情報まとめ【2025年9月】&lt;br /&gt;</description>
-			<pubDate>Wed, 08 Oct 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1ik97ljwjjjs4syjz703iye4ib4y/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
