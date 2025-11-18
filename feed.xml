@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Circle 2025年Q3決算分析：オンチェーン金融・ステーブルコインの筆頭</title>
+			<link>https://hashhub-research.com/articles/2025-11-18-analysis-circle-2025q3</link>
+			<guid isPermaLink="false">2025-11-18-analysis-circle-2025q3</guid>
+			<description>業績ハイライトとビジネスモデル概要&lt;br /&gt;収益性とコスト構造&lt;br /&gt;USDC準備金利息収入への依存と持続可能性&lt;br /&gt;取引・サブスクリプション収入の役割と収益多様化戦略&lt;br /&gt;Arc、StableFX、CPN、USYCなどの新規取り組みの意義、リスクは&lt;br /&gt;主なリスク要因と今後の展望&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Tue, 18 Nov 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1nird36jlh14qeviow7qq9vc8mx7/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>トークン化金融 週次レポート｜2025年11月第2週｜「クリプトをどのレイヤーに位置づけ、どう扱うか」</title>
 			<link>https://hashhub-research.com/articles/2025-11-17-tokenized-finance-weekly</link>
 			<guid isPermaLink="false">2025-11-17-tokenized-finance-weekly</guid>
@@ -187,14 +195,6 @@
 			<description>S-1（2025年8月）のサマリー&lt;br /&gt;Figure社のビジネスモデル概要&lt;br /&gt;</description>
 			<pubDate>Thu, 16 Oct 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/170al0gxsv8vl51xbs6nqokw6slw/746aea11acfa474fec71d809184368fc957b750c73be969454eef171d400c658" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>安全資産としてゴールドの方がビットコインより優位性がある理由を、BIS規制や担保価値の観点から理解する</title>
-			<link>https://hashhub-research.com/articles/2025-10-15-why-gold-is-better-safe-asset</link>
-			<guid isPermaLink="false">2025-10-15-why-gold-is-better-safe-asset</guid>
-			<description>前提&lt;br /&gt;安全資産としてゴールドの方がビットコインより優位性がある理由を、BIS規制や担保価値の観点から理解する&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Wed, 15 Oct 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/1szrltuwlzbzqgjhoju4yy435tb5/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
