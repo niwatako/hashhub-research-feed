@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>米国でリバイバルした「規制準拠したパブリックトークンセール」の所感、MonadのFDVの是非</title>
+			<link>https://hashhub-research.com/articles/2025-11-20-coinbase-public-sale-and-monad-fdv-analysis</link>
+			<guid isPermaLink="false">2025-11-20-coinbase-public-sale-and-monad-fdv-analysis</guid>
+			<description>Coinbase トークンセール 1号案件の概要、現状&lt;br /&gt;米国でのICOリバイバルが市場トレンド化するか&lt;br /&gt;FDV 2.5Bの是非&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Thu, 20 Nov 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8tfyej92nw5n69vazrt3hsljc9vw/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>新規XRP ETFが記録的好調：BTC・ETHファンドから10億ドル超流出の背景｜XRP市場動向調査</title>
 			<link>https://hashhub-research.com/articles/2025-11-19-xrp-etf-boom-and-btc-eth-outflows</link>
 			<guid isPermaLink="false">2025-11-19-xrp-etf-boom-and-btc-eth-outflows</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;SorareがStarkExからSolanaへの移行を発表した内容を整理&lt;br /&gt;StarkExで始めたそもそもの経緯&lt;br /&gt;考察&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Mon, 20 Oct 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/zs5t7tp2mi8qlbaswfkxn88rsbnx/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ケーススタディで読み解くDAT戦略「経営破綻寸前からのDAT転換―HyperionDeFiのケース」</title>
-			<link>https://hashhub-research.com/articles/2025-10-17-case-study-dat-hyperiondefi-part1</link>
-			<guid isPermaLink="false">2025-10-17-case-study-dat-hyperiondefi-part1</guid>
-			<description>DAT戦略採用の背景：既存事業が抱えた”三重苦”&lt;br /&gt;模索された選択肢&lt;br /&gt;戦略転換の実行&lt;br /&gt;まとめ&lt;br /&gt;</description>
-			<pubDate>Fri, 17 Oct 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/orxzqqod3a3gx9jx9307rl9uw4mk/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
