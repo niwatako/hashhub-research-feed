@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>投機から事業へ｜資本と設計の二重再編：リサーチチームが選ぶ今週の注目トピック 2025年11月21日号</title>
+			<link>https://hashhub-research.com/articles/2025-11-21-research-team-picks</link>
+			<guid isPermaLink="false">2025-11-21-research-team-picks</guid>
+			<description>前提&lt;br /&gt;今週のインサイト&lt;br /&gt;今週1週間分のニュースを紹介&lt;br /&gt;</description>
+			<pubDate>Fri, 21 Nov 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/7gaeabbfxkhnmbq0xob31k7y68f7/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>米国でリバイバルした「規制準拠したパブリックトークンセール」の所感、MonadのFDVの是非</title>
 			<link>https://hashhub-research.com/articles/2025-11-20-coinbase-public-sale-and-monad-fdv-analysis</link>
 			<guid isPermaLink="false">2025-11-20-coinbase-public-sale-and-monad-fdv-analysis</guid>
@@ -187,14 +195,6 @@
 			<description>「DeFi」ではなく「オンチェーン金融」とするVisaの狙いと背景&lt;br /&gt;ステーブルコインベースのオンチェーン融資市場の成長と信用担保機能の変化&lt;br /&gt;金融インフラ再編に挑むVisaの立ち位置と主要プレイヤーとの競合構造&lt;br /&gt;DeFiの伝統金融への侵食と金融機関へのインプリケーション&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Wed, 22 Oct 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8ob1s2eu2urs11ya8zq7hiylpjea/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>次の10億人は“ニッチ”から来る｜SorareがStarkExからSolanaへの移行する概要とSolanaの勝ち筋について</title>
-			<link>https://hashhub-research.com/articles/2025-10-20-next-billion-niche-sorare-solana</link>
-			<guid isPermaLink="false">2025-10-20-next-billion-niche-sorare-solana</guid>
-			<description>前提&lt;br /&gt;SorareがStarkExからSolanaへの移行を発表した内容を整理&lt;br /&gt;StarkExで始めたそもそもの経緯&lt;br /&gt;考察&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Mon, 20 Oct 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/zs5t7tp2mi8qlbaswfkxn88rsbnx/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
