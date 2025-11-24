@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ビットコインの価格の急落と、現状の見解について</title>
+			<link>https://hashhub-research.com/articles/2025-11-25-overview-bitcoin-plummeting</link>
+			<guid isPermaLink="false">2025-11-25-overview-bitcoin-plummeting</guid>
+			<description>前提&lt;br /&gt;複合的な下落要因&lt;br /&gt;現状の見解&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Tue, 25 Nov 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/6djkc8a99lb1183b8c1vkvh2r9kd/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>トークン化金融 週次レポート｜2025年11月第3週｜ブロックチェーンが“裏側の金融システム”に組み込まれ始めた週</title>
 			<link>https://hashhub-research.com/articles/2025-11-24-tokenized-finance-weekly</link>
 			<guid isPermaLink="false">2025-11-24-tokenized-finance-weekly</guid>
@@ -187,14 +195,6 @@
 			<description>NEARの出発点：ETHキラーから始まり、Solana躍進の陰に埋もれた「次世代L1」&lt;br /&gt;NEARの転換期：2024年、NEARは「次世代L1」からDA・AI基盤へと進化&lt;br /&gt;市場評価を取り戻すための直球策――インフレ抑制&lt;br /&gt;インフレ抑制案――「Halving Upgrade」の概要と直面している課題について&lt;br /&gt;残り二つの提案「小規模バリデータ支援とveNEARインセンティブ強化」について、の現状と課題の整理&lt;br /&gt;総括：これは単なるアップグレードではなく、NEARというネットワークそのものの持続性を試す分水嶺&lt;br /&gt;</description>
 			<pubDate>Mon, 27 Oct 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/sjlhn5xdyd58lyunvl1f02a5lujx/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Ethereumの未来スケーリング：GKRプロトコルが拓く新たな地平</title>
-			<link>https://hashhub-research.com/articles/2025-10-23-ethereum-outlook-gkr-scaling-impact</link>
-			<guid isPermaLink="false">2025-10-23-ethereum-outlook-gkr-scaling-impact</guid>
-			<description>前提&lt;br /&gt;GKRプロトコルとは何か&lt;br /&gt;他のスケーリング技術との比較&lt;br /&gt;Ethereumへの応用と影響&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 23 Oct 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/yklj9pp44ngvl5rjh0795rv2xqzs/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
