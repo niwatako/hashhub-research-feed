@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>SIMD-0411を理解する｜インフレ減速の倍速化がSolana経済に与える影響と論点</title>
+			<link>https://hashhub-research.com/articles/2025-11-26-simd-0411-double-disinflation</link>
+			<guid isPermaLink="false">2025-11-26-simd-0411-double-disinflation</guid>
+			<description>■供給削減の効果と、その前提条件&lt;br /&gt;■ステーキング利回りへの影響と、不確実性&lt;br /&gt;</description>
+			<pubDate>Wed, 26 Nov 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/py4coy8c9zkdua5whvixmh0x8cry/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ビットコインの価格の急落と、現状の見解について</title>
 			<link>https://hashhub-research.com/articles/2025-11-25-overview-bitcoin-plummeting</link>
 			<guid isPermaLink="false">2025-11-25-overview-bitcoin-plummeting</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;今回の買収の概要&lt;br /&gt;トークン化された証券とRWAへの発展可能性&lt;br /&gt;考察＆総括&lt;br /&gt;</description>
 			<pubDate>Tue, 28 Oct 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/7h32wnjoxgc2dogiqc4yxhn6622e/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>NEARの『インフレ半減』――価格安定か、分散性崩壊か</title>
-			<link>https://hashhub-research.com/articles/2025-10-27-near-inflation-halving</link>
-			<guid isPermaLink="false">2025-10-27-near-inflation-halving</guid>
-			<description>NEARの出発点：ETHキラーから始まり、Solana躍進の陰に埋もれた「次世代L1」&lt;br /&gt;NEARの転換期：2024年、NEARは「次世代L1」からDA・AI基盤へと進化&lt;br /&gt;市場評価を取り戻すための直球策――インフレ抑制&lt;br /&gt;インフレ抑制案――「Halving Upgrade」の概要と直面している課題について&lt;br /&gt;残り二つの提案「小規模バリデータ支援とveNEARインセンティブ強化」について、の現状と課題の整理&lt;br /&gt;総括：これは単なるアップグレードではなく、NEARというネットワークそのものの持続性を試す分水嶺&lt;br /&gt;</description>
-			<pubDate>Mon, 27 Oct 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/sjlhn5xdyd58lyunvl1f02a5lujx/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
