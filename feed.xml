@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ナラティブから収益設計へ｜検証可能なプライバシーと価値還元の交差点：リサーチチームが選ぶ今週の注目トピック 2025年11月27日号</title>
+			<link>https://hashhub-research.com/articles/2025-11-27-research-team-picks</link>
+			<guid isPermaLink="false">2025-11-27-research-team-picks</guid>
+			<description>前提&lt;br /&gt;今週のインサイト&lt;br /&gt;今週1週間分のニュースを紹介&lt;br /&gt;</description>
+			<pubDate>Thu, 27 Nov 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/tp1bgam11076g1mm0sroumkrld37/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>SIMD-0411を理解する｜インフレ減速の倍速化がSolana経済に与える影響と論点</title>
 			<link>https://hashhub-research.com/articles/2025-11-26-simd-0411-double-disinflation</link>
 			<guid isPermaLink="false">2025-11-26-simd-0411-double-disinflation</guid>
@@ -187,14 +195,6 @@
 			<description>検索上位コインの注目度推移[2025年9月1日→2025年10月現在]&lt;br /&gt;検索上位コインの市場規模レンジと価格変動&lt;br /&gt;ここに来て、Zcashが再び注目を浴びる背景とは&lt;br /&gt;</description>
 			<pubDate>Wed, 29 Oct 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8n5d63r23f4c93lpj0rgehv5qwod/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>CoinbaseがEchoとUpOnlyに4億ドル投資｜ICO2.0とRWA戦略の全体像を考える</title>
-			<link>https://hashhub-research.com/articles/2025-10-28-coinbase-echo-acquisition</link>
-			<guid isPermaLink="false">2025-10-28-coinbase-echo-acquisition</guid>
-			<description>前提&lt;br /&gt;今回の買収の概要&lt;br /&gt;トークン化された証券とRWAへの発展可能性&lt;br /&gt;考察＆総括&lt;br /&gt;</description>
-			<pubDate>Tue, 28 Oct 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/7h32wnjoxgc2dogiqc4yxhn6622e/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
