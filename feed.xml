@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>5分でふりかえる 今週のステーブルコイン決済インフラ｜2025年11月第4週</title>
+			<link>https://hashhub-research.com/articles/2025-12-01-stablecoin-payments-infra</link>
+			<guid isPermaLink="false">2025-12-01-stablecoin-payments-infra</guid>
+			<description>▼ Tier A（構造に効く：制度・インフラ・市場構造を動かす）&lt;br /&gt;▼ Tier B（既存構造の拡張・実装：実用レイヤーの広がり）&lt;br /&gt;▼ Tier C（観測・ローカル起点・ニッチ拡大）&lt;br /&gt;今後の観測点&lt;br /&gt;</description>
+			<pubDate>Mon, 01 Dec 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/bxbp1fssd0jjd34ccoxtcd8p7j7u/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ステーブルコインがPMFした以降の市場をどう見るか：10分で理解する市場トレンド【2025年11月版】</title>
 			<link>https://hashhub-research.com/articles/2025-11-28-state-of-view-about-stablecoin</link>
 			<guid isPermaLink="false">2025-11-28-state-of-view-about-stablecoin</guid>
@@ -187,14 +195,6 @@
 			<description>Tempoの技術概要と設計思想&lt;br /&gt;StripeおよびParadigmがTempoを立ち上げた狙いと役割&lt;br /&gt;Tempoのユースケースと連携企業&lt;br /&gt;ブロックチェーン基盤としてのTempoの競合優位性（他のレイヤー1との比較）&lt;br /&gt;投資家構成と出資の戦略的背景と今後の展望&lt;br /&gt;総括&lt;br /&gt;参考文献&lt;br /&gt;</description>
 			<pubDate>Fri, 31 Oct 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/jlmssv6eet8ax10933gahq4hz5ws/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Ethereumアップグレード Fusakaの全体像：PeerDASのスケーラビリティと新たなUX</title>
-			<link>https://hashhub-research.com/articles/2025-10-30-ethereum-fusaka-overview</link>
-			<guid isPermaLink="false">2025-10-30-ethereum-fusaka-overview</guid>
-			<description>Fusaka アップグレードの概要&lt;br /&gt;主要EIPの詳細&lt;br /&gt;スケジュール&lt;br /&gt;投資家への影響&lt;br /&gt;開発者への影響&lt;br /&gt;総括&lt;br /&gt;参考文献&lt;br /&gt;</description>
-			<pubDate>Thu, 30 Oct 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/kh7cnpfldovmd7v6cvud9cec1rl4/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
