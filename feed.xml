@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>連載：予測市場の国内事業化を考える｜第2回：予測市場プラットフォームが抱える制度・運用・信頼面での課題</title>
+			<link>https://hashhub-research.com/articles/2025-12-02-prediction-markets-japan-domestic-business-02</link>
+			<guid isPermaLink="false">2025-12-02-prediction-markets-japan-domestic-business-02</guid>
+			<description>前提&lt;br /&gt;1. 競合プラットフォームの台頭と差別化の課題&lt;br /&gt;2. 流動性の確保とマーケット運営上の課題&lt;br /&gt;3. オラクルと真実性をめぐる問題&lt;br /&gt;4. インサイダー情報と倫理的リスク&lt;br /&gt;5. 資金調達と事業の持続可能性&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Tue, 02 Dec 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/5vjmtzrco6wx4xcfv2tfdycsy350/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>5分でふりかえる 今週のステーブルコイン決済インフラ｜2025年11月第4週</title>
 			<link>https://hashhub-research.com/articles/2025-12-01-stablecoin-payments-infra</link>
 			<guid isPermaLink="false">2025-12-01-stablecoin-payments-infra</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;全体像を整理&lt;br /&gt;考えられる要因&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Sat, 01 Nov 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/4a0dkpq0ak1zrcdhslqfgnbdhnht/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ステーブルコイン・決済特化型レイヤー1ブロックチェーンTempoの狙い：決済大手StripeとクリプトVC Paradigmの共同プロジェクト</title>
-			<link>https://hashhub-research.com/articles/2025-10-31-tempo-overview-with-stripe-and-paradigm</link>
-			<guid isPermaLink="false">2025-10-31-tempo-overview-with-stripe-and-paradigm</guid>
-			<description>Tempoの技術概要と設計思想&lt;br /&gt;StripeおよびParadigmがTempoを立ち上げた狙いと役割&lt;br /&gt;Tempoのユースケースと連携企業&lt;br /&gt;ブロックチェーン基盤としてのTempoの競合優位性（他のレイヤー1との比較）&lt;br /&gt;投資家構成と出資の戦略的背景と今後の展望&lt;br /&gt;総括&lt;br /&gt;参考文献&lt;br /&gt;</description>
-			<pubDate>Fri, 31 Oct 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/jlmssv6eet8ax10933gahq4hz5ws/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
