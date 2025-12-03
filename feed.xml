@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>NFTは終焉か、それとも再編か：NFTマーケットレポート【25年11月】</title>
+			<link>https://hashhub-research.com/articles/2025-12-03-nft-market</link>
+			<guid isPermaLink="false">2025-12-03-nft-market</guid>
+			<description>【前編】11月のNFT市場を振り返る：市場全体の変化と牽引したプロジェクト群&lt;br /&gt;【後編】NFTバブルの興亡と「NFTは終わった」論&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Wed, 03 Dec 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/hd2pa6djezjjkkm4753q6rjulwox/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>連載：予測市場の国内事業化を考える｜第2回：予測市場プラットフォームが抱える制度・運用・信頼面での課題</title>
 			<link>https://hashhub-research.com/articles/2025-12-02-prediction-markets-japan-domestic-business-02</link>
 			<guid isPermaLink="false">2025-12-02-prediction-markets-japan-domestic-business-02</guid>
@@ -187,14 +195,6 @@
 			<description>1.この変化は一時的な盛り上がりなのか？、それとも構造的な定着を示唆しているのか？&lt;br /&gt;2.まず、第1の論点（短期的要因：ミーム市場による一時的ブーム）について見ていきます。&lt;br /&gt;3.次に、第2の論点（中期的要因：プロトコル進化による利用定着）を検証。&lt;br /&gt;4.最後に、第3の論点（アクティビティ増加がネットワーク価値に波及しているか）を確認。&lt;br /&gt;総括：この変化は一時的な盛り上がりなのか？、それとも構造的な定着を示唆しているのか？そして、今後の焦点は？&lt;br /&gt;</description>
 			<pubDate>Wed, 05 Nov 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/loq58w5yfy30prviuqwc4npphuvs/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ビットコイン（BTC）、過去1週間でTradFi主要指数を凌駕 – 金に対する優位性が復活か</title>
-			<link>https://hashhub-research.com/articles/2025-11-01-btc-weekly-outperformance-tradfi</link>
-			<guid isPermaLink="false">2025-11-01-btc-weekly-outperformance-tradfi</guid>
-			<description>前提&lt;br /&gt;全体像を整理&lt;br /&gt;考えられる要因&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Sat, 01 Nov 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/4a0dkpq0ak1zrcdhslqfgnbdhnht/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
