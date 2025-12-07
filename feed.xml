@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>10分でふりかえる｜暗号資産リテールの制度インフラ化・定点観測（2025年12月上旬）</title>
+			<link>https://hashhub-research.com/articles/2025-12-08-crypto-retail-observation</link>
+			<guid isPermaLink="false">2025-12-08-crypto-retail-observation</guid>
+			<description>CFTC現物承認と予測市場の制度編入、金商法・CARFが同時進行した2週間&lt;br /&gt;▼ Tier A（構造に効く：制度・インフラ・市場構造を動かす）&lt;br /&gt;▼ Tier B（既存構造の拡張・実装：実用レイヤーの広がり）&lt;br /&gt;▼ Tier C（観測・ローカル起点・ニッチ拡大）&lt;br /&gt;今後の観測点（総括）&lt;br /&gt;</description>
+			<pubDate>Mon, 08 Dec 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/ienehu82yach1x6ygh7dl5zxwct8/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>MSCIインデックス除外はストラテジー(MSTR)のBTC売却を引き起こすのか？ホーガンCIOの主張と財務・市場データから検証する</title>
 			<link>https://hashhub-research.com/articles/2025-12-05-strategy-msci-btc-sell</link>
 			<guid isPermaLink="false">2025-12-05-strategy-msci-btc-sell</guid>
@@ -42,7 +50,7 @@
 			<guid isPermaLink="false">2025-12-01-stablecoin-payments-infra</guid>
 			<description>▼ Tier A（構造に効く：制度・インフラ・市場構造を動かす）&lt;br /&gt;▼ Tier B（既存構造の拡張・実装：実用レイヤーの広がり）&lt;br /&gt;▼ Tier C（観測・ローカル起点・ニッチ拡大）&lt;br /&gt;今後の観測点&lt;br /&gt;</description>
 			<pubDate>Mon, 01 Dec 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/bxbp1fssd0jjd34ccoxtcd8p7j7u/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/9mewxxe2a3uzwhjhbk4ljqahidgv/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		<item>
 			<title>ステーブルコインがPMFした以降の市場をどう見るか：10分で理解する市場トレンド【2025年11月版】</title>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;今週のインサイト&lt;br /&gt;今週1週間分のニュースを紹介&lt;br /&gt;</description>
 			<pubDate>Sat, 08 Nov 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/8b4fafya0o8id6eoxe6v8mqq7gfy/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ステーブルコインUSDXの価格乖離（デペグ）事件から投資家が学ぶべきこと</title>
-			<link>https://hashhub-research.com/articles/2025-11-07-usdx-depeg-overview</link>
-			<guid isPermaLink="false">2025-11-07-usdx-depeg-overview</guid>
-			<description>背景&lt;br /&gt;事件の概要&lt;br /&gt;ステーブルコインの構造比較&lt;br /&gt;本件から投資家が学ぶべきこと&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 07 Nov 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://d10nlab-prd-app-image.s3.ap-northeast-1.amazonaws.com/variants/fh6wb35i9en6mgf68jsnkos1hrjp/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
