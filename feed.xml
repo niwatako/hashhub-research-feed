@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Fusakaで何が“実務的に”変わるのか</title>
+			<link>https://hashhub-research.com/articles/2025-12-11-fusaka-practical-impact</link>
+			<guid isPermaLink="false">2025-12-11-fusaka-practical-impact</guid>
+			<description>0.【前提整理】Fusaka以前のBlob市場は、どのような歪みを抱えていたのか&lt;br /&gt;1. L2は「安い」から「大量業務トラフィック対応」へ移行&lt;br /&gt;2. ETHの価値回収設計が「ようやく正常運転に戻る」&lt;br /&gt;3. L1は“高速化競争”ではなく“安定化”を選んだ&lt;br /&gt;4. 事業・制度サイドから見た評価&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Thu, 11 Dec 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/vbekb880m3zlguzepbcq9qimqmx9/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>2025年12月第1週のSolanaエコシステム動向：SOL価格の底堅さとKalshi参入・LST拡大・x402ハッカソンのインパクトなど</title>
 			<link>https://hashhub-research.com/articles/2025-12-10-solana-weekly-kalshi-lst-x402</link>
 			<guid isPermaLink="false">2025-12-10-solana-weekly-kalshi-lst-x402</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;はじめに：予測市場の歴史をサクッと概観&lt;br /&gt;予測市場の現況と隆盛&lt;br /&gt;世界の主要プレイヤー比較&lt;br /&gt;日本向けに当たる可能性があるテーマ&lt;br /&gt;考察＆総括：日本市場で成立しうる仮説と段階的進化&lt;br /&gt;</description>
 			<pubDate>Wed, 12 Nov 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/75ivm70iuuh3a8tmvh5dc8ofjpb6/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>x402プロトコルの現状、AIエージェント時代のweb3ウォレットの再定義：ウォレット市場動向【25年11月】</title>
-			<link>https://hashhub-research.com/articles/2025-11-11-x402-overview</link>
-			<guid isPermaLink="false">2025-11-11-x402-overview</guid>
-			<description>web3ウォレットはAIエージェントの時代において再定義される可能性があると考える理由&lt;br /&gt;x402プロトコル・エコシステムの市場動向&lt;br /&gt;ウォレット事業者・開発者はいかにモート（参入障壁）を築くか&lt;br /&gt;x402 サーバー ユースケースの例&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Tue, 11 Nov 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/x4v206lzuuw5najutzr6mnten1g4/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
