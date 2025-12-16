@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>USDCxとは何か ―xReserveが実現する、一般的なブリッジでは満たしにくい機関向けUSDC展開方法</title>
+			<link>https://hashhub-research.com/articles/2025-12-17-what-is-usdcx-xreserve-institutional-usdc</link>
+			<guid isPermaLink="false">2025-12-17-what-is-usdcx-xreserve-institutional-usdc</guid>
+			<description>はじめに&lt;br /&gt;USDCxって何？&lt;br /&gt;USDCとUSDCxの違い──なぜブリッジでは足りないのか&lt;br /&gt;Deposit to Remoteでは何が起きているのか&lt;br /&gt;Withdrawは「1回で終わる送金」ではない&lt;br /&gt;総括：xReserveとUSDCxが示しているもの&lt;br /&gt;</description>
+			<pubDate>Wed, 17 Dec 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/z5p17k4jmw3rqzvih09fdocvucjq/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>トークン化株式はSolana（SOL）の需要になるのか：「xStocks」から読む構造変化</title>
 			<link>https://hashhub-research.com/articles/2025-12-16-tokenized-equities-solana-demand</link>
 			<guid isPermaLink="false">2025-12-16-tokenized-equities-solana-demand</guid>
@@ -187,14 +195,6 @@
 			<description>1.今週の事象マップ（セクター別・事実のみ）&lt;br /&gt;2.今週起きた構造的転換点&lt;br /&gt;3.巻末：先読みトレンド（中期テーマ）&lt;br /&gt;</description>
 			<pubDate>Mon, 17 Nov 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/i4rg4pxy85r0gg2a7jhv5m7tqfv9/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>オンチェーンは使われるフェーズへ｜決済が牽引、DAT再編が試す需給：リサーチチームが選ぶ今週の注目トピック 2025年11月14日号</title>
-			<link>https://hashhub-research.com/articles/2025-11-16-research-team-picks</link>
-			<guid isPermaLink="false">2025-11-16-research-team-picks</guid>
-			<description>前提&lt;br /&gt;今週のインサイト&lt;br /&gt;今週1週間分のニュースを紹介&lt;br /&gt;</description>
-			<pubDate>Sun, 16 Nov 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/7pau3l7mb3ouelodr5km265pnhnk/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
