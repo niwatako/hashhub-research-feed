@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>SolanaのKoraは何を変え、何を変えないのか――ガスレス体験の裏側にある仕組み</title>
+			<link>https://hashhub-research.com/articles/2025-12-25-solana-kora-what-changes-what-doesnt</link>
+			<guid isPermaLink="false">2025-12-25-solana-kora-what-changes-what-doesnt</guid>
+			<description>まず、Solanaの何がややこしかったのか&lt;br /&gt;Koraは、何をするための仕組みか&lt;br /&gt;実際の取引処理の流れはどうなっているのか&lt;br /&gt;どんな場面で使われそうか&lt;br /&gt;Koraが解決すること、しないこと&lt;br /&gt;まとめ&lt;br /&gt;</description>
+			<pubDate>Thu, 25 Dec 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/s14jz71b7zcq4ufltbfvh32f4kq1/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>年始所感の前に読む：2026年クリプト予測記事まとめ15選と論点整理</title>
 			<link>https://hashhub-research.com/articles/2025-12-24-crypto-2026-predictions-roundup</link>
 			<guid isPermaLink="false">2025-12-24-crypto-2026-predictions-roundup</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;複合的な下落要因&lt;br /&gt;現状の見解&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Tue, 25 Nov 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/6djkc8a99lb1183b8c1vkvh2r9kd/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>トークン化金融 週次レポート｜2025年11月第3週｜ブロックチェーンが“裏側の金融システム”に組み込まれ始めた週</title>
-			<link>https://hashhub-research.com/articles/2025-11-24-tokenized-finance-weekly</link>
-			<guid isPermaLink="false">2025-11-24-tokenized-finance-weekly</guid>
-			<description>1. 今週の事象マップ&lt;br /&gt;2. 今週の「構造的転換点」&lt;br /&gt;3. 巻末：先読みトレンド（中期テーマ）&lt;br /&gt;</description>
-			<pubDate>Mon, 24 Nov 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/rcouvn9a37ma1qwcvtps9debcepa/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
