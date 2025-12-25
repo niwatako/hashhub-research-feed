@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>高FDVの終わり、選別の始まり｜配布が勝敗を決める2026：リサーチチームが選ぶ今週の注目トピック 2025年12月26日号</title>
+			<link>https://hashhub-research.com/articles/2025-12-26-research-team-picks</link>
+			<guid isPermaLink="false">2025-12-26-research-team-picks</guid>
+			<description>前提&lt;br /&gt;今週のインサイト&lt;br /&gt;今週1週間分のニュースを紹介&lt;br /&gt;</description>
+			<pubDate>Fri, 26 Dec 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/rk8ednryjc3xmzlsap9iwwcdo765/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>SolanaのKoraは何を変え、何を変えないのか――ガスレス体験の裏側にある仕組み</title>
 			<link>https://hashhub-research.com/articles/2025-12-25-solana-kora-what-changes-what-doesnt</link>
 			<guid isPermaLink="false">2025-12-25-solana-kora-what-changes-what-doesnt</guid>
@@ -187,14 +195,6 @@
 			<description>■供給削減の効果と、その前提条件&lt;br /&gt;■ステーキング利回りへの影響と、不確実性&lt;br /&gt;■バリデータ経済と分散性：本当に「影響は限定的」か&lt;br /&gt;■SIMD-0228との比較：単純化のメリットと柔軟性の不足&lt;br /&gt;■コミュニティが評価すべきポイント&lt;br /&gt;■結論：有力な提案だが、「何を優先するネットワークか」の議論が不可欠&lt;br /&gt;</description>
 			<pubDate>Wed, 26 Nov 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/py4coy8c9zkdua5whvixmh0x8cry/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ビットコインの価格の急落と、現状の見解について</title>
-			<link>https://hashhub-research.com/articles/2025-11-25-overview-bitcoin-plummeting</link>
-			<guid isPermaLink="false">2025-11-25-overview-bitcoin-plummeting</guid>
-			<description>前提&lt;br /&gt;複合的な下落要因&lt;br /&gt;現状の見解&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Tue, 25 Nov 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/6djkc8a99lb1183b8c1vkvh2r9kd/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
