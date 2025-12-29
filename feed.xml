@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>【特集：年越し選書】HashHubチームがこの年末年始に読んでいる、またはオススメの書籍</title>
+			<link>https://hashhub-research.com/articles/2025-12-30-members-select-recommendations</link>
+			<guid isPermaLink="false">2025-12-30-members-select-recommendations</guid>
+			<description>はじめに&lt;br /&gt;【意思決定と構造を考える本】&lt;br /&gt;【経営・起業・組織のリアル】&lt;br /&gt;【視点を広げる／肩の力を抜く本】&lt;br /&gt;編集後記&lt;br /&gt;</description>
+			<pubDate>Tue, 30 Dec 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/9s5y0p2zk46uhmc26cgkh6qb1hk1/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>なぜ量子計算が暗号を突破するのか</title>
 			<link>https://hashhub-research.com/articles/2025-12-29-quantum-risk</link>
 			<guid isPermaLink="false">2025-12-29-quantum-risk</guid>
@@ -187,14 +195,6 @@
 			<description>ステーブルコインはすでにPMFし、インフラになりつつある&lt;br /&gt;違うのはズームレベルと時間軸&lt;br /&gt;今後のステーブルコイン領域のトレンドは&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Fri, 28 Nov 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/iatf2o5g4phxl9pymbqwlwvg5b1f/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ナラティブから収益設計へ｜検証可能なプライバシーと価値還元の交差点：リサーチチームが選ぶ今週の注目トピック 2025年11月27日号</title>
-			<link>https://hashhub-research.com/articles/2025-11-27-research-team-picks</link>
-			<guid isPermaLink="false">2025-11-27-research-team-picks</guid>
-			<description>前提&lt;br /&gt;今週のインサイト&lt;br /&gt;今週1週間分のニュースを紹介&lt;br /&gt;</description>
-			<pubDate>Thu, 27 Nov 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/tp1bgam11076g1mm0sroumkrld37/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
