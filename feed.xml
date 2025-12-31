@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Bitcoinを巡る2025年の概況</title>
+			<link>https://hashhub-research.com/articles/2025-12-31-state-of-bitcoin-2025</link>
+			<guid isPermaLink="false">2025-12-31-state-of-bitcoin-2025</guid>
+			<description>はじめに（視点の設定）&lt;br /&gt;</description>
+			<pubDate>Wed, 31 Dec 2025 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/0n91oyaviukus9bq1fascyqvw21u/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>【特集：年越し選書】HashHubチームがこの年末年始に読んでいる、またはオススメの書籍</title>
 			<link>https://hashhub-research.com/articles/2025-12-30-members-select-recommendations</link>
 			<guid isPermaLink="false">2025-12-30-members-select-recommendations</guid>
@@ -187,14 +195,6 @@
 			<description>▼ Tier A（構造に効く：制度・インフラ・市場構造を動かす）&lt;br /&gt;▼ Tier B（既存構造の拡張・実装：実用レイヤーの広がり）&lt;br /&gt;▼ Tier C（観測・ローカル起点・ニッチ拡大）&lt;br /&gt;今後の観測点&lt;br /&gt;</description>
 			<pubDate>Mon, 01 Dec 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/9mewxxe2a3uzwhjhbk4ljqahidgv/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ステーブルコインがPMFした以降の市場をどう見るか：10分で理解する市場トレンド【2025年11月版】</title>
-			<link>https://hashhub-research.com/articles/2025-11-28-state-of-view-about-stablecoin</link>
-			<guid isPermaLink="false">2025-11-28-state-of-view-about-stablecoin</guid>
-			<description>ステーブルコインはすでにPMFし、インフラになりつつある&lt;br /&gt;違うのはズームレベルと時間軸&lt;br /&gt;今後のステーブルコイン領域のトレンドは&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 28 Nov 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/iatf2o5g4phxl9pymbqwlwvg5b1f/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
