@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>DAPとは何か？──Polkadot/DOTの価値設計が「配る」から「貯めて、設計して配る」へ移行する話</title>
+			<link>https://hashhub-research.com/articles/2026-01-07-what-is-dap-polkadot</link>
+			<guid isPermaLink="false">2026-01-07-what-is-dap-polkadot</guid>
+			<description>DAPの中身：フロー図を読み解く&lt;br /&gt;発行減少時代への対応：DAPは「いつ使うか」と「どう配るか」を同時に設計する&lt;br /&gt;DOTへの影響：ここからが投資家向けの要点&lt;br /&gt;総括：DAPは「万能策」ではなく、設計思想を実装で試す道具&lt;br /&gt;</description>
+			<pubDate>Wed, 07 Jan 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/cjl254dika0alqiypslz9hlr2i8s/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>連載：予測市場の国内事業化を考える｜第3回：Web3予測市場プラットフォームのビジネスモデルの現状と展望</title>
 			<link>https://hashhub-research.com/articles/2026-01-06-prediction-markets-japan-domestic-business-03</link>
 			<guid isPermaLink="false">2026-01-06-prediction-markets-japan-domestic-business-03</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;今週のインサイト&lt;br /&gt;今週1週間分のニュースを紹介&lt;br /&gt;</description>
 			<pubDate>Thu, 04 Dec 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/jcn8g06owr5gz87h8a6mb8zuet7c/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>NFTは終焉か、それとも再編か：NFTマーケットレポート【25年11月】</title>
-			<link>https://hashhub-research.com/articles/2025-12-03-nft-market</link>
-			<guid isPermaLink="false">2025-12-03-nft-market</guid>
-			<description>【前編】11月のNFT市場を振り返る：市場全体の変化と牽引したプロジェクト群&lt;br /&gt;【後編】NFTバブルの興亡と「NFTは終わった」論&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Wed, 03 Dec 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/hd2pa6djezjjkkm4753q6rjulwox/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
