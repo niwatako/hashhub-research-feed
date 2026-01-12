@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ビットコインがアセットクラスとしての次の段階に行くために何が必要か</title>
+			<link>https://hashhub-research.com/articles/2026-01-12-bitcoin-next-phase</link>
+			<guid isPermaLink="false">2026-01-12-bitcoin-next-phase</guid>
+			<description>前提&lt;br /&gt;ビットコインがアセットクラスとしての次の段階に行くために何が必要か&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Mon, 12 Jan 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/b0n935q14xjkt2xm35329qo5t7fb/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>クリプトの産業化と選別の年｜NFT再定義と決済レールの現実化：リサーチチームが選ぶ今週の注目トピック 2026年1月9日号</title>
 			<link>https://hashhub-research.com/articles/2026-01-09-research-team-picks</link>
 			<guid isPermaLink="false">2026-01-09-research-team-picks</guid>
@@ -187,14 +195,6 @@
 			<description>1. まずWTPIX（EPXC）とは何か（前提整理）&lt;br /&gt;2. WTPIXにおけるKYC実装の位置づけ（全体像）&lt;br /&gt;3. 実際に確認されたKYCフロー（オンチェーン挙動）&lt;br /&gt;4. これは特別な方式か、それとも“基本形”か&lt;br /&gt;5. 管理権限の扱いから見える運営スタンス&lt;br /&gt;6. ビジネス視点での読みどころ（総括）&lt;br /&gt;</description>
 			<pubDate>Tue, 09 Dec 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/nlp7klut4udbo061wvjud8eqppod/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>10分でふりかえる｜暗号資産リテールの制度インフラ化・定点観測（2025年12月上旬）</title>
-			<link>https://hashhub-research.com/articles/2025-12-08-crypto-retail-observation</link>
-			<guid isPermaLink="false">2025-12-08-crypto-retail-observation</guid>
-			<description>CFTC現物承認と予測市場の制度編入、金商法・CARFが同時進行した2週間&lt;br /&gt;▼ Tier A（構造に効く：制度・インフラ・市場構造を動かす）&lt;br /&gt;▼ Tier B（既存構造の拡張・実装：実用レイヤーの広がり）&lt;br /&gt;▼ Tier C（観測・ローカル起点・ニッチ拡大）&lt;br /&gt;今後の観測点（総括）&lt;br /&gt;</description>
-			<pubDate>Mon, 08 Dec 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/ienehu82yach1x6ygh7dl5zxwct8/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
