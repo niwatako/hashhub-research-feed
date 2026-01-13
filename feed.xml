@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ライトコイン（LTC）とは何か ──市場に残り続ける暗号資産の設計と立ち位置</title>
+			<link>https://hashhub-research.com/articles/2026-01-13-what-is-litecoin</link>
+			<guid isPermaLink="false">2026-01-13-what-is-litecoin</guid>
+			<description>ライトコインは何者なのか&lt;br /&gt;なぜ価格は伸びにくいのか― 材料と値動きのズレを整理する&lt;br /&gt;</description>
+			<pubDate>Tue, 13 Jan 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/tmtze8xm6rb3yiwud41sijsf72g6/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ビットコインがアセットクラスとしての次の段階に行くために何が必要か</title>
 			<link>https://hashhub-research.com/articles/2026-01-12-bitcoin-next-phase</link>
 			<guid isPermaLink="false">2026-01-12-bitcoin-next-phase</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;先週のSOL価格をサクッと概観&lt;br /&gt;先週Solana周りで起きた注目ニュースをピックアップ&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Wed, 10 Dec 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/yrisx4a3hihai32p1v21ch8fb6n5/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>米WisdomTree社事例に見る「トークン化証券とKYC実装」の実例メモ ― オンチェーンKYC設計の一つの“具体例”として読む ―</title>
-			<link>https://hashhub-research.com/articles/2025-12-09-wtpix-kyc-onchain-memo</link>
-			<guid isPermaLink="false">2025-12-09-wtpix-kyc-onchain-memo</guid>
-			<description>1. まずWTPIX（EPXC）とは何か（前提整理）&lt;br /&gt;2. WTPIXにおけるKYC実装の位置づけ（全体像）&lt;br /&gt;3. 実際に確認されたKYCフロー（オンチェーン挙動）&lt;br /&gt;4. これは特別な方式か、それとも“基本形”か&lt;br /&gt;5. 管理権限の扱いから見える運営スタンス&lt;br /&gt;6. ビジネス視点での読みどころ（総括）&lt;br /&gt;</description>
-			<pubDate>Tue, 09 Dec 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/nlp7klut4udbo061wvjud8eqppod/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
