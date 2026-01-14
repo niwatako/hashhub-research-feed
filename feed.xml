@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>縮小するNFT市場と、RTFKTをめぐるEthereumの動き：NFTマーケットレポート【25年12月–26年1月】</title>
+			<link>https://hashhub-research.com/articles/2026-01-14-nft-market</link>
+			<guid isPermaLink="false">2026-01-14-nft-market</guid>
+			<description>【前編】NFT市場はどこまで冷え込んだのか —— Ethereumを軸に12月〜1月初旬の動きを見る&lt;br /&gt;【後編】RTFKT売却の背景：ナイキの決断とCloneXに見る選別の現象&lt;br /&gt;</description>
+			<pubDate>Wed, 14 Jan 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/q52lck7eglhghk7kddmpc6ns47ah/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ライトコイン（LTC）とは何か ──市場に残り続ける暗号資産の設計と立ち位置</title>
 			<link>https://hashhub-research.com/articles/2026-01-13-what-is-litecoin</link>
 			<guid isPermaLink="false">2026-01-13-what-is-litecoin</guid>
@@ -187,14 +195,6 @@
 			<description>0.【前提整理】Fusaka以前のBlob市場は、どのような歪みを抱えていたのか&lt;br /&gt;1. L2は「安い」から「大量業務トラフィック対応」へ移行&lt;br /&gt;2. ETHの価値回収設計が「ようやく正常運転に戻る」&lt;br /&gt;3. L1は“高速化競争”ではなく“安定化”を選んだ&lt;br /&gt;4. 事業・制度サイドから見た評価&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 11 Dec 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/vbekb880m3zlguzepbcq9qimqmx9/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>2025年12月第1週のSolanaエコシステム動向：SOL価格の底堅さとKalshi参入・LST拡大・x402ハッカソンのインパクトなど</title>
-			<link>https://hashhub-research.com/articles/2025-12-10-solana-weekly-kalshi-lst-x402</link>
-			<guid isPermaLink="false">2025-12-10-solana-weekly-kalshi-lst-x402</guid>
-			<description>前提&lt;br /&gt;先週のSOL価格をサクッと概観&lt;br /&gt;先週Solana周りで起きた注目ニュースをピックアップ&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Wed, 10 Dec 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/yrisx4a3hihai32p1v21ch8fb6n5/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
