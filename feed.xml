@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Polygonはなぜ「L2競争」だけでは足りないと判断したのか ― 技術競争の先にある「お金の流れ」を取りに行く戦略 ―</title>
+			<link>https://hashhub-research.com/articles/2026-01-15-polygon-beyond-l2-competition-open-money-stack</link>
+			<guid isPermaLink="false">2026-01-15-polygon-beyond-l2-competition-open-money-stack</guid>
+			<description>L2の限界は「チェーンの外」にある&lt;br /&gt;</description>
+			<pubDate>Thu, 15 Jan 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/8f3lmobh056mpk9vn5z72anaxcql/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>縮小するNFT市場と、RTFKTをめぐるEthereumの動き：NFTマーケットレポート【25年12月–26年1月】</title>
 			<link>https://hashhub-research.com/articles/2026-01-14-nft-market</link>
 			<guid isPermaLink="false">2026-01-14-nft-market</guid>
@@ -187,14 +195,6 @@
 			<description></description>
 			<pubDate>Fri, 12 Dec 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/miwgf86yx7y0q897bof80fez5e6n/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Fusakaで何が“実務的に”変わるのか</title>
-			<link>https://hashhub-research.com/articles/2025-12-11-fusaka-practical-impact</link>
-			<guid isPermaLink="false">2025-12-11-fusaka-practical-impact</guid>
-			<description>0.【前提整理】Fusaka以前のBlob市場は、どのような歪みを抱えていたのか&lt;br /&gt;1. L2は「安い」から「大量業務トラフィック対応」へ移行&lt;br /&gt;2. ETHの価値回収設計が「ようやく正常運転に戻る」&lt;br /&gt;3. L1は“高速化競争”ではなく“安定化”を選んだ&lt;br /&gt;4. 事業・制度サイドから見た評価&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 11 Dec 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/vbekb880m3zlguzepbcq9qimqmx9/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
