@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>XのAPI停止で何が起きたのか――InfoFiをめぐる事業判断の整理</title>
+			<link>https://hashhub-research.com/articles/2026-01-20-x-api-shutdown-infofi-business-decision</link>
+			<guid isPermaLink="false">2026-01-20-x-api-shutdown-infofi-business-decision</guid>
+			<description>XのAPI停止とInfoFiモデルの成立背景&lt;br /&gt;API停止後に起きた市場と事業判断の再整理&lt;br /&gt;InfoFi崩壊が示した構造的な問題と今後の示唆&lt;br /&gt;</description>
+			<pubDate>Tue, 20 Jan 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/op3pbriks7aw9z72zi2v790krgjv/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>流動性と淘汰が決める2026の生存条件｜制度化が進むほど必要になる選択的プライバシー：リサーチチームが選ぶ今週の注目トピック 2026年1月19日号</title>
 			<link>https://hashhub-research.com/articles/2026-01-19-research-team-picks</link>
 			<guid isPermaLink="false">2026-01-19-research-team-picks</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;はじめに：なぜ今「トークン化株式」がSolanaの投資テーマになるのか&lt;br /&gt;事例：xStocksはどこまで需要を作れているか&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Tue, 16 Dec 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/zo4z82c2a094o738f4b5pzt1w98o/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>フルコンプライアンス・米株式トークナイゼーションを独走するSuperstateが米RWA市場拡大の起点と考える理由</title>
-			<link>https://hashhub-research.com/articles/2025-12-15-superstate-overview</link>
-			<guid isPermaLink="false">2025-12-15-superstate-overview</guid>
-			<description>Superstateのプロダクト戦略：規制遵守のオンチェーン株式とトークン化ファンド&lt;br /&gt;ラップ型トークンストラクチャーとの対比から見るSuperstateの競争優位&lt;br /&gt;規制環境の変化と「コンプライアンス主導型トークン化」の意味&lt;br /&gt;データで読む株式トークン化のポテンシャル&lt;br /&gt;総括&lt;br /&gt;参考文献&lt;br /&gt;</description>
-			<pubDate>Mon, 15 Dec 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/zzf9nolwir8zyzb9itoemtnhxrq5/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
