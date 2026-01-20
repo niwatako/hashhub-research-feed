@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Crypto Native Cash構想の整理―現金的UXをオンチェーン設計として再構成する試み―</title>
+			<link>https://hashhub-research.com/articles/2026-01-21-crypto-native-cash-design-experiment</link>
+			<guid isPermaLink="false">2026-01-21-crypto-native-cash-design-experiment</guid>
+			<description>はじめに：この構想をどういう前提で読むか&lt;br /&gt;Crypto Native Cashの基本構想：何を「現金」に近づけようとしているのか&lt;br /&gt;三つの鍵によるガバナンス設計：現金とアカウントの中間&lt;br /&gt;移動・紛失・破壊という考え方：価値の移動を一種類にしない設計&lt;br /&gt;設計実験としてのCrypto Native Cash：用途ではなく構造から考える&lt;br /&gt;</description>
+			<pubDate>Wed, 21 Jan 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/5u69dbsm3aij3ma814v962ph83wl/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>XのAPI停止で何が起きたのか――InfoFiをめぐる事業判断の整理</title>
 			<link>https://hashhub-research.com/articles/2026-01-20-x-api-shutdown-infofi-business-decision</link>
 			<guid isPermaLink="false">2026-01-20-x-api-shutdown-infofi-business-decision</guid>
@@ -187,14 +195,6 @@
 			<description>はじめに&lt;br /&gt;USDCxって何？&lt;br /&gt;USDCとUSDCxの違い──なぜブリッジでは足りないのか&lt;br /&gt;Deposit to Remoteでは何が起きているのか&lt;br /&gt;Withdrawは「1回で終わる送金」ではない&lt;br /&gt;総括：xReserveとUSDCxが示しているもの&lt;br /&gt;</description>
 			<pubDate>Wed, 17 Dec 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/z5p17k4jmw3rqzvih09fdocvucjq/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>トークン化株式はSolana（SOL）の需要になるのか：「xStocks」から読む構造変化</title>
-			<link>https://hashhub-research.com/articles/2025-12-16-tokenized-equities-solana-demand</link>
-			<guid isPermaLink="false">2025-12-16-tokenized-equities-solana-demand</guid>
-			<description>前提&lt;br /&gt;はじめに：なぜ今「トークン化株式」がSolanaの投資テーマになるのか&lt;br /&gt;事例：xStocksはどこまで需要を作れているか&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Tue, 16 Dec 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/zo4z82c2a094o738f4b5pzt1w98o/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
