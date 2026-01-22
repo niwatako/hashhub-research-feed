@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>【論考】予測市場は新しいメディアになり得るか</title>
+			<link>https://hashhub-research.com/articles/2026-01-23-prediction-markets-new-media</link>
+			<guid isPermaLink="false">2026-01-23-prediction-markets-new-media</guid>
+			<description>前提&lt;br /&gt;予測市場が新しいメディアであるとはどういうことか？&lt;br /&gt;「メディア」としての特徴と限界&lt;br /&gt;予測市場における「内部情報」と「顕在化」：インサイダー問題とその可視性&lt;br /&gt;マニピュレーションとバウンティ問題：予測か、誘導か？&lt;br /&gt;規制とモラル：なぜ公共的ルールが必要なのか&lt;br /&gt;予測市場の進化：ニュースとの統合、プラットフォーム連携、UI進化&lt;br /&gt;考察＆総括：なぜ今あえて「メディア論」として語るべきなのか&lt;br /&gt;</description>
+			<pubDate>Fri, 23 Jan 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/p4rn8li3dcfdhmut2wyneng08ylq/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>スタートアップ資金調達実務のオンチェーン再構成 ―― MetaLeXに見る証券・契約・資格確認の設計思想</title>
 			<link>https://hashhub-research.com/articles/2026-01-22-onchain-venture-finance-metalex</link>
 			<guid isPermaLink="false">2026-01-22-onchain-venture-finance-metalex</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;今週のインサイト&lt;br /&gt;今週1週間分のニュースを紹介&lt;br /&gt;</description>
 			<pubDate>Fri, 19 Dec 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/owoo9owusqx4jc2bukgt6nie6go8/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>トークン化ゴールドの市場動向、主要銘柄比較</title>
-			<link>https://hashhub-research.com/articles/2025-12-18-tokenized-gold</link>
-			<guid isPermaLink="false">2025-12-18-tokenized-gold</guid>
-			<description>トークン化ゴールドとは何か – 仕組みとメリット&lt;br /&gt;主要銘柄比較：XAUT・PAXG・ZPG&lt;br /&gt;日本国内での利用可能性&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 18 Dec 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/no0b8erx2yxfmxuoh8jb7ly98p0h/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
