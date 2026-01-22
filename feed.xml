@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>スタートアップ資金調達実務のオンチェーン再構成 ―― MetaLeXに見る証券・契約・資格確認の設計思想</title>
+			<link>https://hashhub-research.com/articles/2026-01-22-onchain-venture-finance-metalex</link>
+			<guid isPermaLink="false">2026-01-22-onchain-venture-finance-metalex</guid>
+			<description>全体像：MetaLeXが試みている三層構造&lt;br /&gt;総括：これは完成形ではなく「設計思想の提示」である&lt;br /&gt;</description>
+			<pubDate>Thu, 22 Jan 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/qb2w9ijkl1sho48a161ntwub6def/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Crypto Native Cash構想の整理―現金的UXをオンチェーン設計として再構成する試み―</title>
 			<link>https://hashhub-research.com/articles/2026-01-21-crypto-native-cash-design-experiment</link>
 			<guid isPermaLink="false">2026-01-21-crypto-native-cash-design-experiment</guid>
@@ -187,14 +195,6 @@
 			<description>トークン化ゴールドとは何か – 仕組みとメリット&lt;br /&gt;主要銘柄比較：XAUT・PAXG・ZPG&lt;br /&gt;日本国内での利用可能性&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 18 Dec 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/no0b8erx2yxfmxuoh8jb7ly98p0h/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>USDCxとは何か ―xReserveが実現する、一般的なブリッジでは満たしにくい機関向けUSDC展開方法</title>
-			<link>https://hashhub-research.com/articles/2025-12-17-what-is-usdcx-xreserve-institutional-usdc</link>
-			<guid isPermaLink="false">2025-12-17-what-is-usdcx-xreserve-institutional-usdc</guid>
-			<description>はじめに&lt;br /&gt;USDCxって何？&lt;br /&gt;USDCとUSDCxの違い──なぜブリッジでは足りないのか&lt;br /&gt;Deposit to Remoteでは何が起きているのか&lt;br /&gt;Withdrawは「1回で終わる送金」ではない&lt;br /&gt;総括：xReserveとUSDCxが示しているもの&lt;br /&gt;</description>
-			<pubDate>Wed, 17 Dec 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/z5p17k4jmw3rqzvih09fdocvucjq/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
