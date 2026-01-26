@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Web2.5という落とし穴についての備忘録 ― バックエンドとオンチェーンの「あいだ」で、なぜ事故は起きるのか ―</title>
+			<link>https://hashhub-research.com/articles/2026-01-27-web2-5-boundary-failure</link>
+			<guid isPermaLink="false">2026-01-27-web2-5-boundary-failure</guid>
+			<description></description>
+			<pubDate>Tue, 27 Jan 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/n9evcl6h7d20skvafa9ltliec9x6/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ムーンショットの終焉と実需回帰｜プラットフォーム依存の限界と再設計：リサーチチームが選ぶ今週の注目トピック 2026年1月26日号</title>
 			<link>https://hashhub-research.com/articles/2026-01-26-research-team-picks</link>
 			<guid isPermaLink="false">2026-01-26-research-team-picks</guid>
@@ -187,14 +195,6 @@
 			<description>Disruption Factorは、答えをくれる指標じゃない&lt;br /&gt;合計点は“目次”、本文はその右側にある&lt;br /&gt;DFは“未来予測”をしない。その代わり嘘をつきにくい&lt;br /&gt;7つの柱は「質問リスト」だと思うと読みやすい&lt;br /&gt;投資家・事業担当者にとっての正しい使いどころ&lt;br /&gt;</description>
 			<pubDate>Tue, 23 Dec 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/qb374ffhkgxpvt07w0gj657hdphl/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>グローバルマクロ投資の時代、その中でのビットコインの位置づけ</title>
-			<link>https://hashhub-research.com/articles/2025-12-22-globalmacro-and-bitcoin</link>
-			<guid isPermaLink="false">2025-12-22-globalmacro-and-bitcoin</guid>
-			<description>前提&lt;br /&gt;グローバルマクロ投資の時代でのビットコインの位置づけ&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Mon, 22 Dec 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/ilu2jzy1qpw205fqxy9rfpm9zd08/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
