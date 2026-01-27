@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>米国CLARITY(クラリティ)法案の攻防：「何をルールにするか」で割れる業界と議会</title>
+			<link>https://hashhub-research.com/articles/2026-01-27-clarity-act-2026</link>
+			<guid isPermaLink="false">2026-01-27-clarity-act-2026</guid>
+			<description>法案の骨格：SEC/CFTCの役割分担を法定しようとする枠組み&lt;br /&gt;なぜ停滞しているのか：3つの争点&lt;br /&gt;成立までに残されたプロセス&lt;br /&gt;業界内部の亀裂：Coinbaseとa16z&lt;br /&gt;規制当局の視点&lt;br /&gt;投資家保護の観点からの批判&lt;br /&gt;結論：「何をルールにするか」で割れる業界と議会&lt;br /&gt;参考資料&lt;br /&gt;</description>
+			<pubDate>Tue, 27 Jan 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/un5brvd5w96d936af7cf6r6e13x7/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Web2.5という落とし穴についての備忘録 ― バックエンドとオンチェーンの「あいだ」で、なぜ事故は起きるのか ―</title>
 			<link>https://hashhub-research.com/articles/2026-01-27-web2-5-boundary-failure</link>
 			<guid isPermaLink="false">2026-01-27-web2-5-boundary-failure</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;全体的な傾向など要点整理&lt;br /&gt;個人的に興味深い予測&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Wed, 24 Dec 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/evyi829iv6sj1b9jqyp7czbajktx/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Disruption Factorという「物差し」｜Messariが提示したL2評価フレームの読み解き方</title>
-			<link>https://hashhub-research.com/articles/2025-12-23-disruption-factor-messari-l2-framework</link>
-			<guid isPermaLink="false">2025-12-23-disruption-factor-messari-l2-framework</guid>
-			<description>Disruption Factorは、答えをくれる指標じゃない&lt;br /&gt;合計点は“目次”、本文はその右側にある&lt;br /&gt;DFは“未来予測”をしない。その代わり嘘をつきにくい&lt;br /&gt;7つの柱は「質問リスト」だと思うと読みやすい&lt;br /&gt;投資家・事業担当者にとっての正しい使いどころ&lt;br /&gt;</description>
-			<pubDate>Tue, 23 Dec 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/qb374ffhkgxpvt07w0gj657hdphl/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
