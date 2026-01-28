@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ZKsync「ロードマップ2026」を読む：L2は“金融インフラ”になれるのか</title>
+			<link>https://hashhub-research.com/articles/2026-01-29-zksync-roadmap-2026-financial-infrastructure</link>
+			<guid isPermaLink="false">2026-01-29-zksync-roadmap-2026-financial-infrastructure</guid>
+			<description>前提&lt;br /&gt;ZKsyncの2026年ロードマップの概要&lt;br /&gt;Ethereumにもたらし得るポジティブな効果&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Thu, 29 Jan 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/e07te16zqgao9v7plb3zylc84vp0/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>米国CLARITY(クラリティ)法案の攻防：「何をルールにするか」で割れる業界と議会</title>
 			<link>https://hashhub-research.com/articles/2026-01-27-clarity-act-2026</link>
 			<guid isPermaLink="false">2026-01-27-clarity-act-2026</guid>
@@ -187,14 +195,6 @@
 			<description>まず、Solanaの何がややこしかったのか&lt;br /&gt;Koraは、何をするための仕組みか&lt;br /&gt;実際の取引処理の流れはどうなっているのか&lt;br /&gt;どんな場面で使われそうか&lt;br /&gt;Koraが解決すること、しないこと&lt;br /&gt;まとめ&lt;br /&gt;</description>
 			<pubDate>Thu, 25 Dec 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/s14jz71b7zcq4ufltbfvh32f4kq1/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>年始所感の前に読む：2026年クリプト予測記事まとめ15選と論点整理</title>
-			<link>https://hashhub-research.com/articles/2025-12-24-crypto-2026-predictions-roundup</link>
-			<guid isPermaLink="false">2025-12-24-crypto-2026-predictions-roundup</guid>
-			<description>前提&lt;br /&gt;全体的な傾向など要点整理&lt;br /&gt;個人的に興味深い予測&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Wed, 24 Dec 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/evyi829iv6sj1b9jqyp7czbajktx/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
