@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ステーブルコインはどこへ向かうのか──Tetherの動きから見える次のフェーズ</title>
+			<link>https://hashhub-research.com/articles/2026-01-30-tether-stablecoin-next-phase</link>
+			<guid isPermaLink="false">2026-01-30-tether-stablecoin-next-phase</guid>
+			<description></description>
+			<pubDate>Fri, 30 Jan 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/v0e1nkg8feuflpzxpcsjtlria2i0/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ZKsync「ロードマップ2026」を読む：L2は“金融インフラ”になれるのか</title>
 			<link>https://hashhub-research.com/articles/2026-01-29-zksync-roadmap-2026-financial-infrastructure</link>
 			<guid isPermaLink="false">2026-01-29-zksync-roadmap-2026-financial-infrastructure</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;今週のインサイト&lt;br /&gt;今週1週間分のニュースを紹介&lt;br /&gt;</description>
 			<pubDate>Fri, 26 Dec 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/rk8ednryjc3xmzlsap9iwwcdo765/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>SolanaのKoraは何を変え、何を変えないのか――ガスレス体験の裏側にある仕組み</title>
-			<link>https://hashhub-research.com/articles/2025-12-25-solana-kora-what-changes-what-doesnt</link>
-			<guid isPermaLink="false">2025-12-25-solana-kora-what-changes-what-doesnt</guid>
-			<description>まず、Solanaの何がややこしかったのか&lt;br /&gt;Koraは、何をするための仕組みか&lt;br /&gt;実際の取引処理の流れはどうなっているのか&lt;br /&gt;どんな場面で使われそうか&lt;br /&gt;Koraが解決すること、しないこと&lt;br /&gt;まとめ&lt;br /&gt;</description>
-			<pubDate>Thu, 25 Dec 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/s14jz71b7zcq4ufltbfvh32f4kq1/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
