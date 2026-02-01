@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ナラティブから配管へ｜クリプトが金融OSになる条件：リサーチチームが選ぶ今週の注目トピック 2026年2月2日号</title>
+			<link>https://hashhub-research.com/articles/2026-02-02-research-team-picks</link>
+			<guid isPermaLink="false">2026-02-02-research-team-picks</guid>
+			<description>前提&lt;br /&gt;今週のインサイト&lt;br /&gt;今週1週間分のニュースを紹介&lt;br /&gt;</description>
+			<pubDate>Mon, 02 Feb 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/jyrxosbuiss9lt8nsqc09b6czgs1/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ステーブルコインはどこへ向かうのか──Tetherの動きから見える次のフェーズ</title>
 			<link>https://hashhub-research.com/articles/2026-01-30-tether-stablecoin-next-phase</link>
 			<guid isPermaLink="false">2026-01-30-tether-stablecoin-next-phase</guid>
@@ -187,14 +195,6 @@
 			<description>ブロックチェーンと公開鍵暗号&lt;br /&gt;「公開鍵暗号」とは？&lt;br /&gt;公開鍵暗号の仕組み&lt;br /&gt;なぜ公開鍵は安全なのか：計算量とP/NP問題&lt;br /&gt;公開鍵暗号と量子計算&lt;br /&gt;量子コンピュータはブロックチェーンを破壊できるのか&lt;br /&gt;補遺：RSA暗号の詳細&lt;br /&gt;参考文献&lt;br /&gt;</description>
 			<pubDate>Mon, 29 Dec 2025 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/gd7adgh0gn0v07d8j9jcnjdbt7fl/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>高FDVの終わり、選別の始まり｜配布が勝敗を決める2026：リサーチチームが選ぶ今週の注目トピック 2025年12月26日号</title>
-			<link>https://hashhub-research.com/articles/2025-12-26-research-team-picks</link>
-			<guid isPermaLink="false">2025-12-26-research-team-picks</guid>
-			<description>前提&lt;br /&gt;今週のインサイト&lt;br /&gt;今週1週間分のニュースを紹介&lt;br /&gt;</description>
-			<pubDate>Fri, 26 Dec 2025 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/rk8ednryjc3xmzlsap9iwwcdo765/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
