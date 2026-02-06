@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>【論考】予測市場が日本において公営ギャンブルとして認められるためには何が足りないのか</title>
+			<link>https://hashhub-research.com/articles/2026-02-06-prediction-markets-japan-public-gambling</link>
+			<guid isPermaLink="false">2026-02-06-prediction-markets-japan-public-gambling</guid>
+			<description>前提&lt;br /&gt;Paradigm社による予測市場ツール『Paradigm Predictions』の発表&lt;br /&gt;公営ギャンブルと予測市場の比較&lt;br /&gt;日本における制度的課題&lt;br /&gt;文化的・社会的障壁：ギャンブル観と世論の問題&lt;br /&gt;公的に許容されるための条件とは&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Fri, 06 Feb 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/n29czbm3tr8wh1epckf4777irghg/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>L2は「イーサリアムをスケールする存在」だけではなくなってきている — ヴィタリックの発言から見える、イーサリアムの役割再定義メモ —</title>
 			<link>https://hashhub-research.com/articles/2026-02-05-l2-spectrum-ethereum-role</link>
 			<guid isPermaLink="false">2026-02-05-l2-spectrum-ethereum-role</guid>
@@ -187,14 +195,6 @@
 			<description>DAPの中身：フロー図を読み解く&lt;br /&gt;発行減少時代への対応：DAPは「いつ使うか」と「どう配るか」を同時に設計する&lt;br /&gt;DOTへの影響：ここからが投資家向けの要点&lt;br /&gt;総括：DAPは「万能策」ではなく、設計思想を実装で試す道具&lt;br /&gt;</description>
 			<pubDate>Wed, 07 Jan 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/cjl254dika0alqiypslz9hlr2i8s/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>連載：予測市場の国内事業化を考える｜第3回：Web3予測市場プラットフォームのビジネスモデルの現状と展望</title>
-			<link>https://hashhub-research.com/articles/2026-01-06-prediction-markets-japan-domestic-business-03</link>
-			<guid isPermaLink="false">2026-01-06-prediction-markets-japan-domestic-business-03</guid>
-			<description>前提&lt;br /&gt;収益モデルの変遷：手数料、スプレッド、サブスクリプション&lt;br /&gt;トークンとエアドロップ：分散型予測市場のインセンティブ設計&lt;br /&gt;データのマネタイズとB2B展開：ICEとの提携が示す方向性&lt;br /&gt;日本国内での事業展開の壁と可能性&lt;br /&gt;考察＆総括&lt;br /&gt;</description>
-			<pubDate>Tue, 06 Jan 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/icl1xipuqllnoknmdrapy5kvu315/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
