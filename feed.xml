@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>L2時代の空気が変わった：ENSv2のL1展開が投げかけるEthereumスケーリング論</title>
+			<link>https://hashhub-research.com/articles/2026-02-11-ensv2-l1-deployment-ethereum-scaling-debate</link>
+			<guid isPermaLink="false">2026-02-11-ensv2-l1-deployment-ethereum-scaling-debate</guid>
+			<description>前提&lt;br /&gt;今回のENSv2の発表の概要&lt;br /&gt;Ethereum全体に与える影響を考察&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Wed, 11 Feb 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/n7owxz93440gzfijcrtt9h7i1pxa/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Safeを悪用した、スケール可能なアドレスポイズニング</title>
 			<link>https://hashhub-research.com/articles/2026-02-10-scalable-address-poisoning-using-safe</link>
 			<guid isPermaLink="false">2026-02-10-scalable-address-poisoning-using-safe</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;ビットコインがアセットクラスとしての次の段階に行くために何が必要か&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Mon, 12 Jan 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/b0n935q14xjkt2xm35329qo5t7fb/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>クリプトの産業化と選別の年｜NFT再定義と決済レールの現実化：リサーチチームが選ぶ今週の注目トピック 2026年1月9日号</title>
-			<link>https://hashhub-research.com/articles/2026-01-09-research-team-picks</link>
-			<guid isPermaLink="false">2026-01-09-research-team-picks</guid>
-			<description>前提&lt;br /&gt;今週のインサイト&lt;br /&gt;今週1週間分のニュースを紹介&lt;br /&gt;</description>
-			<pubDate>Fri, 09 Jan 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/5atuqyc6coqaag5baspxgrxa0hvb/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
