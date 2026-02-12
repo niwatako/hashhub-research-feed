@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>USDCの現在地 2026――発行規模・規制対応・収益構造から読み解く競争戦略</title>
+			<link>https://hashhub-research.com/articles/2026-02-13-usdc-2026-analysis</link>
+			<guid isPermaLink="false">2026-02-13-usdc-2026-analysis</guid>
+			<description>USDCとは何か：仕組みと裏付け資産&lt;br /&gt;発行残高はなぜ増えているのか&lt;br /&gt;USDCはどこで戦っているのか――規制対応と実需拡大の現在地&lt;br /&gt;統括&lt;br /&gt;</description>
+			<pubDate>Fri, 13 Feb 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/jzk2sl84n426a6klvyhcgr2uud7x/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ERC-8128を読み解く──ERC-8004の先にある通信認証の設計</title>
 			<link>https://hashhub-research.com/articles/2026-02-12-erc-8128-communication-authentication</link>
 			<guid isPermaLink="false">2026-02-12-erc-8128-communication-authentication</guid>
@@ -187,14 +195,6 @@
 			<description>【前編】NFT市場はどこまで冷え込んだのか —— Ethereumを軸に12月〜1月初旬の動きを見る&lt;br /&gt;【後編】RTFKT売却の背景：ナイキの決断とCloneXに見る選別の現象&lt;br /&gt;</description>
 			<pubDate>Wed, 14 Jan 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/q52lck7eglhghk7kddmpc6ns47ah/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ライトコイン（LTC）とは何か ──市場に残り続ける暗号資産の設計と立ち位置</title>
-			<link>https://hashhub-research.com/articles/2026-01-13-what-is-litecoin</link>
-			<guid isPermaLink="false">2026-01-13-what-is-litecoin</guid>
-			<description>ライトコインは何者なのか&lt;br /&gt;なぜ価格は伸びにくいのか― 材料と値動きのズレを整理する&lt;br /&gt;</description>
-			<pubDate>Tue, 13 Jan 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/tmtze8xm6rb3yiwud41sijsf72g6/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
