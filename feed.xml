@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Moonwell cbETHオラクル誤設定インシデント分析―不良債権を生んだ「止まらない設計」とAI時代のDeFi開発リスク―</title>
+			<link>https://hashhub-research.com/articles/2026-02-20-moonwell-cbeth-oracle-incident-analysis</link>
+			<guid isPermaLink="false">2026-02-20-moonwell-cbeth-oracle-incident-analysis</guid>
+			<description>1. 前提：DeFiレンディングにおける“価格”の役割&lt;br /&gt;2. タイムライン：何がいつ起きたのか&lt;br /&gt;3. 被害の構造：何がどのように焦げ付いたか&lt;br /&gt;4. 何が問題だったのか：ミスの本質は「計算式」＋「止められない設計」&lt;br /&gt;5. どうやって損失が生まれたか：2つの“起き方”を分けると理解が速い&lt;br /&gt;6. 「AIエージェントが原因か」という論点&lt;br /&gt;7. 総括：オラクルは“単発ミス”ではなく構造リスクとして現れる&lt;br /&gt;</description>
+			<pubDate>Fri, 20 Feb 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/zu0lzoqjznok4ptl79xlltwnovez/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Coinbase 2025年通期＋第4四半期 Shareholder Letterを読む</title>
 			<link>https://hashhub-research.com/articles/2026-02-19-coinbase-2025-q4-shareholder-letter-analysis</link>
 			<guid isPermaLink="false">2026-02-19-coinbase-2025-q4-shareholder-letter-analysis</guid>
@@ -187,14 +195,6 @@
 			<description>はじめに：この構想をどういう前提で読むか&lt;br /&gt;Crypto Native Cashの基本構想：何を「現金」に近づけようとしているのか&lt;br /&gt;三つの鍵によるガバナンス設計：現金とアカウントの中間&lt;br /&gt;移動・紛失・破壊という考え方：価値の移動を一種類にしない設計&lt;br /&gt;設計実験としてのCrypto Native Cash：用途ではなく構造から考える&lt;br /&gt;</description>
 			<pubDate>Wed, 21 Jan 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/5u69dbsm3aij3ma814v962ph83wl/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>XのAPI停止で何が起きたのか――InfoFiをめぐる事業判断の整理</title>
-			<link>https://hashhub-research.com/articles/2026-01-20-x-api-shutdown-infofi-business-decision</link>
-			<guid isPermaLink="false">2026-01-20-x-api-shutdown-infofi-business-decision</guid>
-			<description>XのAPI停止とInfoFiモデルの成立背景&lt;br /&gt;API停止後に起きた市場と事業判断の再整理&lt;br /&gt;InfoFi崩壊が示した構造的な問題と今後の示唆&lt;br /&gt;</description>
-			<pubDate>Tue, 20 Jan 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/op3pbriks7aw9z72zi2v790krgjv/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
