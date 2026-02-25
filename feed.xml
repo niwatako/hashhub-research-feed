@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Aptosトークノミクスアップデート解説― パフォーマンス連動型モデルへの転換とその含意 ―</title>
+			<link>https://hashhub-research.com/articles/2026-02-26-aptos-tokenomics-update-explained</link>
+			<guid isPermaLink="false">2026-02-26-aptos-tokenomics-update-explained</guid>
+			<description>今回のアップデートの全体像&lt;br /&gt;背景：なぜ今この転換が必要なのか&lt;br /&gt;具体的な変更内容とその意味&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Thu, 26 Feb 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/4nykmkwvrtfdhgivtj2fy73p7zk1/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>香港出張報告②　伝統金融の静かな焦燥と構造変化の行方</title>
 			<link>https://hashhub-research.com/articles/2026-02-25-hong-kong-report-02</link>
 			<guid isPermaLink="false">2026-02-25-hong-kong-report-02</guid>
@@ -187,14 +195,6 @@
 			<description></description>
 			<pubDate>Tue, 27 Jan 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/n9evcl6h7d20skvafa9ltliec9x6/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ムーンショットの終焉と実需回帰｜プラットフォーム依存の限界と再設計：リサーチチームが選ぶ今週の注目トピック 2026年1月26日号</title>
-			<link>https://hashhub-research.com/articles/2026-01-26-research-team-picks</link>
-			<guid isPermaLink="false">2026-01-26-research-team-picks</guid>
-			<description>前提&lt;br /&gt;今週のインサイト&lt;br /&gt;今週1週間分のニュースを紹介&lt;br /&gt;</description>
-			<pubDate>Mon, 26 Jan 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/yfrzluqawhy30jy523o83hjbq36n/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
