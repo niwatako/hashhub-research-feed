@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Ethereum L1強化はETH価格にどう作用するか：zkEVM統合のロードマップと経済的影響</title>
+			<link>https://hashhub-research.com/articles/2026-03-03-eth-zkevm-roadmap-2026</link>
+			<guid isPermaLink="false">2026-03-03-eth-zkevm-roadmap-2026</guid>
+			<description>L1 zkEVM統合：何が変わるのか&lt;br /&gt;L1スループット向上がburnに与える2つの経路&lt;br /&gt;楽観シナリオが崩れる3つの条件&lt;br /&gt;結論：現在の市場評価と注目すべき転換点&lt;br /&gt;参考文献&lt;br /&gt;</description>
+			<pubDate>Tue, 03 Mar 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/me4yfx2uvpekscn0whwkja1r39rb/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>エージェント決済の主戦場はB2Bへ｜ステーブルコインが“請求と与信”を飲み込む：リサーチチームが選ぶ今週の注目トピック 2026年3月2日号</title>
 			<link>https://hashhub-research.com/articles/2026-03-02-research-team-picks</link>
 			<guid isPermaLink="false">2026-03-02-research-team-picks</guid>
@@ -187,14 +195,6 @@
 			<description></description>
 			<pubDate>Fri, 30 Jan 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/v0e1nkg8feuflpzxpcsjtlria2i0/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ZKsync「ロードマップ2026」を読む：L2は“金融インフラ”になれるのか</title>
-			<link>https://hashhub-research.com/articles/2026-01-29-zksync-roadmap-2026-financial-infrastructure</link>
-			<guid isPermaLink="false">2026-01-29-zksync-roadmap-2026-financial-infrastructure</guid>
-			<description>前提&lt;br /&gt;ZKsyncの2026年ロードマップの概要&lt;br /&gt;Ethereumにもたらし得るポジティブな効果&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 29 Jan 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/e07te16zqgao9v7plb3zylc84vp0/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
