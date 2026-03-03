@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Bitcoin現状分析 2026年3月｜「底」でも「天井」でもない。 オンチェーンデータが示す3つのシグナルと、一つの異変。</title>
+			<link>https://hashhub-research.com/articles/2026-03-03-btc-onchain-signals-2026-03</link>
+			<guid isPermaLink="false">2026-03-03-btc-onchain-signals-2026-03</guid>
+			<description></description>
+			<pubDate>Tue, 03 Mar 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/rrooq89ebm6933gklcdihogh5kdu/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Ethereum L1強化はETH価格にどう作用するか：zkEVM統合のロードマップと経済的影響</title>
 			<link>https://hashhub-research.com/articles/2026-03-03-eth-zkevm-roadmap-2026</link>
 			<guid isPermaLink="false">2026-03-03-eth-zkevm-roadmap-2026</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;今週のインサイト&lt;br /&gt;今週1週間分のニュースを紹介&lt;br /&gt;</description>
 			<pubDate>Mon, 02 Feb 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/jyrxosbuiss9lt8nsqc09b6czgs1/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ステーブルコインはどこへ向かうのか──Tetherの動きから見える次のフェーズ</title>
-			<link>https://hashhub-research.com/articles/2026-01-30-tether-stablecoin-next-phase</link>
-			<guid isPermaLink="false">2026-01-30-tether-stablecoin-next-phase</guid>
-			<description></description>
-			<pubDate>Fri, 30 Jan 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/v0e1nkg8feuflpzxpcsjtlria2i0/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
