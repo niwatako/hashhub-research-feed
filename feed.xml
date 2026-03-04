@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>AIにとっての『自然な市場』はどこにあるのか？</title>
+			<link>https://hashhub-research.com/articles/2026-03-05-ai-natural-market-assets-vs-information</link>
+			<guid isPermaLink="false">2026-03-05-ai-natural-market-assets-vs-information</guid>
+			<description></description>
+			<pubDate>Thu, 05 Mar 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/fp8o8hczex03xjp0jv6t9sqciu82/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Ethereumの『構造的価値』への試練｜ETH価格低迷は、循環的下落か、構造的価値毀損か</title>
 			<link>https://hashhub-research.com/articles/2026-03-04-ethereum-structural-value-vs-cyclical-downturn</link>
 			<guid isPermaLink="false">2026-03-04-ethereum-structural-value-vs-cyclical-downturn</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;FRB新議長候補に関してマーケット参加者としての筆者見解&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Tue, 03 Feb 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/lg0la06c81c2nfe54wuvv4nmkr47/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Solana(SOL)の現状：R3 Corda提携、TradFiとDeFiをつなぐ戦略的ハイブリッド構造</title>
-			<link>https://hashhub-research.com/articles/2026-02-03-solana-r3-corda-tradfi-defi</link>
-			<guid isPermaLink="false">2026-02-03-solana-r3-corda-tradfi-defi</guid>
-			<description>Corda ProtocolとCordaマーケットプレイスの概要&lt;br /&gt;Corda Protocolの位置づけ&lt;br /&gt;提携の背景と戦略的狙い&lt;br /&gt;TradFiとDeFiを接続するハイブリッド構造&lt;br /&gt;結論&lt;br /&gt;</description>
-			<pubDate>Tue, 03 Feb 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/j8tng3qa7ylvjnbhsrh60642okna/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
