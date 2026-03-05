@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>BIP-110を巡る論争― 提案の中身と、その背後にある設計思想 ―</title>
+			<link>https://hashhub-research.com/articles/2026-03-06-bip110-bitcoin-analysis-governance-ordinals</link>
+			<guid isPermaLink="false">2026-03-06-bip110-bitcoin-analysis-governance-ordinals</guid>
+			<description>BIP-110とは何か：仕様として何をしているのか&lt;br /&gt;なぜ「合意形成の方法」まで変えているのか&lt;br /&gt;なぜこのような設計になっているのか&lt;br /&gt;論争の焦点：何が争われているのか&lt;br /&gt;総括：BIP-110が突きつけているもの&lt;br /&gt;</description>
+			<pubDate>Fri, 06 Mar 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/tuj4hgwn2dpyzfgfoqoxra88t3y1/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>AIにとっての『自然な市場』はどこにあるのか？</title>
 			<link>https://hashhub-research.com/articles/2026-03-05-ai-natural-market-assets-vs-information</link>
 			<guid isPermaLink="false">2026-03-05-ai-natural-market-assets-vs-information</guid>
@@ -187,14 +195,6 @@
 			<description>【前編】NFT市場は止まっているのか —— Ethereumを軸に1月の動きを見る&lt;br /&gt;【後編】&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Wed, 04 Feb 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/cg0cyslpallbfqvmhrz5zm28zi7h/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>暗号資産とゴールドの急落、FRB新議長候補に関する見解</title>
-			<link>https://hashhub-research.com/articles/2026-02-03-perspectives-on-the-new-fed-chair</link>
-			<guid isPermaLink="false">2026-02-03-perspectives-on-the-new-fed-chair</guid>
-			<description>前提&lt;br /&gt;FRB新議長候補に関してマーケット参加者としての筆者見解&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Tue, 03 Feb 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/lg0la06c81c2nfe54wuvv4nmkr47/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
