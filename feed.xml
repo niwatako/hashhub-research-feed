@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ERC-8183に見るEthereumのAI時代戦略: 信頼と分散性を支える商業レイヤーの構築</title>
+			<link>https://hashhub-research.com/articles/2026-03-12-ethereum-ai-strategy-erc-8183</link>
+			<guid isPermaLink="false">2026-03-12-ethereum-ai-strategy-erc-8183</guid>
+			<description>前提&lt;br /&gt;信頼が鍵となるAIエージェント経済&lt;br /&gt;Ethereumによる信頼と商取引の標準化&lt;br /&gt;「AIエージェント時代の商業レイヤー」を担う意義&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Thu, 12 Mar 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/j2t0soqqf9c5cr4879njk70jl7zs/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Lobstar送金事故レポート ―AIエージェント環境における数値解釈ミスと資金移動リスク―</title>
 			<link>https://hashhub-research.com/articles/2026-03-10-lobstar-ai-agent-transfer-bug</link>
 			<guid isPermaLink="false">2026-03-10-lobstar-ai-agent-transfer-bug</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;今週のインサイト&lt;br /&gt;今週1週間分のニュースを紹介&lt;br /&gt;</description>
 			<pubDate>Mon, 09 Feb 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/kflphmq4i6o4ug1wnbkox67j0q75/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>【論考】予測市場が日本において公営ギャンブルとして認められるためには何が足りないのか</title>
-			<link>https://hashhub-research.com/articles/2026-02-06-prediction-markets-japan-public-gambling</link>
-			<guid isPermaLink="false">2026-02-06-prediction-markets-japan-public-gambling</guid>
-			<description>前提&lt;br /&gt;Paradigm社による予測市場ツール『Paradigm Predictions』の発表&lt;br /&gt;公営ギャンブルと予測市場の比較&lt;br /&gt;日本における制度的課題&lt;br /&gt;文化的・社会的障壁：ギャンブル観と世論の問題&lt;br /&gt;公的に許容されるための条件とは&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 06 Feb 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/n29czbm3tr8wh1epckf4777irghg/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
