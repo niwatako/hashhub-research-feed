@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>AI時代の信頼インフラ｜検証の時代に浮上するクリプトの実需：リサーチチームが選ぶ今週の注目トピック 2026年3月16日号</title>
+			<link>https://hashhub-research.com/articles/2026-03-16-research-team-picks</link>
+			<guid isPermaLink="false">2026-03-16-research-team-picks</guid>
+			<description>前提&lt;br /&gt;今週のインサイト&lt;br /&gt;今週1週間分のニュースを紹介&lt;br /&gt;</description>
+			<pubDate>Mon, 16 Mar 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/e44tg5btc3s64ksottjlykotk3lf/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>カントンコイン（CC）入門解説｜直近の価格動向・オンチェーン実績・将来価格</title>
 			<link>https://hashhub-research.com/articles/2026-03-13-canton-coin-beginner</link>
 			<guid isPermaLink="false">2026-03-13-canton-coin-beginner</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;今回のENSv2の発表の概要&lt;br /&gt;Ethereum全体に与える影響を考察&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Wed, 11 Feb 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/n7owxz93440gzfijcrtt9h7i1pxa/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Safeを悪用した、スケール可能なアドレスポイズニング</title>
-			<link>https://hashhub-research.com/articles/2026-02-10-scalable-address-poisoning-using-safe</link>
-			<guid isPermaLink="false">2026-02-10-scalable-address-poisoning-using-safe</guid>
-			<description></description>
-			<pubDate>Tue, 10 Feb 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/pl6owpf53ounk0ndpwn0y16ghp5k/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
