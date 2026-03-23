@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>【論考】予測市場における「インサイダー問題」は悪なのか、機能なのか</title>
+			<link>https://hashhub-research.com/articles/2026-03-24-insider-trading-prediction-markets</link>
+			<guid isPermaLink="false">2026-03-24-insider-trading-prediction-markets</guid>
+			<description>前提&lt;br /&gt;まず「インサイダー」とは何かを定義する&lt;br /&gt;予測市場にインサイダーが入りやすい理由&lt;br /&gt;それでも「機能」だと言える論点&lt;br /&gt;しかし「悪」として放置できない論点も&lt;br /&gt;解決策は「根絶」ではなく「被害を最小化する設計」&lt;br /&gt;日本で議論するときの論点整理&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Tue, 24 Mar 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/bzzexfwnozq5u25ihrc6mqxwyzqj/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Resolv USR崩壊解剖——$25Mを奪った計画的攻撃とDeFiセキュリティの盲点</title>
 			<link>https://hashhub-research.com/articles/2026-03-23-resolv-usr-hack-defi-security</link>
 			<guid isPermaLink="false">2026-03-23-resolv-usr-hack-defi-security</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;今週のインサイト&lt;br /&gt;今週1週間分のニュースを紹介&lt;br /&gt;</description>
 			<pubDate>Mon, 23 Feb 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/m2ln105cl76sugjj9zf91sznqic5/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Moonwell cbETHオラクル誤設定インシデント分析―不良債権を生んだ「止まらない設計」とAI時代のDeFi開発リスク―</title>
-			<link>https://hashhub-research.com/articles/2026-02-20-moonwell-cbeth-oracle-incident-analysis</link>
-			<guid isPermaLink="false">2026-02-20-moonwell-cbeth-oracle-incident-analysis</guid>
-			<description>1. 前提：DeFiレンディングにおける“価格”の役割&lt;br /&gt;2. タイムライン：何がいつ起きたのか&lt;br /&gt;3. 被害の構造：何がどのように焦げ付いたか&lt;br /&gt;4. 何が問題だったのか：ミスの本質は「計算式」＋「止められない設計」&lt;br /&gt;5. どうやって損失が生まれたか：2つの“起き方”を分けると理解が速い&lt;br /&gt;6. 「AIエージェントが原因か」という論点&lt;br /&gt;7. 総括：オラクルは“単発ミス”ではなく構造リスクとして現れる&lt;br /&gt;</description>
-			<pubDate>Fri, 20 Feb 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/zu0lzoqjznok4ptl79xlltwnovez/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
