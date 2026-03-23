@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Resolv USR崩壊解剖——$25Mを奪った計画的攻撃とDeFiセキュリティの盲点</title>
+			<link>https://hashhub-research.com/articles/2026-03-23-resolv-usr-hack-defi-security</link>
+			<guid isPermaLink="false">2026-03-23-resolv-usr-hack-defi-security</guid>
+			<description>1. Resolv USRとRLPの仕組み&lt;br /&gt;2. 攻撃の全容——80分間の記録&lt;br /&gt;3. 考察——設計の問題か、前提の問題か&lt;br /&gt;</description>
+			<pubDate>Mon, 23 Mar 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/6b0zn9h7r7krqhp22uyoc3cvegvj/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>標準化が始まる実務インフラ競争｜クリプトとAIの実装競争：リサーチチームが選ぶ今週の注目トピック 2026年3月23日号</title>
 			<link>https://hashhub-research.com/articles/2026-03-23-research-team-picks</link>
 			<guid isPermaLink="false">2026-03-23-research-team-picks</guid>
@@ -187,14 +195,6 @@
 			<description>1. 前提：DeFiレンディングにおける“価格”の役割&lt;br /&gt;2. タイムライン：何がいつ起きたのか&lt;br /&gt;3. 被害の構造：何がどのように焦げ付いたか&lt;br /&gt;4. 何が問題だったのか：ミスの本質は「計算式」＋「止められない設計」&lt;br /&gt;5. どうやって損失が生まれたか：2つの“起き方”を分けると理解が速い&lt;br /&gt;6. 「AIエージェントが原因か」という論点&lt;br /&gt;7. 総括：オラクルは“単発ミス”ではなく構造リスクとして現れる&lt;br /&gt;</description>
 			<pubDate>Fri, 20 Feb 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/zu0lzoqjznok4ptl79xlltwnovez/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Coinbase 2025年通期＋第4四半期 Shareholder Letterを読む</title>
-			<link>https://hashhub-research.com/articles/2026-02-19-coinbase-2025-q4-shareholder-letter-analysis</link>
-			<guid isPermaLink="false">2026-02-19-coinbase-2025-q4-shareholder-letter-analysis</guid>
-			<description>1. エグゼクティブ・サマリー&lt;br /&gt;2. まず押さえるべき全体像：2025年は「規模拡大」と「収益構造の変化」が同時進行&lt;br /&gt;3. 2025年Q4の実態：減収・赤字だが「どこが原因か」を分解する&lt;br /&gt;4. 収益ドライバーの分解：取引収益は“量”より“単価とミックス”が効く&lt;br /&gt;5. Subscription and Servicesの伸長：ステーブルコインが“第二の柱”になった&lt;br /&gt;6. コスト構造：伸びたのはどこか、なぜ増えたのか&lt;br /&gt;7. 資本政策と流動性：株式買戻しと“キャッシュの厚み”&lt;br /&gt;8. プロダクト戦略：Everything Exchange、ステーブルコイン＆決済、オンチェーン（Base）&lt;br /&gt;9. 2026年の見通し：ガイダンスが示す“逆風”と“管理指標”&lt;br /&gt;10. 考察：収益構造の転換と評価ギャップの同時進行&lt;br /&gt;</description>
-			<pubDate>Thu, 19 Feb 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/ctv09tr51hb0fzua7b605xs1jhtx/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
