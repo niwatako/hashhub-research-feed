@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>FATF 2026年ステーブルコイン・アンホステッドウォレット規制レポートから見る日本の暗号資産事業者・コンプライアンス実務への示唆</title>
+			<link>https://hashhub-research.com/articles/2026-03-25-fatf-stablecoin-unhosted-wallet-japan-implications-2026-03</link>
+			<guid isPermaLink="false">2026-03-25-fatf-stablecoin-unhosted-wallet-japan-implications-2026-03</guid>
+			<description>前提&lt;br /&gt;ステーブルコインの不正利用実態：84%が示す構造的リスク&lt;br /&gt;アンホステッドウォレット・P2P取引：規制の「空白地帯」&lt;br /&gt;FATFが示すGood Practices：発行者・VASP・当局に求められる対応&lt;br /&gt;日本の暗号資産事業者への示唆：JVCEA・金融庁規制とFATFの接続点&lt;br /&gt;総括：FATFレポートが示す規制強化の方向と事業者の優先アクション&lt;br /&gt;</description>
+			<pubDate>Wed, 25 Mar 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/wq0dfisyznbr1hll2grcn99u0jfo/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>【論考】予測市場における「インサイダー問題」は悪なのか、機能なのか</title>
 			<link>https://hashhub-research.com/articles/2026-03-24-insider-trading-prediction-markets</link>
 			<guid isPermaLink="false">2026-03-24-insider-trading-prediction-markets</guid>
@@ -187,14 +195,6 @@
 			<description>エグゼクティブサマリ&lt;br /&gt;1. 規制の現在地——三条件の進展と限界&lt;br /&gt;2. 利回りの実態——二重控除の構造&lt;br /&gt;3. 運用リスクと契約設計&lt;br /&gt;4. 競合比較&lt;br /&gt;5. 日本への示唆&lt;br /&gt;結論&lt;br /&gt;参考文献&lt;br /&gt;</description>
 			<pubDate>Tue, 24 Feb 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/yehykw6wgnaiym3aj5oquade47q7/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>スケールの次は“壊れない設計”｜予測市場の「賭け」から「保険」へ：リサーチチームが選ぶ今週の注目トピック 2026年2月23日号</title>
-			<link>https://hashhub-research.com/articles/2026-02-23-research-team-picks</link>
-			<guid isPermaLink="false">2026-02-23-research-team-picks</guid>
-			<description>前提&lt;br /&gt;今週のインサイト&lt;br /&gt;今週1週間分のニュースを紹介&lt;br /&gt;</description>
-			<pubDate>Mon, 23 Feb 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/m2ln105cl76sugjj9zf91sznqic5/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
