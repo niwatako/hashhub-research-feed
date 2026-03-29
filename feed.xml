@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>決済・利回り・RWAの実務インフラ闘争｜ステーブルコイン覇権と実装力の時代：リサーチチームが選ぶ今週の注目トピック 2026年3月30日号</title>
+			<link>https://hashhub-research.com/articles/2026-03-30-research-team-picks</link>
+			<guid isPermaLink="false">2026-03-30-research-team-picks</guid>
+			<description>前提&lt;br /&gt;今週のインサイト&lt;br /&gt;今週1週間分のニュースを紹介&lt;br /&gt;</description>
+			<pubDate>Mon, 30 Mar 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/oi78jp5ghc5bzynmkd2nxekgmyk3/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ステーブルコイン普及で銀行預金は流出するのか？米国主要試算の比較と日本実務への接続</title>
 			<link>https://hashhub-research.com/articles/2026-03-27-stablecoin-bank-deposit-risk-japan</link>
 			<guid isPermaLink="false">2026-03-27-stablecoin-bank-deposit-risk-japan</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;最近のビットコイン価格の下落に関する複合的要因&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Fri, 27 Feb 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/9t1vj0hojo0vxgxpmb6d32usn1gb/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Aptosトークノミクスアップデート解説― パフォーマンス連動型モデルへの転換とその含意 ―</title>
-			<link>https://hashhub-research.com/articles/2026-02-26-aptos-tokenomics-update-explained</link>
-			<guid isPermaLink="false">2026-02-26-aptos-tokenomics-update-explained</guid>
-			<description>今回のアップデートの全体像&lt;br /&gt;背景：なぜ今この転換が必要なのか&lt;br /&gt;具体的な変更内容とその意味&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 26 Feb 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/4nykmkwvrtfdhgivtj2fy73p7zk1/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
