@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>量子コンピュータとビットコインウォレットの基礎知識：「あなたのウォレットは今日、安全か」を正確に答えるために｜歴史から学ぶ個人投資家のため【入門ガイド】</title>
+			<link>https://hashhub-research.com/articles/2026-03-31-bitcoin-quantum-wallet-risk</link>
+			<guid isPermaLink="false">2026-03-31-bitcoin-quantum-wallet-risk</guid>
+			<description>1.はじめに：「量子コンピュータがビットコインを破る」は本当か&lt;br /&gt;2. 量子コンピュータの歴史：理論から現実へ&lt;br /&gt;3. なぜビットコインが標的になりうるのか：楕円曲線暗号とShorアルゴリズム&lt;br /&gt;4. 重要：すべてのウォレットが脆弱なわけではない&lt;br /&gt;5. Bitcoinコミュニティの対応：開発者は「無視」していない&lt;br /&gt;6. 今日からできる自衛策：4つの行動指針&lt;br /&gt;7. 総括&lt;br /&gt;</description>
+			<pubDate>Tue, 31 Mar 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/8nhkhx08mkhh87qhtzljoxs9mbyy/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>決済・利回り・RWAの実務インフラ闘争｜ステーブルコイン覇権と実装力の時代：リサーチチームが選ぶ今週の注目トピック 2026年3月30日号</title>
 			<link>https://hashhub-research.com/articles/2026-03-30-research-team-picks</link>
 			<guid isPermaLink="false">2026-03-30-research-team-picks</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;今週のインサイト&lt;br /&gt;今週1週間分のニュースを紹介&lt;br /&gt;</description>
 			<pubDate>Mon, 02 Mar 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/93zif4riqbteb4zvtjagdehc7kp2/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>最近のビットコイン価格の下落についての見解</title>
-			<link>https://hashhub-research.com/articles/2026-02-27-market-thought</link>
-			<guid isPermaLink="false">2026-02-27-market-thought</guid>
-			<description>前提&lt;br /&gt;最近のビットコイン価格の下落に関する複合的要因&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 27 Feb 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/9t1vj0hojo0vxgxpmb6d32usn1gb/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
