@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Berachain（BERA）の現在地：Proof of Liquidityの実証と今後のシナリオ</title>
+			<link>https://hashhub-research.com/articles/2026-04-02-state-of-berachain-pol</link>
+			<guid isPermaLink="false">2026-04-02-state-of-berachain-pol</guid>
+			<description>はじめに&lt;br /&gt;PoLという実験：設計の理論と期待&lt;br /&gt;メインネット後の急減速：TVL・収益・価格の実態（2025-2026）&lt;br /&gt;なぜPoLは期待に応えられなかったか&lt;br /&gt;結論：PoLの現在地と回復の条件&lt;br /&gt;</description>
+			<pubDate>Thu, 02 Apr 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/uwn9q5nw37dxk4ar5krzvg2eyzgd/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ゴールド価格の下落要因を機会に安全資産・準備資産の概念を点検する</title>
 			<link>https://hashhub-research.com/articles/2026-04-01-reserve-asset</link>
 			<guid isPermaLink="false">2026-04-01-reserve-asset</guid>
@@ -187,14 +195,6 @@
 			<description></description>
 			<pubDate>Tue, 03 Mar 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/rrooq89ebm6933gklcdihogh5kdu/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Ethereum L1強化はETH価格にどう作用するか：zkEVM統合のロードマップと経済的影響</title>
-			<link>https://hashhub-research.com/articles/2026-03-03-eth-zkevm-roadmap-2026</link>
-			<guid isPermaLink="false">2026-03-03-eth-zkevm-roadmap-2026</guid>
-			<description>L1 zkEVM統合：何が変わるのか&lt;br /&gt;L1スループット向上がburnに与える2つの経路&lt;br /&gt;楽観シナリオが崩れる3つの条件&lt;br /&gt;結論：現在の市場評価と注目すべき転換点&lt;br /&gt;参考文献&lt;br /&gt;</description>
-			<pubDate>Tue, 03 Mar 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/me4yfx2uvpekscn0whwkja1r39rb/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
