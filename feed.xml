@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Aave v4：ハブ&amp;スポーク設計の全貌と、初動のオンチェーン実態</title>
+			<link>https://hashhub-research.com/articles/2026-04-03-aave-v4-hub-spoke-modular-lending</link>
+			<guid isPermaLink="false">2026-04-03-aave-v4-hub-spoke-modular-lending</guid>
+			<description></description>
+			<pubDate>Fri, 03 Apr 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/l5itobb8lrp8ugd1cr8wua6uxdlz/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Berachain（BERA）の現在地：Proof of Liquidityの実証と今後のシナリオ</title>
 			<link>https://hashhub-research.com/articles/2026-04-02-state-of-berachain-pol</link>
 			<guid isPermaLink="false">2026-04-02-state-of-berachain-pol</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;「循環」と「構造」の違いを整理&lt;br /&gt;循環的下落を示唆する指標と現象&lt;br /&gt;構造的価値毀損を示唆する指標と現象&lt;br /&gt;観測と判断のための視点&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Wed, 04 Mar 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/lsmstqcsnzmefd7tjb10da7bmvja/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Bitcoin現状分析 2026年3月｜「底」でも「天井」でもない。 各種指標が示す3つのシグナルと、一つの異変。</title>
-			<link>https://hashhub-research.com/articles/2026-03-03-btc-onchain-signals-2026-03</link>
-			<guid isPermaLink="false">2026-03-03-btc-onchain-signals-2026-03</guid>
-			<description></description>
-			<pubDate>Tue, 03 Mar 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/rrooq89ebm6933gklcdihogh5kdu/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
