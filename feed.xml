@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ヨーロッパ最大の暗号資産運用会社CoinSharesの分析</title>
+			<link>https://hashhub-research.com/articles/2026-04-04-coinshares</link>
+			<guid isPermaLink="false">2026-04-04-coinshares</guid>
+			<description>前提&lt;br /&gt;同社の事業・収益&lt;br /&gt;業績とバリュエーション&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Sat, 04 Apr 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/por9q733n04umv6lngj6sj5nt26a/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Aave v4：ハブ&amp;スポーク設計の全貌と、初動のオンチェーン実態</title>
 			<link>https://hashhub-research.com/articles/2026-04-03-aave-v4-hub-spoke-modular-lending</link>
 			<guid isPermaLink="false">2026-04-03-aave-v4-hub-spoke-modular-lending</guid>
@@ -187,14 +195,6 @@
 			<description></description>
 			<pubDate>Thu, 05 Mar 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/fp8o8hczex03xjp0jv6t9sqciu82/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Ethereumの『構造的価値』への試練｜ETH価格低迷は、循環的下落か、構造的価値毀損か</title>
-			<link>https://hashhub-research.com/articles/2026-03-04-ethereum-structural-value-vs-cyclical-downturn</link>
-			<guid isPermaLink="false">2026-03-04-ethereum-structural-value-vs-cyclical-downturn</guid>
-			<description>前提&lt;br /&gt;「循環」と「構造」の違いを整理&lt;br /&gt;循環的下落を示唆する指標と現象&lt;br /&gt;構造的価値毀損を示唆する指標と現象&lt;br /&gt;観測と判断のための視点&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Wed, 04 Mar 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/lsmstqcsnzmefd7tjb10da7bmvja/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
