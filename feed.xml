@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ステーブルコイン多極化とウォール街のオンチェーン移行：リサーチチームが選ぶ今週の注目トピック 2026年4月6日号</title>
+			<link>https://hashhub-research.com/articles/2026-04-06-research-team-picks</link>
+			<guid isPermaLink="false">2026-04-06-research-team-picks</guid>
+			<description>前提&lt;br /&gt;今週のインサイト&lt;br /&gt;今週1週間分のニュースを紹介&lt;br /&gt;</description>
+			<pubDate>Mon, 06 Apr 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/g7r4bphqknohsbr6o19wxf7h00lj/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ヨーロッパ最大の暗号資産運用会社CoinSharesの分析</title>
 			<link>https://hashhub-research.com/articles/2026-04-04-coinshares</link>
 			<guid isPermaLink="false">2026-04-04-coinshares</guid>
@@ -37,7 +45,7 @@
 			<enclosure url="https://image.hashhub-research.com/variants/9xqyunlbfny7i3xmwc25om94k7be/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		<item>
-			<title>量子コンピュータとビットコインウォレットの基礎知識：「あなたのウォレットは今日、安全か」を正確に答えるために｜歴史から学ぶ個人投資家のため【入門ガイド】</title>
+			<title>量子コンピュータとビットコインウォレットの基礎知識：「あなたのウォレットは今日、安全か」を正確に答えるために｜歴史から学ぶ個人投資家のための【入門ガイド】</title>
 			<link>https://hashhub-research.com/articles/2026-03-31-bitcoin-quantum-wallet-risk</link>
 			<guid isPermaLink="false">2026-03-31-bitcoin-quantum-wallet-risk</guid>
 			<description>1.はじめに：「量子コンピュータがビットコインを破る」は本当か&lt;br /&gt;2. 量子コンピュータの歴史：理論から現実へ&lt;br /&gt;3. なぜビットコインが標的になりうるのか：楕円曲線暗号とShorアルゴリズム&lt;br /&gt;4. 重要：すべてのウォレットが脆弱なわけではない&lt;br /&gt;5. Bitcoinコミュニティの対応：開発者は「無視」していない&lt;br /&gt;6. 今日からできる自衛策：4つの行動指針&lt;br /&gt;7. 総括&lt;br /&gt;</description>
@@ -187,14 +195,6 @@
 			<description>BIP-110とは何か：仕様として何をしているのか&lt;br /&gt;なぜ「合意形成の方法」まで変えているのか&lt;br /&gt;なぜこのような設計になっているのか&lt;br /&gt;論争の焦点：何が争われているのか&lt;br /&gt;総括：BIP-110が突きつけているもの&lt;br /&gt;</description>
 			<pubDate>Fri, 06 Mar 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/tuj4hgwn2dpyzfgfoqoxra88t3y1/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>AIにとっての『自然な市場』はどこにあるのか？</title>
-			<link>https://hashhub-research.com/articles/2026-03-05-ai-natural-market-assets-vs-information</link>
-			<guid isPermaLink="false">2026-03-05-ai-natural-market-assets-vs-information</guid>
-			<description></description>
-			<pubDate>Thu, 05 Mar 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/fp8o8hczex03xjp0jv6t9sqciu82/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
