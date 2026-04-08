@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Project Acaciaから学ぶ：オーストラリア中央銀行が示した金融トークン化の設計原理</title>
+			<link>https://hashhub-research.com/articles/2026-04-09-rba-project-acacia-tokenization-design-principles</link>
+			<guid isPermaLink="false">2026-04-09-rba-project-acacia-tokenization-design-principles</guid>
+			<description></description>
+			<pubDate>Thu, 09 Apr 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/tvmvh91qxv46k2muhjjw54nz2964/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>AIエージェントはどうやって「お金を払う」のか：Machine Payments Protocol（MPP/機械決済プロトコル）が変えるインターネットの決済構造</title>
 			<link>https://hashhub-research.com/articles/2026-04-08-how-ai-agents-pay-mpp-protocol</link>
 			<guid isPermaLink="false">2026-04-08-how-ai-agents-pay-mpp-protocol</guid>
@@ -187,14 +195,6 @@
 			<description>カントンコイン（CC）の特徴・仕組み&lt;br /&gt;カントンコイン（CC）の価格動向と今後の予想&lt;br /&gt;カントンコイン（CC）今後の展望・将来性&lt;br /&gt;まとめ&lt;br /&gt;</description>
 			<pubDate>Fri, 13 Mar 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/glvbvfnzmxpkwkv87fyzt4ne7vou/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ERC-8183に見るEthereumのAI時代戦略: 信頼と分散性を支える商業レイヤーの構築</title>
-			<link>https://hashhub-research.com/articles/2026-03-12-ethereum-ai-strategy-erc-8183</link>
-			<guid isPermaLink="false">2026-03-12-ethereum-ai-strategy-erc-8183</guid>
-			<description>前提&lt;br /&gt;信頼が鍵となるAIエージェント経済&lt;br /&gt;Ethereumによる信頼と商取引の標準化&lt;br /&gt;「AIエージェント時代の商業レイヤー」を担う意義&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 12 Mar 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/j2t0soqqf9c5cr4879njk70jl7zs/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
