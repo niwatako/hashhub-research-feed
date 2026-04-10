@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>【論考】誰が鍵を持つのか——ビットコインの機関化が問い直すもの</title>
+			<link>https://hashhub-research.com/articles/2026-04-10-who-holds-the-keys-bitcoin-custody</link>
+			<guid isPermaLink="false">2026-04-10-who-holds-the-keys-bitcoin-custody</guid>
+			<description></description>
+			<pubDate>Fri, 10 Apr 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/d427h08qjohst84lk0knanmln7wp/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Project Acaciaから学ぶ：オーストラリア中央銀行が示した金融トークン化の設計原理</title>
 			<link>https://hashhub-research.com/articles/2026-04-09-rba-project-acacia-tokenization-design-principles</link>
 			<guid isPermaLink="false">2026-04-09-rba-project-acacia-tokenization-design-principles</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;今週のインサイト&lt;br /&gt;今週1週間分のニュースを紹介&lt;br /&gt;</description>
 			<pubDate>Mon, 16 Mar 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/e44tg5btc3s64ksottjlykotk3lf/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>カントンコイン（CC）入門解説｜直近の価格動向・オンチェーン実績・将来価格</title>
-			<link>https://hashhub-research.com/articles/2026-03-13-canton-coin-beginner</link>
-			<guid isPermaLink="false">2026-03-13-canton-coin-beginner</guid>
-			<description>カントンコイン（CC）の特徴・仕組み&lt;br /&gt;カントンコイン（CC）の価格動向と今後の予想&lt;br /&gt;カントンコイン（CC）今後の展望・将来性&lt;br /&gt;まとめ&lt;br /&gt;</description>
-			<pubDate>Fri, 13 Mar 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/glvbvfnzmxpkwkv87fyzt4ne7vou/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
