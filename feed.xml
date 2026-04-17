@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>FLRトークノミクス変更提案（FIP.16）の影響と300Mバーンの実現可能性</title>
+			<link>https://hashhub-research.com/articles/2026-04-17-flare-fip16-value-capture-framework-2026</link>
+			<guid isPermaLink="false">2026-04-17-flare-fip16-value-capture-framework-2026</guid>
+			<description>はじめに&lt;br /&gt;1. FLRの現行トークノミクス&lt;br /&gt;2. FIP.16の概要：なぜこの提案が必要なのか&lt;br /&gt;3. インフレ削減と供給圧縮&lt;br /&gt;4. MEVプロトコル内部化&lt;br /&gt;5. FIRE：収益集約エンジンの設計と初期規模感&lt;br /&gt;6. リスク評価&lt;br /&gt;7. 結論&lt;br /&gt;参考文献&lt;br /&gt;</description>
+			<pubDate>Fri, 17 Apr 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/118uhluoa46sw004f7mlajkqv1oa/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ペトロダラーの重要な転換点、ホルムズ海峡でビットコインや人民元の決済要求に関する考察</title>
 			<link>https://hashhub-research.com/articles/2026-04-16-major-turning-point-for-the-petro-dollar</link>
 			<guid isPermaLink="false">2026-04-16-major-turning-point-for-the-petro-dollar</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;今週のインサイト&lt;br /&gt;今週1週間分のニュースを紹介&lt;br /&gt;</description>
 			<pubDate>Mon, 23 Mar 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/ovwb7qde128wqk6d9uwhe5bhv03q/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>B2Bステーブルコイン決済はなぜ伸びたのか｜企業財務KPIで読む実需の正体</title>
-			<link>https://hashhub-research.com/articles/2026-03-20-b2b-stablecoin-payments-finance-kpi</link>
-			<guid isPermaLink="false">2026-03-20-b2b-stablecoin-payments-finance-kpi</guid>
-			<description>前提&lt;br /&gt;ステーブルコイン決済が企業にもたらす財務上のメリット（KPI）&lt;br /&gt;普及を加速させた導入経路：SaaSと既存レール&lt;br /&gt;考察：なぜ中小企業から火がついたのか&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 20 Mar 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/7v71mkzrrhvkgxkwzud4aooypfmi/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
