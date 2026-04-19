@@ -5,6 +5,22 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>暗号資産市場動向・アセットマネジメントレポート：2026年3月</title>
+			<link>https://hashhub-research.com/articles/2026-04-20-asset-management-report-2026-03</link>
+			<guid isPermaLink="false">2026-04-20-asset-management-report-2026-03</guid>
+			<description>前提&lt;br /&gt;エグゼクティブ・サマリー&lt;br /&gt;今月のHHRレポート・ダイジェスト&lt;br /&gt;ニュースフロー — 今月の論点&lt;br /&gt;市場動向&lt;br /&gt;HHR View — 制度が価格に先行する局面&lt;br /&gt;免責事項&lt;br /&gt;</description>
+			<pubDate>Mon, 20 Apr 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/5q7g9f4y0wcmkoh0s0qxwg21fx4q/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
+			<title>金融インフラ化するクリプトと、再設計を迫られるリスク管理：リサーチチームが選ぶ今週の注目トピック 2026年4月20日号</title>
+			<link>https://hashhub-research.com/articles/2026-04-20-research-team-picks</link>
+			<guid isPermaLink="false">2026-04-20-research-team-picks</guid>
+			<description>前提&lt;br /&gt;今週のインサイト&lt;br /&gt;今週1週間分のニュースを紹介&lt;br /&gt;</description>
+			<pubDate>Mon, 20 Apr 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/fnc1o43vkouaneav03c8im1xuwak/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>FLRトークノミクス変更提案（FIP.16）の影響と300Mバーンの実現可能性</title>
 			<link>https://hashhub-research.com/articles/2026-04-17-flare-fip16-value-capture-framework-2026</link>
 			<guid isPermaLink="false">2026-04-17-flare-fip16-value-capture-framework-2026</guid>
@@ -179,22 +195,6 @@
 			<description>前提&lt;br /&gt;まず「インサイダー」とは何かを定義する&lt;br /&gt;予測市場にインサイダーが入りやすい理由&lt;br /&gt;それでも「機能」だと言える論点&lt;br /&gt;しかし「悪」として放置できない論点も&lt;br /&gt;解決策は「根絶」ではなく「被害を最小化する設計」&lt;br /&gt;日本で議論するときの論点整理&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Tue, 24 Mar 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/bzzexfwnozq5u25ihrc6mqxwyzqj/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Resolv USR崩壊解剖——$25Mを奪った計画的攻撃とDeFiセキュリティの盲点</title>
-			<link>https://hashhub-research.com/articles/2026-03-23-resolv-usr-hack-defi-security</link>
-			<guid isPermaLink="false">2026-03-23-resolv-usr-hack-defi-security</guid>
-			<description>1. Resolv USRとRLPの仕組み&lt;br /&gt;2. 攻撃の全容——80分間の記録&lt;br /&gt;3. 考察——設計の問題か、前提の問題か&lt;br /&gt;</description>
-			<pubDate>Mon, 23 Mar 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/6b0zn9h7r7krqhp22uyoc3cvegvj/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>標準化が始まる実務インフラ競争｜クリプトとAIの実装競争：リサーチチームが選ぶ今週の注目トピック 2026年3月23日号</title>
-			<link>https://hashhub-research.com/articles/2026-03-23-research-team-picks</link>
-			<guid isPermaLink="false">2026-03-23-research-team-picks</guid>
-			<description>前提&lt;br /&gt;今週のインサイト&lt;br /&gt;今週1週間分のニュースを紹介&lt;br /&gt;</description>
-			<pubDate>Mon, 23 Mar 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/ovwb7qde128wqk6d9uwhe5bhv03q/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
