@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title> 【論考】ウォール街はトラストレスの何を拒み、何を欲するのか——「信頼の再配線」が描くブロックチェーンの次の姿</title>
+			<link>https://hashhub-research.com/articles/2026-04-22-wall-street-trust-rewiring</link>
+			<guid isPermaLink="false">2026-04-22-wall-street-trust-rewiring</guid>
+			<description></description>
+			<pubDate>Wed, 22 Apr 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/wtq6o5wf6jloz643idvz3vxvy5ea/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>分断されたL2をつなぎ直す新構想を読む｜EEZ（Ethereum Economic Zone）について</title>
 			<link>https://hashhub-research.com/articles/2026-04-21-what-is-ethereum-economic-zone</link>
 			<guid isPermaLink="false">2026-04-21-what-is-ethereum-economic-zone</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt; 直近の重要動向&lt;br /&gt;HYPEのバイバック、バーン、ステーキングをどう評価するか&lt;br /&gt;バリュエーション・投資判断&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 26 Mar 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/fstsikf2c7pijn8nbfzzxit0wtj5/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>FATF 2026年ステーブルコイン・アンホステッドウォレット規制レポートから見る日本の暗号資産事業者・コンプライアンス実務への示唆</title>
-			<link>https://hashhub-research.com/articles/2026-03-25-fatf-stablecoin-unhosted-wallet-japan-implications-2026-03</link>
-			<guid isPermaLink="false">2026-03-25-fatf-stablecoin-unhosted-wallet-japan-implications-2026-03</guid>
-			<description>前提&lt;br /&gt;ステーブルコインの不正利用実態：84%が示す構造的リスク&lt;br /&gt;アンホステッドウォレット・P2P取引：規制の「空白地帯」&lt;br /&gt;FATFが示すGood Practices：発行者・VASP・当局に求められる対応&lt;br /&gt;日本の暗号資産事業者への示唆：JVCEA・金融庁規制とFATFの接続点&lt;br /&gt;総括：FATFレポートが示す規制強化の方向と事業者の優先アクション&lt;br /&gt;</description>
-			<pubDate>Wed, 25 Mar 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/wq0dfisyznbr1hll2grcn99u0jfo/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
