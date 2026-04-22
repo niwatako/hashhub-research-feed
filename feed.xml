@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Bitcoin(BTC)マーケットレポート: 2026年3月｜底堅さを維持 — Gold・S&amp;P500が下落する中でBTCは消化局面</title>
+			<link>https://hashhub-research.com/articles/2026-04-22-state-of-btc-2026-03</link>
+			<guid isPermaLink="false">2026-04-22-state-of-btc-2026-03</guid>
+			<description>エグゼクティブサマリー&lt;br /&gt;Key Metrics&lt;br /&gt;1. Financial Overview&lt;br /&gt;2. Macro &amp; Regulatory&lt;br /&gt;3. Supply &amp; Mining&lt;br /&gt;4. Network Activity&lt;br /&gt;5. 今後の注目ポイント&lt;br /&gt;参考文献&lt;br /&gt;</description>
+			<pubDate>Wed, 22 Apr 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/nfedskiysg45f7y3qa89n1uaq9hd/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title> 【論考】ウォール街はトラストレスの何を拒み、何を欲するのか——「信頼の再配線」が描くブロックチェーンの次の姿</title>
 			<link>https://hashhub-research.com/articles/2026-04-22-wall-street-trust-rewiring</link>
 			<guid isPermaLink="false">2026-04-22-wall-street-trust-rewiring</guid>
@@ -61,7 +69,7 @@
 			<enclosure url="https://image.hashhub-research.com/variants/6ovviy9ltlctktjwvftiigcrff7k/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		<item>
-			<title>Ethereum(ETH)マーケットレポート：2026年3月</title>
+			<title>Ethereum(ETH)マーケットレポート：2026年3月｜ネットワーク手数料が急低下、オンチェーン活動は底堅さ維持</title>
 			<link>https://hashhub-research.com/articles/2026-04-15-state-of-eth-2026-03</link>
 			<guid isPermaLink="false">2026-04-15-state-of-eth-2026-03</guid>
 			<description>エグゼクティブサマリー&lt;br /&gt;1. Financial Overview&lt;br /&gt;2. Network Economics&lt;br /&gt;3. Network Activity&lt;br /&gt;4. Ecosystem&lt;br /&gt;5. 今後の注目ポイント&lt;br /&gt;参考文献&lt;br /&gt;</description>
@@ -187,14 +195,6 @@
 			<description>1. 導入&lt;br /&gt;2. 銀行預金流出の試算: Jefferies・FRB・IMFが示す前提と限界&lt;br /&gt;3. 流出が顕在化しない構造: 利回り付きステーブルコインの普及と銀行預金の現状&lt;br /&gt;4. 規制の現在地: 制度文書で確認できることと、未成立法案が示す方向性&lt;br /&gt;5. 脅威と機会の並存: リスクの高い銀行像と発行者転換のシナリオ&lt;br /&gt;6. 結論: 日本の金融機関への示唆&lt;br /&gt;</description>
 			<pubDate>Fri, 27 Mar 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/7xt7a4lhp971u3z4f3hzzeko8e9b/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>HYPE (Hyperliquid)の投資分析・2026年3月</title>
-			<link>https://hashhub-research.com/articles/2026-03-26-hype-analysis</link>
-			<guid isPermaLink="false">2026-03-26-hype-analysis</guid>
-			<description>前提&lt;br /&gt; 直近の重要動向&lt;br /&gt;HYPEのバイバック、バーン、ステーキングをどう評価するか&lt;br /&gt;バリュエーション・投資判断&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 26 Mar 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/fstsikf2c7pijn8nbfzzxit0wtj5/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
