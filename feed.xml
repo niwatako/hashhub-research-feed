@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>【特集：GW選書】HashHubチームがこの2026年ゴールデンウィークに読んでいる、またはオススメの書籍</title>
+			<link>https://hashhub-research.com/articles/2026-04-29-gw-book-picks</link>
+			<guid isPermaLink="false">2026-04-29-gw-book-picks</guid>
+			<description></description>
+			<pubDate>Wed, 29 Apr 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/ds0kj9f1qe43iiiljolp32zb1u0v/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>wXRP対応拡大はSolanaに追い風か、XRP資金流入の可能性を読む</title>
 			<link>https://hashhub-research.com/articles/2026-04-28-wxrp-solana-tailwind-xrp-inflow</link>
 			<guid isPermaLink="false">2026-04-28-wxrp-solana-tailwind-xrp-inflow</guid>
@@ -187,14 +195,6 @@
 			<description></description>
 			<pubDate>Fri, 03 Apr 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/l5itobb8lrp8ugd1cr8wua6uxdlz/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Berachain（BERA）の現在地：Proof of Liquidityの実証と今後のシナリオ</title>
-			<link>https://hashhub-research.com/articles/2026-04-02-state-of-berachain-pol</link>
-			<guid isPermaLink="false">2026-04-02-state-of-berachain-pol</guid>
-			<description>はじめに&lt;br /&gt;PoLという実験：設計の理論と期待&lt;br /&gt;メインネット後の急減速：TVL・収益・価格の実態（2025-2026）&lt;br /&gt;なぜPoLは期待に応えられなかったか&lt;br /&gt;結論：PoLの現在地と回復の条件&lt;br /&gt;</description>
-			<pubDate>Thu, 02 Apr 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/uwn9q5nw37dxk4ar5krzvg2eyzgd/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
