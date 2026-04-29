@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>DeFiの現在地 AIによってDeFiは後退期を迎える論争について考える</title>
+			<link>https://hashhub-research.com/articles/2026-04-30-defi-and-ai</link>
+			<guid isPermaLink="false">2026-04-30-defi-and-ai</guid>
+			<description>前提&lt;br /&gt;AIによってDeFiは後退期を迎える論争について考える&lt;br /&gt;DeFiはこれからどうなるか？&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Thu, 30 Apr 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/7vl7mtig695v2u0trv37g39x6gyf/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>【特集：GW選書】HashHubチームがこの2026年ゴールデンウィークに読んでいる、またはオススメの書籍</title>
 			<link>https://hashhub-research.com/articles/2026-04-29-gw-book-picks</link>
 			<guid isPermaLink="false">2026-04-29-gw-book-picks</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;同社の事業・収益&lt;br /&gt;業績とバリュエーション&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Sat, 04 Apr 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/por9q733n04umv6lngj6sj5nt26a/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Aave v4：ハブ&amp;スポーク設計の全貌と、初動のオンチェーン実態</title>
-			<link>https://hashhub-research.com/articles/2026-04-03-aave-v4-hub-spoke-modular-lending</link>
-			<guid isPermaLink="false">2026-04-03-aave-v4-hub-spoke-modular-lending</guid>
-			<description></description>
-			<pubDate>Fri, 03 Apr 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/l5itobb8lrp8ugd1cr8wua6uxdlz/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
