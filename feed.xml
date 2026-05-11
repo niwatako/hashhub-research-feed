@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>暗号資産市場動向・アセットマネジメントレポート：2026年4月</title>
+			<link>https://hashhub-research.com/articles/2026-05-11-asset-management-report-2026-04</link>
+			<guid isPermaLink="false">2026-05-11-asset-management-report-2026-04</guid>
+			<description>前提&lt;br /&gt;エグゼクティブ・サマリー&lt;br /&gt;今月のHHRレポート・ダイジェスト&lt;br /&gt;ニュースフロー — 今月の論点&lt;br /&gt;市場動向&lt;br /&gt;HHR View — 価格反発と制度実装の具体化が並んで進んだ月&lt;br /&gt;免責事項&lt;br /&gt;</description>
+			<pubDate>Mon, 11 May 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/bv8x6ztz3p9gvwyjzqrl3596w45s/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>AIエージェント時代の信頼インフラとRWAの本格化：リサーチチームが選ぶ今週の注目トピック 2026年5月11日号</title>
 			<link>https://hashhub-research.com/articles/2026-05-11-research-team-picks</link>
 			<guid isPermaLink="false">2026-05-11-research-team-picks</guid>
@@ -187,14 +195,6 @@
 			<description></description>
 			<pubDate>Thu, 09 Apr 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/tvmvh91qxv46k2muhjjw54nz2964/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>AIエージェントはどうやって「お金を払う」のか：Machine Payments Protocol（MPP/機械決済プロトコル）が変えるインターネットの決済構造</title>
-			<link>https://hashhub-research.com/articles/2026-04-08-how-ai-agents-pay-mpp-protocol</link>
-			<guid isPermaLink="false">2026-04-08-how-ai-agents-pay-mpp-protocol</guid>
-			<description></description>
-			<pubDate>Wed, 08 Apr 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/a3498u68d1wvopkk1uanr5ukugd3/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
