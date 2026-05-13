@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Polygonの『Privately Send』は、L2競争を『安さ』から『決済プライバシー』へ移す一手となるか</title>
+			<link>https://hashhub-research.com/articles/2026-05-14-polygon-privately-send-stablecoin-privacy-payments</link>
+			<guid isPermaLink="false">2026-05-14-polygon-privately-send-stablecoin-privacy-payments</guid>
+			<description>前提&lt;br /&gt;ステーブルコイン決済の争点は「速さ」から「使いやすさ」へ&lt;br /&gt;Polygonが狙うのは「決済に使われるチェーン」という再評価&lt;br /&gt;Hinkalは「外部には見せず、必要な相手には説明できる」仕組みを担う&lt;br /&gt;プライバシーは「隠すため」より「使うため」の条件に&lt;br /&gt;総括&lt;br /&gt;参考文献&lt;br /&gt;</description>
+			<pubDate>Thu, 14 May 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/48yw1enxqci8scmgpzj06nohvbfk/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>日本円ステーブルコインの2030年までの成長予測、ドルステーブルコインとの需要の差分</title>
 			<link>https://hashhub-research.com/articles/2026-05-13-forcast-jpy-stable</link>
 			<guid isPermaLink="false">2026-05-13-forcast-jpy-stable</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Ethereumの優位はどこから生まれるのか&lt;br /&gt;強さと弱さが同時に広がっている&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Tue, 14 Apr 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/7h6r666tbioz5rcmozslob1rccr8/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>価格ではなく基盤を奪い合う時代へ｜制度化と自動化の加速：リサーチチームが選ぶ今週の注目トピック 2026年4月13日号</title>
-			<link>https://hashhub-research.com/articles/2026-04-13-research-team-picks</link>
-			<guid isPermaLink="false">2026-04-13-research-team-picks</guid>
-			<description>前提&lt;br /&gt;今週のインサイト&lt;br /&gt;今週1週間分のニュースを紹介&lt;br /&gt;</description>
-			<pubDate>Mon, 13 Apr 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/b7f6pztlvmvifq8i8cvd67hkz0ez/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
