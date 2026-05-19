@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>【入門】誰も語らないTRONとシャドウエコノミー</title>
+			<link>https://hashhub-research.com/articles/2026-05-20-tron-shadow-economy-intro</link>
+			<guid isPermaLink="false">2026-05-20-tron-shadow-economy-intro</guid>
+			<description></description>
+			<pubDate>Wed, 20 May 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/advu4z9b2o60xwzql4bon90ghb4w/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>【論考】予測市場は「金融商品」なのか「娯楽」なのか問題を考える</title>
 			<link>https://hashhub-research.com/articles/2026-05-19-prediction-markets-financial-products-or-entertainment</link>
 			<guid isPermaLink="false">2026-05-19-prediction-markets-financial-products-or-entertainment</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;今週のインサイト&lt;br /&gt;今週1週間分のニュースを紹介&lt;br /&gt;</description>
 			<pubDate>Mon, 20 Apr 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/fnc1o43vkouaneav03c8im1xuwak/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>FLRトークノミクス変更提案（FIP.16）の影響と300Mバーンの実現可能性</title>
-			<link>https://hashhub-research.com/articles/2026-04-17-flare-fip16-value-capture-framework-2026</link>
-			<guid isPermaLink="false">2026-04-17-flare-fip16-value-capture-framework-2026</guid>
-			<description>はじめに&lt;br /&gt;1. FLRの現行トークノミクス&lt;br /&gt;2. FIP.16の概要：なぜこの提案が必要なのか&lt;br /&gt;3. インフレ削減と供給圧縮&lt;br /&gt;4. MEVプロトコル内部化&lt;br /&gt;5. FIRE：収益集約エンジンの設計と初期規模感&lt;br /&gt;6. リスク評価&lt;br /&gt;7. 結論&lt;br /&gt;参考文献&lt;br /&gt;</description>
-			<pubDate>Fri, 17 Apr 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/118uhluoa46sw004f7mlajkqv1oa/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
