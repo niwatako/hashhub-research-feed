@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>SolanaのRWAは国債だけではない：コレクティブルが拓くコンシューマーRWAの可能性</title>
+			<link>https://hashhub-research.com/articles/2026-05-28-solana-consumer-rwa-collectibles</link>
+			<guid isPermaLink="false">2026-05-28-solana-consumer-rwa-collectibles</guid>
+			<description>前提&lt;br /&gt;RWAは金融資産からコレクティブル資産へ広がる&lt;br /&gt;コレクティブルRWAの基本構造&lt;br /&gt;SolanaとコレクティブルRWAの相性&lt;br /&gt;考察＆総括｜Solanaの将来性をどう見るか&lt;br /&gt;参考文献&lt;br /&gt;</description>
+			<pubDate>Thu, 28 May 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/dnx8hwwz98r3c2um7fi1kll5ev4f/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Strategy社がビットコインの構造的売り手になる可能性と、ビットコイン価格への影響</title>
 			<link>https://hashhub-research.com/articles/2026-05-27-strategy-bitcoin-structural-seller</link>
 			<guid isPermaLink="false">2026-05-27-strategy-bitcoin-structural-seller</guid>
@@ -187,14 +195,6 @@
 			<description></description>
 			<pubDate>Fri, 24 Apr 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/9qznrr5g39mnwxgbzr5ps26oal1r/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>【論考】予測市場データは「オルタナティブデータ」として売れるのか</title>
-			<link>https://hashhub-research.com/articles/2026-04-23-prediction-market-alternative-data</link>
-			<guid isPermaLink="false">2026-04-23-prediction-market-alternative-data</guid>
-			<description>前提&lt;br /&gt;予測市場データの何が商品になるのか&lt;br /&gt;顧客は誰か：メディア、金融、事業会社&lt;br /&gt;予測市場データが強いユースケース&lt;br /&gt;弱点は「ノイズ」と「市場の薄さ」&lt;br /&gt;メディア化とデータ販売は相互強化する&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 23 Apr 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/5iyx5x3imepd998nmedp9gg3fyfu/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
