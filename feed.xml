@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Ethereumの成長はETHに帰属するのか</title>
+			<link>https://hashhub-research.com/articles/2025-06-03-ethereum-value-attribution-2026</link>
+			<guid isPermaLink="false">2025-06-03-ethereum-value-attribution-2026</guid>
+			<description>Ethereumには強気、ETHの価値帰属には懐疑的&lt;br /&gt;「コストベースで公共財を提供する」とは何か&lt;br /&gt;Ethereumにおける価値の流れ：誰が収益を取るのか&lt;br /&gt;「ネットワーク成長とETH価格は無相関」なのか&lt;br /&gt;結論&lt;br /&gt;</description>
+			<pubDate>Wed, 03 Jun 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/gr1rc0ejly7mnqkvwo354s7pcewe/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>暗号資産ATM（キオスク）はなぜ死ぬのか——規制・訴訟・コストが重なる構造と「入り口の交代」</title>
 			<link>https://hashhub-research.com/articles/2026-06-02-crypto-atm-industry-three-layer-regulation</link>
 			<guid isPermaLink="false">2026-06-02-crypto-atm-industry-three-layer-regulation</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;AIによってDeFiは後退期を迎える論争について考える&lt;br /&gt;DeFiはこれからどうなるか？&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 30 Apr 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/7vl7mtig695v2u0trv37g39x6gyf/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>【特集：GW選書】HashHubチームがこの2026年ゴールデンウィークに読んでいる、またはオススメの書籍</title>
-			<link>https://hashhub-research.com/articles/2026-04-29-gw-book-picks</link>
-			<guid isPermaLink="false">2026-04-29-gw-book-picks</guid>
-			<description></description>
-			<pubDate>Wed, 29 Apr 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/ds0kj9f1qe43iiiljolp32zb1u0v/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
