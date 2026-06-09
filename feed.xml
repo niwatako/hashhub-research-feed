@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>プライバシーは次の暗号資産テーマになるのか、NEARが狙うクロスチェーン秘匿決済</title>
+			<link>https://hashhub-research.com/articles/2026-06-10-near-privacy-crosschain-payments</link>
+			<guid isPermaLink="false">2026-06-10-near-privacy-crosschain-payments</guid>
+			<description>前提&lt;br /&gt;プライバシーは次の暗号資産テーマになり得るのか&lt;br /&gt;透明なオンチェーン金融が抱える限界&lt;br /&gt;NEARがUniversal Sendで狙う秘匿クロスチェーン決済&lt;br /&gt;NEAR Intentsは単なるUX改善を超えた取引実行レイヤーである&lt;br /&gt;プライバシー需要はNEARの利用を押し上げるか&lt;br /&gt;強気材料と未確認リスクをどう見極めるか&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Wed, 10 Jun 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/dpavin14ffr73y8ogmk25yhpfm5y/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Bullish 2026年Q1決算分析：縮む取引所本体と、トークン化金融の「統合市場インフラ」への布石</title>
 			<link>https://hashhub-research.com/articles/2026-06-09-analysis-bullish-2026q1</link>
 			<guid isPermaLink="false">2026-06-09-analysis-bullish-2026q1</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;CLARITY Actは何を変えるのか&lt;br /&gt;銀行・金融機関への影響&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Fri, 15 May 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/4z191cdtee8vw777xfffuhbhq8pd/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Polygonの『Privately Send』は、L2競争を『安さ』から『決済プライバシー』へ移す一手となるか</title>
-			<link>https://hashhub-research.com/articles/2026-05-14-polygon-privately-send-stablecoin-privacy-payments</link>
-			<guid isPermaLink="false">2026-05-14-polygon-privately-send-stablecoin-privacy-payments</guid>
-			<description>前提&lt;br /&gt;ステーブルコイン決済の争点は「速さ」から「使いやすさ」へ&lt;br /&gt;Polygonが狙うのは「決済に使われるチェーン」という再評価&lt;br /&gt;Hinkalは「外部には見せず、必要な相手には説明できる」仕組みを担う&lt;br /&gt;プライバシーは「隠すため」より「使うため」の条件に&lt;br /&gt;総括&lt;br /&gt;参考文献&lt;br /&gt;</description>
-			<pubDate>Thu, 14 May 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/48yw1enxqci8scmgpzj06nohvbfk/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
