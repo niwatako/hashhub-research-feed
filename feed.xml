@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>トークン化株式の類型化とリスク評価</title>
+			<link>https://hashhub-research.com/articles/2026-06-17-tokenized-equity-schemes</link>
+			<guid isPermaLink="false">2026-06-17-tokenized-equity-schemes</guid>
+			<description>裏付けがあっても、株主とはかぎらない&lt;br /&gt;投資家の請求権の強さで、4つに分かれる&lt;br /&gt;見るべきは「どの権利記録に載るか」だ&lt;br /&gt;請求権の弱い型は、本来ディスカウントされるべきか&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Wed, 17 Jun 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/77t6v0em09aufe3g4r1ggrjvjh0j/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>BlackRock等が提供開始をする「利回りを生むビットコインETF」の解説と分析</title>
 			<link>https://hashhub-research.com/articles/2026-06-16-yield-bearing-bitcoin-etf-bita</link>
 			<guid isPermaLink="false">2026-06-16-yield-bearing-bitcoin-etf-bita</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;今週のインサイト&lt;br /&gt;今週1週間分のニュースを紹介&lt;br /&gt;</description>
 			<pubDate>Mon, 25 May 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/rn5gmjupd9sn1drp51dg2vl0xjlb/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>補助線で解剖するBitcoin（ビットコイン）の正体——国家通貨・ゴールド・Ethereum</title>
-			<link>https://hashhub-research.com/articles/2026-05-22-web3-beginner-essay-series-01-bitcoin</link>
-			<guid isPermaLink="false">2026-05-22-web3-beginner-essay-series-01-bitcoin</guid>
-			<description>告白&lt;br /&gt;まず、乱暴に分類してみる&lt;br /&gt;そもそも「価値」とは何か&lt;br /&gt;第一の補助線——円やドルとの比較&lt;br /&gt;第二の補助線——ゴールドとの比較&lt;br /&gt;第三の補助線——Ethereumとの比較&lt;br /&gt;Bitcoinの出自について、少し毒を吐く&lt;br /&gt;では、なぜBitcoinは続いているのか&lt;br /&gt;余談——人間は意味を求めてしまう&lt;br /&gt;おわりに——これは今時点の仮説に過ぎない&lt;br /&gt;補遺——ゴールドの異常性について、もう少し深く&lt;br /&gt;</description>
-			<pubDate>Fri, 22 May 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/i9622otokezuea68ibn2gukilkrz/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
