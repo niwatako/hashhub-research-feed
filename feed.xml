@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>RWAは現実を運ぶのか——請求権の再配置と外側への担保</title>
+			<link>https://hashhub-research.com/articles/2026-06-19-web3-beginner-essay-series-05-rwa</link>
+			<guid isPermaLink="false">2026-06-19-web3-beginner-essay-series-05-rwa</guid>
+			<description>切り取りに見えたもの&lt;br /&gt;現実は乗ってこない&lt;br /&gt;外側へ担保を求める&lt;br /&gt;おわりに――帰る場所という知らせ&lt;br /&gt;次に読むなら&lt;br /&gt;</description>
+			<pubDate>Fri, 19 Jun 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/g328n9dom2s1hnhnglgg9hkyvd5l/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ユーロ建てステーブルコインの実需を解剖する――3つの主役の住み分けと日本円ステーブルコインへの教訓（ローカル通貨建てシリーズ・EUR編 後編）</title>
 			<link>https://hashhub-research.com/articles/2026-06-18-euro-stablecoin-real-demand</link>
 			<guid isPermaLink="false">2026-06-18-euro-stablecoin-real-demand</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;なぜ構造的売り手化のリスクが出てきたのか&lt;br /&gt;Strategy社が構造的売り手になるリスク&lt;br /&gt;構造的売り手になる条件&lt;br /&gt;ビットコイン中期的価格動向への影響&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Wed, 27 May 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/j6oavxmg2egmjtecze8hzlpqhka4/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Coinbase 2026年Q1決算分析：手数料モデル衰退を見越した「Everything Exchange」投資の試金石</title>
-			<link>https://hashhub-research.com/articles/2026-05-26-analysis-coinbase-2026q1</link>
-			<guid isPermaLink="false">2026-05-26-analysis-coinbase-2026q1</guid>
-			<description>業績ハイライト&lt;br /&gt;収益性とコスト構造&lt;br /&gt;主要収益源別の分解&lt;br /&gt;リスク要因&lt;br /&gt;Q2 2026 ガイダンス&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Tue, 26 May 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/w30ypltsnz53duxnxxhxt93l9kfn/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
