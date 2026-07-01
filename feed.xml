@@ -5,6 +5,22 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>IBITの仕組み：米国最大の現物ビットコインETFはどう成立しているか</title>
+			<link>https://hashhub-research.com/articles/2026-07-02-ibit-spot-btc-etf-scheme</link>
+			<guid isPermaLink="false">2026-07-02-ibit-spot-btc-etf-scheme</guid>
+			<description>エグゼクティブサマリー&lt;br /&gt;米国最大の現物ビットコインETFはどう成立しているか&lt;br /&gt;現在の規模&lt;br /&gt;スキーム①：信託構造&lt;br /&gt;スキーム②：カストディ&lt;br /&gt;スキーム③：設定・解約フロー&lt;br /&gt;価格算出と手数料&lt;br /&gt;IBITを原資産にした「利回り付き」ETF&lt;br /&gt;総括&lt;br /&gt;参考文献&lt;br /&gt;</description>
+			<pubDate>Thu, 02 Jul 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/jlumnx30oohuf18qr3e6e053m8mi/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
+			<title>暗号資産市場動向・アセットマネジメントレポート：2026年6月</title>
+			<link>https://hashhub-research.com/articles/2026-07-01-asset-management-report-2026-06</link>
+			<guid isPermaLink="false">2026-07-01-asset-management-report-2026-06</guid>
+			<description>前提&lt;br /&gt;エグゼクティブ・サマリー&lt;br /&gt;今月のHHRレポート・ダイジェスト&lt;br /&gt;ニュースフロー — 本号で個別に扱っていない論点&lt;br /&gt;市場動向&lt;br /&gt;HHR View — リスクオフとFRBの下支え期待の後退&lt;br /&gt;免責事項&lt;br /&gt;</description>
+			<pubDate>Wed, 01 Jul 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/0l85u7g21sda27j0llkvrabp140w/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Tetherの次の事業領域：USDT準備金にゴールドを拡充、トークン化ゴールドの決済インフラなどになぜ注力するか</title>
 			<link>https://hashhub-research.com/articles/2026-07-01-tether-tokenized-gold-strategy</link>
 			<guid isPermaLink="false">2026-07-01-tether-tokenized-gold-strategy</guid>
@@ -179,22 +195,6 @@
 			<description></description>
 			<pubDate>Tue, 09 Jun 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/ikx8ggrtwk1blnvbpoujyyqogjns/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>DeFiとStablecoinが塗り替える暗号資産Top10の新秩序：リサーチチームが選ぶ今週の注目トピック 2026年6月8日号</title>
-			<link>https://hashhub-research.com/articles/2026-06-08-research-team-picks</link>
-			<guid isPermaLink="false">2026-06-08-research-team-picks</guid>
-			<description>前提&lt;br /&gt;今週のインサイト&lt;br /&gt;今週1週間分のニュースを紹介&lt;br /&gt;</description>
-			<pubDate>Mon, 08 Jun 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/qpck7kbjz9oztri5q347i6z09xmc/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>逆回転リスクが高まるストラテジー社の今後についてシナリオ別予想</title>
-			<link>https://hashhub-research.com/articles/2026-06-05-mstr-scenario-analysis</link>
-			<guid isPermaLink="false">2026-06-05-mstr-scenario-analysis</guid>
-			<description>前提&lt;br /&gt;逆回転リスクが高まるストラテジー社の今後についてシナリオ別予想&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Fri, 05 Jun 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/bzegtadnibnixblxj664kq4db96h/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
