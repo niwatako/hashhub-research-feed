@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ETHBの仕組み：ステーキングで利回りを生む現物イーサリアムETFはどう成立しているか</title>
+			<link>https://hashhub-research.com/articles/2026-07-10-ethb-staked-eth-etf-scheme</link>
+			<guid isPermaLink="false">2026-07-10-ethb-staked-eth-etf-scheme</guid>
+			<description>ステーキングで利回りを生む現物イーサリアムETFはどう成立しているか&lt;br /&gt;市場での位置づけ&lt;br /&gt;全体構造&lt;br /&gt;スキーム①：ステーキングの仕組み&lt;br /&gt;スキーム②：報酬はどう生まれ、どう投資家に届くか&lt;br /&gt;スキーム③：ステーキングが償還にかける制約&lt;br /&gt;価格算出（NAV）&lt;br /&gt;総括&lt;br /&gt;参考文献&lt;br /&gt;</description>
+			<pubDate>Fri, 10 Jul 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/1gwmfc3350shzg26ukparnikne0h/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>ステーブルコインは「一社」か「連合」か——140社の「Open USD」がCircleに挑む構図</title>
 			<link>https://hashhub-research.com/articles/2026-07-09-open-usd-consortium-vs-single-issuer</link>
 			<guid isPermaLink="false">2026-07-09-open-usd-consortium-vs-single-issuer</guid>
@@ -187,14 +195,6 @@
 			<description>裏付けがあっても、株主とはかぎらない&lt;br /&gt;投資家の請求権の強さで、4つに分かれる&lt;br /&gt;見るべきは「どの権利記録に載るか」だ&lt;br /&gt;請求権の弱い型は、本来ディスカウントされるべきか&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Wed, 17 Jun 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/zl34j90oj2927l1uumkv9fq4wtn0/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>BlackRock等が提供開始をする「利回りを生むビットコインETF」の解説と分析</title>
-			<link>https://hashhub-research.com/articles/2026-06-16-yield-bearing-bitcoin-etf-bita</link>
-			<guid isPermaLink="false">2026-06-16-yield-bearing-bitcoin-etf-bita</guid>
-			<description>前提&lt;br /&gt;利回りを生むビットコインETF BITAの商品設計&lt;br /&gt;具体的な利回り予測、Goldman Sachsの類似商品との比較&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Tue, 16 Jun 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/rnzn3z3y6legejmvxig3tvwklar8/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
