@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Robinhood Chainが狙う「オンチェーン金融市場のOS」　概要から戦略分析、法的論点まで</title>
+			<link>https://hashhub-research.com/articles/2026-07-15-robinhood-chain</link>
+			<guid isPermaLink="false">2026-07-15-robinhood-chain</guid>
+			<description>前提&lt;br /&gt;Robinhood Chain概要&lt;br /&gt;Robinhood Chainで取引される株式トークンの経済構造&lt;br /&gt;どのようなアプリケーションやトークンが取引されているか&lt;br /&gt;金融機関がレイヤー2を持つ意味&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Wed, 15 Jul 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/zv5p83bg9g7al4havb8qg3egvuy1/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>【論考】情報だけでは市場は動かない｜予測市場とAIエージェント時代のWeb3を考える</title>
 			<link>https://hashhub-research.com/articles/2026-07-14-prediction-markets-ai-agents-web3</link>
 			<guid isPermaLink="false">2026-07-14-prediction-markets-ai-agents-web3</guid>
@@ -187,14 +195,6 @@
 			<description></description>
 			<pubDate>Mon, 22 Jun 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/j1ryg5qyinc8ix9lopixnnkwrz4u/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>AI時代の所有と資金フローを支えるクリプト基盤：リサーチチームが選ぶ今週の注目トピック 2026年6月22日号</title>
-			<link>https://hashhub-research.com/articles/2026-06-22-research-team-picks</link>
-			<guid isPermaLink="false">2026-06-22-research-team-picks</guid>
-			<description>前提&lt;br /&gt;今週のインサイト&lt;br /&gt;今週1週間分のニュースを紹介&lt;br /&gt;</description>
-			<pubDate>Mon, 22 Jun 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/diubmf3d1h0j0bvdz7p45gmcc4eq/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
