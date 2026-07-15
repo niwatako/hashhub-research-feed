@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Ethereum Foundation再編の現在、相次ぐ独立組織はETHに何をもたらすか</title>
+			<link>https://hashhub-research.com/articles/2026-07-16-ethereum-foundation-independent-organizations</link>
+			<guid isPermaLink="false">2026-07-16-ethereum-foundation-independent-organizations</guid>
+			<description>エグゼクティブサマリー&lt;br /&gt;Ethereum Foundationは役割を絞った&lt;br /&gt;4つの組織は何を担うのか&lt;br /&gt;中立性と商用実装を分ける意味&lt;br /&gt;ETH価格には何を意味するか&lt;br /&gt;総括&lt;br /&gt;参考文献&lt;br /&gt;</description>
+			<pubDate>Thu, 16 Jul 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/ong0422iiomnaahp5etm56rjjhoz/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Robinhood Chainが狙う「オンチェーン金融市場のOS」　概要から戦略分析、法的論点まで</title>
 			<link>https://hashhub-research.com/articles/2026-07-15-robinhood-chain</link>
 			<guid isPermaLink="false">2026-07-15-robinhood-chain</guid>
@@ -187,14 +195,6 @@
 			<description>DATの売りは局面的、マイナーの売りは恒常的&lt;br /&gt;AIピボットが、止まらない売りを膨らむ売りに変える&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Tue, 23 Jun 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/aey2u4oolfmwt72wlriirxclrtm0/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>捕食者が捕食された日——最大級のMEVボットはなぜ「自分の武器」で約750万ドルを奪われたのか</title>
-			<link>https://hashhub-research.com/articles/2026-06-22-jaredfromsubway-counter-mev-honeypot</link>
-			<guid isPermaLink="false">2026-06-22-jaredfromsubway-counter-mev-honeypot</guid>
-			<description></description>
-			<pubDate>Mon, 22 Jun 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/j1ryg5qyinc8ix9lopixnnkwrz4u/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
