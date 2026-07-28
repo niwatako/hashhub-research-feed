@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ステーブルコイン決済インフラはどこで収益が生まれ始めているのか、BVNKとRainから事業構造を考える</title>
+			<link>https://hashhub-research.com/articles/2026-07-28-stablecoin-payment-infrastructure-bvnk-rain</link>
+			<guid isPermaLink="false">2026-07-28-stablecoin-payment-infrastructure-bvnk-rain</guid>
+			<description>前提&lt;br /&gt;ステーブルコイン決済の市場規模は、オンチェーン総移転金額≠決済金額&lt;br /&gt;決済インフラ事業の役割は、ステーブルコインを見えなくすること&lt;br /&gt;ステーブルコイン決済の代表企業&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Tue, 28 Jul 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/ioe8fzhzx8hmvmj0tzkjv7o4287z/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>単一Narrativeではなく継続利用と収益モデルを競う市場へ：リサーチチームが選ぶ今週の注目トピック 2026年7月27日号</title>
 			<link>https://hashhub-research.com/articles/2026-07-27-research-team-picks</link>
 			<guid isPermaLink="false">2026-07-27-research-team-picks</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;エグゼクティブ・サマリー&lt;br /&gt;今月のHHRレポート・ダイジェスト&lt;br /&gt;ニュースフロー — 本号で個別に扱っていない論点&lt;br /&gt;市場動向&lt;br /&gt;HHR View — リスクオフとFRBの下支え期待の後退&lt;br /&gt;免責事項&lt;br /&gt;</description>
 			<pubDate>Wed, 01 Jul 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/0l85u7g21sda27j0llkvrabp140w/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Tetherの次の事業領域：USDT準備金にゴールドを拡充、トークン化ゴールドの決済インフラなどになぜ注力するか</title>
-			<link>https://hashhub-research.com/articles/2026-07-01-tether-tokenized-gold-strategy</link>
-			<guid isPermaLink="false">2026-07-01-tether-tokenized-gold-strategy</guid>
-			<description>前提&lt;br /&gt;Tetherのゴールド戦略の全体像&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Wed, 01 Jul 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/hah088afov25pg2r397ta5nly241/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
