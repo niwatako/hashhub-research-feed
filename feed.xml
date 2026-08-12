@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>COLDCARD乱数生成脆弱性が示した「コールドストレージの盲点」金融機関と個人投資家向けの示唆</title>
+			<link>https://hashhub-research.com/articles/2026-08-12-coldcard-key-generation-vulnerability</link>
+			<guid isPermaLink="false">2026-08-12-coldcard-key-generation-vulnerability</guid>
+			<description>前提：これは「鍵の保管」ではなく「鍵の出生」に関する問題&lt;br /&gt;事件の概要&lt;br /&gt;なぜエアギャップやセキュアエレメントで防げなかったのか&lt;br /&gt;個人投資家への示唆&lt;br /&gt;金融機関・暗号資産交換業者への示唆&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Wed, 12 Aug 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/zm7e1xu24fuarggd7tysy8ehnfgz/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>限られた資金とアテンションを奪い合うクリプト市場｜何が伸びるかより誰が利益を回収するか：リサーチチームが選ぶ今週の注目トピック 2026年8月10日号</title>
 			<link>https://hashhub-research.com/articles/2026-08-10-research-team-picks</link>
 			<guid isPermaLink="false">2026-08-10-research-team-picks</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;今週のインサイト&lt;br /&gt;今週1週間分のニュースを紹介&lt;br /&gt;</description>
 			<pubDate>Mon, 13 Jul 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/omjtevkrion3cl32jl8mwuflgm99/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>2028年・機関投資家参入に向けた金融機関のターニングポイント——「今動ける役割」と「待つ役割」</title>
-			<link>https://hashhub-research.com/articles/2026-07-13-institutional-entry-2028-readiness-map</link>
-			<guid isPermaLink="false">2026-07-13-institutional-entry-2028-readiness-map</guid>
-			<description></description>
-			<pubDate>Mon, 13 Jul 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/nhfqzq7phl42oyfnl4xqvhhclgyt/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
