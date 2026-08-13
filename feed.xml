@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>円建てステーブルコインの存在意義を問う：単体では採算が見えにくい円建てステーブルコインは、なぜ発行されるのか</title>
+			<link>https://hashhub-research.com/articles/2026-08-13-jpy-stablecoin-business-model</link>
+			<guid isPermaLink="false">2026-08-13-jpy-stablecoin-business-model</guid>
+			<description>エグゼクティブサマリー&lt;br /&gt;単体では採算が見えにくい円建てステーブルコインは、なぜ発行されるのか&lt;br /&gt;ドル型の成功は、円では再現しにくい&lt;br /&gt;円建てである意味は、オンチェーン資産の取引にある&lt;br /&gt;JPYCは外部利用を広げ、JPYSCは金融サービスへ組み込む&lt;br /&gt;発行残高だけでは、事業性は測れない&lt;br /&gt;総括&lt;br /&gt;参考文献&lt;br /&gt;</description>
+			<pubDate>Thu, 13 Aug 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/3uvowngka7kpb96ggbnaiak5xurn/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>COLDCARD乱数生成脆弱性が示した「コールドストレージの盲点」金融機関と個人投資家向けの示唆</title>
 			<link>https://hashhub-research.com/articles/2026-08-12-coldcard-key-generation-vulnerability</link>
 			<guid isPermaLink="false">2026-08-12-coldcard-key-generation-vulnerability</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;なぜ私たちは「情報がすべて」に見えてしまうのか&lt;br /&gt;DNAは設計図であって、生命そのものではない&lt;br /&gt;強い比喩は、世界を見やすくし、同時に現場を消す&lt;br /&gt;予測市場の価格は、未来ではなく市場環境の産物である&lt;br /&gt;AIエージェントは、賢さだけでは経済主体になれない&lt;br /&gt;AI×予測市場は、情報発見とノイズ増幅の境界にある&lt;br /&gt;日本の事業者は「情報を信頼に変える環境」を設計できるか&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Tue, 14 Jul 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/crmxiyz1tqbqvbur2mm9b63n8avf/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>技術革新から持続可能な運用設計へ｜Ethereum刷新とオンチェーン金融の成熟リサーチチームが選ぶ今週の注目トピック 2026年7月13日号</title>
-			<link>https://hashhub-research.com/articles/2026-07-13-research-team-picks</link>
-			<guid isPermaLink="false">2026-07-13-research-team-picks</guid>
-			<description>前提&lt;br /&gt;今週のインサイト&lt;br /&gt;今週1週間分のニュースを紹介&lt;br /&gt;</description>
-			<pubDate>Mon, 13 Jul 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/omjtevkrion3cl32jl8mwuflgm99/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
