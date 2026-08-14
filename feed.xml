@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>牛を担保にする融資で、トークン化は何を変えるのか 〜IoTとデジタル化が挑む、動産担保融資の壁〜</title>
+			<link>https://hashhub-research.com/articles/2026-08-14-tokenized-cows-collateral</link>
+			<guid isPermaLink="false">2026-08-14-tokenized-cows-collateral</guid>
+			<description>前提&lt;br /&gt;牛を担保にするとは、牛の値札を担保にすることではない&lt;br /&gt;では、モニタリングがあれば融資は安全になるのか&lt;br /&gt;B3への登録と、家畜への担保権は同じ話ではない&lt;br /&gt;</description>
+			<pubDate>Fri, 14 Aug 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/x8qs0bzgmoy24aj25fzwl36l6vlt/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>円建てステーブルコインの存在意義を問う：単体では採算が見えにくい円建てステーブルコインは、なぜ発行されるのか</title>
 			<link>https://hashhub-research.com/articles/2026-08-13-jpy-stablecoin-business-model</link>
 			<guid isPermaLink="false">2026-08-13-jpy-stablecoin-business-model</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;Robinhood Chain概要&lt;br /&gt;Robinhood Chainで取引される株式トークンの経済構造&lt;br /&gt;どのようなアプリケーションやトークンが取引されているか&lt;br /&gt;金融機関がレイヤー2を持つ意味&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Wed, 15 Jul 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/zv5p83bg9g7al4havb8qg3egvuy1/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>【論考】情報だけでは市場は動かない｜予測市場とAIエージェント時代のWeb3を考える</title>
-			<link>https://hashhub-research.com/articles/2026-07-14-prediction-markets-ai-agents-web3</link>
-			<guid isPermaLink="false">2026-07-14-prediction-markets-ai-agents-web3</guid>
-			<description>前提&lt;br /&gt;なぜ私たちは「情報がすべて」に見えてしまうのか&lt;br /&gt;DNAは設計図であって、生命そのものではない&lt;br /&gt;強い比喩は、世界を見やすくし、同時に現場を消す&lt;br /&gt;予測市場の価格は、未来ではなく市場環境の産物である&lt;br /&gt;AIエージェントは、賢さだけでは経済主体になれない&lt;br /&gt;AI×予測市場は、情報発見とノイズ増幅の境界にある&lt;br /&gt;日本の事業者は「情報を信頼に変える環境」を設計できるか&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Tue, 14 Jul 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/crmxiyz1tqbqvbur2mm9b63n8avf/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
