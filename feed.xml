@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>【論考・前編】ウォレットは「財布」なのか「代理人」なのか｜AIにお金を任せるために必要なもの</title>
+			<link>https://hashhub-research.com/articles/2026-08-27-ai-wallet-permissions-part-1</link>
+			<guid isPermaLink="false">2026-08-27-ai-wallet-permissions-part-1</guid>
+			<description>前提&lt;br /&gt;そもそもウォレットを持てば、AIは本当に買い物できるのか？&lt;br /&gt;秘密鍵を渡すのではなく「権限」を渡す&lt;br /&gt;AIに全部任せる必要はない&lt;br /&gt;AIが間違えたとき、誰がその損失を引き受けるのか&lt;br /&gt;前編の総括&lt;br /&gt;参考文献&lt;br /&gt;</description>
+			<pubDate>Thu, 27 Aug 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/xo50iy67kju6l9ivcdnr4aemqc2w/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>暗号資産ETF運用の盲点、暗号資産特有のリスクを捉えるべき理由</title>
 			<link>https://hashhub-research.com/articles/2026-08-26-crypto-etf-monitoring-gaps-for-asset-managers</link>
 			<guid isPermaLink="false">2026-08-26-crypto-etf-monitoring-gaps-for-asset-managers</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;BitMEXとBitMartは同じ理由で閉鎖するわけではない&lt;br /&gt;出来高が縮んでも、信頼を守る費用は縮みにくい&lt;br /&gt;CZの発言が示した「CEXを買う難しさ」&lt;br /&gt;日本の再編が示す「規制下で築いた規模」の価値&lt;br /&gt;考察＆総括｜CEX再編で問われる「信頼維持能力」&lt;br /&gt;参考文献&lt;br /&gt;</description>
 			<pubDate>Tue, 28 Jul 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/e9teg6ui4hakqi203xabsxwgihhe/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ステーブルコイン決済インフラはどこで収益が生まれ始めているのか、BVNKとRainから事業構造を考える</title>
-			<link>https://hashhub-research.com/articles/2026-07-28-stablecoin-payment-infrastructure-bvnk-rain</link>
-			<guid isPermaLink="false">2026-07-28-stablecoin-payment-infrastructure-bvnk-rain</guid>
-			<description>前提&lt;br /&gt;ステーブルコイン決済の市場規模は、オンチェーン総移転金額≠決済金額&lt;br /&gt;決済インフラ事業の役割は、ステーブルコインを見えなくすること&lt;br /&gt;ステーブルコイン決済の代表企業&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Tue, 28 Jul 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/ioe8fzhzx8hmvmj0tzkjv7o4287z/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
