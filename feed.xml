@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>スマートアカウントをEthereum本体へ：EIP-8141が変える取引の承認と手数料</title>
+			<link>https://hashhub-research.com/articles/2026-09-03-ethereum-eip-8141-account-abstraction</link>
+			<guid isPermaLink="false">2026-09-03-ethereum-eip-8141-account-abstraction</guid>
+			<description>EIP-8141の概要：新たな取引型の追加&lt;br /&gt;ネイティブAAが研究課題から実装目標へ&lt;br /&gt;署名方式を替えられる設計が、耐量子移行の経路になる&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Thu, 03 Sep 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/ykgn7eq3rt9ep4111mummv0yd1bm/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>トークン化株はなぜ株価から乖離したか｜BONER/HIMSが露出させた、供給・裁定・価格乖離の問題</title>
 			<link>https://hashhub-research.com/articles/2026-09-02-tokenized-stock-permissionless-market</link>
 			<guid isPermaLink="false">2026-09-02-tokenized-stock-permissionless-market</guid>
@@ -187,14 +195,6 @@
 			<description>エグゼクティブサマリー&lt;br /&gt;主要業績：費用は見通し内、収益は下振れ&lt;br /&gt;成長戦略は減収を補えたか&lt;br /&gt;コスト削減後も利益は低下&lt;br /&gt;既存収益源はどこで減ったか&lt;br /&gt;CLARITY法案は追い風になるか&lt;br /&gt;Q3および2026年通期見通し&lt;br /&gt;総括&lt;br /&gt;参考文献&lt;br /&gt;</description>
 			<pubDate>Fri, 31 Jul 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/7urat41j7qiyvb07cqk6ddpydn0z/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>BaseはなぜRobinhood Chainに先を越されたのか｜始まった「金融機関によるL2競争」</title>
-			<link>https://hashhub-research.com/articles/2026-07-30-base-robinhood-chain-financial-l2-race</link>
-			<guid isPermaLink="false">2026-07-30-base-robinhood-chain-financial-l2-race</guid>
-			<description>前提&lt;br /&gt;Robinhood Chainが露呈させたBaseの「戦略と実態のズレ」&lt;br /&gt;Robinhood Chainは「チェーンを作ってから需要を探した」のではない&lt;br /&gt;本当の競争は「Base対Robinhood Chain」ではない&lt;br /&gt;Jesseの「失敗宣言」は撤退ではなく組織再編だった&lt;br /&gt;BaseはなぜRobinhoodをあえて名指ししたのか&lt;br /&gt;考察＆総括｜Baseが先を越されたのは「方向」ではなく「順番」だった&lt;br /&gt;</description>
-			<pubDate>Thu, 30 Jul 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/n2lkyvx7fh538qo1aq4mhrruualn/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
