@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>【論考・後編】ウォレットは「財布」なのか「代理人」なのか｜AI時代に変わるウォレットの役割</title>
+			<link>https://hashhub-research.com/articles/2026-09-03-ai-wallet-permissions-part-2</link>
+			<guid isPermaLink="false">2026-09-03-ai-wallet-permissions-part-2</guid>
+			<description>前編のおさらい&lt;br /&gt;アイデンティティとアセットコントロールを同じ場所に置いてよいのか&lt;br /&gt;クリプトと既存決済は、逆方向から同じ問題を解こうとしている&lt;br /&gt;考察｜ウォレットの競争は「自律性」ではなく「委任可能領域」を広げる競争になる&lt;br /&gt;総括｜ウォレットは「財布」から何へ変わるのか&lt;br /&gt;</description>
+			<pubDate>Thu, 03 Sep 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/gby4vlvnrhjxs94187u7hhmy8e17/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>スマートアカウントをEthereum本体へ：EIP-8141が変える取引の承認と手数料</title>
 			<link>https://hashhub-research.com/articles/2026-09-03-ethereum-eip-8141-account-abstraction</link>
 			<guid isPermaLink="false">2026-09-03-ethereum-eip-8141-account-abstraction</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;今週のインサイト&lt;br /&gt;今週1週間分のニュースを紹介&lt;br /&gt;</description>
 			<pubDate>Mon, 03 Aug 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/e8xpsvze1qoqzz76tcr14tasm1me/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>Coinbase 2026年Q2決算分析：コスト削減は進展、予測市場の急成長は減収を補えず</title>
-			<link>https://hashhub-research.com/articles/2026-07-31-analysis-coinbase-2026q2</link>
-			<guid isPermaLink="false">2026-07-31-analysis-coinbase-2026q2</guid>
-			<description>エグゼクティブサマリー&lt;br /&gt;主要業績：費用は見通し内、収益は下振れ&lt;br /&gt;成長戦略は減収を補えたか&lt;br /&gt;コスト削減後も利益は低下&lt;br /&gt;既存収益源はどこで減ったか&lt;br /&gt;CLARITY法案は追い風になるか&lt;br /&gt;Q3および2026年通期見通し&lt;br /&gt;総括&lt;br /&gt;参考文献&lt;br /&gt;</description>
-			<pubDate>Fri, 31 Jul 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/7urat41j7qiyvb07cqk6ddpydn0z/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
