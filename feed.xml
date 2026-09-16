@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>拡大するトークン化株式市場、顧客需要はどこまで見えるのか</title>
+			<link>https://hashhub-research.com/articles/2026-09-15-tokenized-equities-platforms-seeking-customers</link>
+			<guid isPermaLink="false">2026-09-15-tokenized-equities-platforms-seeking-customers</guid>
+			<description>エグゼクティブサマリー&lt;br /&gt;本稿が扱う範囲と、需要を見る4つの用途&lt;br /&gt;市場規模の内訳を見ると、残高は少数のチェーンとプラットフォームに集中している&lt;br /&gt;株価へのアクセスは、株式トークンを保有しない取引でも実現している&lt;br /&gt;DeFi借入は確認できるが、報酬なしでも続くかは分からない&lt;br /&gt;決済インフラは本番環境へ進み、先行する資産は現金と国債である&lt;br /&gt;発行体と取引所には、需要が見える前から供給を広げる合理性がある&lt;br /&gt;市場を広げているのは、需要を検証する供給側である&lt;br /&gt;</description>
+			<pubDate>Tue, 15 Sep 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/3l1yaylhvsp11hcqwggjff1hrxld/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Hyperliquidのデータから読むオンチェーン先物の需要構造</title>
 			<link>https://hashhub-research.com/articles/2026-09-15-hyperliquid-data</link>
 			<guid isPermaLink="false">2026-09-15-hyperliquid-data</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;牛を担保にするとは、牛の値札を担保にすることではない&lt;br /&gt;では、モニタリングがあれば融資は安全になるのか&lt;br /&gt;B3への登録と、家畜への担保権は同じ話ではない&lt;br /&gt;</description>
 			<pubDate>Fri, 14 Aug 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/x8qs0bzgmoy24aj25fzwl36l6vlt/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>円建てステーブルコインの存在意義を問う：単体では採算が見えにくい円建てステーブルコインは、なぜ発行されるのか</title>
-			<link>https://hashhub-research.com/articles/2026-08-13-jpy-stablecoin-business-model</link>
-			<guid isPermaLink="false">2026-08-13-jpy-stablecoin-business-model</guid>
-			<description>エグゼクティブサマリー&lt;br /&gt;単体では採算が見えにくい円建てステーブルコインは、なぜ発行されるのか&lt;br /&gt;ドル型の成功は、円では再現しにくい&lt;br /&gt;円建てである意味は、オンチェーン資産の取引にある&lt;br /&gt;JPYCは外部利用を広げ、JPYSCは金融サービスへ組み込む&lt;br /&gt;発行残高だけでは、事業性は測れない&lt;br /&gt;総括&lt;br /&gt;参考文献&lt;br /&gt;</description>
-			<pubDate>Thu, 13 Aug 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/3uvowngka7kpb96ggbnaiak5xurn/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
