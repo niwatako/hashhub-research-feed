@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>【論考】Polymarketは「予測のSNS」になるのか｜Zora元CEO加入から読む次の一手</title>
+			<link>https://hashhub-research.com/articles/2026-10-06-polymarket-prediction-social-network</link>
+			<guid isPermaLink="false">2026-10-06-polymarket-prediction-social-network</guid>
+			<description>前提&lt;br /&gt;なぜJacob氏なのか｜Zoraがやろうとしていたこと&lt;br /&gt;Polymarketは、すでに「半分SNS」になっている&lt;br /&gt;予想①「市場」が「投稿」になる｜PolymarketのSNS化&lt;br /&gt;予想②「ポジション」が「プロフィール」になる｜予測が評判になる世界&lt;br /&gt;予想③ Polymarketは「アプリ」より「金融プリミティブ」になる&lt;br /&gt;考察＆総括&lt;br /&gt;参考文献&lt;br /&gt;</description>
+			<pubDate>Tue, 06 Oct 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/8i4n5bjc1dib1n35xrqyfkd0r22x/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>誰でも市場を作れる時代の次のボトルネック｜「市場を作る」から「市場を残す」競争へ：リサーチチームが選ぶ今週の注目トピック 2026年10月5日号</title>
 			<link>https://hashhub-research.com/articles/2026-10-05-research-team-picks</link>
 			<guid isPermaLink="false">2026-10-05-research-team-picks</guid>
@@ -187,14 +195,6 @@
 			<description>EIP-8141の概要：新たな取引型の追加&lt;br /&gt;ネイティブAAが研究課題から実装目標へ&lt;br /&gt;署名方式を替えられる設計が、耐量子移行の経路になる&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Thu, 03 Sep 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/ykgn7eq3rt9ep4111mummv0yd1bm/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>トークン化株はなぜ株価から乖離したか｜BONER/HIMSが露出させた、供給・裁定・価格乖離の問題</title>
-			<link>https://hashhub-research.com/articles/2026-09-02-tokenized-stock-permissionless-market</link>
-			<guid isPermaLink="false">2026-09-02-tokenized-stock-permissionless-market</guid>
-			<description></description>
-			<pubDate>Wed, 02 Sep 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/u6gagqeuugiw43sxqn7k3gq716u2/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
