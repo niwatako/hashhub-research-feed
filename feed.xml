@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>NEARの最新概況と再評価の背景  　AIとクロスチェーン取引の成長は、中長期のトークン価値につながるか</title>
+			<link>https://hashhub-research.com/articles/2026-10-07-near-analysis</link>
+			<guid isPermaLink="false">2026-10-07-near-analysis</guid>
+			<description>前提&lt;br /&gt;NEARの評価軸は、チェーン性能から取引を取り込む能力へ広がっている&lt;br /&gt;Intentsには、すでに観測できる利用がありNEARのファンダメンタルの根拠になっている&lt;br /&gt;プライバシーやAIは明確に収益になっておらず、現段階では将来期待&lt;br /&gt;ETFの上場&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Wed, 07 Oct 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/0q54e2uxtbnzz4cce9g07551rfyd/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>【論考】Polymarketは「予測のSNS」になるのか｜Zora元CEO加入から読む次の一手</title>
 			<link>https://hashhub-research.com/articles/2026-10-06-polymarket-prediction-social-network</link>
 			<guid isPermaLink="false">2026-10-06-polymarket-prediction-social-network</guid>
@@ -187,14 +195,6 @@
 			<description>前編のおさらい&lt;br /&gt;アイデンティティとアセットコントロールを同じ場所に置いてよいのか&lt;br /&gt;クリプトと既存決済は、逆方向から同じ問題を解こうとしている&lt;br /&gt;考察｜ウォレットの競争は「自律性」ではなく「委任可能領域」を広げる競争になる&lt;br /&gt;総括｜ウォレットは「財布」から何へ変わるのか&lt;br /&gt;</description>
 			<pubDate>Thu, 03 Sep 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/gby4vlvnrhjxs94187u7hhmy8e17/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>スマートアカウントをEthereum本体へ：EIP-8141が変える取引の承認と手数料</title>
-			<link>https://hashhub-research.com/articles/2026-09-03-ethereum-eip-8141-account-abstraction</link>
-			<guid isPermaLink="false">2026-09-03-ethereum-eip-8141-account-abstraction</guid>
-			<description>EIP-8141の概要：新たな取引型の追加&lt;br /&gt;ネイティブAAが研究課題から実装目標へ&lt;br /&gt;署名方式を替えられる設計が、耐量子移行の経路になる&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Thu, 03 Sep 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/ykgn7eq3rt9ep4111mummv0yd1bm/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
