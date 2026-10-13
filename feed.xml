@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>Encrypted Mempoolとは何か？ Aptosで見る、取引を隠してから実行する仕組み</title>
+			<link>https://hashhub-research.com/articles/2026-10-13-encrypted-mempool-aptos</link>
+			<guid isPermaLink="false">2026-10-13-encrypted-mempool-aptos</guid>
+			<description>なぜ、実行前の取引を隠すのか&lt;br /&gt;Encrypted Mempoolは、何を隠す仕組みか&lt;br /&gt;Aptos以外でも実装されている&lt;br /&gt;Aptosでは、隠した取引をどう実行するのか&lt;br /&gt;何が隠れ、いつ公開されるのか&lt;br /&gt;暗号化すれば、取引はすべて公平になるのか&lt;br /&gt;</description>
+			<pubDate>Tue, 13 Oct 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/tfb45tw8ece7dc34w5wy87sloe94/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>「どこまで自前で持つか」が決める次の勝ち筋｜独立チェーンの撤退と垂直統合が映す市場再編：リサーチチームが選ぶ今週の注目トピック 2026年10月12日号</title>
 			<link>https://hashhub-research.com/articles/2026-10-12-research-team-picks</link>
 			<guid isPermaLink="false">2026-10-12-research-team-picks</guid>
@@ -187,14 +195,6 @@
 			<description>前提: eCashの正式フォークは10月末&lt;br /&gt; Drivechainとは何か&lt;br /&gt;総括&lt;br /&gt;</description>
 			<pubDate>Mon, 07 Sep 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/csh5ecmzyo55v01gjfaat3fbv7hi/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>市場の「摩擦」は誰の収益になるのか｜市場の歪みで稼ぐ者、歪みを消す者：リサーチチームが選ぶ今週の注目トピック 2026年9月7日号</title>
-			<link>https://hashhub-research.com/articles/2026-09-07-research-team-picks</link>
-			<guid isPermaLink="false">2026-09-07-research-team-picks</guid>
-			<description>前提&lt;br /&gt;今週のインサイト&lt;br /&gt;今週1週間分のニュースを紹介&lt;br /&gt;</description>
-			<pubDate>Mon, 07 Sep 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/qkd9smv7fya7s190n90djlmzku83/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
