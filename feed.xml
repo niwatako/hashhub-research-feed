@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>暗号資産の投資家はAIによる脆弱性攻撃についてどう考えるべきか</title>
+			<link>https://hashhub-research.com/articles/2026-10-15-crypto-and-ai-risks</link>
+			<guid isPermaLink="false">2026-10-15-crypto-and-ai-risks</guid>
+			<description>前提&lt;br /&gt;AIによる脆弱性発見と最近の攻撃事例&lt;br /&gt;AIが暗号アルゴリズムそのものを破る可能性&lt;br /&gt;Justin Drake氏とVitalik Buterin氏の警告&lt;br /&gt;私の考え：AIはBitcoinの価値をディスカウントさせる要因になる&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Thu, 15 Oct 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/6r9k3bmef4xmhayj8430cl9n6xdg/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>Encrypted Mempoolとは何か？ Aptosで見る、取引を隠してから実行する仕組み</title>
 			<link>https://hashhub-research.com/articles/2026-10-13-encrypted-mempool-aptos</link>
 			<guid isPermaLink="false">2026-10-13-encrypted-mempool-aptos</guid>
@@ -187,14 +195,6 @@
 			<description>FAMI/JINQIANは、裁定による価格伝播の事例だったのか&lt;br /&gt;公式株式トークンの周辺にあるミームコインのペア市場は、無視できるほど小さくない&lt;br /&gt;結論：現行の公式市場では、オンチェーンの需要ショックは現物株へ直結しにくい。ただし、その条件は変わり得る&lt;br /&gt;</description>
 			<pubDate>Tue, 08 Sep 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/umr28688dgmed8snhw7w1marzl1u/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>ビットコインのフォーク「eCash」とDrivechain 投資家・金融機関が押さえるべき論点</title>
-			<link>https://hashhub-research.com/articles/2026-09-07-ecash</link>
-			<guid isPermaLink="false">2026-09-07-ecash</guid>
-			<description>前提: eCashの正式フォークは10月末&lt;br /&gt; Drivechainとは何か&lt;br /&gt;総括&lt;br /&gt;</description>
-			<pubDate>Mon, 07 Sep 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/csh5ecmzyo55v01gjfaat3fbv7hi/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
