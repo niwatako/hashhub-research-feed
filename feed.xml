@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>【論考】NFTはJPEGから金融商品になったのか｜BurnablesからFlying Tulipまで、権利を運ぶ器の5年</title>
+			<link>https://hashhub-research.com/articles/2026-10-16-nft-from-jpeg-to-finance</link>
+			<guid isPermaLink="false">2026-10-16-nft-from-jpeg-to-finance</guid>
+			<description>前提&lt;br /&gt;NFTはいつから「JPEG」になったのか&lt;br /&gt;2021年にすでに作られていた「元本保証NFT」&lt;br /&gt;それでもあった2つの制約&lt;br /&gt;Flying Tulipが変えたこと&lt;br /&gt;比較して見えるNFTの進化&lt;br /&gt;Flying Tulipが解いた、もう一つの問題&lt;br /&gt;「元本保証」と呼んでよいのか&lt;br /&gt;考察・総括｜NFTは金融商品になったのか&lt;br /&gt;参考文献&lt;br /&gt;</description>
+			<pubDate>Fri, 16 Oct 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/7kkddxzyf4qi5055kqtl9ai3z9zf/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>暗号資産の投資家はAIによる脆弱性攻撃についてどう考えるべきか</title>
 			<link>https://hashhub-research.com/articles/2026-10-15-crypto-and-ai-risks</link>
 			<guid isPermaLink="false">2026-10-15-crypto-and-ai-risks</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;暗号資産アバランチ（AVAX）の特徴・仕組み&lt;br /&gt;【2026年9月最新】直近の市場動向と分析&lt;br /&gt;アバランチ（AVAX）の供給構造と課題点&lt;br /&gt;暗号資産アバランチ（AVAX）｜今後の展望・将来性を予測&lt;br /&gt;総括&lt;br /&gt;参考文献&lt;br /&gt;</description>
 			<pubDate>Fri, 11 Sep 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/bx796hh9k6ouxs8jl02egr621zn1/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>株式トークンがどのような条件でオンチェーンの需要ショックを現物市場へ伝え得るのか｜FAMI/JINQIAN事例を手がかりに考えるリサーチノート</title>
-			<link>https://hashhub-research.com/articles/2026-09-08-tokenized-stocks-onchain-demand-shock-price-transmission</link>
-			<guid isPermaLink="false">2026-09-08-tokenized-stocks-onchain-demand-shock-price-transmission</guid>
-			<description>FAMI/JINQIANは、裁定による価格伝播の事例だったのか&lt;br /&gt;公式株式トークンの周辺にあるミームコインのペア市場は、無視できるほど小さくない&lt;br /&gt;結論：現行の公式市場では、オンチェーンの需要ショックは現物株へ直結しにくい。ただし、その条件は変わり得る&lt;br /&gt;</description>
-			<pubDate>Tue, 08 Sep 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/umr28688dgmed8snhw7w1marzl1u/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
