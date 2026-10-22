@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>AIエージェントへの無担保融資はいかに成立し得るか——Priorsの取引データから見る、オンチェーン信用形成の現在地と課題</title>
+			<link>https://hashhub-research.com/articles/2026-10-22-ai-agent-credit-priors</link>
+			<guid isPermaLink="false">2026-10-22-ai-agent-credit-priors</guid>
+			<description>1. AIエージェントは、誰の資金をどう借りるのか&lt;br /&gt;2. 返済実績は、どう信用として評価され、借入枠につながるのか&lt;br /&gt;3. 返済されなければ、誰が何を失うのか&lt;br /&gt;おわりに：AIは、信用を失うと何を失うのか&lt;br /&gt;</description>
+			<pubDate>Thu, 22 Oct 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/676uf1zks001atnaz1m9zm4i2ll1/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>【論考】予測市場に『実需』はあるのか｜スポーツの賭けがリスクヘッジになるとき</title>
 			<link>https://hashhub-research.com/articles/2026-10-21-prediction-markets-real-demand-sports-hedging</link>
 			<guid isPermaLink="false">2026-10-21-prediction-markets-real-demand-sports-hedging</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;今週のインサイト&lt;br /&gt;今週1週間分のニュースを紹介&lt;br /&gt;</description>
 			<pubDate>Mon, 14 Sep 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/b6ovmz9enjlyiqlwhp2x05ugw8ej/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>暗号資産市場動向・アセットマネジメントレポート：2026年8月</title>
-			<link>https://hashhub-research.com/articles/2026-09-11-asset-management-report-2026-08</link>
-			<guid isPermaLink="false">2026-09-11-asset-management-report-2026-08</guid>
-			<description>エグゼクティブ・サマリー&lt;br /&gt;今月のHHRレポート・ダイジェスト&lt;br /&gt;ニュースフロー&lt;br /&gt;市場動向&lt;br /&gt;免責事項&lt;br /&gt;</description>
-			<pubDate>Fri, 11 Sep 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/im5935ylj8i7cg8mek6vxzqio16s/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
