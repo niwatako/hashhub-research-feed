@@ -5,6 +5,14 @@
 		<link>https://hashhub-research.com/</link>
 		<description>HashHub Research 新着のレポート</description>
 		<item>
+			<title>ブラックロックが申請した下落リスクの抑制を目指すビットコインETF PBITの構造と市場への示唆</title>
+			<link>https://hashhub-research.com/articles/2026-10-23-pbit-overview</link>
+			<guid isPermaLink="false">2026-10-23-pbit-overview</guid>
+			<description>数値で見るオプション部分の動き&lt;br /&gt;総括&lt;br /&gt;</description>
+			<pubDate>Fri, 23 Oct 2026 09:00:00 +0900</pubDate>
+			<enclosure url="https://image.hashhub-research.com/variants/rglvz050zz3xel14s67hgyjjpzca/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
+		</item>
+		<item>
 			<title>AIエージェントへの無担保融資はいかに成立し得るか——Priorsの取引データから見る、オンチェーン信用形成の現在地と課題</title>
 			<link>https://hashhub-research.com/articles/2026-10-22-ai-agent-credit-priors</link>
 			<guid isPermaLink="false">2026-10-22-ai-agent-credit-priors</guid>
@@ -187,14 +195,6 @@
 			<description>前提&lt;br /&gt;事前整理:Hyperliquidの構造&lt;br /&gt;90日間の全体動向:出来高の約4割がすでに「クリプト以外」&lt;br /&gt;銘柄別に見る&lt;br /&gt;プレIPO先物:規模は小さいが、構造的に新しい&lt;br /&gt;予測市場(HIP-4):期待先行で、規模はまだ1000分の1&lt;br /&gt; 総括&lt;br /&gt;</description>
 			<pubDate>Tue, 15 Sep 2026 09:00:00 +0900</pubDate>
 			<enclosure url="https://image.hashhub-research.com/variants/aoktrkx7bmcj2ykfqh4kilrgnolw/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
-		</item>
-		<item>
-			<title>「見えない層」が価値とリスクを決めるクリプト市場｜技術が見えなくなるほど重要になる裏側の設計：リサーチチームが選ぶ今週の注目トピック 2026年9月14日号</title>
-			<link>https://hashhub-research.com/articles/2026-09-14-research-team-picks</link>
-			<guid isPermaLink="false">2026-09-14-research-team-picks</guid>
-			<description>前提&lt;br /&gt;今週のインサイト&lt;br /&gt;今週1週間分のニュースを紹介&lt;br /&gt;</description>
-			<pubDate>Mon, 14 Sep 2026 09:00:00 +0900</pubDate>
-			<enclosure url="https://image.hashhub-research.com/variants/b6ovmz9enjlyiqlwhp2x05ugw8ej/968ac7d77406eeb5df235e85c82e172ba435b9f52e00efeb0f4cc7f2584b9ad8" length="0" type="image/jpeg" />
 		</item>
 		</channel>
 </rss>
